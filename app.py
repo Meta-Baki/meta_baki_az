@@ -99,6 +99,24 @@ def history():
 @app.route("/history_flat")
 def history_flat():
     return jsonify(history_memory)
+    try:
+    if not os.path.exists(HISTORY_FILE):
+        return jsonify([])
+
+    with open(HISTORY_FILE, encoding="utf-8") as f:
+        data = json.load(f)
+
+    flat = []
+
+    if isinstance(data, dict):
+        for day in data:
+            for item in data[day]:
+                flat.append(item)
+
+    return jsonify(flat)
+
+except:
+    return jsonify([])
 
 
 # ---------------- SAVE HISTORY ----------------
