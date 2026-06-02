@@ -99,7 +99,8 @@ def history():
 @app.route("/history_flat")
 def history_flat():
     return jsonify(history_memory)
-    try:
+    
+try:
     if not os.path.exists(HISTORY_FILE):
         return jsonify([])
 
