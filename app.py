@@ -46,8 +46,7 @@ def update():
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2)
 
-        if can_save():
-            save_history(data)
+        save_history(data)
 
             with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
                 json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
