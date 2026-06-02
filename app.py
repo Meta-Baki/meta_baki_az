@@ -115,7 +115,14 @@ def history_flat():
             for day, items in data.items():
                 if isinstance(items, list):
                     for item in items:
-                        flat.append(item)
+                        flat.append({
+                            "time": item.get("time"),
+                            "temp": item.get("temp"),
+                            "wind": item.get("wind"),
+                            "humidity": item.get("humidity"),
+                            "pressure": item.get("pressure"),
+                            "rain": item.get("rain")
+                        })
 
         return jsonify(flat)
 
