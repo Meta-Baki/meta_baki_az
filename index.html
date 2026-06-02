@@ -1,0 +1,2217 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W2RXRQ3093"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W2RXRQ3093');
+</script>
+
+<meta name="viewport"
+content="
+width=device-width,
+initial-scale=0.43,
+minimum-scale=0.43,
+maximum-scale=1.0,
+user-scalable=yes,
+viewport-fit=cover">
+
+<meta name="google-site-verification" content="zjkthi7V4zC1c4DeQAXfi9t_vDUGbOqiJgu5wGyEi8A" />
+
+<title>META-Meteoroloji Elan Təxmini Abşeron</title>
+
+<meta name="description" content="META Meteoroloji platforması. Bakı və Abşeron üçün real vaxt hava proqnozu, radar, xəritə və meteoroloji məlumatlar.">
+
+<!-- FAVICON -->
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/favicon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/static/favicon-512.png">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+<link rel="manifest" href="/manifest.json">
+
+<meta property="og:image" content="/static/favicon-512.png">
+<meta name="twitter:image" content="/static/favicon-512.png">
+
+<meta name="theme-color" content="#0f172a">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {
+    font-family: Arial;
+    color: white;
+    text-align: center;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    transition: background-image 1s ease;
+}
+
+ body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.65);
+    z-index: -1;
+}
+
+.box {
+    background: rgba(30,41,59,0.0);
+    margin: -55px 6px;
+    padding: 20px;
+    width: calc(97% - 10px);
+    max-width: 1900px;
+    border-radius: 10px;
+}
+
+.card {
+    background: rgba(15,23,42,0.9);
+    padding: 10px 10px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 8px;
+    min-width: 140px;
+}
+
+.table-wrap{
+    width:100%;
+    margin-left:0;
+    overflow-x:auto;
+}
+
+table {
+    width: 100%;
+    min-width: 0;
+}
+
+th{
+    white-space:nowrap;
+}
+
+td{
+    white-space:nowrap;
+}
+
+th, td {
+    padding: 10px;
+}
+
+tr {
+    border-bottom: 1px solid #334155;
+}
+
+#map {
+    height: 650px;
+    width: 100%;
+    border-radius: 18px;
+    overflow: hidden;
+    border: 3px solid rgba(255,255,255,0.08);
+}
+
+.leaflet-popup-content-wrapper{
+    border-radius:18px;
+}
+
+.leaflet-popup-content{
+    margin:14px;
+}
+
+.leaflet-container{
+    background:#dbeafe;
+}
+
+.share-btn {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    background: #0ea5e9;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.footer {
+    width: 92%;
+    margin: 20px auto 40px;
+    text-align: left;
+    background: rgba(15,23,42,0.0);
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 1.8;
+}
+
+.footer a {
+    color: #facc15;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.small {
+    font-size: 16px;
+    opacity: 1.0;
+}
+
+/* ========================= */
+/* DISCLAMER (добавлено) */
+/* ========================= */
+
+.disclaimer-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 280px;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
+    padding: 14px;
+    border-radius: 12px;
+    font-size: 12px;
+    line-height: 1.4;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    border: 1px solid rgba(255,255,255,0.1);
+    z-index: 9999;
+    text-align: left;
+}
+
+.disclaimer-title {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #ffcc00;
+}
+
+.disclaimer-text {
+    opacity: 0.9;
+}
+
+img {
+    transition: 0.2s ease;
+}
+
+img:hover {
+    transform: none;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+}
+
+.main-logo{
+    width: 130px;
+}
+
+.spin-logo{
+    width: 150px;
+    margin-left: -35px; /* приближает вплотную */
+    animation: rotate360 7s linear infinite;
+}
+
+@keyframes rotate360{
+    from{ transform: rotate(0deg); }
+    to{ transform: rotate(360deg); }
+}
+
+th, td {
+    padding: 10px;
+    border-right: 1px solid rgba(255,255,255,0.15);
+}
+
+/* убрать линию у последней колонки */
+th:last-child,
+td:last-child {
+    border-right: none;
+}
+
+/* ========================= */
+/* SECTION SYSTEM */
+/* ========================= */
+
+.section {
+    display: none;
+    animation: fadeSection 0.4s ease;
+}
+
+.section.active {
+    display: block;
+}
+
+@keyframes fadeSection{
+    from{
+        opacity:0;
+        transform:translateY(20px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+/* ========================= */
+/* TOP MENU */
+/* ========================= */
+
+.top-menu{
+    width:calc(76% - 10px);
+    margin:20px auto;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:12px;
+
+    background:rgba(15,23,42,0.55);
+    backdrop-filter:blur(10px);
+
+    padding:12px;
+    border-radius:20px;
+
+    border:1px solid rgba(255,255,255,0.08);
+
+    box-shadow:0 8px 30px rgba(0,0,0,0.25);
+}
+
+.top-menu button{
+
+    border:none;
+    background:rgba(255,255,255,0.06);
+
+    color:white;
+
+    padding:12px 18px;
+
+    border-radius:14px;
+
+    cursor:pointer;
+
+    transition:0.25s;
+
+    font-size:15px;
+
+    min-width:160px;
+}
+
+.top-menu button:hover{
+
+    background:#0ea5e9;
+
+    transform:translateY(-2px);
+}
+
+@media(max-width:900px){
+
+    .top-menu{
+        gap:8px;
+        padding:10px;
+    }
+
+    .top-menu button{
+        min-width:140px;
+        font-size:14px;
+        padding:10px;
+    }
+}
+
+/* ========================= */
+/* HOME DASHBOARD */
+/* ========================= */
+
+.dashboard-grid{
+
+    width:calc(100% - 10px);
+
+    margin:8px auto;
+
+    display:grid;
+
+    grid-template-columns:2fr 1fr;
+
+    gap:20px;
+}
+
+.main-weather-card{
+
+    background:rgba(15,23,42,0.0);
+
+    border-radius:24px;
+
+    padding:30px;
+
+    backdrop-filter:blur(0px);
+
+    border:1px solid rgba(255,255,255,0.00);
+
+    box-shadow:0 10px 40px rgba(0,0,0,0.0);
+
+    min-height:320px;
+
+    text-align:left;
+}
+
+.weather-status{
+
+    font-size:24px;
+
+    opacity:0.8;
+}
+
+.big-temp{
+
+    font-size:90px;
+
+    font-weight:bold;
+
+    margin-top:8px;
+}
+
+.feels-like{
+
+    font-size:20px;
+
+    opacity:0.7;
+
+    margin-top:10px;
+}
+
+.mini-stats{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:15px;
+
+    margin-top:30px;
+}
+
+.mini-box{
+
+    background:rgba(255,255,255,0.05);
+
+    padding:15px 20px;
+
+    border-radius:16px;
+
+    min-width:140px;
+
+    font-size:18px;
+}
+
+.side-column{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:20px;
+}
+
+.warning-card{
+
+    background: linear-gradient(
+        135deg,
+        rgba(93, 15, 24, 0.65),
+        rgba(127, 29, 29, 0.65)
+    );
+
+    padding:25px;
+
+    border-radius:22px;
+
+    min-height:150px;
+
+    font-size:24px;
+
+    font-weight:bold;
+
+    text-align:left;
+}
+
+.small-card{
+
+    background:rgba(15,23,42,0.82);
+
+    border-radius:22px;
+
+    padding:10px;
+
+    min-height:70px;
+
+    font-size:0px;
+
+    border:1px solid rgba(255,255,255,0.08);
+}
+
+/* MOBILE */
+
+@media(max-width:900px){
+
+    .dashboard-grid{
+        grid-template-columns:1fr;
+    }
+
+    .big-temp{
+        font-size:62px;
+    }
+
+    .mini-box{
+        width:100%;
+    }
+}
+
+/* MINI CHART FIXED SIZE */
+
+.mini-chart-wrap{
+
+    position: relative;
+
+    width: 100%;
+
+    height: 140px;
+
+    min-height: 140px;
+
+    max-height: 140px;
+
+    overflow: hidden;
+
+    border-radius: 16px;
+
+    margin-top: 25px;
+
+    background: rgba(255,255,255,0.03);
+
+    padding: 10px;
+}
+
+#miniTempChart{
+
+    width: 100% !important;
+
+    height: 140px !important;
+
+    display: block;
+}
+
+.story-box{
+    width: 85%;
+    max-width: 1900px;
+    margin: 0px 8px;
+}
+
+.story-image{
+    width: 100%;
+    max-width: 300px;
+    border-radius: 18px;
+    transition: none !important;
+    transform: none !important;
+}
+
+.footer {
+    overflow-x: hidden;
+}
+
+.footer * {
+    box-sizing: border-box;
+    max-width: 100%;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+}
+
+.footer div {
+    min-width: 0;
+}
+
+.footer {
+    overflow-x: hidden;
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- LOGO BLOCK -->
+<div style="position:absolute; top:3px; left:3px; z-index:1000;">
+
+    <div class="logo-container">
+
+        <img class="main-logo"
+             src="static/888-logo.png"
+             alt="logo">
+
+    </div>
+
+</div>
+
+<div style="position:fixed; top:15px; right:15px; display:flex; gap:10px; z-index:10000;">
+
+    <button class="share-btn" onclick="shareSite()" style="position:static;">
+        📤 Link
+    </button>
+
+</div>
+
+<!-- TIME -->
+<div style="position:fixed; top:60px; right:15px; font-size:12px;" id="datetime"></div>
+
+<h1>/META\ - Meteoroloji Elan Təxmini Abşeron</h1>
+
+<h2>🌦 Bakı üçün hava proqnozu</h2>
+
+<!-- TOP MENU -->
+<div class="top-menu">
+
+    <button onclick="openSection('homeSection')">
+        🏠 Ana səhifə
+    </button>
+
+    <button onclick="openSection('forecast7')">
+        🌦 7 günlük hava
+    </button>
+
+    <button onclick="openSection('forecast14Section')">
+        📅 14 günlük hava
+    </button>
+
+    <button onclick="openSection('chartSection')">
+        📊 Qrafiklər
+    </button>
+
+    <button onclick="openSection('mapSection')">
+        🗺 Xəritələr
+    </button>
+
+    <button onclick="openSection('radarSection')">
+        🌧 Radar
+    </button>
+
+    <button onclick="openSection('historySection')">
+        📢 Xəbərlər
+    </button>
+
+    <button onclick="openSection('helpSection')">
+        📰 Məlumat
+    </button>
+
+</div>
+
+<!-- HOME -->
+<div class="section active" id="homeSection">
+
+    <div class="dashboard-grid">
+
+        <!-- БОЛЬШАЯ КАРТОЧКА -->
+        <div class="main-weather-card">
+
+            <div class="weather-status">
+                Bakı • Abşeron
+            </div>
+
+<div style="
+    margin-top:8px;
+    font-size:13px;
+    opacity:0.75;
+">
+    📍 Abşeron yarımadası • Real-time meteoroloji monitorinq
+</div>
+
+            <div class="big-temp" id="homeTemp">
+                --°C
+            </div>
+
+            <div class="feels-like" id="homeFeels">
+                Hiss edilən --°C
+            </div>
+
+<div style="
+    margin-top:10px;
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+">
+    <div class="mini-box" style="font-size:13px;">
+        ⚡ Real vaxt yeniləmələri
+    </div>
+
+    <div class="mini-box" style="font-size:13px;">
+        🌦 Model: Meta-Meteo
+    </div>
+
+    <div class="mini-box" style="font-size:13px;">
+        🔄 60 saniyə yenilənmə
+    </div>
+</div>
+
+            <div class="mini-stats">
+
+                <div class="mini-box">
+                    💧 <span id="homeHum">--%</span>
+                </div>
+
+                <div class="mini-box">
+                    💨 <span id="homeWind">-- km/h</span>
+                </div>
+
+                <div class="mini-box">
+                    📈 <span id="homePressure">-- hPa</span>
+                </div>
+
+            </div>
+
+<!-- MINI TEMP CHART -->
+<div class="mini-chart-wrap">
+
+    <canvas id="miniTempChart"></canvas>
+
+</div>
+
+<div style="
+    margin-top:20px;
+    font-size:16px;
+    opacity:5.7;
+    line-height:1.5;
+">
+    🌡 Bu məlumatlar Abşeron yarımadasında yerləşən META meteoroloji stansiyasından real vaxt rejimində toplanır.
+    Külək, təzyiq və rütubət sensorları avtomatik yenilənir.
+</div>
+
+        </div>
+
+        <!-- ПРАВАЯ КОЛОНКА -->
+        <div class="side-column">
+
+            <div class="warning-card" style="text-align:center;">
+
+    <!-- 🔝 TOP TITLE -->
+    <div style="
+        font-size:18px;
+        opacity:5.4;
+        margin-bottom:10px;
+        text-align:center;
+    ">
+        📅 24 saat • Hava proqnozu
+    </div>
+
+    <!-- 🌤 MAIN FORECAST -->
+    <div id="dailyTextForecast" style="
+        font-size:20px;
+        font-weight:bold;
+        line-height:1.4;
+        margin-bottom:10px;
+    ">
+        Yüklənir...
+    </div>
+
+    <!-- 📊 EXTRA INFO -->
+    <div id="dailyExtraInfo" style="
+        font-size:16px;
+        opacity:0.85;
+    "></div>
+
+</div>
+
+            <div class="small-card">
+
+    <div style="
+        font-size:20px;
+        margin-bottom:5px;
+        font-weight:bold;
+    ">
+        🌧 Radar aktivdir
+    </div>
+
+    <iframe
+        src="https://embed.windy.com/embed2.html?lat=40.45&lon=49.95&zoom=8&level=surface&overlay=wind&product=ecmwf&menu=false&message=false&type=map&location=coordinates&metricWind=km%2Fh"
+        width="100%"
+        height="300"
+        style="
+            border:none;
+            border-radius:14px;
+            overflow:hidden;
+        "
+        loading="lazy">
+    </iframe>
+
+</div>
+
+            <div class="small-card">
+    
+    <div style="font-size:18px; opacity:5.4;">
+        📡 META Station • Real-time Sensor Activ
+    </div>
+
+    <div style="font-size:16px; margin-top:6px;">
+        Sistem aktivdir
+    </div>
+
+    <!-- 📍 LOCATION -->
+    <div style="margin-top:8px; font-size:13px; opacity:0.85;">
+        📍 Yer: Bakı • Xətai rayonu • Abşeron yarımadası
+    </div>
+
+    <!-- 🌡 STATUS -->
+    <div style="margin-top:6px; font-size:13px; opacity:0.85;">
+        🌡 Sensorlar: Temperatur • Rütubət • Külək • Təzyiq
+    </div>
+
+    <!-- 🛰 NETWORK -->
+    <div style="margin-top:6px; font-size:13px; opacity:0.85;">
+        🛰 Bağlantı: Real-time API • Open-Meteo Sync
+    </div>
+
+</div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- STATION -->
+<div class="box">
+    <h2>📡 Peşəkar hava stansiyası
+        <span id="status">   🟢 Online 24/7</span>
+    </h2>
+
+    <div id="station"></div>
+
+    <div id="lastUpdate"></div>
+</div>
+
+<!-- 7 DAYS -->
+<div class="box section" id="forecast7">
+    <h2>📊 7 günlük hava proqnozu</h2>
+<div style="margin-bottom:20px; opacity:0.8;">
+        Ən dəqiq məlumat.
+    </div>
+    <div id="forecast"></div>
+</div>
+
+<!-- 14 DAYS -->
+<div class="box section" id="forecast14Section">
+    <h2>📅 14 günlük hava proqnozu</h2>
+
+    <div style="margin-bottom:20px; opacity:0.8;">
+        Uzunmüddətli meteoroloji model məlumatları.
+    </div>
+
+    <div id="forecast14Content"></div>
+</div>
+
+    <!-- 1. НАЗВАНИЕ -->
+    <!-- CHART -->
+<div class="box section" id="chartSection">
+
+    <h2>📊 Hava məlumatlarının qrafiki</h2>
+
+    <div style="margin-bottom:15px; opacity:0.8;">
+        Temperatur, külək, rütubət və təzyiq dəyişiklikləri.
+    </div>
+
+    <div style="height:600px; width:100%;">
+        <canvas id="weatherChart"></canvas>
+    </div>
+
+</div>
+
+<!-- MAP -->
+<div class="box section" id="mapSection">
+    <h2>🗺 Xəritədə şəhərinizdə temperaturu yoxlayın.</h2>
+    <h3>📡 Hava stansiyamız xəritədə qırmızı pinlə işarələnib.</h3>
+    <div id="map"></div>
+</div>
+
+<!-- WINDY -->
+<div class="box section" id="radarSection">
+    <h2>🌧 Windy Radar-Hava monitorinqi sistemi.</h2>
+
+    <h3>
+        (Ölçü vahidlərini dəyişdirmək üçün şəhərə klikləyin
+        və sol tərəfdəki parametrləri tənzimləyin.)
+    </h3>
+
+    <iframe
+        width="100%"
+        height="610"
+        style="border-radius:10px;border:none;"
+        src="https://embed.windy.com/embed2.html?lat=40.3793&lon=49.9625&zoom=7&level=surface&overlay=radar&menu=&message=true&type=map&lang=tr">
+    </iframe>
+</div>
+
+<!-- HISTORY -->
+<div class="box section" id="historySection" style="margin-top:-40px;">
+
+    <h1>Hava xəbərləri</h1>
+
+    <div style="
+        margin-bottom:70px;
+        opacity:0.8;
+    ">
+        Bakı üçün son hava xəbərləri .
+    </div>
+
+    <div id="historyContent" style="
+        text-align:left;
+        line-height:1.9;
+        font-size:20px;
+        background:rgba(15,23,42,0.25);
+        padding:25px;
+        border-radius:18px;
+        position:relative;
+    ">
+        Yüklənir...
+    </div>
+
+</div>
+
+<!-- FOOTER -->
+<div class="footer section" id="helpSection">
+
+    <div style="
+        display:flex;
+        justify-content:space-between;
+        gap:40px;
+        flex-wrap:wrap;
+    ">
+
+        <!-- LEFT -->
+        <div class="small" style="flex:1; min-width:240px;">
+
+    <h1>Müəllif üçün bütün zəruri məlumatlar və əlaqə məlumatları.</h1>
+
+            <div>
+                Tik-Tok:
+                <a href="https://www.tiktok.com/@meta_baki1" target="_blank">
+                    @meta_baki1
+                </a>
+            </div>
+
+            <div>
+                Telegram:
+                <a href="https://t.me/meta_chanell1998" target="_blank">
+                    t.me/meta_baki1
+                </a>
+            </div>
+
+            <div>
+                Məqalə:
+                <a href=https://medium.com/@Meta_Company/%D0%BC%D0%B5%D1%82%D0%B0-az%C9%99rbaycanda-yarad%C4%B1lm%C4%B1%C5%9F-%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0-cb05eea79dbe>
+                    medium.com
+                </a>
+            </div>
+
+            <div>
+                WeatherCloud meta Hava stansiyası:
+                <a href=https://app.weathercloud.net/d1638839656>
+                    WeatherCloud
+                </a>
+            </div>
+
+            <div>
+                PwsWeather meta Hava stansiyası:
+                <a href=https://www.pwsweather.com/station/pws/A3E7BE3EAE29BE6FBF888K>
+                    PwsWeather
+                </a>
+            </div>
+
+            <div>
+                RP5 meta Hava arxivi:
+                <a href=https://rp5.ru/%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%8B_%D0%BD%D0%B0_%D1%83%D0%BB._%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B0_%D0%90%D0%BB%D0%B8-%D0%B0%D0%B3%D0%B0_%D0%A8%D0%B8%D0%BA%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE,_92C_%D0%B2_%D0%A5%D0%B0%D1%82%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B5_%D0%B2_%D0%91%D0%B0%D0%BA%D1%83,_%D0%BC%D0%B5%D1%82%D0%B5%D0%BE%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA>
+                    RP5.ru Hava arxivi
+                </a>
+            </div>
+
+            <div>
+                WhatsApp:
+                <a href=https://wa.me/994505251245?text=Salam>
+                    +994505251245
+                </a>
+            <div>
+
+            <div>
+                Gmail: (Sual və şərhlər üçün.)
+                <a href=mailto:meteorolog138@gmail.com>
+                    meteorolog138@gmail.com
+                </a>
+            <div>
+
+            <div>
+                XƏBƏRDARLIQ! Telefon zəngləri qeyd olunur.(Biz telefon zənglərini qəbul etmirik!)
+            <div>
+
+            <br>
+
+            <div style="
+    display:flex;
+    align-items:flex-start;
+    gap:10px;
+    flex-wrap:wrap;
+">
+
+    <!-- TEXT -->
+    <div class="small" style="flex:1; min-width:0;">
+
+        📍 Ünvan: Azərbaycan, Bakı, Xətai rayonu,
+        General Şixlinski küçəsi. <br>
+        🌡️ Real vaxt meteoroloji məlumatlar. <br>
+        💨 Külək, temperatur, təzyiq və yağıntı izlənilir. <br>
+        📊 7 və 14 günlük hava proqnozu avtomatik yenilənir. <br>
+        🔄 Məlumatlar hər 1 dəqiqədə yenilənir. <br>
+        📡 Professional meteoroloji müşahidə sistemi. <br>
+        🌦️ Atmosfer dəyişiklikləri canlı izlənilir. <br>
+        ⚡ Güclü külək və yağıntılar avtomatik qeydə alınır. <br>
+        👨‍💻 Müəllif:
+        Professional meteoroloq: Əliyev Edelman.
+
+    </div>
+    <!-- IMAGE -->
+    <div style="
+    width:300px;
+    text-align:center;
+    margin-right:40px;
+">
+
+        <img
+            src="/static/meta-hub.png"
+            alt="META HUB"
+            style="
+                width:100%;
+                border-radius:14px;
+                box-shadow:0 8px 25px rgba(0,0,0,0.4);
+            "
+        >
+
+        </a>
+
+    </div>
+
+</div>
+
+          <!-- RIGHT -->
+    <div class="small" style="flex:1; min-width:280px;">
+
+                             <h1>⚠️ Xəbərdarlıq ⚠️</h1>
+
+    <div class="small" style="flex:1; min-width:280px;">
+
+             1. Vebsayt administratorları təqdim olunan hava məlumatları 
+                əsasında qəbul edilən qərarlara görə heç bir məsuliyyət daşımırlar.
+
+                <br><br>
+
+             2. Hava məlumatları avtomatik yenilənir və real vaxt şəraitini əks etdirməyə bilər.
+                Son yeniləmənin vaxtı hava şəraitindəki qəfil dəyişiklikləri nəzərə almaya bilər.
+
+                <br><br>
+
+    <div class="small" style="flex:1; min-width:280px;">
+
+    <h1>Ölçü vahidləri və əlavə məlumat.</h1>
+
+    <div class="small" style="flex:1; min-width:280px;">
+                1. Tarix - Tarixi rəqəmsal formada.
+                <br>
+                2. Hava - İkon hava proqnozu.
+                <br>
+                3. Temperatur - Gündüz və gecə temperaturları. [*C]
+                <br>
+                4. Hiss edilən - Gündüz və gecə hiss olunan temperatur. [*C]
+                <br>
+                5. Yağış % - Yağış və ya qar yağma ehtimalı. [%] (faiz olaraq)
+                <br>
+                6. Bulud % - Göy üzündəki bulud örtüyü. [%] (faiz olaraq)
+                <br>
+                7. UV - UV günəş aktivliyi indeksi.
+                <br>
+                8. Yağıntı - Yağıntı miqdarı. [mm]
+                <br>
+                9. Külək - Orta davamlı külək sürəti. [km/h]
+                <br>
+                10. Orta külək - Orta külək sürəti. [km/h]
+                <br>
+                11. İstiqamət - Külək istiqaməti. [>] (hərf kodu)
+                <br>
+                12. külək zərbələri - Küləyin maksimum zərbələri. [km/h]
+                <br>
+                13. Təzyiq - Hava təzyiqi. [hpa] 
+                <br>
+                14. Günəş - Gün doğumu və gün batımı.
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+
+// TIME
+function updateTime(){
+    document.getElementById("datetime").innerHTML =
+        "🕒 " + new Date().toLocaleString("az-AZ");
+}
+setInterval(updateTime,1000);
+updateTime();
+
+function f(x){
+    return Number(x || 0).toFixed(1);
+}
+
+function windDir(deg){
+    const d = ["N","NE","E","SE","S","SW","W","NW"];
+    return d[Math.round(deg / 45) % 8];
+}
+
+function icon(code){
+
+    const base = "https://cdn-icons-png.flaticon.com/512/";
+
+    // ⛈ ГРОЗА (строго верхний приоритет)
+    if(code >= 95 && code <= 99)
+        return `<img src="${base}1146/1146869.png" width="60">`;
+
+    // 🌧 ЛИВНИ (сильный дождь)
+    if(code >= 80 && code <= 82)
+        return `<img src="${base}3351/3351979.png" width="60">`;
+
+    // 🌧 ДОЖДЬ
+    if(code >= 51 && code <= 67)
+        return `<img src="${base}3351/3351979.png" width="60">`;
+
+    // 🌫 ТУМАН
+    if(code >= 45 && code <= 48)
+        return `<img src="${base}4005/4005901.png" width="60">`;
+
+    // ❄️ СНЕГ
+    if(code >= 71 && code <= 77)
+        return `<img src="${base}642/642102.png" width="60">`;
+
+    // ☁️ ОБЛАКА
+    if(code >= 1 && code <= 3)
+        return `<img src="${base}414/414927.png" width="60">`;
+
+    // ☀️ ЯСНО
+    if(code === 0)
+        return `<img src="${base}869/869869.png" width="60">`;
+
+    return `<img src="${base}414/414825.png" width="60">`;
+}
+
+function shareSite(){
+    navigator.clipboard.writeText(window.location.href);
+    alert("🔗 Linki başqaları ilə paylaşın");
+}
+
+function setBackground(temp, rain, weathercode){
+
+    let hour = new Date().getHours();
+
+    let backgrounds = [];
+
+    // 🌙 НОЧЬ — Баку / Абшерон
+    if(hour < 6 || hour > 20){
+
+        backgrounds = [
+
+            // ночной Баку
+            "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=1920",
+
+            // ночной городской пейзаж
+            "https://images.pexels.com/photos/35404560/pexels-photo-35404560.jpeg",
+
+            // ночная аллея
+            "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1920"
+        ];
+    }
+
+    // 🌧 ДОЖДЬ / ОБЛАЧНО
+    else if(rain > 0.5 || weathercode >= 61){
+
+        backgrounds = [
+
+            // дождливая дорога
+            "https://images.unsplash.com/photo-1511497584788-876760111969?q=80&w=2070&auto=format&fit=crop",
+
+            // облачный пейзаж
+            "https://images.unsplash.com/photo-1511497584788-876760111969?q=80&w=2070&auto=format&fit=crop",
+
+            // мокрая набережная
+            "https://images.unsplash.com/photo-1527766833261-b09c3163a791?q=80&w=1920",
+
+            // тучи над морем
+            "https://images.pexels.com/photos/33971099/pexels-photo-33971099.jpeg"
+        ];
+    }
+
+    // ☀️ ЯСНО
+    else if(weathercode === 0){
+
+        backgrounds = [
+
+            // берег
+            "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1920",
+
+            // море
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1920",
+
+            // аллея
+            "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1920",
+
+            // деревья и парк
+            "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=1920",
+
+            // озеро
+            "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=1920",
+
+            // побережье
+            "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?q=80&w=1920",
+
+            // зелёная зона
+            "https://images.unsplash.com/photo-1439066615861-d1af74d74000?q=80&w=1920",
+
+            // горы и деревья
+            "https://images.pexels.com/photos/35404560/pexels-photo-35404560.jpeg",
+
+        ];
+    }
+
+    // ⛅ ОБЫЧНАЯ ПОГОДА
+    else{
+
+        backgrounds = [
+
+            "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2070&auto=format&fit=crop",
+
+            "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?q=80&w=2070&auto=format&fit=crop",
+
+            "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2073&auto=format&fit=crop",
+
+            "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=1920"
+        ];
+    }
+
+    // случайная картинка
+    const bg =
+        backgrounds[Math.floor(Math.random() * backgrounds.length)];
+
+    document.body.style.backgroundImage =
+        `url('${bg}')`;
+}
+
+async function loadStation(){
+    let r = await fetch("/station");
+    let d = await r.json();
+
+document.getElementById("homeTemp").innerHTML =
+    `${f(d.temp)}°C`;
+
+document.getElementById("homeFeels").innerHTML =
+    `Hiss edilən ${f(d.temp - 1.5)}°C`;
+
+document.getElementById("homeHum").innerHTML =
+    `${f(d.humidity)}%`;
+
+document.getElementById("homeWind").innerHTML =
+    `${f(d.wind_ms * 3.6)} km/h`;
+
+document.getElementById("homePressure").innerHTML =
+    `${f(d.pressure)} hPa`;
+
+    document.getElementById("station").innerHTML = `
+    <div class="card">TEMP: ${f(d.temp)} °C</div>
+    <div class="card">HUM: ${f(d.humidity)} %</div>
+
+    <div class="card">
+        WIND: ${f(d.wind_ms * 3.6)} km/h
+    </div>
+
+    <div class="card">
+        GUST: ${f(d.wind_gust_ms * 3.6)} km/h
+    </div>
+
+    <div class="card">
+        DIR: ${windDir(d.wind_dir)}
+    </div>
+
+    <div class="card">BARO: ${f(d.pressure)} hPa</div>
+    <div class="card">RAIN 1H: ${f(d.rain_24h)} mm</div>
+`;
+
+    document.getElementById("lastUpdate").innerHTML =
+        "🕒 Son məlumat yenilənməsi: " +
+        new Date().toLocaleTimeString();
+
+let rainChance = 0;
+let fogChance = 0;
+let stormChance = 0;
+let heatChance = 0;
+let windChance = 0;
+
+// ДОЖДЬ
+if(d.rain_1h > 0){
+    rainChance = 85;
+}else if(d.humidity > 80){
+    rainChance = 55;
+}else{
+    rainChance = 20;
+}
+
+// ТУМАН
+if(d.humidity > 95){
+    fogChance = 90;
+}else if(d.humidity > 85){
+    fogChance = 60;
+}else{
+    fogChance = 15;
+}
+
+// ШТОРМ
+if(d.wind_gust_ms * 3.6 > 60){
+    stormChance = 90;
+}else if(d.wind_gust_ms * 3.6 > 40){
+    stormChance = 60;
+}else{
+    stormChance = 10;
+}
+
+// ЖАРА
+if(d.temp > 35){
+    heatChance = 95;
+}else if(d.temp > 30){
+    heatChance = 70;
+}else{
+    heatChance = 15;
+}
+
+// СИЛЬНЫЙ ВЕТЕР
+if(d.wind_ms * 3.6 > 45){
+    windChance = 90;
+}else if(d.wind_ms * 3.6 > 30){
+    windChance = 60;
+}else{
+    windChance = 20;
+}
+
+    setBackground(d.temp, d.rain_1h, 0);
+}
+
+async function loadForecast(){
+    let r = await fetch("/forecast7");
+    let d = await r.json();
+
+// =====================================
+// TEXT FORECAST FOR NEXT 24 HOURS
+// =====================================
+
+const tomorrowCode =
+    d.daily.weathercode[1];
+
+const tomorrowRain =
+    d.daily.precipitation_probability_max[1];
+
+const tomorrowTemp =
+    d.daily.temperature_2m_max[1];
+
+let textForecast = "";
+
+// ☀️ CLEAR
+if(tomorrowCode === 0){
+
+    textForecast =
+    `☀️ Sabah Bakıda hava əsasən açıq olacaq. Temperatur ${f(tomorrowTemp)}°C ətrafında gözlənilir.`;
+}
+
+// ☁️ CLOUDY
+else if(tomorrowCode >= 1 && tomorrowCode <= 3){
+
+    textForecast =
+    `☁️ Sabah Bakıda dəyişkən buludlu hava gözlənilir. Yağıntı ehtimalı ${f(tomorrowRain)}%-dir.`;
+}
+
+// 🌫 FOG
+else if(tomorrowCode >= 45 && tomorrowCode <= 48){
+
+    textForecast =
+    `🌫 Sabah bəzi ərazilərdə duman müşahidə oluna bilər. Görünüş məsafəsi zəifləyə bilər.`;
+}
+
+// 🌧 RAIN
+else if(tomorrowCode >= 51 && tomorrowCode <= 67){
+
+    textForecast =
+    `🌧 Sabah yağış gözlənilir. Yağıntı ehtimalı ${f(tomorrowRain)}%-dir. Temperatur ${f(tomorrowTemp)}°C olacaq.`;
+}
+
+// ❄️ SNOW
+else if(tomorrowCode >= 71 && tomorrowCode <= 77){
+
+    textForecast =
+    `❄️ Sabah qar ehtimalı var. Temperatur aşağı olacaq və yollar sürüşkən ola bilər.`;
+}
+
+// ⛈ STORM
+else if(tomorrowCode >= 95 && tomorrowCode <= 99){
+
+    textForecast =
+    `⛈ Sabah ildırım və güclü leysan ehtimalı var. Yağıntı ehtimalı ${f(tomorrowRain)}%-dir.`;
+}
+
+// 🌦 SHOWERS
+else if(tomorrowCode >= 80 && tomorrowCode <= 82){
+
+    textForecast =
+    `🌦 Sabah qısamüddətli yağış keçidləri mümkündür. Yağıntı ehtimalı ${f(tomorrowRain)}%-dir.`;
+}
+
+// DEFAULT
+else{
+
+    textForecast =
+    `🌤 Sabah hava şəraitində dəyişkənlik gözlənilir.`;
+}
+
+document.getElementById("dailyTextForecast").innerHTML =
+    textForecast;
+
+    let html = `<div class="table-wrap"><table><tr>
+<th>Tarix</th>
+<th>Hava</th>
+<th>Temperatur [*C]</th>
+<th>Hiss edilən [*C]</th>
+<th>Yağış [%]</th>
+<th>Bulud [%]</th>
+<th>UV indeks</th>
+<th>Yağıntı [mm]</th>
+<th>Külək [km/h]</th>
+<th>Orta külək [km/h]</th>
+<th>İstiqamət [>]</th>
+<th>külək zərbələri [km/h]</th>
+<th>Təzyiq [hPa]</th>
+<th>Günəş</th>
+    </tr>`;
+
+    for(let i=0;i<7;i++){
+        html += `<tr>
+
+<td>${d.daily.time[i]}</td>
+
+<td>${icon(d.daily.weathercode[i])}</td>
+
+<td>
+${f(d.daily.temperature_2m_max[i])}°
+/
+${f(d.daily.temperature_2m_min[i])}°
+</td>
+
+<td>
+${f(d.daily.apparent_temperature_max[i])}°
+/
+${f(d.daily.apparent_temperature_min[i])}°
+</td>
+
+<td>
+${f(d.daily.precipitation_probability_max[i])}%
+</td>
+
+<td>
+${f(d.daily.cloud_cover_mean[i])}%
+</td>
+
+<td>
+${f(d.daily.uv_index_max[i])}
+</td>
+
+<td>
+${f(d.daily.precipitation_sum[i])} mm
+</td>
+
+<td>
+${f(d.daily.windspeed_10m_max[i])} km/h
+</td>
+
+<td>
+${f(d.daily.wind_speed_10m_mean[i])} km/h
+</td>
+
+<td>
+${windDir(d.daily.winddirection_10m_dominant[i])}
+</td>
+
+<td>
+${f(d.daily.windgusts_10m_max[i])} km/h
+</td>
+
+<td>
+${f(d.daily.surface_pressure_mean[i])} hPa
+</td>
+
+<td>
+🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
+<br>
+🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
+</td>
+
+</tr>`;
+    }
+
+    html += "</table></div>";
+    document.getElementById("forecast").innerHTML = html;
+}
+
+async function loadForecast14(){
+    let r = await fetch(
+"https://api.open-meteo.com/v1/forecast?latitude=40.3793&longitude=49.9625&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,snowfall_sum,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,precipitation_sum,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean&timezone=auto&forecast_days=14"
+);
+    let d = await r.json();
+
+    let html = `<div class="table-wrap"><table><tr>
+<th>Tarix</th>
+<th>Hava</th>
+<th>Temperatur [*C]</th>
+<th>Hiss edilən [*C]</th>
+<th>Yağış [%]</th>
+<th>Bulud [%]</th>
+<th>UV indeks</th>
+<th>Yağıntı [mm]</th>
+<th>Külək [km/h]</th>
+<th>Orta külək [km/h]</th>
+<th>İstiqamət [>]</th>
+<th>külək zərbələri [km/h]</th>
+<th>Təzyiq [hPa]</th>
+<th>Günəş</th>
+    </tr>`;
+
+    for(let i=7;i<14;i++){
+        html += `<tr>
+
+<td>${d.daily.time[i]}</td>
+
+<td>${icon(d.daily.weathercode[i])}</td>
+
+<td>
+${f(d.daily.temperature_2m_max[i])}°
+/
+${f(d.daily.temperature_2m_min[i])}°
+</td>
+
+<td>
+${f(d.daily.apparent_temperature_max[i])}°
+/
+${f(d.daily.apparent_temperature_min[i])}°
+</td>
+
+<td>
+${f(d.daily.precipitation_probability_max[i])}%
+</td>
+
+<td>
+${f(d.daily.cloud_cover_mean[i])}%
+</td>
+
+<td>
+${f(d.daily.uv_index_max[i])}
+</td>
+
+<td>
+${f(d.daily.precipitation_sum[i])} mm
+</td>
+
+<td>
+${f(d.daily.wind_speed_10m_max[i])} km/h
+</td>
+
+<td>
+${f(d.daily.wind_speed_10m_mean[i])} km/h
+</td>
+
+<td>
+${windDir(d.daily.wind_direction_10m_dominant[i])}
+</td>
+
+<td>
+${f(d.daily.wind_gusts_10m_max[i])} km/h
+</td>
+
+<td>
+${f(d.daily.surface_pressure_mean[i])} hPa
+</td>
+
+<td>
+🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
+<br>
+🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
+</td>
+
+</tr>`;
+    }
+
+    html += "</table></div>";
+    document.getElementById("forecast14Content").innerHTML = html;
+}
+
+async function getTemp(lat, lon){
+
+    let r = await fetch(
+        `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m`
+    );
+
+    let d = await r.json();
+
+    return d.current.temperature_2m;
+}
+
+function initMap(){
+
+const map = L.map('map',{
+    zoomControl:true
+}).setView([40.45, 49.95], 10);
+
+window.mapInstance = map;
+
+    L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+            attribution:'',
+            maxZoom:19
+        }
+    ).addTo(map);
+
+    // 📍 иконка станции
+    const stationIcon = L.icon({
+        iconUrl: 'https://cdn-icons-png.flaticon.com/512/684/684908.png',
+        iconSize: [34, 34],
+        iconAnchor: [17, 34],
+        popupAnchor: [0, -30]
+    });
+
+    // 🌡 СТАНЦИЯ
+    fetch('/station')
+    .then(r => r.json())
+    .then(d => {
+
+        const popup = `
+        <div style="width:230px;font-family:Arial;">
+
+            <div style="font-size:18px;font-weight:bold;margin-bottom:10px;">
+                META Meteoroloji Stansiyası
+            </div>
+
+            <div style="
+                background:#07133a;
+                color:white;
+                padding:12px;
+                border-radius:10px;
+                text-align:center;
+                font-size:26px;
+                font-weight:bold;
+                margin-bottom:10px;
+            ">
+                ${f(d.temp)}°C
+            </div>
+
+            <div style="font-size:13px;line-height:1.6;color:#333;">
+                Rütubət: <b>${f(d.humidity)}%</b><br>
+                Külək: <b>${f(d.wind_ms * 3.6)} km/h</b><br>
+                Təzyiq: <b>${f(d.pressure)} hPa</b><br>
+                Yağıntı: <b>${f(d.rain_24h)} mm</b>
+            </div>
+
+        </div>
+        `;
+
+        L.marker([40.37923, 49.96253], {icon: stationIcon})
+            .addTo(map)
+            .bindPopup(popup);
+    });
+
+    // 🏙 ГОРОДА
+   const absheronCities = [
+
+    // ================= BAKI (15) =================
+    {name:'Bakı',lat:40.4093,lon:49.8671},
+    {name:'İçərişəhər',lat:40.3668,lon:49.8360},
+    {name:'Nərimanov',lat:40.4025,lon:49.8723},
+    {name:'Nəsimi',lat:40.3834,lon:49.8489},
+    {name:'Səbail',lat:40.3523,lon:49.8332},
+    {name:'Yasamal',lat:40.3771,lon:49.8046},
+    {name:'Xətai',lat:40.3770,lon:49.9430},
+    {name:'Binəqədi',lat:40.4675,lon:49.8270},
+    {name:'Sabunçu',lat:40.4280,lon:49.9480},
+    {name:'Suraxanı',lat:40.4220,lon:50.0320},
+    {name:'Əhmədli',lat:40.3830,lon:49.9550},
+    {name:'Ramana',lat:40.4510,lon:49.9680},
+    {name:'Zabrat',lat:40.4780,lon:49.9480},
+    {name:'Balaxanı',lat:40.4560,lon:49.9110},
+    {name:'Bakıxanov',lat:40.4250,lon:49.9480},
+
+    // ================= ABSHERON (25) =================
+    {name:'Sumqayıt',lat:40.5897,lon:49.6686},
+    {name:'Xırdalan',lat:40.4481,lon:49.7550},
+    {name:'Masazır',lat:40.4210,lon:49.7922},
+    {name:'Saray',lat:40.5280,lon:49.7200},
+    {name:'Ceyranbatan',lat:40.4810,lon:49.7050},
+    {name:'Qobu',lat:40.4040,lon:49.7380},
+    {name:'Lökbatan',lat:40.3233,lon:49.7361},
+    {name:'Fatmayı',lat:40.5560,lon:49.7640},
+    {name:'Mehdiabad',lat:40.5540,lon:49.7290},
+    {name:'Digah',lat:40.5090,lon:49.7880},
+    {name:'Hövsan',lat:40.3740,lon:50.0850},
+    {name:'Binə',lat:40.4508,lon:50.0856},
+    {name:'Qala',lat:40.4530,lon:50.1840},
+    {name:'Şüvəlan',lat:40.4888,lon:50.1681},
+    {name:'Mərdəkan',lat:40.4918,lon:50.1429},
+    {name:'Buzovna',lat:40.5196,lon:50.1144},
+    {name:'Bilgəh',lat:40.5828,lon:50.0401},
+    {name:'Nardaran',lat:40.5680,lon:50.0050},
+    {name:'Pirşağı',lat:40.5563,lon:49.7382},
+    {name:'Zirə',lat:40.2982,lon:50.2917},
+    {name:'Pirallahı',lat:40.4620,lon:50.3230},
+    {name:'Novxanı',lat:40.5705,lon:49.6761},
+    {name:'Corat',lat:40.5960,lon:49.6860},
+    {name:'Güzdək',lat:40.4730,lon:49.7360},
+
+    // ================= EAST / COAST (10) =================
+    {name:'Şirvan',lat:39.9320,lon:48.9200},
+    {name:'Hacıqabul',lat:40.0400,lon:48.9400},
+    {name:'Salyan',lat:39.5950,lon:48.9800},
+    {name:'Neftçala',lat:39.3740,lon:49.2470},
+    {name:'Lənkəran',lat:38.7540,lon:48.8510},
+    {name:'Astara',lat:38.4550,lon:48.8750},
+    {name:'Biləsuvar',lat:39.4580,lon:48.5440},
+    {name:'Cəlilabad',lat:39.2090,lon:48.4980},
+    {name:'Masallı',lat:39.0350,lon:48.6550},
+    {name:'Yevlax',lat:40.6170,lon:47.1500},
+
+    // ================= NORTH (15) =================
+    {name:'Quba',lat:41.3625,lon:48.5123},
+    {name:'Qusar',lat:41.4265,lon:48.4300},
+    {name:'Xaçmaz',lat:41.4640,lon:48.8060},
+    {name:'Şabran',lat:41.2000,lon:48.9830},
+    {name:'Siyəzən',lat:41.0765,lon:49.1117},
+    {name:'Xızı',lat:40.8730,lon:49.3800},
+    {name:'Qobustan',lat:40.0825,lon:49.4120},
+    {name:'Şamaxı',lat:40.6310,lon:48.6414},
+    {name:'İsmayıllı',lat:40.7840,lon:48.1510},
+    {name:'Ağsu',lat:40.5700,lon:48.4000},
+    {name:'Göyçay',lat:40.6500,lon:47.7400},
+    {name:'Ucar',lat:40.5100,lon:47.6500},
+    {name:'Zərdab',lat:40.2200,lon:47.7100},
+    {name:'Bərdə',lat:40.3770,lon:47.1260},
+    {name:'Tərtər',lat:40.3410,lon:46.9290},
+
+    // ================= EXTRA SMALL (15) =================
+    {name:'Kürdəxanı',lat:40.5480,lon:49.9110},
+    {name:'Böyük Şor',lat:40.4200,lon:49.9000},
+    {name:'Sulutəpə',lat:40.4700,lon:49.8100},
+    {name:'Bibiheybət',lat:40.3300,lon:49.8180},
+    {name:'Zığ',lat:40.3570,lon:50.0630},
+    {name:'Ələt',lat:39.9700,lon:49.4050},
+    {name:'Hökməli',lat:40.4840,lon:49.7390},
+    {name:'Müşfiqabad',lat:40.4850,lon:49.7490},
+    {name:'Görədil',lat:40.5750,lon:49.7150},
+    {name:'Nübar',lat:40.5000,lon:49.7000},
+    {name:'Sahil',lat:40.4500,lon:49.6800},
+    {name:'Xocəsən',lat:40.4480,lon:49.8120},
+    {name:'Qızıldaş',lat:40.3200,lon:49.7500},
+    {name:'Daşqıl',lat:40.4100,lon:49.7800},
+    {name:'Çaxmaqlı',lat:40.4600,lon:49.7600},
+
+];
+
+    // 📍 ДОБАВЛЕНИЕ ГОРОДОВ
+    absheronCities.forEach(c => {
+
+        const marker = L.marker([c.lat, c.lon]).addTo(map);
+
+        marker.bindPopup(`<b>${c.name}</b><br>🌡 Yüklənir...`);
+
+        marker.on("click", async () => {
+            try {
+                let temp = await getTemp(c.lat, c.lon);
+                marker.setPopupContent(`
+                    <b>${c.name}</b><br>
+                    🌡 ${temp} °C
+                `);
+            } catch (e) {
+                marker.setPopupContent(`
+                    <b>${c.name}</b><br>
+                    ❌ Məlumat yoxdur
+                `);
+            }
+        });
+    });
+
+}
+
+async function loadChart() {
+
+    try {
+
+        const r = await fetch("/history_flat");
+        const data = await r.json();
+
+        if (!Array.isArray(data) || data.length === 0) {
+            return;
+        }
+
+        // сортировка по времени
+        data.sort((a, b) =>
+            new Date(a.timestamp) - new Date(b.timestamp)
+        );
+
+        // только сегодняшний день
+        const now = new Date();
+
+        const sliced = data.filter(i => {
+
+            const d = new Date(i.timestamp);
+
+            return (
+                d.getFullYear() === now.getFullYear() &&
+                d.getMonth() === now.getMonth() &&
+                d.getDate() === now.getDate()
+            );
+        });
+
+        // подписи времени
+        const labels = sliced.map(i =>
+            new Date(i.timestamp).toLocaleTimeString("az-AZ", {
+                hour: "2-digit",
+                minute: "2-digit"
+            })
+        );
+
+        // данные
+        const temp = sliced.map(i => Number(i.temp));
+        const wind = sliced.map(i => Number(i.wind));
+        const gust = sliced.map(i => Number(i.gust));
+        const humidity = sliced.map(i => Number(i.humidity));
+        const pressure = sliced.map(i => Number(i.pressure));
+
+        // удалить старый график
+        if (chart) {
+            chart.destroy();
+        }
+
+        chart = new Chart(
+            document.getElementById("weatherChart"),
+            {
+
+                type: "line",
+
+                data: {
+
+                    labels: labels,
+
+                    datasets: [
+
+                        // температура
+                        {
+                            label: "Temperatur (°C)",
+                            data: temp,
+                            borderColor: "#ff5733",
+                            backgroundColor: "#ff5733",
+                            borderWidth: 4,
+                            pointRadius: 3,
+                            pointHoverRadius: 6,
+                            tension: 0.15
+                        },
+
+                        // ветер
+                        {
+                            label: "Külək (km/h)",
+                            data: wind,
+                            borderColor: "#7649fb",
+                            backgroundColor: "#7649fb",
+                            borderWidth: 4,
+                            pointRadius: 3,
+                            pointHoverRadius: 6,
+                            tension: 0.15
+                        },
+
+                        // порывы
+                        {
+                            label: "Qasırğa (km/h)",
+                            data: gust,
+                            borderColor: "#ffd700",
+                            backgroundColor: "#ffd700",
+                            borderWidth: 4,
+                            pointRadius: 3,
+                            pointHoverRadius: 6,
+                            tension: 0.15
+                        },
+
+                        // влажность
+                        {
+                            label: "Rütubət (%)",
+                            data: humidity,
+                            borderColor: "#357d16",
+                            backgroundColor: "#357d16",
+                            borderWidth: 4,
+                            pointRadius: 3,
+                            pointHoverRadius: 6,
+                            tension: 0.15
+                        },
+
+                        // давление
+                        {
+                            label: "Təzyiq (hPa)",
+                            data: pressure,
+                            borderColor: "#ff00a3",
+                            backgroundColor: "#ff00a3",
+                            borderWidth: 4,
+                            pointRadius: 3,
+                            pointHoverRadius: 6,
+                            tension: 0.15,
+
+                            // отдельная ось
+                            yAxisID: "y1"
+                        }
+                    ]
+                },
+
+                options: {
+
+    responsive: true,
+    maintainAspectRatio: false,
+    resizeDelay: 0,
+
+    layout: {
+        padding: 0
+    },
+
+    plugins: {
+
+                        legend: {
+
+                            labels: {
+                                color: "white",
+                                boxWidth: 12,
+                                padding: 10
+                            }
+                        },
+
+                        tooltip: {
+                            backgroundColor: "#111",
+                            titleColor: "#fff",
+                            bodyColor: "#fff",
+                            borderColor: "#444",
+                            borderWidth: 1
+                        }
+                    },
+
+                    scales: {
+
+                        // ось времени
+                        x: {
+
+                            ticks: {
+
+                                color: "white",
+
+                                autoSkip: true,
+
+                                // 48 получасовых точек
+                                maxTicksLimit: 48,
+
+                                autoSkipPadding: 20,
+
+                                maxRotation: 0,
+                                minRotation: 0
+                            },
+
+                            grid: {
+                                color: "rgba(255,255,255,0.02)"
+                            }
+                        },
+
+                        // левая ось
+                        y: {
+
+                            position: "left",
+
+                            ticks: {
+                                color: "white"
+                            },
+
+                            grid: {
+                                color: "rgba(255,255,255,0.02)"
+                            }
+                        },
+
+                        // правая ось давления
+                        y1: {
+
+                            position: "right",
+
+                            ticks: {
+                                color: "#b266ff"
+                            },
+
+                            grid: {
+                                drawOnChartArea: false
+                            }
+                        }
+                    }
+                }
+            }
+        );
+
+    } catch (e) {
+
+        console.error("Chart error:", e);
+    }
+}
+let chart;
+
+function openSection(id){
+
+    document.querySelectorAll('.section')
+    .forEach(el => {
+        el.classList.remove('active');
+    });
+
+    const section =
+        document.getElementById(id);
+
+    if(section){
+        section.classList.add('active');
+    }
+
+    window.scrollTo({
+        top:0,
+        behavior:"smooth"
+    });
+
+    // FIX LEAFLET MAP
+    if(id === "mapSection"){
+
+        setTimeout(() => {
+
+            if(window.mapInstance){
+                window.mapInstance.invalidateSize();
+            }
+
+        }, 300);
+    }
+}
+
+function update24hText(d){
+
+    const code = d.daily.weathercode[1];
+    const rain = d.daily.precipitation_probability_max[1];
+    const temp = d.daily.temperature_2m_max[1];
+
+    let text = "";
+
+    if(code === 0){
+        text = `☀️ Sabah Bakıda açıq hava gözlənilir. Temperatur ${f(temp)}°C.`;
+    }
+    else if(code >= 1 && code <= 3){
+        text = `☁️ Dəyişkən buludlu hava. Yağış ehtimalı ${f(rain)}%.`;
+    }
+    else if(code >= 51 && code <= 67){
+        text = `🌧 Yağış gözlənilir. Ehtimal ${f(rain)}%, temperatur ${f(temp)}°C.`;
+    }
+    else if(code >= 80 && code <= 82){
+        text = `🌦 Qısamüddətli yağış keçidləri mümkündür.`;
+    }
+    else if(code >= 95){
+        text = `⛈ İldırım və güclü hava hadisələri mümkündür.`;
+    }
+    else{
+        text = `🌤 Hava dəyişkən olacaq.`;
+    }
+
+    document.getElementById("forecast24Text").innerHTML = text;
+}
+
+let miniChart;
+
+async function loadMiniChart() {
+
+    const r = await fetch("/history_flat");
+    const data = await r.json();
+
+    if (!Array.isArray(data)) return;
+
+    data.sort((a, b) =>
+        new Date(a.timestamp) - new Date(b.timestamp)
+    );
+
+    // последние 20 значений
+    const sliced = data.slice(-20);
+
+    const labels = sliced.map(i =>
+        new Date(i.timestamp).toLocaleTimeString("az-AZ", {
+            hour: "2-digit",
+            minute: "2-digit"
+        })
+    );
+
+    const temp = sliced.map(i => Number(i.temp));
+
+    if (miniChart) miniChart.destroy();
+
+    miniChart = new Chart(
+        document.getElementById("miniTempChart"),
+        {
+            type: "line",
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: "Temp",
+                    data: temp,
+                    borderColor: "#0ea5e9",
+                    borderWidth: 2,
+                    pointRadius: 0,
+                    tension: 0.3
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    x: { display: false },
+                    y: { display: false }
+                }
+            }
+        }
+    );
+}
+
+async function loadHistory(){
+
+    try{
+
+        const r = await fetch("/history_content");
+        const d = await r.json();
+
+        document.getElementById("historyContent").innerHTML = `
+
+<div style="
+    position:relative;
+    min-height:320px;
+">
+
+    <!-- ФОТО -->
+    <img
+    src="${d.image}"
+    style="
+        width:100%;
+        max-width:500px;
+        height:auto;
+
+        border-radius:18px;
+
+        box-shadow:0 10px 30px rgba(0,0,0,0.45);
+
+        display:block;
+        margin:0 auto 20px auto;
+    "
+>
+
+    <!-- ТЕКСТ -->
+    <div style="
+    text-align:left;
+    line-height:1.6;
+">
+    ${d.text}
+</div>
+
+</div>
+
+`;
+
+    }catch(e){
+
+        document.getElementById("historyContent").innerHTML =
+            "❌ Heç bir məlumat mövcud deyil.";
+
+    }
+}
+
+window.onload = function () {
+
+    loadStation();
+    loadForecast();
+    loadForecast14();
+    loadChart();
+    initMap();
+    loadMiniChart();
+    loadHistory();
+
+    setInterval(loadMiniChart, 60000);
+
+    // обновление станции каждую минуту
+    setInterval(loadStation, 60000);
+
+    // график каждые 30 минут
+    setInterval(loadChart, 30 * 60 * 1000);
+};
+
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/static/sw.js")
+    .then(() => console.log("PWA: Service Worker OK"))
+    .catch(err => console.log("SW error", err));
+}
+
+window.addEventListener("load", () => {
+
+    let deferredPrompt;
+
+    window.addEventListener("beforeinstallprompt", (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+    });
+
+    window.installApp = function () {
+        if (!deferredPrompt) {
+            alert("Установка недоступна. Открой сайт в Chrome.");
+            return;
+        }
+
+        deferredPrompt.prompt();
+
+        deferredPrompt.userChoice.then(() => {
+            deferredPrompt = null;
+        });
+    };
+
+});
+
+</script>
+
+<!-- DISCLAMER -->
+<div class="disclaimer-box">
+  <div class="disclaimer-title">⚠️ Qeyd</div>
+  <div class="disclaimer-text">
+    Hava məlumatları yalnız informasiya məqsədi daşıyır və 100% dəqiqliyə zəmanət verilmir.  
+    Proqnozlar dəyişə bilər və gecikmələr ola bilər.  
+    Sayt məlumatlara əsasən qəbul edilən qərarlara görə məsuliyyət daşımır.  
+    Ən doğru nəticə üçün əlavə mənbələrdən istifadə edin.
+  </div>
+</div>
+
+</body>
+</html>

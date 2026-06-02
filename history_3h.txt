@@ -1,0 +1,28 @@
+|27.05.2026 11:51:36| IN:TEMP: 22.1*C RH: 61.0% | OUT:TEMP: 22.1*C RH: 61.0% | BARO: 998.0 hPa | DIR:180° SPEED: 3km/h | GUST: 5km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:52:38| IN:TEMP: 22.1*C RH: 61.0% | OUT:TEMP: 22.1*C RH: 61.0% | BARO: 998.0 hPa | DIR:225° SPEED: 4km/h | GUST: 6km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:53:39| IN:TEMP: 22.1*C RH: 61.0% | OUT:TEMP: 22.1*C RH: 61.0% | BARO: 998.0 hPa | DIR:225° SPEED: 4km/h | GUST: 6km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:54:41| IN:TEMP: 22.1*C RH: 61.0% | OUT:TEMP: 22.1*C RH: 61.0% | BARO: 998.0 hPa | DIR:270° SPEED: 5km/h | GUST: 11km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:55:43| IN:TEMP: 22.1*C RH: 61.0% | OUT:TEMP: 22.1*C RH: 61.0% | BARO: 999.0 hPa | DIR:225° SPEED: 6km/h | GUST: 9km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:56:45| IN:TEMP: 21.8*C RH: 61.0% | OUT:TEMP: 21.8*C RH: 61.0% | BARO: 999.0 hPa | DIR:270° SPEED: 4km/h | GUST: 7km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:57:50| IN:TEMP: 21.8*C RH: 61.0% | OUT:TEMP: 21.8*C RH: 61.0% | BARO: 999.0 hPa | DIR:270° SPEED: 5km/h | GUST: 9km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:58:52| IN:TEMP: 21.9*C RH: 61.0% | OUT:TEMP: 21.9*C RH: 61.0% | BARO: 999.0 hPa | DIR:45° SPEED: 6km/h | GUST: 8km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 11:59:55| IN:TEMP: 21.9*C RH: 61.0% | OUT:TEMP: 21.9*C RH: 61.0% | BARO: 999.0 hPa | DIR:270° SPEED: 5km/h | GUST: 10km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:00:58| IN:TEMP: 22.0*C RH: 61.0% | OUT:TEMP: 22.0*C RH: 61.0% | BARO: 999.0 hPa | DIR:45° SPEED: 5km/h | GUST: 7km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:01:59| IN:TEMP: 22.0*C RH: 61.0% | OUT:TEMP: 22.0*C RH: 61.0% | BARO: 999.0 hPa | DIR:225° SPEED: 3km/h | GUST: 4km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:03:01| IN:TEMP: 22.0*C RH: 61.0% | OUT:TEMP: 22.0*C RH: 61.0% | BARO: 999.0 hPa | DIR:270° SPEED: 6km/h | GUST: 12km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:04:03| IN:TEMP: 22.0*C RH: 61.0% | OUT:TEMP: 22.0*C RH: 61.0% | BARO: 999.0 hPa | DIR:45° SPEED: 6km/h | GUST: 7km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:05:04| IN:TEMP: 22.0*C RH: 61.0% | OUT:TEMP: 22.0*C RH: 61.0% | BARO: 999.0 hPa | DIR:225° SPEED: 6km/h | GUST: 9km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:06:06| IN:TEMP: 21.7*C RH: 61.0% | OUT:TEMP: 21.7*C RH: 61.0% | BARO: 999.0 hPa | DIR:270° SPEED: 3km/h | GUST: 7km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:07:09| IN:TEMP: 21.7*C RH: 61.0% | OUT:TEMP: 21.7*C RH: 61.0% | BARO: 999.0 hPa | DIR:270° SPEED: 3km/h | GUST: 7km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:08:13| IN:TEMP: 21.7*C RH: 61.0% | OUT:TEMP: 21.7*C RH: 61.0% | BARO: 999.0 hPa | DIR:315° SPEED: 8km/h | GUST: 11km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:09:14| IN:TEMP: 21.4*C RH: 61.0% | OUT:TEMP: 21.4*C RH: 61.0% | BARO: 999.0 hPa | DIR:0° SPEED: 6km/h | GUST: 10km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 12:10:16| IN:TEMP: 21.4*C RH: 61.0% | OUT:TEMP: 21.4*C RH: 61.0% | BARO: 999.0 hPa | DIR:0° SPEED: 9km/h | GUST: 12km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 14:01:10| TEMP: 21.8C RH: 55.0% | BARO: 1000.0 hPa | DIR:0° SPEED: 3 km/h | GUST: 6 km/h | RAIN1H: 0.0 mm | RAIN24H: 0.0 mm
+|27.05.2026 14:02:11| TEMP: 21.8C RH: 55.0% | BARO: 1000.0 hPa | DIR:0° SPEED: 3 km/h | GUST: 6 km/h | RAIN1H: 0.0 mm | RAIN24H: 0.0 mm
+|27.05.2026 14:03:16| TEMP: 21.8C RH: 55.0% | BARO: 1000.0 hPa | DIR:0° SPEED: 4 km/h | GUST: 6 km/h | RAIN1H: 0.0 mm | RAIN24H: 0.0 mm
+|27.05.2026 14:04:18| IN:TEMP: 21.9*C RH: 55.0% | OUT:TEMP: 21.9*C RH: 55.0% | BARO: 1000.0 hPa | DIR:90° SPEED: 4km/h | GUST: 6km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 14:05:21| IN:TEMP: 22.1*C RH: 53.0% | OUT:TEMP: 22.1*C RH: 53.0% | BARO: 1000.0 hPa | DIR:45° SPEED: 9km/h | GUST: 14km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 14:06:23| IN:TEMP: 22.1*C RH: 53.0% | OUT:TEMP: 22.1*C RH: 53.0% | BARO: 1000.0 hPa | DIR:45° SPEED: 12km/h | GUST: 14km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 14:07:25| IN:TEMP: 21.7*C RH: 55.0% | OUT:TEMP: 21.7*C RH: 55.0% | BARO: 1000.0 hPa | DIR:0° SPEED: 9km/h | GUST: 14km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 14:08:27| IN:TEMP: 21.8*C RH: 55.0% | OUT:TEMP: 21.8*C RH: 55.0% | BARO: 1000.0 hPa | DIR:315° SPEED: 9km/h | GUST: 14km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
+|27.05.2026 15:10:36| IN:TEMP: 22.1*C RH: 51.0% | OUT:TEMP: 22.1*C RH: 51.0% | BARO: 1000.0 hPa | DIR:45° SPEED: 6km/h | GUST: 10km/h | RAIN 1h: 0.0 mm | 24h: 0.0 mm|
