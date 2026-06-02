@@ -86,8 +86,10 @@ def station():
 # ---------------- HISTORY ----------------
 @app.route("/history")
 def history():
-
     try:
+        if not os.path.exists(HISTORY_FILE):
+            return jsonify({})
+
         with open(HISTORY_FILE, encoding="utf-8") as f:
             data = json.load(f)
 
@@ -109,13 +111,15 @@ def history_flat():
 
         flat = []
 
-        for day in data:
-            for item in data[day]:
-                flat.append(item)
+        if isinstance(data, dict):
+            for day, items in data.items():
+                if isinstance(items, list):
+                    for item in items:
+                        flat.append(item)
 
         return jsonify(flat)
 
-    except:
+    except Exception as e:
         return jsonify([])
 
 
