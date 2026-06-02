@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify, send_from_directory
+history_memory = []
 import json
 import requests
 import os
@@ -33,23 +34,21 @@ def home():
 # ---------------- UPDATE ----------------
 @app.route("/update", methods=["POST"])
 def update():
-
     try:
         data = request.get_json(force=True)
 
-        if not data:
-            return {"error": "No JSON"}, 400
+        global history_memory
 
-        # сохранить данные станции
-        with open(DATA_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
-
-        # история пишется раз в 30 минут
-        if can_save():
-            save_history(data)
-
-            with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
-                json.dump({"time": datetime.now().timestamp()}, f)
+        history_memory.append({
+            "time": datetime.now().strftime("%H:%M:%S"),
+            "temp": data.get("temp", 0),
+            "humidity": data.get("humidity", 0),
+            "pressure": data.get("pressure", 0),
+            "wind": data.get("wind_ms", 0),
+            "gust": data.get("wind_gust_ms", 0),
+            "rain_1h": data.get("rain_1h", 0),
+            "rain_24h": data.get("rain_24h", 0)
+        })
 
         return {"ok": True}
 
@@ -99,25 +98,7 @@ def history():
 # ---------------- FLAT HISTORY ----------------
 @app.route("/history_flat")
 def history_flat():
-
-    try:
-        if not os.path.exists(HISTORY_FILE):
-            return jsonify([])
-
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-
-        flat = []
-
-        if isinstance(data, dict):
-            for day in data:
-                for item in data[day]:
-                    flat.append(item)
-
-        return jsonify(flat)
-
-    except Exception as e:
-        return jsonify({"error": str(e)})
+    return jsonify(history_memory)
 
 
 # ---------------- SAVE HISTORY ----------------
