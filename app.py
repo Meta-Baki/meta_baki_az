@@ -382,6 +382,11 @@ def story_files(filename):
     return send_from_directory('story', filename)
 
 
+@app.route("/test")
+def test():
+    return {"status": "ok"}
+
+
 # ---------------- RUN ----------------
 if __name__ == "__main__":
 
