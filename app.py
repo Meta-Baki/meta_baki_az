@@ -3,9 +3,9 @@ import json
 import requests
 import os
 from datetime import datetime
-import pytz
+from zoneinfo import ZoneInfo
 
-BAKU_TZ = pytz.timezone("Asia/Baku")
+BAKU_TZ = ZoneInfo("Asia/Baku")
 
 app = Flask(__name__)
 
