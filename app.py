@@ -48,8 +48,8 @@ def update():
 
         save_history(data)
 
-            with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
-                json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
+with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
+    json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
 
         return {"ok": True}
 
