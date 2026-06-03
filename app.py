@@ -20,7 +20,7 @@ HISTORY_FILE = "history.json"
 LAST_SAVE_FILE = "last_save.json"
 
 
-# ---------------- GITHUB ----------------
+# ---------------- GITHUB PUSH ----------------
 def update_github(history):
     url = f"https://api.github.com/repos/{REPO}/contents/{FILE}"
 
@@ -30,7 +30,9 @@ def update_github(history):
     }
 
     r = requests.get(url, headers=headers)
-    sha = r.json()["sha"] if r.status_code == 200 else None
+    sha = None
+    if r.status_code == 200:
+        sha = r.json()["sha"]
 
     content = base64.b64encode(
         json.dumps(history, ensure_ascii=False).encode()
@@ -48,21 +50,8 @@ def update_github(history):
     requests.put(url, json=data, headers=headers)
 
 
-# ---------------- LOAD HISTORY ----------------
-def load_history():
-    if not os.path.exists(HISTORY_FILE):
-        return []
-
-    try:
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-            return data if isinstance(data, list) else []
-    except:
-        return []
-
-
-# ---------------- SAVE TIMER ----------------
-def can_save_history():
+# ---------------- 30 MIN CHECK ----------------
+def can_save():
     if not os.path.exists(LAST_SAVE_FILE):
         return True
 
@@ -71,57 +60,94 @@ def can_save_history():
             last = json.load(f).get("time", 0)
 
         now = datetime.now(BAKU_TZ).timestamp()
-        return (now - last) >= 1800  # 30 min
+        return (now - last) >= 1800  # 30 минут
+
     except:
         return True
 
 
 def update_last_save():
+    data = {
+        "time": datetime.now(BAKU_TZ).timestamp()
+    }
+
     with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
-        json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
+        json.dump(data, f)
 
 
-# ---------------- UPDATE (СТАНЦИЯ) ----------------
+# ---------------- UPDATE ----------------
 @app.route("/update", methods=["POST"])
 def update():
     try:
+        if not can_save():
+            return jsonify({"ok": True, "skipped": True})
+
         data = request.get_json(force=True)
         if not data:
-            return {"error": "No JSON"}, 400
+            return jsonify({"error": "No JSON"}), 400
 
-        # ---- ВСЕГДА ОБНОВЛЯЕМ ТЕКУЩИЕ ДАННЫЕ ----
-        with open(DATA_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f)
+        # ---- LOAD HISTORY ----
+        if os.path.exists(HISTORY_FILE):
+            with open(HISTORY_FILE, encoding="utf-8") as f:
+                history = json.load(f)
+                if not isinstance(history, list):
+                    history = []
+        else:
+            history = []
 
-        # ---- ЛОГ ДЛЯ ГРАФИКА (раз в 30 минут) ----
-        if can_save_history():
-            history = load_history()
+        # ---- NEW POINT ----
+        point = {
+            "timestamp": datetime.now(BAKU_TZ).isoformat(),
+            "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
 
-            point = {
-                "timestamp": datetime.now(BAKU_TZ).isoformat(),
-                "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
+            "temp": float(data.get("temp") or 0),
+            "wind": float(data.get("wind_ms") or 0),
+            "gust": float(data.get("wind_gust_ms") or 0),
+            "humidity": float(data.get("humidity") or 0),
+            "pressure": float(data.get("pressure") or 0),
+            "rain": float(data.get("rain_1h") or 0)
+        }
 
-                "temp": float(data.get("temp") or 0),
-                "wind": float(data.get("wind_ms") or 0),
-                "gust": float(data.get("wind_gust_ms") or 0),
-                "humidity": float(data.get("humidity") or 0),
-                "pressure": float(data.get("pressure") or 0),
-                "rain": float(data.get("rain_1h") or 0)
-            }
+        history.append(point)
+        history = history[-2000:]
 
-            history.append(point)
-            history = history[-2000:]
+        # ---- SAVE LOCAL ----
+        with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+            json.dump(history, f, indent=2)
 
-            with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-                json.dump(history, f, indent=2)
+        # ---- SAVE TIMER ----
+        update_last_save()
 
-            update_last_save()
-            update_github(history)
+        # ---- PUSH TO GITHUB ----
+        update_github(history)
 
-        return jsonify({"ok": True})
+        return jsonify({"ok": True, "saved": True})
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+
+# ---------------- HISTORY ----------------
+@app.route("/history")
+def history():
+    if not os.path.exists(HISTORY_FILE):
+        return jsonify([])
+
+    with open(HISTORY_FILE, encoding="utf-8") as f:
+        data = json.load(f)
+
+    return jsonify(data if isinstance(data, list) else [])
+
+
+@app.route("/history_flat")
+def history_flat():
+    if not os.path.exists(HISTORY_FILE):
+        return jsonify([])
+
+    with open(HISTORY_FILE, encoding="utf-8") as f:
+        data = json.load(f)
+
+    return jsonify(data if isinstance(data, list) else [])
 
 
 # ---------------- STATION ----------------
@@ -140,17 +166,6 @@ def station():
 
     with open(DATA_FILE, encoding="utf-8") as f:
         return jsonify(json.load(f))
-
-
-# ---------------- HISTORY ----------------
-@app.route("/history")
-def history():
-    return jsonify(load_history())
-
-
-@app.route("/history_flat")
-def history_flat():
-    return jsonify(load_history())
 
 
 # ---------------- STATUS ----------------
