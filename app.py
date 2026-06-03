@@ -3,6 +3,9 @@ import json
 import requests
 import os
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+BAKU_TZ = ZoneInfo("Asia/Baku")
 
 app = Flask(__name__)
 
@@ -49,7 +52,7 @@ def update():
             save_history(data)
 
             with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
-                json.dump({"time": datetime.now().timestamp()}, f)
+                json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
 
         return {"ok": True}
 
@@ -132,7 +135,7 @@ def save_history(entry):
         except:
             data = {}
 
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now(BAKU_TZ).strftime("%Y-%m-%d")
 
     if today not in data:
         data[today] = []
@@ -140,10 +143,10 @@ def save_history(entry):
     data[today].append({
 
         # нормальное время
-        "timestamp": datetime.now().isoformat(),
+        "timestamp": datetime.now(BAKU_TZ).isoformat(),
 
         # красивое время
-        "time": datetime.now().strftime("%d.%m %H:%M:%S"),
+        "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
 
         "temp": float(entry.get("temp", 0)),
 
@@ -172,7 +175,7 @@ def can_save():
         with open(LAST_SAVE_FILE, "r", encoding="utf-8") as f:
             last = json.load(f).get("time", 0)
 
-        now = datetime.now().timestamp()
+        now = datetime.now(BAKU_TZ).timestamp()
 
         return (now - last) >= 1800
 
@@ -342,7 +345,7 @@ def status():
         return jsonify({"status": "offline"})
 
     last = os.path.getmtime(DATA_FILE)
-    now = datetime.now().timestamp()
+    now = datetime.now(BAKU_TZ).timestamp()
 
     if now - last > 300:
         return jsonify({"status": "offline"})
