@@ -68,6 +68,28 @@ def home():
     return send_from_directory(".", "index.html")
 
 
+# ---------------- 30 MIN CHECK ----------------
+def can_save():
+
+    if not os.path.exists(LAST_SAVE_FILE):
+        return True
+
+    try:
+        with open(LAST_SAVE_FILE, "r", encoding="utf-8") as f:
+            last = json.load(f).get("time")
+
+        if not last:
+            return True
+
+        last_time = datetime.fromisoformat(last)
+        now = datetime.now(BAKU_TZ)
+
+        return (now - last_time).total_seconds() >= 1800
+
+    except:
+        return True
+
+
 # ---------------- UPDATE ----------------
 @app.route("/update", methods=["POST"])
 def update():
@@ -77,16 +99,58 @@ def update():
         if not data:
             return {"error": "No JSON"}, 400
 
-        # ---- LOCAL HISTORY ----
-        if os.path.exists(HISTORY_FILE):
-            with open(HISTORY_FILE, encoding="utf-8") as f:
-                history = json.load(f)
-                if not isinstance(history, list):
-                    history = []
+        # =========================
+        # ⏱ 30 МИНУТ ЗАЩИТА
+        # =========================
+        if os.path.exists(LAST_SAVE_FILE):
+            with open(LAST_SAVE_FILE, "r", encoding="utf-8") as f:
+                last = json.load(f).get("time")
         else:
-            history = []
+            last = None
 
-        # ---- CLEAN DATA (ВАЖНО) ----
+        if last:
+            last_time = datetime.fromisoformat(last)
+
+            # если время без timezone — фиксируем
+            if last_time.tzinfo is None:
+                last_time = last_time.replace(tzinfo=BAKU_TZ)
+
+            now = datetime.now(BAKU_TZ)
+
+            if (now - last_time).total_seconds() < 1800:
+                return {"ok": True, "skipped": True}
+
+        # =========================
+        # 📅 СБРОС В 00:00
+        # =========================
+        today = datetime.now(BAKU_TZ).strftime("%Y-%m-%d")
+
+        if os.path.exists("last_day.json"):
+            with open("last_day.json", "r", encoding="utf-8") as f:
+                last_day = json.load(f).get("day")
+        else:
+            last_day = None
+
+        if last_day != today:
+            history = []
+        else:
+            if os.path.exists(HISTORY_FILE):
+                with open(HISTORY_FILE, encoding="utf-8") as f:
+                    try:
+                        history = json.load(f)
+                        if not isinstance(history, list):
+                            history = []
+                    except:
+                        history = []
+            else:
+                history = []
+
+        with open("last_day.json", "w", encoding="utf-8") as f:
+            json.dump({"day": today}, f)
+
+        # =========================
+        # 📊 ДОБАВЛЕНИЕ ДАННЫХ
+        # =========================
         point = {
             "timestamp": datetime.now(BAKU_TZ).isoformat(),
             "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
@@ -102,12 +166,20 @@ def update():
         history.append(point)
         history = history[-2000:]
 
-        # ---- SAVE LOCAL ----
+        # =========================
+        # 💾 СОХРАНЕНИЕ
+        # =========================
         with open(HISTORY_FILE, "w", encoding="utf-8") as f:
             json.dump(history, f, indent=2)
 
-        # ---- PUSH GITHUB ----
+        # =========================
+        # ☁️ GITHUB UPDATE
+        # =========================
         update_github(history)
+
+        # сохраняем время последней записи
+        with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
+            json.dump({"time": datetime.now(BAKU_TZ).isoformat()}, f)
 
         return {"ok": True}
 
@@ -234,24 +306,6 @@ def save_history(entry):
 
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
-
-
-# ---------------- 30 MIN CHECK ----------------
-def can_save():
-
-    if not os.path.exists(LAST_SAVE_FILE):
-        return True
-
-    try:
-        with open(LAST_SAVE_FILE, "r", encoding="utf-8") as f:
-            last = json.load(f).get("time", 0)
-
-        now = datetime.now(BAKU_TZ).timestamp()
-
-        return (now - last) >= 1800
-
-    except:
-        return True
 
 
 # ---------------- FORECAST 7 ----------------
