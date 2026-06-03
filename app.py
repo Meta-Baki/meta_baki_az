@@ -95,6 +95,7 @@ def can_save():
 def update():
     try:
         data = request.get_json(force=True)
+        print("UPDATE RECEIVED:", data)
 
         if not data:
             return {"error": "No JSON"}, 400
@@ -125,28 +126,21 @@ def update():
         # =========================
         today = datetime.now(BAKU_TZ).strftime("%Y-%m-%d")
 
-        if os.path.exists("last_day.json"):
-            with open("last_day.json", "r", encoding="utf-8") as f:
-                last_day = json.load(f).get("day")
-        else:
-            last_day = None
+        today = datetime.now(BAKU_TZ).strftime("%Y-%m-%d")
 
-        if last_day != today:
-            history = []
-        else:
-            if os.path.exists(HISTORY_FILE):
-                with open(HISTORY_FILE, encoding="utf-8") as f:
-                    try:
-                        history = json.load(f)
-                        if not isinstance(history, list):
-                            history = []
-                    except:
-                        history = []
-            else:
-                history = []
+with open("last_day.json", "w", encoding="utf-8") as f:
+    json.dump({"day": today}, f)
 
-        with open("last_day.json", "w", encoding="utf-8") as f:
-            json.dump({"day": today}, f)
+if os.path.exists(HISTORY_FILE):
+    try:
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            loaded = json.load(f)
+
+        if isinstance(loaded, list):
+            history = loaded
+
+    except:
+        history = []
 
         # =========================
         # 📊 ДОБАВЛЕНИЕ ДАННЫХ
@@ -162,6 +156,9 @@ def update():
             "pressure": float(data.get("pressure") or 0),
             "rain": float(data.get("rain_1h") or 0)
         }
+
+        print("POINT:", point)
+        print("HISTORY SIZE:", len(history))
 
         history.append(point)
         history = history[-2000:]
@@ -257,13 +254,10 @@ def history_flat():
         with open(HISTORY_FILE, encoding="utf-8") as f:
             data = json.load(f)
 
-        if not isinstance(data, list):
-            return jsonify([])
-
         return jsonify(data)
 
-    except:
-        return jsonify([])
+    except Exception as e:
+        return jsonify({"error": str(e)})
 
 
 # ---------------- SAVE HISTORY ----------------
