@@ -1,26 +1,20 @@
 <h2 style="color:#60a5fa;">
 🌊 El-Ninyo ən güclü iqlim hadisələrindən birinə çevrilə bilər
 </h2>
-
 <p>
 Alimlər yaxın həftələrdə yeni güclü
 <span style="color:#facc15;font-weight:bold;">El-Ninyo</span>
 hadisəsinin formalaşması ehtimalı barədə xəbərdarlıq edirlər. Ümumdünya Meteorologiya Təşkilatının məlumatına görə, bu iqlim fenomeni qlobal istiləşməni gücləndirə və dünyada ekstremal hava hadisələrinin artmasına səbəb ola bilər.
 </p>
-
 <br>
-
 <h3 style="color:#ef4444;">
 ⚠️ Hazırkı vəziyyət
 </h3>
-
 <p>
 Mütəxəssislər Sakit Okeanın mərkəzi və şərq hissəsini izləyirlər, burada suyun səth temperaturu, atmosfer təzyiqi və külək axınlarında dəyişikliklər qeydə alınır.
 <span style="color:#38bdf8;font-weight:bold;">Məhz bu göstəricilər El-Ninyonun inkişafını müəyyən edir</span> və onun gücünü proqnozlaşdırmağa imkan verir.
 </p>
-
 <br>
-
 <p>
 📌 El-Ninyo — təbii iqlim hadisəsidir və bu zaman
 <span style="color:#f97316;font-weight:bold;">
@@ -28,68 +22,50 @@ ekvatorial Sakit Okeanın səth suları normadan xeyli istiləşir.
 </span>
 Bu isə atmosfer dövranını pozur və planetin müxtəlif bölgələrində hava şəraitinə təsir edir.
 </p>
-
 <br>
-
 <h3 style="color:#f97316;">
 🌡 Mümkün güc səviyyəsi
 </h3>
-
 <p>
 Meteoroloji xidmətlərin qiymətləndirməsinə görə, formalaşan El-Ninyo 2026-cı il ərzində güclənə bilər.
 Bəzi mütəxəssislər onun
 <span style="color:#facc15;font-weight:bold;">“super El-Ninyo”</span>
 səviyyəsinə çatmasını istisna etmirlər — bu isə çox nadir və qlobal təsirli hadisədir.
 </p>
-
 <br>
 
 <h3 style="color:#ef4444;">
 🌍 Mümkün nəticələr
 </h3>
-
 <p>🔥 <span style="color:#ff6b6b;font-weight:bold;">Dünyanın müxtəlif bölgələrində rekord istilər</span></p>
-
 <p>🌾 <span style="color:#f59e0b;font-weight:bold;">Quraqlıq, məhsuldarlığın azalması və meşə yanğınlarının artması</span></p>
-
 <p>🌀 <span style="color:#38bdf8;font-weight:bold;">Tropik qasırğaların və fırtınaların güclənməsi</span></p>
-
 <p>🌧 <span style="color:#60a5fa;font-weight:bold;">Sel və daşqın riskinin artması</span></p>
-
 <br>
-
 <h3 style="color:#a78bfa;">
 📊 İqlim və iqtisadiyyata təsir
 </h3>
-
 <p>
 Tarixdə güclü El-Ninyo hadisələri kənd təsərrüfatında məhsuldarlığın azalmasına, tədarük zəncirlərinin pozulmasına və ərzaq qiymətlərinin artmasına səbəb olub.
 </p>
-
 <p>
 Mütəxəssislər bildirirlər ki, müasir qlobal istiləşmə bu təsirləri daha da gücləndirə bilər.
 <span style="color:#84cc16;font-weight:bold;">El-Ninyo və antropogen iqlim dəyişikliyi</span>
 birlikdə yeni temperatur rekordları yarada bilər.
 </p>
-
 <br>
-
 <h3 style="color:#60a5fa;">
 🔬 Mütəxəssis fikri
 </h3>
-
 <p>
 İqlim alimləri hazırkı okean şəraitinin güclü El-Ninyo ehtimalını artırdığını bildirirlər.
 Bəzi proqnozlara görə,
 <span style="color:#facc15;font-weight:bold;">2027-ci il tarixdə ən isti illərdən biri ola bilər</span>.
 </p>
-
 <p>
 Lakin hadisənin real gücü növbəti aylarda Sakit Okeanda baş verən dəyişikliklərdən asılı olacaq.
 </p>
-
 <br>
-
 <h3 style="color:#ef4444;">
 ⏳ Nəticə
 </h3>
