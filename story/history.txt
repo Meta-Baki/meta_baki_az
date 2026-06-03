@@ -1,62 +1,106 @@
 <h2 style="color:#60a5fa;">
-🌊 Super El Niño geri qayıdır?
+🌊 El-Ninyo ən güclü iqlim hadisələrindən birinə çevrilə bilər
 </h2>
 
 <p>
-Sakit Okeanda yenidən
-<span style="color:#facc15;font-weight:bold;">El Niño</span>
-iqlim hadisəsinin formalaşmasına dair əlamətlər müşahidə olunur.
-Bu hadisə Yer kürəsinin müxtəlif bölgələrində hava şəraitinə ciddi təsir göstərə bilər.
-</p>
-
-<br>
-
-<p>
-📌 El Niño zamanı
-<span style="color:#f97316;font-weight:bold;">
-Ekvatorial Sakit Okeanın səth suları normadan daha çox istiləşir.
-</span>
-Bu isə qlobal miqyasda iqlim dəyişikliklərinə və ekstremal hava hadisələrinin artmasına səbəb ola bilər.
+Alimlər yaxın həftələrdə yeni güclü
+<span style="color:#facc15;font-weight:bold;">El-Ninyo</span>
+hadisəsinin formalaşması ehtimalı barədə xəbərdarlıq edirlər. Ümumdünya Meteorologiya Təşkilatının məlumatına görə, bu iqlim fenomeni qlobal istiləşməni gücləndirə və dünyada ekstremal hava hadisələrinin artmasına səbəb ola bilər.
 </p>
 
 <br>
 
 <h3 style="color:#ef4444;">
-⚠️ Mümkün nəticələr
+⚠️ Hazırkı vəziyyət
 </h3>
 
 <p>
-🔥 <span style="color:#ff6b6b;font-weight:bold;">Rekord istilər</span>
+Mütəxəssislər Sakit Okeanın mərkəzi və şərq hissəsini izləyirlər, burada suyun səth temperaturu, atmosfer təzyiqi və külək axınlarında dəyişikliklər qeydə alınır.
+<span style="color:#38bdf8;font-weight:bold;">Məhz bu göstəricilər El-Ninyonun inkişafını müəyyən edir</span> və onun gücünü proqnozlaşdırmağa imkan verir.
+</p>
+
+<br>
+
+<p>
+📌 El-Ninyo — təbii iqlim hadisəsidir və bu zaman
+<span style="color:#f97316;font-weight:bold;">
+ekvatorial Sakit Okeanın səth suları normadan xeyli istiləşir.
+</span>
+Bu isə atmosfer dövranını pozur və planetin müxtəlif bölgələrində hava şəraitinə təsir edir.
+</p>
+
+<br>
+
+<h3 style="color:#f97316;">
+🌡 Mümkün güc səviyyəsi
+</h3>
+
+<p>
+Meteoroloji xidmətlərin qiymətləndirməsinə görə, formalaşan El-Ninyo 2026-cı il ərzində güclənə bilər.
+Bəzi mütəxəssislər onun
+<span style="color:#facc15;font-weight:bold;">“super El-Ninyo”</span>
+səviyyəsinə çatmasını istisna etmirlər — bu isə çox nadir və qlobal təsirli hadisədir.
+</p>
+
+<br>
+
+<h3 style="color:#ef4444;">
+🌍 Mümkün nəticələr
+</h3>
+
+<p>🔥 <span style="color:#ff6b6b;font-weight:bold;">Dünyanın müxtəlif bölgələrində rekord istilər</span></p>
+
+<p>🌾 <span style="color:#f59e0b;font-weight:bold;">Quraqlıq, məhsuldarlığın azalması və meşə yanğınlarının artması</span></p>
+
+<p>🌀 <span style="color:#38bdf8;font-weight:bold;">Tropik qasırğaların və fırtınaların güclənməsi</span></p>
+
+<p>🌧 <span style="color:#60a5fa;font-weight:bold;">Sel və daşqın riskinin artması</span></p>
+
+<br>
+
+<h3 style="color:#a78bfa;">
+📊 İqlim və iqtisadiyyata təsir
+</h3>
+
+<p>
+Tarixdə güclü El-Ninyo hadisələri kənd təsərrüfatında məhsuldarlığın azalmasına, tədarük zəncirlərinin pozulmasına və ərzaq qiymətlərinin artmasına səbəb olub.
 </p>
 
 <p>
-🌾 <span style="color:#f59e0b;font-weight:bold;">Quraqlıq və meşə yanğınlarının güclənməsi</span>
+Mütəxəssislər bildirirlər ki, müasir qlobal istiləşmə bu təsirləri daha da gücləndirə bilər.
+<span style="color:#84cc16;font-weight:bold;">El-Ninyo və antropogen iqlim dəyişikliyi</span>
+birlikdə yeni temperatur rekordları yarada bilər.
+</p>
+
+<br>
+
+<h3 style="color:#60a5fa;">
+🔬 Mütəxəssis fikri
+</h3>
+
+<p>
+İqlim alimləri hazırkı okean şəraitinin güclü El-Ninyo ehtimalını artırdığını bildirirlər.
+Bəzi proqnozlara görə,
+<span style="color:#facc15;font-weight:bold;">2027-ci il tarixdə ən isti illərdən biri ola bilər</span>.
 </p>
 
 <p>
-🌀 <span style="color:#38bdf8;font-weight:bold;">Daha güclü qasırğalar və tropik fırtınalar</span>
+Lakin hadisənin real gücü növbəti aylarda Sakit Okeanda baş verən dəyişikliklərdən asılı olacaq.
 </p>
+
+<br>
+
+<h3 style="color:#ef4444;">
+⏳ Nəticə
+</h3>
 
 <p>
-🌧 <span style="color:#60a5fa;font-weight:bold;">Daşqın riskinin artması</span>
+Meteoroloji xidmətlər vəziyyəti daimi izləyir.
+Hazırda tam dəqiqlik olmasa da,
+<span style="color:#38bdf8;font-weight:bold;">güclü qlobal təsir ehtimalı yüksək olaraq qalır</span>.
 </p>
-<h2 style="color:#60a5fa;">🌊 Super El Niño geri qayıdır? Sakit Okeanın anomal istiləşməsi dünyanı nə ilə təhdid edir?</h2>
 
-<p>Sakit Okeanda yenidən <span style="color:#facc15;font-weight:bold;">El Niño</span> iqlim hadisəsinin formalaşmasına dair əlamətlər müşahidə olunur. Meteoroloqlar və iqlim mütəxəssisləri okean səthinin temperaturunda baş verən dəyişiklikləri diqqətlə izləyirlər. El Niño Yer kürəsinin ən güclü təbii iqlim hadisələrindən biri hesab olunur və onun təsiri yalnız Sakit Okeanla məhdudlaşmır. Bu hadisə atmosfer dövranını dəyişdirərək müxtəlif qitələrdə temperatur, yağıntı, külək və rütubət rejimlərinə ciddi təsir göstərə bilir.</p>
-
-<p><span style="color:#f97316;font-weight:bold;">El Niño zamanı ekvatorial Sakit Okeanın səth suları normadan xeyli isti olur.</span> Bunun nəticəsində okean və atmosfer arasında enerji mübadiləsi dəyişir, hava axınlarının istiqaməti pozulur və qlobal miqyasda hava şəraitində anomaliyalar yaranır. Tarixdə baş vermiş güclü El Niño hadisələri rekord istilər, uzunmüddətli quraqlıqlar, dağıdıcı daşqınlar və güclü tropik qasırğalarla yadda qalıb.</p>
-
-<p>Mütəxəssislərin fikrincə, yeni El Niño hadisəsinin güclənməsi halında <span style="color:#ef4444;font-weight:bold;">bir çox regionlarda rekord yüksək temperatur göstəriciləri</span> qeydə alına bilər. Xüsusilə Asiya, Avstraliya, Afrika və Amerikanın bəzi hissələrində isti hava dalğalarının daha uzunmüddətli və intensiv olacağı ehtimal edilir. Bununla yanaşı, <span style="color:#f59e0b;font-weight:bold;">quraqlıq və meşə yanğınlarının artması</span>, su ehtiyatlarının azalması və kənd təsərrüfatında problemlərin yaranması riski də yüksəlir.</p>
-
-<p>Digər tərəfdən, bəzi bölgələrdə əks proses müşahidə oluna bilər. <span style="color:#38bdf8;font-weight:bold;">Güclü yağışlar, sel və daşqınlar</span> xüsusilə Cənubi Amerika və Sakit Okean hövzəsinə yaxın ərazilərdə ciddi problemlər yarada bilər. Alimlər hesab edirlər ki, okean səthinin istiləşməsi nəticəsində atmosfer daha çox rütubət toplayır və bu da bəzi regionlarda intensiv yağıntıların baş verməsinə şərait yaradır.</p>
-
-<p><span style="color:#a78bfa;font-weight:bold;">Tropik qasırğaların və güclü fırtınaların aktivliyi də arta bilər.</span> İsti okean suları bu sistemlər üçün əlavə enerji mənbəyi rolunu oynayır. Nəticədə daha güclü küləklər, daha intensiv yağıntılar və daha geniş əraziləri əhatə edən hava hadisələri meydana çıxa bilər. Bu isə həm insanların təhlükəsizliyi, həm də infrastruktur üçün əlavə risklər yaradır.</p>
-
-<p>İqlim ekspertləri bildirirlər ki, El Niño hadisəsi qlobal iqtisadiyyata da təsirsiz ötüşmür. <span style="color:#84cc16;font-weight:bold;">Kənd təsərrüfatında məhsuldarlığın azalması</span>, su qıtlığı, enerji istehlakının artması və logistika problemləri dünya bazarlarında qiymətlərin yüksəlməsinə səbəb ola bilər. Xüsusilə ərzaq məhsullarının qiymətlərində artım müşahidə oluna bilər ki, bu da bir çox ölkələr üçün əlavə iqtisadi yük yaradır.</p>
-
-<p>Hazırda beynəlxalq meteoroloji təşkilatlar və elmi mərkəzlər okean temperaturunu, külək sistemlərini və atmosfer proseslərini daimi nəzarətdə saxlayırlar. Bununla belə, bəzi mənbələrdə səsləndirilən <span style="color:#facc15;font-weight:bold;">“1870-ci illərdən bəri ən güclü El Niño”</span> iddiası hələlik rəsmi şəkildə təsdiqlənməyib. Hadisənin real gücü qarşıdakı aylarda formalaşacaq okean və atmosfer şəraitindən asılı olacaq.</p>
-
-<p>Növbəti aylarda əldə olunacaq müşahidələr El Niño hadisəsinin hansı səviyyəyə çatacağını daha dəqiq göstərəcək. Lakin artıq indidən bir çox alimlər onun qlobal hava proseslərinə təsir göstərə biləcəyini və <span style="color:#ef4444;font-weight:bold;">ekstremal hava hadisələrinin sayını artırmaq potensialına malik olduğunu</span> bildirirlər. Dünya meteoroloqları vəziyyəti yaxından izləməyə davam edir və yeni məlumatlar əldə olunduqca proqnozlar yenilənəcək.</p>
+<br>
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
 META Müəllif: Professional meteoroloq: Əliyev Edelman.
