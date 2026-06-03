@@ -5,9 +5,44 @@ import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+import base64
+
+def update_github(history):
+    url = f"https://api.github.com/repos/{REPO}/contents/{FILE}"
+
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json"
+    }
+
+    r = requests.get(url, headers=headers)
+    sha = None
+    if r.status_code == 200:
+        sha = r.json()["sha"]
+
+    content = base64.b64encode(
+        json.dumps(history, ensure_ascii=False).encode()
+    ).decode()
+
+    data = {
+        "message": "update weather data",
+        "content": content,
+        "branch": "main"
+    }
+
+    if sha:
+        data["sha"] = sha
+
+    requests.put(url, json=data, headers=headers)
+
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+REPO = "Meta-Baki/meta-weather"
+FILE = "history.json"
+
 BAKU_TZ = ZoneInfo("Asia/Baku")
 
 app = Flask(__name__)
+
 
 # ---------------- MANIFEST ----------------
 @app.route("/manifest.json")
@@ -43,16 +78,47 @@ def update():
         if not data:
             return {"error": "No JSON"}, 400
 
-        # сохранить данные станции
+        # ---------------- SAVE LOCAL DATA ----------------
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2)
 
-        # история пишется раз в 30 минут
+        # ---------------- HISTORY (LOCAL, 30 MIN LIMIT) ----------------
         if can_save():
             save_history(data)
 
             with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
                 json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
+
+
+        # ---------------- GITHUB UPDATE ----------------
+        history = []
+
+        try:
+            r = requests.get(
+                f"https://raw.githubusercontent.com/{REPO}/main/{FILE}",
+                timeout=10
+            )
+
+            if r.status_code == 200:
+                try:
+                    history = r.json()
+                    if not isinstance(history, list):
+                        history = []
+                except:
+                    history = []
+        except:
+            history = []
+
+        history.append({
+            "temp": data.get("temp"),
+            "humidity": data.get("humidity"),
+            "pressure": data.get("pressure"),
+            "time": datetime.now(BAKU_TZ).isoformat()
+        })
+
+        history = history[-2000:]
+
+        update_github(history)
 
         return {"ok": True}
 
