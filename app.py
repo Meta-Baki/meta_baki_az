@@ -155,21 +155,6 @@ def station():
 # ---------------- HISTORY ----------------
 @app.route("/history")
 def history():
-
-    try:
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-
-        return jsonify(data)
-
-    except:
-        return jsonify({})
-
-
-# ---------------- FLAT HISTORY ----------------
-@app.route("/history_flat")
-def history_flat():
-
     try:
         if not os.path.exists(HISTORY_FILE):
             return jsonify([])
@@ -177,56 +162,70 @@ def history_flat():
         with open(HISTORY_FILE, encoding="utf-8") as f:
             data = json.load(f)
 
-        flat = []
+        # если вдруг dict (старый формат) — превращаем в list
+        if isinstance(data, dict):
+            flat = []
+            for day in data.values():
+                flat.extend(day)
+            return jsonify(flat)
+
+        if not isinstance(data, list):
+            return jsonify([])
+
+        return jsonify(data)
+
+    except:
+        return jsonify([])
+
+
+# ---------------- FLAT HISTORY ----------------
+@app.route("/history_flat")
+def history_flat():
+    try:
+        if not os.path.exists(HISTORY_FILE):
+            return jsonify([])
+
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            data = json.load(f)
 
         if isinstance(data, dict):
-            for day in data:
-                for item in data[day]:
-                    flat.append(item)
+            flat = []
+            for day in data.values():
+                flat.extend(day)
+            return jsonify(flat)
 
-        return jsonify(flat)
+        return jsonify(data if isinstance(data, list) else [])
 
-    except Exception as e:
-        return jsonify({"error": str(e)})
+    except:
+        return jsonify([])
 
 
 # ---------------- SAVE HISTORY ----------------
 def save_history(entry):
 
-    data = {}
-
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, encoding="utf-8") as f:
                 data = json.load(f)
+                if not isinstance(data, list):
+                    data = []
         except:
-            data = {}
+            data = []
+    else:
+        data = []
 
-    today = datetime.now(BAKU_TZ).strftime("%Y-%m-%d")
-
-    if today not in data:
-        data[today] = []
-
-    data[today].append({
-
-        # нормальное время
+    data.append({
         "timestamp": datetime.now(BAKU_TZ).isoformat(),
-
-        # красивое время
         "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
-
         "temp": float(entry.get("temp", 0)),
-
         "wind": round(float(entry.get("wind_ms", 0)) * 3.6, 1),
-
         "gust": round(float(entry.get("wind_gust_ms", 0)) * 3.6, 1),
-
         "humidity": float(entry.get("humidity", 0)),
-
         "pressure": float(entry.get("pressure", 0)),
-
         "rain": float(entry.get("rain_1h", 0))
     })
+
+    data = data[-2000:]
 
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
