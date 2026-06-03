@@ -71,54 +71,42 @@ def home():
 # ---------------- UPDATE ----------------
 @app.route("/update", methods=["POST"])
 def update():
-
     try:
         data = request.get_json(force=True)
 
         if not data:
             return {"error": "No JSON"}, 400
 
-        # ---------------- SAVE LOCAL DATA ----------------
-        with open(DATA_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
-
-        # ---------------- HISTORY (LOCAL, 30 MIN LIMIT) ----------------
-        if can_save():
-            save_history(data)
-            print("HISTORY SAVED")
-
-            with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
-                json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
-
-
-        # ---------------- GITHUB UPDATE ----------------
-        history = []
-
-        try:
-            r = requests.get(
-                f"https://raw.githubusercontent.com/{REPO}/main/{FILE}",
-                timeout=10
-            )
-
-            if r.status_code == 200:
-                try:
-                    history = r.json()
-                    if not isinstance(history, list):
-                        history = []
-                except:
+        # ---- LOCAL HISTORY ----
+        if os.path.exists(HISTORY_FILE):
+            with open(HISTORY_FILE, encoding="utf-8") as f:
+                history = json.load(f)
+                if not isinstance(history, list):
                     history = []
-        except:
+        else:
             history = []
 
-        history.append({
-            "temp": data.get("temp"),
-            "humidity": data.get("humidity"),
-            "pressure": data.get("pressure"),
-            "time": datetime.now(BAKU_TZ).isoformat()
-        })
+        # ---- CLEAN DATA (ВАЖНО) ----
+        point = {
+            "timestamp": datetime.now(BAKU_TZ).isoformat(),
+            "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
 
+            "temp": float(data.get("temp") or 0),
+            "wind": float(data.get("wind_ms") or 0),
+            "gust": float(data.get("wind_gust_ms") or 0),
+            "humidity": float(data.get("humidity") or 0),
+            "pressure": float(data.get("pressure") or 0),
+            "rain": float(data.get("rain_1h") or 0)
+        }
+
+        history.append(point)
         history = history[-2000:]
 
+        # ---- SAVE LOCAL ----
+        with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+            json.dump(history, f, indent=2)
+
+        # ---- PUSH GITHUB ----
         update_github(history)
 
         return {"ok": True}
@@ -155,21 +143,6 @@ def station():
 # ---------------- HISTORY ----------------
 @app.route("/history")
 def history():
-
-    try:
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-
-        return jsonify(data)
-
-    except:
-        return jsonify({})
-
-
-# ---------------- FLAT HISTORY ----------------
-@app.route("/history_flat")
-def history_flat():
-
     try:
         if not os.path.exists(HISTORY_FILE):
             return jsonify([])
@@ -177,17 +150,48 @@ def history_flat():
         with open(HISTORY_FILE, encoding="utf-8") as f:
             data = json.load(f)
 
-        flat = []
+        if not isinstance(data, list):
+            return jsonify([])
 
-        if isinstance(data, dict):
-            for day in data:
-                for item in data[day]:
-                    flat.append(item)
+        # фильтр NaN защита
+        clean = [
+            x for x in data
+            if isinstance(x, dict) and "temp" in x and "time" in x
+        ]
 
-        return jsonify(flat)
+        return jsonify(clean)
 
-    except Exception as e:
-        return jsonify({"error": str(e)})
+    except:
+        return jsonify([])
+
+
+# ---------------- DEBUG ENDPOINT ----------------
+@app.route("/debug_history")
+def debug_history():
+    try:
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    except:
+        return {"error": "no file"}
+
+
+# ---------------- FLAT HISTORY ----------------
+@app.route("/history_flat")
+def history_flat():
+    try:
+        if not os.path.exists(HISTORY_FILE):
+            return jsonify([])
+
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+
+        if not isinstance(data, list):
+            return jsonify([])
+
+        return jsonify(data)
+
+    except:
+        return jsonify([])
 
 
 # ---------------- SAVE HISTORY ----------------
