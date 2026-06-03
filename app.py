@@ -6,6 +6,17 @@ from datetime import datetime
 
 app = Flask(__name__)
 
+# ---------------- MANIFEST ----------------
+@app.route("/manifest.json")
+def manifest():
+    return send_from_directory(".", "manifest.json")
+
+
+# ---------------- SERVICE WORKER ----------------
+@app.route("/sw.js")
+def service_worker():
+    return send_from_directory(".", "sw.js")
+
 DATA_FILE = "data.json"
 HISTORY_FILE = "history.json"
 
@@ -337,6 +348,35 @@ def status():
         return jsonify({"status": "offline"})
 
     return jsonify({"status": "online"})
+
+
+# ---------------- STORY CONTENT ----------------
+@app.route("/history_content")
+def history_content():
+
+    text = ""
+
+    try:
+        with open("story/history.txt", "r", encoding="utf-8") as f:
+            text = f.read()
+    except:
+        text = "Hekayə tapılmadı."
+
+    image_path = "/story/image.jpg"
+
+    if os.path.exists("story/image.png"):
+        image_path = "/story/image.png"
+
+    return jsonify({
+        "text": text,
+        "image": image_path
+    })
+
+
+# ---------------- STORY FILES ----------------
+@app.route('/story/<path:filename>')
+def story_files(filename):
+    return send_from_directory('story', filename)
 
 
 # ---------------- RUN ----------------
