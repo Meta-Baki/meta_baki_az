@@ -5,6 +5,7 @@ import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import base64
+import threading
 
 app = Flask(__name__)
 
@@ -20,7 +21,7 @@ HISTORY_FILE = "history.json"
 LAST_SAVE_FILE = "last_save.json"
 
 
-# ---------------- GITHUB PUSH ----------------
+# ---------------- GITHUB UPDATE ----------------
 def update_github(history):
     url = f"https://api.github.com/repos/{REPO}/contents/{FILE}"
 
@@ -50,7 +51,7 @@ def update_github(history):
     requests.put(url, json=data, headers=headers)
 
 
-# ---------------- 30 MIN CHECK ----------------
+# ---------------- SAVE TIMER ----------------
 def can_save():
     if not os.path.exists(LAST_SAVE_FILE):
         return True
@@ -61,30 +62,41 @@ def can_save():
 
         now = datetime.now(BAKU_TZ).timestamp()
         return (now - last) >= 1800  # 30 минут
-
     except:
         return True
 
 
 def update_last_save():
-    data = {
-        "time": datetime.now(BAKU_TZ).timestamp()
-    }
-
     with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f)
+        json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
+
+
+# ---------------- HOME ----------------
+@app.route("/")
+def home():
+    return send_from_directory(".", "index.html")
+
+
+# ---------------- MANIFEST ----------------
+@app.route("/manifest.json")
+def manifest():
+    return send_from_directory(".", "manifest.json")
+
+
+# ---------------- SERVICE WORKER ----------------
+@app.route("/sw.js")
+def service_worker():
+    return send_from_directory(".", "sw.js")
 
 
 # ---------------- UPDATE ----------------
 @app.route("/update", methods=["POST"])
 def update():
     try:
-        if not can_save():
-            return jsonify({"ok": True, "skipped": True})
-
         data = request.get_json(force=True)
+
         if not data:
-            return jsonify({"error": "No JSON"}), 400
+            return {"error": "No JSON"}, 400
 
         # ---- LOAD HISTORY ----
         if os.path.exists(HISTORY_FILE):
@@ -95,64 +107,48 @@ def update():
         else:
             history = []
 
-        # ---- NEW POINT ----
-        point = {
-            "timestamp": datetime.now(BAKU_TZ).isoformat(),
-            "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
+        # ---- ALWAYS SAVE DATA FILE (НЕ ЛОМАЕМ СТАНЦИЮ) ----
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f)
 
-            "temp": float(data.get("temp") or 0),
-            "wind": float(data.get("wind_ms") or 0),
-            "gust": float(data.get("wind_gust_ms") or 0),
-            "humidity": float(data.get("humidity") or 0),
-            "pressure": float(data.get("pressure") or 0),
-            "rain": float(data.get("rain_1h") or 0)
-        }
+        # ---------------- 30 MIN LOGIC ONLY FOR GRAPH ----------------
+        if can_save():
 
-        history.append(point)
-        history = history[-2000:]
+            point = {
+                "timestamp": datetime.now(BAKU_TZ).isoformat(),
+                "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
 
-        # ---- SAVE LOCAL ----
-        with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-            json.dump(history, f, indent=2)
+                "temp": float(data.get("temp") or 0),
+                "wind": float(data.get("wind_ms") or 0),
+                "gust": float(data.get("wind_gust_ms") or 0),
+                "humidity": float(data.get("humidity") or 0),
+                "pressure": float(data.get("pressure") or 0),
+                "rain": float(data.get("rain_1h") or 0)
+            }
 
-        # ---- SAVE TIMER ----
-        update_last_save()
+            history.append(point)
+            history = history[-2000:]
 
-        # ---- PUSH TO GITHUB ----
-        update_github(history)
+            # ---- SAVE HISTORY ----
+            with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+                json.dump(history, f, indent=2)
 
-        return jsonify({"ok": True, "saved": True})
+            # ---- UPDATE TIMER ----
+            update_last_save()
+
+            # ---- PUSH GITHUB ----
+            update_github(history)
+
+        return {"ok": True}
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
-
-# ---------------- HISTORY ----------------
-@app.route("/history")
-def history():
-    if not os.path.exists(HISTORY_FILE):
-        return jsonify([])
-
-    with open(HISTORY_FILE, encoding="utf-8") as f:
-        data = json.load(f)
-
-    return jsonify(data if isinstance(data, list) else [])
-
-
-@app.route("/history_flat")
-def history_flat():
-    if not os.path.exists(HISTORY_FILE):
-        return jsonify([])
-
-    with open(HISTORY_FILE, encoding="utf-8") as f:
-        data = json.load(f)
-
-    return jsonify(data if isinstance(data, list) else [])
+        return {"error": str(e)}, 500
 
 
 # ---------------- STATION ----------------
 @app.route("/station")
 def station():
+
     if not os.path.exists(DATA_FILE):
         return jsonify({
             "temp": 0,
@@ -164,13 +160,93 @@ def station():
             "rain_24h": 0
         })
 
-    with open(DATA_FILE, encoding="utf-8") as f:
-        return jsonify(json.load(f))
+    try:
+        with open(DATA_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+
+        return jsonify(data)
+
+    except Exception as e:
+        return jsonify({"error": str(e)})
+
+
+# ---------------- HISTORY ----------------
+@app.route("/history")
+def history():
+    try:
+        if not os.path.exists(HISTORY_FILE):
+            return jsonify([])
+
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+
+        if not isinstance(data, list):
+            return jsonify([])
+
+        return jsonify(data)
+
+    except:
+        return jsonify([])
+
+
+# ---------------- HISTORY FLAT ----------------
+@app.route("/history_flat")
+def history_flat():
+    try:
+        if not os.path.exists(HISTORY_FILE):
+            return jsonify([])
+
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+
+        if not isinstance(data, list):
+            return jsonify([])
+
+        return jsonify(data)
+
+    except:
+        return jsonify([])
+
+
+# ---------------- DEBUG ----------------
+@app.route("/debug_history")
+def debug_history():
+    try:
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    except:
+        return {"error": "no file"}
+
+
+# ---------------- WARNING ----------------
+@app.route("/warning")
+def warning():
+
+    try:
+        with open(DATA_FILE, encoding="utf-8") as f:
+            d = json.load(f)
+
+    except:
+        return jsonify([])
+
+    warnings = []
+
+    if d.get("wind_ms", 0) * 3.6 > 40:
+        warnings.append("⚠️ Güclü külək gözlənilir")
+
+    if d.get("humidity", 0) > 90:
+        warnings.append("🌫 Duman ehtimalı yüksəkdir")
+
+    if d.get("rain_1h", 0) > 0:
+        warnings.append("🌧 Yağış müşahidə olunur")
+
+    return jsonify(warnings)
 
 
 # ---------------- STATUS ----------------
 @app.route("/status")
 def status():
+
     if not os.path.exists(DATA_FILE):
         return jsonify({"status": "offline"})
 
@@ -183,7 +259,47 @@ def status():
     return jsonify({"status": "online"})
 
 
+# ---------------- STORY ----------------
+@app.route("/history_content")
+def history_content():
+
+    text = ""
+
+    try:
+        with open("story/history.txt", "r", encoding="utf-8") as f:
+            text = f.read()
+    except:
+        text = "Hekayə tapılmadı."
+
+    image_path = "/story/image.jpg"
+
+    if os.path.exists("story/image.png"):
+        image_path = "/story/image.png"
+
+    return jsonify({
+        "text": text,
+        "image": image_path
+    })
+
+
+# ---------------- STORY FILES ----------------
+@app.route('/story/<path:filename>')
+def story_files(filename):
+    return send_from_directory('story', filename)
+
+
+@app.route("/test")
+def test():
+    return {"status": "ok"}
+
+
 # ---------------- RUN ----------------
 if __name__ == "__main__":
+
     port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port, debug=False)
+
+    app.run(
+        host="0.0.0.0",
+        port=port,
+        debug=False
+    )
