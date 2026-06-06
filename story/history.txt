@@ -1,20 +1,73 @@
-📢 <b><span style="color:#4fc3f7;">7 iyun üçün hava proqnozu</span></b>
+<div style="line-height:1.8; font-size:20px;">
 
-Salam dostlar! Mənim hazırladığım son hava məlumatlarına görə, <b><span style="color:#4fc3f7;">7 iyun tarixində Bakı və Abşeron yarımadasında hava dəyişkən buludlu olacaq.</span></b> Hava əsasən yağmursuz keçsə də, <b><span style="color:#ffb74d;">6 iyundan 7 iyuna keçən gecə və axşam saatlarında bəzi ərazilərdə şimşək çaxması ilə müşayiət olunan qısamüddətli yağışlar müşahidə oluna bilər.</span></b>
+<h2 style="color:#4fc3f7; margin-bottom:20px;">🌦️ 7 İyun üçün Hava Proqnozu</h2>
 
-Külək gündüz saatlarında istiqamətini dəyişəcək. <b><span style="color:#4fc3f7;">Cənub-qərb küləyi axşam saatlarında mülayim şimal-qərb küləyi ilə əvəz olunacaq.</span></b>
+<p>
+Salam dostlar! Milli Hidrometeorologiya Xidmətinin məlumatlarına və son meteoroloji modellərə əsasən, <b style="color:#4fc3f7;">7 iyun tarixində Bakı və Abşeron yarımadasında dəyişkən buludlu hava şəraiti gözlənilir.</b>
+</p>
 
-🌡️ <b><span style="color:#ff5252;">Bakıda və Abşeronda havanın temperaturu gecə 18-20°C, gündüz isə 25-30°C təşkil edəcək.</span></b>
+<p>
+Hava əsasən yağmursuz keçsə də, <b style="color:#ffb74d;">6 iyundan 7 iyuna keçən gecə və axşam saatlarında bəzi ərazilərdə qısamüddətli yağış və şimşək ehtimalı var.</b>
+</p>
 
-🌬️ Atmosfer təzyiqi <b>763 mm civə sütunu</b> olacaq. Nisbi rütubət gecə saatlarında <b>50-60%</b>, gündüz isə <b>40-45%</b> arasında dəyişəcək.
+<h3 style="color:#81c784; margin-top:30px;">🌬️ Külək</h3>
 
-⚠️ Azərbaycanın rayonlarında hava daha qeyri-sabit olacaq. <b><span style="color:#ff5252;">Bir çox bölgədə leysan xarakterli yağışlar, şimşək, bəzi yerlərdə dolu, yüksək dağlıq ərazilərdə isə hətta qar müşahidə oluna bilər.</span></b> Səhər və gecə saatlarında bəzi ərazilərdə zəif duman da gözlənilir.
+<p>
+Gündüz saatlarında <b>cənub-qərb küləyi</b> əsəcək, axşam isə <b style="color:#4fc3f7;">mülayim şimal-qərb küləyi ilə əvəz olunacaq.</b>
+</p>
 
-🌡️ Rayonlarda temperatur gecə <b>16-20°C</b>, gündüz <b>26-30°C</b>, dağlıq ərazilərdə isə gecə <b>5-10°C</b>, gündüz <b>15-20°C</b> olacaq.
+<h3 style="color:#81c784; margin-top:30px;">🌡️ Bakı və Abşeron</h3>
 
-<b><span style="color:#ff5252;font-size:22px;">Xüsusilə dağlıq və dağətəyi rayonlarda yaşayan sakinlərə dolu və güclü yağış ehtimalını nəzərə almağı tövsiyə edirəm.</span></b>
+<p>
+<b style="color:#ff5252;">Gecə:</b> 18-20°C<br>
+<b style="color:#ff5252;">Gündüz:</b> 25-30°C
+</p>
 
-Hava ilə bağlı ən son məlumatlar üçün səhifəni izləməyə davam edin!
+<p>
+<b>Atmosfer təzyiqi:</b> 763 mm civə sütunu<br>
+<b>Rütubət:</b> gecə 50-60%, gündüz 40-45%
+</p>
+
+<h3 style="color:#81c784; margin-top:30px;">⛈️ Rayonlarda Hava</h3>
+
+<p>
+Azərbaycanın əksər rayonlarında hava qeyri-sabit olacaq. <b style="color:#ff5252;">Bir çox bölgələrdə leysan xarakterli yağışlar, şimşək, bəzi yerlərdə dolu, yüksək dağlıq ərazilərdə isə qar müşahidə oluna bilər.</b>
+</p>
+
+<p>
+Səhər və gecə saatlarında bəzi ərazilərdə zəif duman ehtimalı da qalır.
+</p>
+
+<h3 style="color:#81c784; margin-top:30px;">🌡️ Rayonlar üzrə Temperatur</h3>
+
+<p>
+<b>Gecə:</b> 16-20°C<br>
+<b>Gündüz:</b> 26-30°C
+</p>
+
+<p>
+<b>Dağlıq ərazilərdə:</b><br>
+Gecə 5-10°C<br>
+Gündüz 15-20°C
+</p>
+
+<div style="
+background:rgba(255,82,82,0.15);
+border-left:5px solid #ff5252;
+padding:15px;
+margin-top:30px;
+border-radius:10px;
+">
+⚠️ <b style="color:#ff5252;">Xəbərdarlıq:</b><br>
+Dağlıq və dağətəyi rayonlarda yaşayan sakinlərə güclü yağış, şimşək və dolu ehtimalını nəzərə almaq tövsiyə olunur.
+</div>
+
+<p style="margin-top:30px;">
+📡 Hava ilə bağlı ən son məlumatlar və operativ yeniliklər üçün səhifəni izləməyə davam edin.
+</p>
+
+</div>
+
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
 META Müəllif: Professional meteoroloq: Əliyev Edelman.
