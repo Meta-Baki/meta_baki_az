@@ -1,25 +1,28 @@
-🌦️ <b style="color:#4fc3f7;">7 İyun üçün hava proqnozu</b>
+<h2 style="color:#60a5fa;">🌦️ META Hava Məlumatı – 7 İyun üçün hava proqnozu</h2>
 
-Salam dostlar! Son meteoroloji məlumatlara əsasən, <b style="color:#4fc3f7;">7 iyun tarixində Bakı və Abşeron yarımadasında dəyişkən buludlu hava şəraiti müşahidə olunacaq.</b> Hava əsasən yağmursuz keçsə də, gecə və axşam saatlarında bəzi ərazilərdə qısamüddətli yağış və şimşək ehtimalı qalır.
+<p>Salam. Bu gün sizə <span style="color:#facc15;font-weight:bold;">META meteoroloji xidməti</span> tərəfindən hazırlanmış 7 iyun tarixinə aid hava proqnozunu təqdim edirik.</p>
 
-🌬️ <b style="color:#81c784;">Külək şəraiti</b>
+<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu hava şəraiti</span> gözlənilir. Hava əsasən yağmursuz keçəcək, lakin gecə saatlarında və axşam bəzi ərazilərdə qısamüddətli yağış və şimşək ehtimalı mövcuddur. Gün ərzində cənub-qərb küləyi əsəcək, axşam saatlarında isə istiqamətini dəyişərək mülayim şimal-qərb küləyi ilə əvəz olunacaq.</p>
 
-Gündüz saatlarında cənub-qərb küləyi üstünlük təşkil edəcək. Axşam saatlarında isə küləyin istiqaməti dəyişərək <b style="color:#4fc3f7;">mülayim şimal-qərb küləyi ilə əvəz olunacaq.</b>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Temperatur əvvəlki günlərlə müqayisədə bir qədər aşağı olacaq.</span> Bakı və Abşeronda gecə saatlarında havanın temperaturu <span style="color:#ff6b6b;font-weight:bold;">18-20°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">25-30°C</span> təşkil edəcək. Buludluluğun artması səbəbindən havada nisbi sərinlik hiss olunacaq.</p>
 
-🌡️ <b style="color:#81c784;">Bakı və Abşeron üzrə temperatur</b>
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">763 mm civə sütunu</span> olacaq ki, bu da normadan bir qədər yüksək göstərici hesab edilir. Nisbi rütubət gecə saatlarında 50-60%, gündüz isə 40-45% arasında dəyişəcək.</p>
 
-Havanın temperaturu gecə saatlarında <b style="color:#ff5252;">18-20°C</b>, gündüz isə <b style="color:#ff5252;">25-30°C</b> arasında dəyişəcək. Atmosfer təzyiqinin 763 mm civə sütunu səviyyəsində olacağı gözlənilir. Nisbi rütubət gecə 50-60%, gündüz isə 40-45% təşkil edəcək.
+<p>Azərbaycanın rayonlarında hava şəraiti daha qeyri-sabit olacaq. Bir çox ərazilərdə <span style="color:#a78bfa;font-weight:bold;font-size:20px;">leysan xarakterli yağışlar, şimşək çaxması və dolu hadisələri</span> müşahidə oluna bilər. Yüksək dağlıq ərazilərdə isə qısamüddətli <span style="color:#93c5fd;font-weight:bold;">qar yağması ehtimalı</span> mövcuddur. Gecə və səhər saatlarında bəzi rayonlarda zəif duman müşahidə edilə bilər.</p>
 
-⛈️ <b style="color:#81c784;">Rayonlarda gözlənilən hava</b>
+<p>Aran rayonlarında gecə temperaturu 16-20°C, gündüz isə <span style="color:#ef4444;font-weight:bold;">26-30°C</span> olacaq. Dağlıq rayonlarda gecə 5-10°C, gündüz isə 15-20°C isti gözlənilir.</p>
 
-Azərbaycanın rayonlarında hava şəraitinin daha qeyri-sabit keçəcəyi proqnozlaşdırılır. <b style="color:#ff5252;">Bəzi bölgələrdə leysan xarakterli yağışlar, şimşək və dolu müşahidə oluna bilər.</b> Yüksək dağlıq ərazilərdə qısamüddətli qar ehtimalı da istisna edilmir.
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Xəbərdarlıq: Dağlıq və dağətəyi rayonlarda yaşayan sakinlərə günün ikinci yarısında gözlənilən güclü yağış, şimşək və dolu riskini nəzərə almaq tövsiyə olunur.
+</p>
 
-🌫️ Gecə və səhər saatlarında bəzi rayonlarda zəif duman müşahidə oluna bilər. Şərq küləyi əsasən mülayim sürətlə əsəcək.
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META meteoroloji stansiyası atmosferdə baş verən dəyişiklikləri və hava şəraitini 24/7 rejimində izləməyə davam edir.
+</p>
 
-⚠️ <b style="color:#ff5252;">Xəbərdarlıq:</b> Dağlıq və dağətəyi rayonlarda yaşayan sakinlərə güclü yağış və dolu ehtimalını nəzərə almaq tövsiyə olunur.
-
-📡 Hava ilə bağlı ən son məlumatlar üçün səhifəni izləməyə davam edin.
-
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+🌍 Operativ hava məlumatları və xüsusi xəbərdarlıqlar üçün META platformasını izləyin.
+</p>
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
 META Müəllif: Professional meteoroloq: Əliyev Edelman.
