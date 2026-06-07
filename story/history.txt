@@ -1,27 +1,29 @@
-<h2 style="color:#60a5fa;">🌦️ META Hava Məlumatı – 7 İyun üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌦️ META Meteoroloji Mərkəzi – 8 İyun üçün hava proqnozu</h2>
 
-<p>Salam. Bu gün sizə <span style="color:#facc15;font-weight:bold;">META meteoroloji xidməti</span> tərəfindən hazırlanmış 7 iyun tarixinə aid hava proqnozunu təqdim edirik.</p>
+<p>Salam. Mən və <span style="color:#facc15;font-weight:bold;">META Meteoroloji Mərkəzi</span> tərəfindən hazırlanan son meteoroloji məlumatlara əsasən, 8 iyun tarixi üçün gözlənilən hava şəraitini təqdim edirik.</p>
 
-<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu hava şəraiti</span> gözlənilir. Hava əsasən yağmursuz keçəcək, lakin gecə saatlarında və axşam bəzi ərazilərdə qısamüddətli yağış və şimşək ehtimalı mövcuddur. Gün ərzində cənub-qərb küləyi əsəcək, axşam saatlarında isə istiqamətini dəyişərək mülayim şimal-qərb küləyi ilə əvəz olunacaq.</p>
+<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu hava şəraiti</span> müşahidə olunacaq. Səhər saatlarında hava əsasən tutqun keçəcək. Gecə yarımadanın bəzi ərazilərində <span style="color:#a78bfa;font-weight:bold;">qısamüddətli yağış və şimşək</span> ehtimalı var. Gün ərzində hava tədricən sabitləşəcək.</p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Temperatur əvvəlki günlərlə müqayisədə bir qədər aşağı olacaq.</span> Bakı və Abşeronda gecə saatlarında havanın temperaturu <span style="color:#ff6b6b;font-weight:bold;">18-20°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">25-30°C</span> təşkil edəcək. Buludluluğun artması səbəbindən havada nisbi sərinlik hiss olunacaq.</p>
+<p>Külək əsasən <span style="color:#38bdf8;font-weight:bold;">mülayim şimal-qərb istiqamətindən</span> əsəcək, günün ikinci yarısında isə istiqamətini dəyişərək <span style="color:#38bdf8;font-weight:bold;">şimal-şərq küləyi</span> ilə əvəz olunacaq.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">763 mm civə sütunu</span> olacaq ki, bu da normadan bir qədər yüksək göstərici hesab edilir. Nisbi rütubət gecə saatlarında 50-60%, gündüz isə 40-45% arasında dəyişəcək.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Temperatur yay səviyyəsində qalır!</span> Bakı və Abşeron yarımadasında gecə saatlarında havanın temperaturu <span style="color:#ff6b6b;font-weight:bold;">20-24°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">28-33°C</span> təşkil edəcək.</p>
 
-<p>Azərbaycanın rayonlarında hava şəraiti daha qeyri-sabit olacaq. Bir çox ərazilərdə <span style="color:#a78bfa;font-weight:bold;font-size:20px;">leysan xarakterli yağışlar, şimşək çaxması və dolu hadisələri</span> müşahidə oluna bilər. Yüksək dağlıq ərazilərdə isə qısamüddətli <span style="color:#93c5fd;font-weight:bold;">qar yağması ehtimalı</span> mövcuddur. Gecə və səhər saatlarında bəzi rayonlarda zəif duman müşahidə edilə bilər.</p>
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">758 mm civə sütunu</span> səviyyəsində gözlənilir. Nisbi rütubət gecə saatlarında 60-70%, gündüz isə 45-50% arasında dəyişəcək.</p>
 
-<p>Aran rayonlarında gecə temperaturu 16-20°C, gündüz isə <span style="color:#ef4444;font-weight:bold;">26-30°C</span> olacaq. Dağlıq rayonlarda gecə 5-10°C, gündüz isə 15-20°C isti gözlənilir.</p>
+<p>Azərbaycanın bəzi rayonlarında <span style="color:#a78bfa;font-weight:bold;">yağışlı hava şəraiti</span> müşahidə olunacaq. Dağlıq və dağətəyi ərazilərdə leysan xarakterli yağışlar, şimşək və dolu ehtimalı mövcuddur. Yüksək dağlıq zonalarda isə <span style="color:#60a5fa;font-weight:bold;">sulu qar</span> müşahidə oluna bilər. Gecə və səhər saatlarında bəzi ərazilərdə duman ehtimalı da qalır.</p>
+
+<p>Aran rayonlarında havanın temperaturu gecə <span style="color:#ef4444;font-weight:bold;">20-24°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">30-35°C</span> olacaq. Dağlıq rayonlarda gecə 10-14°C, gündüz isə 15-20°C isti gözlənilir.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Dağlıq və dağətəyi rayonlarda yaşayan sakinlərə günün ikinci yarısında gözlənilən güclü yağış, şimşək və dolu riskini nəzərə almaq tövsiyə olunur.
+⚠️ Xəbərdarlıq: Dağlıq və dağətəyi rayonlarda yaşayan sakinlərə leysan yağışları, şimşək və dolu ehtimalını nəzərə almaq tövsiyə olunur. Sürücülər səhər saatlarında müşahidə oluna biləcək duman səbəbindən diqqətli olmalıdırlar.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META meteoroloji stansiyası atmosferdə baş verən dəyişiklikləri və hava şəraitini 24/7 rejimində izləməyə davam edir.
+📡 META Meteoroloji Mərkəzi hava şəraitini 24/7 rejimində izləməyə və ən son məlumatları operativ şəkildə təqdim etməyə davam edir.
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-🌍 Operativ hava məlumatları və xüsusi xəbərdarlıqlar üçün META platformasını izləyin.
+🌍 Hava ilə bağlı ən son xəbərlər və operativ proqnozlar üçün META Meteoroloji Mərkəzini izləyin.
 </p>
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
