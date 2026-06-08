@@ -182,19 +182,25 @@ def history():
 @app.route("/history_flat")
 def history_flat():
     try:
-        if not os.path.exists(HISTORY_FILE):
+        url = "https://raw.githubusercontent.com/Meta-Baki/meta-weather/main/history.json"
+        r = requests.get(url, timeout=10)
+
+        if r.status_code != 200:
             return jsonify([])
 
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
+        data = r.json()
 
-        if isinstance(data, dict):
-            flat = []
+        flat = []
+
+        if isinstance(data, list):
+            flat = data
+
+        elif isinstance(data, dict):
             for day in data.values():
-                flat.extend(day)
-            return jsonify(flat)
+                if isinstance(day, list):
+                    flat.extend(day)
 
-        return jsonify(data if isinstance(data, list) else [])
+        return jsonify(flat)
 
     except:
         return jsonify([])
