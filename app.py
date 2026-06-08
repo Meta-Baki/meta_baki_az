@@ -96,17 +96,21 @@ def update():
 
         try:
             r = requests.get(
-                f"https://raw.githubusercontent.com/{REPO}/main/{FILE}",
+                url = f"https://api.github.com/repos/{REPO}/contents/{FILE}",
                 timeout=10
             )
 
             if r.status_code == 200:
-                try:
-                    history = r.json()
-                    if not isinstance(history, list):
-                        history = []
-                except:
+                data = r.json()
+                content = data.get("content")
+
+                if content:
+                    history = json.loads(
+                        base64.b64decode(content).decode("utf-8")
+                    )
+                else:
                     history = []
+
         except:
             history = []
 
@@ -156,11 +160,26 @@ def station():
 @app.route("/history")
 def history():
     try:
-        if not os.path.exists(HISTORY_FILE):
+        url = f"https://api.github.com/repos/{REPO}/contents/{FILE}"
+        r = requests.get(url, timeout=10)
+
+        if r.status_code != 200:
             return jsonify([])
 
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
+        data = r.json()
+        content = data.get("content")
+
+        if not content:
+            return jsonify([])
+
+        history = json.loads(
+            base64.b64decode(content).decode("utf-8")
+        )
+
+        return jsonify(history)
+
+    except:
+        return jsonify([])
 
         # если вдруг dict (старый формат) — превращаем в list
         if isinstance(data, dict):
