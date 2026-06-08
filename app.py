@@ -3,8 +3,46 @@ import json
 import requests
 import os
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+import base64
+
+def update_github(history):
+    url = f"https://api.github.com/repos/{REPO}/contents/{FILE}"
+
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json"
+    }
+
+    r = requests.get(url, headers=headers)
+    sha = None
+    if r.status_code == 200:
+        sha = r.json()["sha"]
+
+    content = base64.b64encode(
+        json.dumps(history, ensure_ascii=False).encode()
+    ).decode()
+
+    data = {
+        "message": "update weather data",
+        "content": content,
+        "branch": "main"
+    }
+
+    if sha:
+        data["sha"] = sha
+
+    requests.put(url, json=data, headers=headers)
+
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+REPO = "Meta-Baki/meta-weather"
+FILE = "history.json"
+
+BAKU_TZ = ZoneInfo("Asia/Baku")
 
 app = Flask(__name__)
+
 
 # ---------------- MANIFEST ----------------
 @app.route("/manifest.json")
@@ -40,16 +78,48 @@ def update():
         if not data:
             return {"error": "No JSON"}, 400
 
-        # сохранить данные станции
+        # ---------------- SAVE LOCAL DATA ----------------
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2)
 
-        # история пишется раз в 30 минут
+        # ---------------- HISTORY (LOCAL, 30 MIN LIMIT) ----------------
         if can_save():
             save_history(data)
+            print("HISTORY SAVED")
 
             with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
-                json.dump({"time": datetime.now().timestamp()}, f)
+                json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
+
+
+        # ---------------- GITHUB UPDATE ----------------
+        history = []
+
+        try:
+            r = requests.get(
+                f"https://raw.githubusercontent.com/{REPO}/main/{FILE}",
+                timeout=10
+            )
+
+            if r.status_code == 200:
+                try:
+                    history = r.json()
+                    if not isinstance(history, list):
+                        history = []
+                except:
+                    history = []
+        except:
+            history = []
+
+        history.append({
+            "temp": data.get("temp"),
+            "humidity": data.get("humidity"),
+            "pressure": data.get("pressure"),
+            "time": datetime.now(BAKU_TZ).isoformat()
+        })
+
+        history = history[-2000:]
+
+        update_github(history)
 
         return {"ok": True}
 
@@ -85,21 +155,6 @@ def station():
 # ---------------- HISTORY ----------------
 @app.route("/history")
 def history():
-
-    try:
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-
-        return jsonify(data)
-
-    except:
-        return jsonify({})
-
-
-# ---------------- FLAT HISTORY ----------------
-@app.route("/history_flat")
-def history_flat():
-
     try:
         if not os.path.exists(HISTORY_FILE):
             return jsonify([])
@@ -107,56 +162,70 @@ def history_flat():
         with open(HISTORY_FILE, encoding="utf-8") as f:
             data = json.load(f)
 
-        flat = []
+        # если вдруг dict (старый формат) — превращаем в list
+        if isinstance(data, dict):
+            flat = []
+            for day in data.values():
+                flat.extend(day)
+            return jsonify(flat)
+
+        if not isinstance(data, list):
+            return jsonify([])
+
+        return jsonify(data)
+
+    except:
+        return jsonify([])
+
+
+# ---------------- FLAT HISTORY ----------------
+@app.route("/history_flat")
+def history_flat():
+    try:
+        if not os.path.exists(HISTORY_FILE):
+            return jsonify([])
+
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            data = json.load(f)
 
         if isinstance(data, dict):
-            for day in data:
-                for item in data[day]:
-                    flat.append(item)
+            flat = []
+            for day in data.values():
+                flat.extend(day)
+            return jsonify(flat)
 
-        return jsonify(flat)
+        return jsonify(data if isinstance(data, list) else [])
 
-    except Exception as e:
-        return jsonify({"error": str(e)})
+    except:
+        return jsonify([])
 
 
 # ---------------- SAVE HISTORY ----------------
 def save_history(entry):
 
-    data = {}
-
     if os.path.exists(HISTORY_FILE):
         try:
             with open(HISTORY_FILE, encoding="utf-8") as f:
                 data = json.load(f)
+                if not isinstance(data, list):
+                    data = []
         except:
-            data = {}
+            data = []
+    else:
+        data = []
 
-    today = datetime.now().strftime("%Y-%m-%d")
-
-    if today not in data:
-        data[today] = []
-
-    data[today].append({
-
-        # нормальное время
-        "timestamp": datetime.now().isoformat(),
-
-        # красивое время
-        "time": datetime.now().strftime("%d.%m %H:%M:%S"),
-
+    data.append({
+        "timestamp": datetime.now(BAKU_TZ).isoformat(),
+        "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
         "temp": float(entry.get("temp", 0)),
-
         "wind": round(float(entry.get("wind_ms", 0)) * 3.6, 1),
-
         "gust": round(float(entry.get("wind_gust_ms", 0)) * 3.6, 1),
-
         "humidity": float(entry.get("humidity", 0)),
-
         "pressure": float(entry.get("pressure", 0)),
-
         "rain": float(entry.get("rain_1h", 0))
     })
+
+    data = data[-2000:]
 
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
@@ -172,7 +241,7 @@ def can_save():
         with open(LAST_SAVE_FILE, "r", encoding="utf-8") as f:
             last = json.load(f).get("time", 0)
 
-        now = datetime.now().timestamp()
+        now = datetime.now(BAKU_TZ).timestamp()
 
         return (now - last) >= 1800
 
@@ -342,7 +411,7 @@ def status():
         return jsonify({"status": "offline"})
 
     last = os.path.getmtime(DATA_FILE)
-    now = datetime.now().timestamp()
+    now = datetime.now(BAKU_TZ).timestamp()
 
     if now - last > 300:
         return jsonify({"status": "offline"})
@@ -377,6 +446,11 @@ def history_content():
 @app.route('/story/<path:filename>')
 def story_files(filename):
     return send_from_directory('story', filename)
+
+
+@app.route("/test")
+def test():
+    return {"status": "ok"}
 
 
 # ---------------- RUN ----------------
