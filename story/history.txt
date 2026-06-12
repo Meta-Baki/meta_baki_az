@@ -2,18 +2,18 @@
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, META Meteoroloji Mərkəzi adından 13 iyun tarixi üçün gözlənilən hava şəraiti barədə ən son məlumatları təqdim edirəm.</p>
 
-<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">əsasən yağmursuz və sabit hava şəraiti</span> müşahidə olunacaq. Gün ərzində hava açıq və az buludlu keçəcək. Şimal-qərb küləyi arabir güclənərək mülayim sürətlə əsəcək ki, bu da isti havanın təsirini qismən azaldacaq.</p>
+<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu, arabir tutqun və əsasən yağmursuz hava şəraiti</span> müşahidə olunacaq. Gün ərzində hava bəzi ərazilərdə buludlu keçsə də, yağıntı gözlənilmir. Mülayim şimal-qərb küləyi əsəcək və gün ərzində havanın komfortlu qalmasına kömək edəcək.</p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Yay istisi davam edir!</span> Bakı və Abşeron yarımadasında gecə saatlarında havanın temperaturu <span style="color:#38bdf8;font-weight:bold;">20-22°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">26-30°C</span> təşkil edəcək. Günün ən isti saatlarında günəş şüalarının təsiri altında hiss olunan temperatur bir qədər yüksək ola bilər.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Yay mövsümünə uyğun temperatur davam edir!</span> Bakı və Abşeron yarımadasında gecə saatlarında havanın temperaturu <span style="color:#38bdf8;font-weight:bold;">18-21°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">26-31°C</span> təşkil edəcək.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#f97316;font-weight:bold;">759 mm civə sütunu</span> olmaqla normadan aşağı səviyyədə qalacaq. Nisbi rütubət gecə saatlarında <span style="color:#60a5fa;font-weight:bold;">70-75%</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">50-55%</span> təşkil edəcək.</p>
+<p>Atmosfer təzyiqi <span style="color:#f97316;font-weight:bold;">757 mm civə sütunu</span> olmaqla normadan aşağı səviyyədə qalacaq. Nisbi rütubət gün ərzində <span style="color:#60a5fa;font-weight:bold;">50-60%</span> arasında dəyişəcək.</p>
 
-<p>Azərbaycanın əksər rayonlarında hava şəraiti <span style="color:#22c55e;font-weight:bold;">əsasən yağmursuz keçəcək</span>. Lakin günün ikinci yarısında bəzi dağlıq və dağətəyi rayonlarda <span style="color:#a78bfa;font-weight:bold;font-size:20px;">qısamüddətli leysan xarakterli yağış, şimşək və dolu</span> ehtimalı mövcuddur. Gecə və səhər saatlarında ayrı-ayrı ərazilərdə zəif duman müşahidə oluna bilər. Rayonlarda mülayim şərq küləyi üstünlük təşkil edəcək.</p>
+<p>Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında günün ikinci yarısında <span style="color:#a78bfa;font-weight:bold;font-size:20px;">yağış, şimşək və dolu</span> ehtimalı var. Gecə və səhər saatlarında ayrı-ayrı ərazilərdə duman müşahidə oluna bilər. Rayonlarda mülayim qərb küləyi üstünlük təşkil edəcək.</p>
 
-<p>Aran rayonlarında gecə temperaturu <span style="color:#38bdf8;font-weight:bold;">18-23°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">32-37°C</span> arasında dəyişəcək. Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">10-15°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">20-25°C</span> isti gözlənilir.</p>
+<p>Ölkənin əksər rayonlarında gecə temperaturu <span style="color:#38bdf8;font-weight:bold;">18-22°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">30-35°C</span> arasında dəyişəcək. Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">10-15°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">18-23°C</span> isti gözlənilir. Bəzi yüksək dağətəyi ərazilərdə temperaturun <span style="color:#f97316;font-weight:bold;">25-30°C</span>-yə qədər yüksəlməsi mümkündür.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Günorta saatlarında yüksək temperatur fonunda açıq havada uzun müddət qalarkən ehtiyatlı olmaq, bol maye qəbul etmək və günəş şüalarından qorunmaq tövsiyə olunur.
+⚠️ Gün ərzində günəş şüalarının daha intensiv olduğu saatlarda açıq havada uzun müddət qalarkən ehtiyatlı olmaq, kifayət qədər maye qəbul etmək və günəşdən qoruyucu vasitələrdən istifadə etmək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
