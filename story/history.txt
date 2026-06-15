@@ -1,27 +1,27 @@
-<h2 style="color:#60a5fa;">🌦️ META Meteoroloji Mərkəzi – 15 İyun 2026-cı il üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌦 META Meteoroloji Mərkəzi – 16 İyun 2026-cı il üçün hava proqnozu</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, META Meteoroloji Mərkəzinin hazırladığı 15 iyun tarixli hava proqnozunu təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, META Meteoroloji Mərkəzi tərəfindən hazırlanmış 16 iyun tarixli hava proqnozunu təqdim edirəm.</p>
 
-<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu hava şəraiti</span> müşahidə olunacaq. Hava əsasən yağmursuz keçsə də, günün birinci yarısında bəzi ərazilərdə <span style="color:#a78bfa;font-weight:bold;">qısamüddətli yağışlar və lokal göy gurultusu</span> ehtimal olunur. Şimal-qərb küləyi gün ərzində mülayim sürətlə əsəcək.</p>
+<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu və əsasən sabit hava şəraiti</span> müşahidə olunacaq. Gün ərzində hava əsasən yağıntısız keçsə də, günortadan sonra bəzi ərazilərdə <span style="color:#38bdf8;font-weight:bold;">qısamüddətli yağış ehtimalı</span> istisna edilmir. Şimal-qərb küləyi günün ikinci yarısında istiqamətini dəyişərək cənub-şərq küləyi ilə əvəz olunacaq.</p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Temperatur mövsüm normasına yaxın olacaq.</span> Bakı və Abşeron yarımadasında gecə saatlarında havanın temperaturu <span style="color:#f97316;font-weight:bold;">18-21°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">26-29°C</span> təşkil edəcək.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Paytaxtda rahat yay havası davam edir.</span> Bakı və Abşeron yarımadasında gecə saatlarında havanın temperaturu <span style="color:#f97316;font-weight:bold;">17-20°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">27-31°C</span> təşkil edəcək. Gün ərzində açıq ərazilərdə günəş şüalarının təsiri daha çox hiss oluna bilər.</p>
 
-<p>Atmosfer təzyiqi gün ərzində yüksələrək <span style="color:#38bdf8;font-weight:bold;">760 mm civə sütununa</span> çatacaq. Nisbi rütubət isə <span style="color:#38bdf8;font-weight:bold;">65-75%</span> arasında dəyişəcək ki, bu da səhər və gecə saatlarında havanın bir qədər rütubətli hiss olunmasına səbəb ola bilər.</p>
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">762 mm civə sütunu</span> səviyyəsində olacaq. Nisbi rütubət gecə saatlarında <span style="color:#a78bfa;font-weight:bold;">70-75%</span>, gündüz isə <span style="color:#a78bfa;font-weight:bold;">45-50%</span> təşkil edəcək.</p>
 
-<p>Azərbaycanın bəzi rayonlarında qeyri-sabit hava şəraiti davam edəcək. Ayrı-ayrı bölgələrdə <span style="color:#dc2626;font-weight:bold;font-size:20px;">intensiv yağışlar, şimşək və dolu</span> müşahidə oluna bilər. Xüsusilə dağlıq və dağətəyi rayonlarda yağıntının güclənməsi ehtimalı yüksəkdir. Gecə və səhər saatlarında bəzi ərazilərdə duman yaranacağı gözlənilir.</p>
+<p>Azərbaycanın bəzi rayonlarında <span style="color:#a78bfa;font-weight:bold;font-size:20px;">yağış, leysan, şimşək və dolu</span> müşahidə oluna bilər. Dağlıq və dağətəyi ərazilərdə yağıntılar bəzi yerlərdə daha intensiv xarakter daşıya bilər. Axşam saatlarından etibarən ölkənin əksər bölgələrində yağıntıların tədricən kəsilməsi gözlənilir. Gecə və səhər saatlarında bəzi rayonlarda duman ehtimalı qalır.</p>
 
-<p>Aran rayonlarında havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">18-21°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">28-32°C</span> olacaq. Dağlıq rayonlarda gecə temperaturu <span style="color:#93c5fd;font-weight:bold;">9-14°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">18-23°C</span> təşkil edəcək. Bəzi dağətəyi ərazilərdə temperaturun <span style="color:#ef4444;font-weight:bold;">25-28°C</span>-yə qədər yüksəlməsi mümkündür.</p>
+<p>Aran rayonlarında gecə temperaturu <span style="color:#f97316;font-weight:bold;">16-20°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">27-32°C</span> olacaq. Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">7-12°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">16-20°C</span> isti gözlənilir. Ayrı-ayrı yüksək dağlıq ərazilərdə temperaturun <span style="color:#facc15;font-weight:bold;">23-26°C</span>-yə qədər yüksəlməsi mümkündür.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Şimşək və dolu ehtimalı olan rayonlarda yaşayan sakinlərə hava şəraitində ani dəyişikliklərə qarşı diqqətli olmaları tövsiyə edilir.
+⚠️ Gün ərzində qərb və şimal rayonlarında gözlənilən şimşək və dolu ehtimalını nəzərə almaq tövsiyə olunur. Açıq ərazilərdə olan şəxslər hava şəraitində qəfil dəyişikliklərə qarşı diqqətli olmalıdırlar.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteoroloji Mərkəzi atmosfer proseslərini 24 saat ərzində izləməyə və operativ məlumatlar təqdim etməyə davam edir.
+📡 META Meteoroloji Mərkəzi ölkə üzrə atmosfer proseslərini fasiləsiz izləyir və ən son hava məlumatlarını operativ şəkildə təqdim edir.
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-🌍 Azərbaycanda hava ilə bağlı ən son və operativ məlumatlar üçün META Meteoroloji Mərkəzini izləyin.
+🌍 Azərbaycanda hava ilə bağlı ən son proqnozlar, xəbərdarlıqlar və operativ məlumatlar üçün META platformasını izləyin.
 </p>
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
