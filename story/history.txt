@@ -1,4 +1,4 @@
-<h2 style="color:#60a5fa;">🌦 META Meteoroloji Mərkəzi – 16 İyun 2026-cı il üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌦 META Hidrometeorologiya Departamenti – 16 İyun 2026-cı il üçün hava proqnozu</h2>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, META Meteoroloji Mərkəzi tərəfindən hazırlanmış 16 iyun tarixli hava proqnozunu təqdim edirəm.</p>
 
