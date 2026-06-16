@@ -55,11 +55,21 @@ def manifest():
 def service_worker():
     return send_from_directory(".", "sw.js")
 
+
+# ---------------- ROBOTS ----------------
+@app.route("/robots.txt")
+def robots():
+    return send_from_directory(".", "robots.txt")
+
+
+# ---------------- SITEMAP ----------------
+@app.route("/sitemap.xml")
+def sitemap():
+    return send_from_directory(".", "sitemap.xml")
+
+
 DATA_FILE = "data.json"
 HISTORY_FILE = "history.json"
-
-# ДОБАВЛЕНО: контроль 30 минут
-LAST_SAVE_FILE = "last_save.json"
 
 
 # ---------------- HOME ----------------
