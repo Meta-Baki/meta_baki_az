@@ -63,9 +63,11 @@ def robots():
 
 
 # ---------------- SITEMAP ----------------
+from flask import send_file
+
 @app.route("/sitemap.xml")
 def sitemap():
-    return send_from_directory(".", "sitemap.xml")
+    return send_file("sitemap.xml", mimetype="application/xml")
 
 
 DATA_FILE = "data.json"
