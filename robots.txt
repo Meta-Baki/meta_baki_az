@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meta-baki-az.onrender.com/sitemap.xml
