@@ -247,9 +247,7 @@ def can_save():
 # ---------------- FORECAST 7 ----------------
 @app.route("/forecast7")
 def forecast7():
-
     try:
-
         url = "https://api.open-meteo.com/v1/ecmwf"
 
         params = {
@@ -275,8 +273,7 @@ def forecast7():
                 "precipitation_sum",
 
             "hourly":
-                "dew_point_2m,"
-                "visibility",
+                "dew_point_2m,visibility",
 
             "forecast_days": 7,
             "timezone": "Asia/Baku"
@@ -285,7 +282,10 @@ def forecast7():
         r = requests.get(url, params=params, timeout=20)
 
         if r.status_code != 200:
-            return jsonify({"error": "ECMWF API error", "status": r.status_code})
+            return jsonify({
+                "error": "API error",
+                "status": r.status_code
+            })
 
         raw = r.json()
 
