@@ -453,6 +453,30 @@ def test():
     return {"status": "ok"}
 
 
+@app.route("/robots.txt")
+def robots():
+    return app.response_class(
+        """User-agent: *
+Allow: /
+
+Sitemap: https://meta-baki1.onrender.com/sitemap.xml""",
+        mimetype="text/plain"
+    )
+
+
+@app.route("/sitemap.xml")
+def sitemap():
+    return app.response_class(
+        """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://meta-baki1.onrender.com/</loc>
+  </url>
+</urlset>""",
+        mimetype="application/xml"
+    )
+
+        
 # ---------------- RUN ----------------
 if __name__ == "__main__":
 
