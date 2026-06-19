@@ -41,7 +41,7 @@ FILE = "history.json"
 
 BAKU_TZ = ZoneInfo("Asia/Baku")
 
-app = Flask(__name__, static_folder=".")
+app = Flask(__name__)
 
 
 # ---------------- MANIFEST ----------------
