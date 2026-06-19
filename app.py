@@ -41,7 +41,7 @@ FILE = "history.json"
 
 BAKU_TZ = ZoneInfo("Asia/Baku")
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder=".")
 
 
 # ---------------- MANIFEST ----------------
@@ -65,7 +65,7 @@ LAST_SAVE_FILE = "last_save.json"
 # ---------------- HOME ----------------
 @app.route("/")
 def home():
-    return send_from_directory(".", "index.html")
+    return app.send_static_file("index.html")
 
 
 # ---------------- UPDATE ----------------
