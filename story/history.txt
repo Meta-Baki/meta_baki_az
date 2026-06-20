@@ -1,27 +1,27 @@
-<h2 style="color:#60a5fa;">☀️ META Meteoroloji Mərkəzi – 20 İyun 2026-cı il üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">☀️ META Meteoroloji Mərkəzi – 21 İyun üçün hava proqnozu</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">META Meteoroloji Mərkəzinin rəhbəri Edelman Əliyev</span>, 20 iyun tarixi üçün gözlənilən hava şəraiti haqqında məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, 21 iyun tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
-<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">əsasən yağmursuz və açıq hava şəraiti</span> gözlənilir. Gün ərzində mülayim şimal-qərb küləyi üstünlük təşkil edəcək. Yağıntı ehtimalı minimum səviyyədədir.</p>
+<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu və əsasən yağmursuz hava şəraiti</span> müşahidə olunacaq. Gün ərzində hava sabit keçsə də, <span style="color:#f97316;font-weight:bold;">şimal-qərb küləyinin arabir güclənməsi</span> gözlənilir. Açıq hava üstünlük təşkil edəcək.</p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Həddindən artıq isti hava davam edir!</span> Paytaxt və Abşeron yarımadasında gecə temperatur <span style="color:#ff6b6b;font-weight:bold;">21–25°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">33–38°C</span> olacaq. Günəş altında hiss olunan temperatur daha yüksək ola bilər.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Temperaturda nisbətən enmə hiss olunsa da, isti hava davam edir!</span> Bakı və Abşeronda gecə saatlarında temperatur <span style="color:#38bdf8;font-weight:bold;">21–24°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">27–32°C</span> olacaq.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">758 mm civə sütunu</span> təşkil edəcək. Nisbi rütubət gecə saatlarında 65–75%, gündüz isə 45–55% arasında dəyişəcək.</p>
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">760 mm civə sütunu</span> təşkil edəcək. Nisbi rütubət gecə saatlarında <span style="color:#60a5fa;font-weight:bold;">70–75%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">55–60%</span> olacaq.</p>
 
-<p>Azərbaycanın bölgələrində hava əsasən yağmursuz keçəcək. Lakin günün ikinci yarısında bəzi dağlıq və dağətəyi ərazilərdə <span style="color:#a78bfa;font-weight:bold;">qısamüddətli yağışlar</span>, bəzi yerlərdə isə <span style="color:#a78bfa;font-weight:bold;">şimşək və dolu</span> ehtimalı var. Dağlıq zonalarda gecə və səhər saatlarında <span style="color:#94a3b8;font-weight:bold;">duman</span> müşahidə oluna bilər.</p>
+<p>Azərbaycanın bəzi rayonlarında, xüsusilə <span style="color:#a78bfa;font-weight:bold;">dağlıq və dağətəyi ərazilərdə</span> qısamüddətli yağışlar gözlənilir. Ayrı-ayrı bölgələrdə <span style="color:#ef4444;font-weight:bold;">şimşək, leysan və dolu</span> ehtimalı var. Gecə və səhər saatlarında bəzi dağlıq ərazilərdə duman müşahidə oluna bilər. Şərq küləyi arabir güclənəcək.</p>
 
-<p>Aran rayonlarında temperatur gecə <span style="color:#f97316;font-weight:bold;">19–24°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">35–39°C</span> təşkil edəcək. Dağlıq ərazilərdə gecə 11–16°C, gündüz 20–25°C, bəzi yerlərdə isə <span style="color:#dc2626;font-weight:bold;">28–32°C</span> qədər yüksəlməsi mümkündür.</p>
+<p>Rayonlarda havanın temperaturu gecə <span style="color:#38bdf8;font-weight:bold;">21–26°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">31–36°C</span> olacaq. Dağlıq rayonlarda gecə <span style="color:#38bdf8;font-weight:bold;">9–14°C</span>, gündüz <span style="color:#22c55e;font-weight:bold;">19–24°C</span>, bəzi ərazilərdə isə <span style="color:#f97316;font-weight:bold;">26–29°C</span>-yə qədər yüksəlməsi mümkündür.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Günün ən isti saatlarında açıq havada uzun müddət qalmaq tövsiyə edilmir. Bol maye qəbul edin və günəşdən qoruyucu vasitələrdən istifadə edin.
+⚠️ Dağlıq bölgələrdə yaşayan və səyahət edən şəxslərə hava dəyişikliklərini izləmək tövsiyə olunur. Güclü külək və qısamüddətli leysanlar bəzi ərazilərdə şəraiti dəyişə bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteoroloji Mərkəzi hava şəraitini davamlı olaraq izləyir və yenilənmiş məlumatları təqdim edir.
+📡 META Meteoroloji Mərkəzi hava vəziyyətini real vaxt rejimində izləməyə davam edir.
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-🌦 Ən son hava proqnozları üçün META Meteoroloji Mərkəzini izləməyə davam edin.
+🌦 Hava ilə bağlı ən son məlumatlar üçün META platformasını izləyin.
 </p>
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
