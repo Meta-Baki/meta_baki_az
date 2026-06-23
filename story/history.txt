@@ -1,19 +1,19 @@
-<h2 style="color:#60a5fa;">☀️ META Meteoroloji Mərkəzi – 23 İyun üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">☀️ META Meteoroloji Mərkəzi – 24 İyun üçün hava proqnozu</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, 23 iyun tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, 24 iyun tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
-<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu və əsasən yağmursuz hava şəraiti</span> müşahidə olunacaq. Gün ərzində hava sabit keçəcək. Şimal-şərq küləyi gündüz saatlarında istiqamətini dəyişərək <span style="color:#60a5fa;font-weight:bold;">cənub-şərq küləyi</span> ilə əvəz olunacaq.</p>
+<p>Bakı və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu və əsasən yağmursuz hava şəraiti</span> müşahidə olunacaq. Gün ərzində hava əsasən sabit keçəcək, lakin axşam saatlarına doğru bəzi ərazilərdə <span style="color:#60a5fa;font-weight:bold;">qısamüddətli yağışlar</span> gözlənilir. Gecəyə yaxın yarımadanın ayrı-ayrı yerlərində <span style="color:#ef4444;font-weight:bold;">leysan və şimşək</span> ehtimalı artır. Mülayim şimal-şərq küləyi üstünlük təşkil edəcək.</p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">İsti hava şəraiti davam edir!</span> Bakı və Abşeron yarımadasında gecə temperaturu <span style="color:#38bdf8;font-weight:bold;">19–22°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">27–32°C</span> təşkil edəcək.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">İsti hava davam edir!</span> Bakı və Abşeron yarımadasında gecə temperaturu <span style="color:#38bdf8;font-weight:bold;">20–23°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">29–34°C</span> təşkil edəcək.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">762 mm civə sütunu</span> olacaq. Nisbi rütubət gecə saatlarında <span style="color:#60a5fa;font-weight:bold;">60–65%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">45–50%</span> təşkil edəcək.</p>
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">758 mm civə sütunu</span> olacaq. Nisbi rütubət gecə saatlarında <span style="color:#60a5fa;font-weight:bold;">60–65%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">40–50%</span> səviyyəsində dəyişəcək.</p>
 
-<p>Azərbaycanın bəzi rayonlarında hava şəraitində dəyişikliklər gözlənilir. Xüsusilə <span style="color:#a78bfa;font-weight:bold;">dağlıq və dağətəyi ərazilərdə</span> yağış yağacağı ehtimal olunur. Ayrı-ayrı yerlərdə <span style="color:#ef4444;font-weight:bold;">leysan, şimşək və dolu</span> müşahidə edilə bilər. Gecə və səhər saatlarında bəzi dağlıq bölgələrdə <span style="color:#94a3b8;font-weight:bold;">duman</span> olacaq. Bölgələrdə mülayim şərq küləyi üstünlük təşkil edəcək.</p>
+<p>Azərbaycanın bəzi rayonlarında <span style="color:#a78bfa;font-weight:bold;">qısamüddətli yağışlar</span> müşahidə olunacaq. Ayrı-ayrı bölgələrdə <span style="color:#ef4444;font-weight:bold;">leysan, şimşək və dolu</span> ehtimalı mövcuddur. Axşam saatlarına yaxın bəzi ərazilərdə yağıntının güclənməsi gözlənilir. Dağlıq rayonlarda gecə və səhər saatlarında <span style="color:#94a3b8;font-weight:bold;">duman</span> müşahidə oluna bilər. Şərq küləyi orta gücdə əsəcək.</p>
 
-<p>Rayonlarda havanın temperaturu gecə <span style="color:#38bdf8;font-weight:bold;">21–25°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">30–35°C</span> olacaq. Dağlıq ərazilərdə gecə <span style="color:#38bdf8;font-weight:bold;">10–15°C</span>, gündüz <span style="color:#22c55e;font-weight:bold;">18–23°C</span>, bəzi yerlərdə isə <span style="color:#f97316;font-weight:bold;">25–28°C</span>-yə qədər yüksəlməsi mümkündür.</p>
+<p>Rayonlarda havanın temperaturu gecə <span style="color:#38bdf8;font-weight:bold;">21–25°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">30–35°C</span> olacaq. Dağlıq ərazilərdə gecə <span style="color:#38bdf8;font-weight:bold;">10–15°C</span>, gündüz <span style="color:#22c55e;font-weight:bold;">17–22°C</span>, bəzi yerlərdə isə <span style="color:#f97316;font-weight:bold;">25–28°C</span>-yə qədər yüksəlməsi mümkündür.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Dağlıq və dağətəyi rayonlarda yaşayan sakinlərə qısamüddətli güclü yağış və dolu ehtimalını nəzərə almaq tövsiyə olunur.
+⚠️ Axşam və gecə saatlarında bəzi ərazilərdə hava şəraitinin qəfil dəyişməsi mümkündür. Xüsusilə dağlıq rayonlarda leysan və şimşək ehtimalı nəzərə alınmalıdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
