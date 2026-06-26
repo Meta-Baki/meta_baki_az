@@ -1,19 +1,21 @@
-<h2 style="color:#60a5fa;">🌦 META Meteoroloji Mərkəzi – 26 İyun üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌪 META Meteoroloji Mərkəzi – Güclü küləklə bağlı meteoroloji xəbərdarlıq</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, 26 iyun tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, ölkə ərazisində gözlənilən güclü küləklə bağlı vacib məlumatı təqdim edirəm.</p>
 
-<p>Bakı və Abşeron yarımadasında <span style="color:#38bdf8;font-weight:bold;font-size:20px;">dəyişkən buludlu hava şəraiti</span> gözlənilir. Hava əsasən yağmursuz keçsə də, günün ikinci yarısında bəzi ərazilərdə <span style="color:#a78bfa;font-weight:bold;">yağış və şimşək ehtimalı</span> mövcuddur. Yarımadanın bəzi hissələrində qısamüddətli intensiv yağıntılar müşahidə edilə bilər. Gün ərzində <span style="color:#22c55e;font-weight:bold;">şimal-qərb küləyi</span> üstünlük təşkil edəcək.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:24px;">⚠️ Azərbaycanda sarı və narıncı təhlükə səviyyəsi elan edildi!</span></p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Temperatur bir qədər aşağı olacaq!</span> Bakı və Abşeron yarımadasında gecə saatlarında temperatur <span style="color:#60a5fa;font-weight:bold;">19–23°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">26–31°C</span> təşkil edəcək.</p>
+<p>Milli Hidrometeorologiya Xidmətinin məlumatına əsasən, <span style="color:#38bdf8;font-weight:bold;">27–28 iyun tarixlərində</span> gözlənilən küləkli hava şəraiti ilə əlaqədar Bakı və Abşeron yarımadasında, eləcə də ölkənin bir sıra bölgələrində <span style="color:#f97316;font-weight:bold;">meteoroloji xəbərdarlıq</span> qüvvəyə minib.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">757 mm civə sütunu</span> səviyyəsində gözlənilir. Nisbi rütubət gecə saatlarında <span style="color:#a78bfa;font-weight:bold;">70–80%</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">55–60%</span> olacaq.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:21px;">🟠 Narıncı xəbərdarlıq səviyyəsi</span> Bakı və Abşeron yarımadası ilə yanaşı Mingəçevir, Gəncə, Ağstafa, Qazax, Naftalan, Goranboy, Daşkəsən, Neftçala, Salyan, Şirvan, Şabran, Xızı və Qobustan ərazilərini əhatə edir.</p>
 
-<p>Azərbaycanın bəzi rayonlarında <span style="color:#3b82f6;font-weight:bold;">yağıntılı hava şəraiti</span> müşahidə olunacaq. Ayrı-ayrı ərazilərdə yağışların intensivləşməsi, <span style="color:#ef4444;font-weight:bold;">şimşək və dolu</span> ehtimalı var. Dağlıq rayonlarda gecə və səhər saatlarında <span style="color:#94a3b8;font-weight:bold;">duman</span> müşahidə ediləcək. Qərb küləyi bəzi ərazilərdə arabir güclənə bilər.</p>
+<p>Bu ərazilərdə <span style="color:#dc2626;font-weight:bold;">şimal-qərb küləyinin sürəti 20.8–28.4 m/s</span>, yəni təxminən <span style="color:#dc2626;font-weight:bold;font-size:22px;">75–102 km/saat</span> təşkil edə bilər.</p>
 
-<p>Rayonlarda havanın temperaturu gecə <span style="color:#60a5fa;font-weight:bold;">19–22°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;">28–33°C</span> təşkil edəcək. Dağlıq ərazilərdə gecə <span style="color:#38bdf8;font-weight:bold;">9–14°C</span>, gündüz <span style="color:#22c55e;font-weight:bold;">17–22°C</span>, bəzi yerlərdə isə <span style="color:#ef4444;font-weight:bold;">24–26°C</span>-yə qədər yüksəlməsi mümkündür.</p>
+<p><span style="color:#eab308;font-weight:bold;font-size:21px;">🟡 Sarı xəbərdarlıq səviyyəsi</span> isə ölkənin digər ərazilərində qüvvədədir.</p>
+
+<p>Bu bölgələrdə küləyin sürətinin <span style="color:#f59e0b;font-weight:bold;">13.9–20.7 m/s</span>, yəni təxminən <span style="color:#f59e0b;font-weight:bold;">50–75 km/saat</span> olacağı gözlənilir.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Günün ikinci yarısında bəzi ərazilərdə gözlənilən yağış və şimşək səbəbilə açıq məkanlarda diqqətli olmaq tövsiyə olunur.
+⚠️ Güclü külək zamanı açıq ərazilərdə ehtiyatlı olun, ağac və reklam lövhələrinin yaxınlığında dayanmayın, nəqliyyat vasitələrini təhlükəsiz yerlərdə saxlayın.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
@@ -21,7 +23,7 @@
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-🌍 Hava ilə bağlı ən son məlumatlar üçün META platformasını izləyin.
+🌍 Son hava xəbərləri və xəbərdarlıqlar üçün META platformasını izləyin.
 </p>
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
