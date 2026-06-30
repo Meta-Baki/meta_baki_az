@@ -888,5 +888,475 @@
     "time": "29.06 15:44:24",
     "timestamp": "2026-06-29T15:44:24.919499+04:00",
     "wind": 3
+  },
+  {
+    "gust": 5,
+    "humidity": 59,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 24.8,
+    "time": "29.06 16:59:07",
+    "timestamp": "2026-06-29T16:59:07.565922+04:00",
+    "wind": 2
+  },
+  {
+    "gust": 7,
+    "humidity": 59,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 24.1,
+    "time": "29.06 17:29:56",
+    "timestamp": "2026-06-29T17:29:56.329149+04:00",
+    "wind": 3
+  },
+  {
+    "gust": 2,
+    "humidity": 59,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 23.8,
+    "time": "29.06 18:04:11",
+    "timestamp": "2026-06-29T18:04:11.681596+04:00",
+    "wind": 1
+  },
+  {
+    "gust": 6,
+    "humidity": 59,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 23.5,
+    "time": "29.06 18:34:15",
+    "timestamp": "2026-06-29T18:34:15.654599+04:00",
+    "wind": 3
+  },
+  {
+    "gust": 1,
+    "humidity": 59,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 23.3,
+    "time": "29.06 19:04:24",
+    "timestamp": "2026-06-29T19:04:24.545627+04:00",
+    "wind": 1
+  },
+  {
+    "gust": 4,
+    "humidity": 59,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 23.1,
+    "time": "29.06 19:35:20",
+    "timestamp": "2026-06-29T19:35:20.962936+04:00",
+    "wind": 3
+  },
+  {
+    "gust": 0,
+    "humidity": 61,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 22.6,
+    "time": "29.06 20:05:30",
+    "timestamp": "2026-06-29T20:05:30.028199+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 1,
+    "humidity": 63,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 22,
+    "time": "29.06 20:36:29",
+    "timestamp": "2026-06-29T20:36:29.965872+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 65,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 21.7,
+    "time": "29.06 21:07:25",
+    "timestamp": "2026-06-29T21:07:25.491685+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 1,
+    "humidity": 73,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 21.4,
+    "time": "29.06 21:38:09",
+    "timestamp": "2026-06-29T21:38:09.509758+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 75,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 21.3,
+    "time": "29.06 22:08:51",
+    "timestamp": "2026-06-29T22:08:51.499500+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 77,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 21,
+    "time": "29.06 22:39:29",
+    "timestamp": "2026-06-29T22:39:29.305531+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 1,
+    "humidity": 77,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 21.1,
+    "time": "29.06 23:10:01",
+    "timestamp": "2026-06-29T23:10:01.619351+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 75,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 21.1,
+    "time": "29.06 23:40:47",
+    "timestamp": "2026-06-29T23:40:47.403313+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 77,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 21.1,
+    "time": "30.06 00:11:38",
+    "timestamp": "2026-06-30T00:11:38.747020+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 77,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 20.8,
+    "time": "30.06 00:42:13",
+    "timestamp": "2026-06-30T00:42:13.908411+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 1,
+    "humidity": 75,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 20.9,
+    "time": "30.06 01:12:52",
+    "timestamp": "2026-06-30T01:12:52.713176+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 75,
+    "pressure": 999,
+    "rain": 0,
+    "temp": 20.7,
+    "time": "30.06 01:43:44",
+    "timestamp": "2026-06-30T01:43:44.009830+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 75,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 21,
+    "time": "30.06 02:14:43",
+    "timestamp": "2026-06-30T02:14:43.953730+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 77,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 20.7,
+    "time": "30.06 02:45:28",
+    "timestamp": "2026-06-30T02:45:28.276017+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 75,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 20.9,
+    "time": "30.06 03:16:05",
+    "timestamp": "2026-06-30T03:16:05.789682+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 71,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 21,
+    "time": "30.06 03:46:42",
+    "timestamp": "2026-06-30T03:46:42.055478+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 69,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 21,
+    "time": "30.06 04:17:19",
+    "timestamp": "2026-06-30T04:17:19.806288+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 69,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 21,
+    "time": "30.06 04:47:28",
+    "timestamp": "2026-06-30T04:47:28.200545+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 67,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 20.7,
+    "time": "30.06 05:18:19",
+    "timestamp": "2026-06-30T05:18:19.732713+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 61,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 22.5,
+    "time": "30.06 05:49:22",
+    "timestamp": "2026-06-30T05:49:22.830992+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 1,
+    "humidity": 63,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 21.9,
+    "time": "30.06 06:20:10",
+    "timestamp": "2026-06-30T06:20:10.743309+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 0,
+    "humidity": 59,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 22.1,
+    "time": "30.06 06:51:05",
+    "timestamp": "2026-06-30T06:51:05.638921+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 1,
+    "humidity": 57,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 22.8,
+    "time": "30.06 07:21:50",
+    "timestamp": "2026-06-30T07:21:50.085229+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 3,
+    "humidity": 50,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 23.7,
+    "time": "30.06 07:52:39",
+    "timestamp": "2026-06-30T07:52:39.667139+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 2,
+    "humidity": 46,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 24.4,
+    "time": "30.06 08:22:42",
+    "timestamp": "2026-06-30T08:22:42.019807+04:00",
+    "wind": 1
+  },
+  {
+    "gust": 3,
+    "humidity": 42,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 26.7,
+    "time": "30.06 08:52:48",
+    "timestamp": "2026-06-30T08:52:48.057308+04:00",
+    "wind": 2
+  },
+  {
+    "gust": 3,
+    "humidity": 44,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 26.3,
+    "time": "30.06 09:23:13",
+    "timestamp": "2026-06-30T09:23:13.921572+04:00",
+    "wind": 1
+  },
+  {
+    "gust": 1,
+    "humidity": 50,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 25.8,
+    "time": "30.06 09:53:24",
+    "timestamp": "2026-06-30T09:53:24.092503+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 3,
+    "humidity": 48,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 26.5,
+    "time": "30.06 10:23:32",
+    "timestamp": "2026-06-30T10:23:32.402444+04:00",
+    "wind": 2
+  },
+  {
+    "gust": 4,
+    "humidity": 54,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 25.8,
+    "time": "30.06 10:53:52",
+    "timestamp": "2026-06-30T10:53:52.707628+04:00",
+    "wind": 2
+  },
+  {
+    "gust": 6,
+    "humidity": 58,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 26.4,
+    "time": "30.06 11:24:23",
+    "timestamp": "2026-06-30T11:24:23.701520+04:00",
+    "wind": 3
+  },
+  {
+    "gust": 2,
+    "humidity": 55,
+    "pressure": 998,
+    "rain": 0,
+    "temp": 26.9,
+    "time": "30.06 11:55:00",
+    "timestamp": "2026-06-30T11:55:00.831272+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 3,
+    "humidity": 57,
+    "pressure": 997,
+    "rain": 0,
+    "temp": 26.9,
+    "time": "30.06 12:25:11",
+    "timestamp": "2026-06-30T12:25:11.372356+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 2,
+    "humidity": 60,
+    "pressure": 997,
+    "rain": 0,
+    "temp": 26.9,
+    "time": "30.06 12:55:54",
+    "timestamp": "2026-06-30T12:55:54.057249+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 3,
+    "humidity": 59,
+    "pressure": 997,
+    "rain": 0,
+    "temp": 27.5,
+    "time": "30.06 13:26:17",
+    "timestamp": "2026-06-30T13:26:17.711570+04:00",
+    "wind": 1
+  },
+  {
+    "gust": 3,
+    "humidity": 57,
+    "pressure": 997,
+    "rain": 0,
+    "temp": 28.4,
+    "time": "30.06 13:57:00",
+    "timestamp": "2026-06-30T13:57:00.038500+04:00",
+    "wind": 1
+  },
+  {
+    "gust": 2,
+    "humidity": 55,
+    "pressure": 997,
+    "rain": 0,
+    "temp": 28.6,
+    "time": "30.06 14:27:11",
+    "timestamp": "2026-06-30T14:27:11.805421+04:00",
+    "wind": 1
+  },
+  {
+    "gust": 0,
+    "humidity": 57,
+    "pressure": 996,
+    "rain": 0,
+    "temp": 28.8,
+    "time": "30.06 14:58:21",
+    "timestamp": "2026-06-30T14:58:21.967744+04:00",
+    "wind": 0
+  },
+  {
+    "gust": 3,
+    "humidity": 59,
+    "pressure": 996,
+    "rain": 0,
+    "temp": 28.2,
+    "time": "30.06 15:29:12",
+    "timestamp": "2026-06-30T15:29:12.215428+04:00",
+    "wind": 3
+  },
+  {
+    "gust": 3,
+    "humidity": 62,
+    "pressure": 996,
+    "rain": 0,
+    "temp": 27.7,
+    "time": "30.06 16:00:00",
+    "timestamp": "2026-06-30T16:00:00.548873+04:00",
+    "wind": 2
+  },
+  {
+    "gust": 3,
+    "humidity": 64,
+    "pressure": 996,
+    "rain": 0,
+    "temp": 27.4,
+    "time": "30.06 16:31:02",
+    "timestamp": "2026-06-30T16:31:02.255161+04:00",
+    "wind": 1
   }
 ]
