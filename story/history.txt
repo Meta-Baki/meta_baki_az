@@ -1,19 +1,19 @@
-<h2 style="color:#60a5fa;">🌤️ META Hidrometeorologiya Departamenti – 14 İyul üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌤️ META Hidrometeorologiya Departamenti – 15 İyul üçün hava proqnozu</h2>
 
-<p>Salam! Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, META Hidrometeorologiya Departamenti adından 14 iyul tarixi üçün gözlənilən hava şəraiti barədə ən son məlumatları təqdim edirəm.</p>
+<p>Salam! Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, META Hidrometeorologiya Departamenti adından 15 iyul tarixi üçün gözlənilən hava şəraiti barədə ən son məlumatları təqdim edirəm.</p>
 
-<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">əsasən yağmursuz və isti hava şəraiti</span> müşahidə olunacaq. Hava dəyişkən buludlu keçəcək, günəşli fasilələr üstünlük təşkil edəcək. Mülayim şimal-qərb küləyi gündüz saatlarında arabir güclənəcək, axşam isə zəifləyəcək.</p>
+<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">dəyişkən buludlu, əsasən yağmursuz hava şəraiti</span> müşahidə olunacaq. Gün ərzində hava əsasən sabit keçsə də, axşam saatlarına yaxın bəzi ərazilərdə buludluluğun artması mümkündür. Mülayim şimal-qərb küləyi gündüz saatlarında arabir güclənəcək.</p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">🌡️ Yay istisi davam edir!</span> Bakıda və Abşeron yarımadasında gecə saatlarında havanın temperaturu <span style="color:#38bdf8;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">32–36°C</span> təşkil edəcək. Günorta saatlarında hiss olunan temperatur daha yüksək ola bilər.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">🌡️ Yay istisi davam edir!</span> Bakıda və Abşeron yarımadasında gecə saatlarında havanın temperaturu <span style="color:#38bdf8;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">31–35°C</span> təşkil edəcək.</p>
 
-<p>Atmosfer təzyiqinin <span style="color:#38bdf8;font-weight:bold;">758 mm civə sütunu</span> ətrafında olacağı gözlənilir. Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">65–75%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">40–50%</span> arasında dəyişəcək.</p>
+<p>Atmosfer təzyiqinin <span style="color:#38bdf8;font-weight:bold;">758 mm civə sütunu</span> ətrafında olacağı gözlənilir. Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">65–75%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">45–55%</span> arasında dəyişəcək.</p>
 
-<p>Azərbaycanın əksər rayonlarında hava əsasən yağmursuz keçəcək. Günün ikinci yarısında bəzi <span style="color:#a78bfa;font-weight:bold;">dağlıq və dağətəyi ərazilərdə qısamüddətli yağış, şimşək və dolu</span> ehtimalı qalır. Gecə və səhər saatlarında yüksək dağlıq ərazilərdə duman müşahidə oluna bilər. Mülayim şərq küləyi əsəcək.</p>
+<p>Azərbaycanın əksər rayonlarında hava əsasən yağmursuz keçəcək. Lakin günün ikinci yarısından etibarən bəzi <span style="color:#a78bfa;font-weight:bold;">dağlıq və dağətəyi rayonlarda qısamüddətli yağış, şimşək və dolu</span> ehtimalı qalacaq. Gecə və səhər saatlarında yüksək dağlıq ərazilərdə duman müşahidə oluna bilər. Mülayim şərq küləyi əsəcək.</p>
 
-<p>Aran rayonlarında gecə temperaturu <span style="color:#38bdf8;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">34–39°C</span> olacaq. Dağlıq rayonlarda gecə <span style="color:#38bdf8;font-weight:bold;">13–18°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">24–29°C</span>, bəzi yerlərdə <span style="color:#ef4444;font-weight:bold;">31°C</span>-yə qədər yüksələ bilər.</p>
+<p>Aran rayonlarında gecə temperaturu <span style="color:#38bdf8;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">34–38°C</span> olacaq. Dağlıq rayonlarda gecə <span style="color:#38bdf8;font-weight:bold;">13–18°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">23–28°C</span>, bəzi yerlərdə <span style="color:#ef4444;font-weight:bold;">30°C</span>-yə qədər yüksəlməsi mümkündür.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Günorta saatlarında UV şüalanması yüksək olacaq. Açıq havada uzun müddət qalarkən günəşdən qoruyucu vasitələrdən istifadə edin və kifayət qədər su qəbul edin.
+⚠️ Günün ən isti saatlarında açıq havada uzun müddət qalmaq tövsiyə edilmir. Dağlıq ərazilərdə yaşayan və istirahət edən vətəndaşlara günün ikinci yarısında gözlənilən lokal leysan və şimşək ehtimalını nəzərə almaları tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
@@ -21,7 +21,7 @@
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-🌦️ Ən son hava proqnozları və operativ xəbərdarlıqlar üçün META-nı izləyin.
+🌦️ Ən son hava proqnozları və operativ meteoroloji xəbərdarlıqlar üçün META-nı izləyin.
 </p>
 
 <div style="text-align:right;font-size:18px;opacity:0.7;margin-top:15px;">
