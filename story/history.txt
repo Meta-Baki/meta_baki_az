@@ -1,19 +1,19 @@
-<h2 style="color:#60a5fa;">☀️ META Meteorologiya Mərkəzi – 24 İyul üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">☀️ META Meteorologiya Mərkəzi – 25 İyul üçün hava proqnozu</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından 24 iyul tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">meteoroloq Edelman Əliyev</span>, <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından 25 iyul tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
-<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava açıq və yağmursuz keçəcək.</span> Gün ərzində günəşli hava şəraiti üstünlük təşkil edəcək. Mülayim cənub-şərq küləyi əsəcək.</p>
+<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava günəşli və yağmursuz keçəcək.</span> Şimal-şərq küləyi günün ikinci yarısında cənub-şərq küləyi ilə əvəz olunacaq.</p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">İsti hava daha da güclənəcək!</span> Havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">23–25°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">33–38°C</span> təşkil edəcək.</p>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Güclü isti hava şəraiti davam edəcək!</span> Havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–26°C</span>, gündüz isə <span style="color:#ff6b6b;font-weight:bold;font-size:22px;">33–38°C</span> təşkil edəcək.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">753 mm civə sütunu</span> olacaq və normadan aşağı qalacaq. Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">75–80%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">45–50%</span> təşkil edəcək.</p>
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">754 mm civə sütunu</span> olacaq. Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">60–70%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">45–50%</span> təşkil edəcək.</p>
 
-<p>Azərbaycanın bəzi <span style="color:#a78bfa;font-weight:bold;">dağlıq rayonlarında</span> günün ikinci yarısında qısamüddətli yağış, şimşək və dolu ehtimalı var. Dağlıq ərazilərdə gecə və səhər saatlarında duman müşahidə olunacaq. Mülayim şərq küləyi əsəcək.</p>
+<p>Azərbaycanın rayonlarında hava əsasən yağmursuz olacaq. Lakin günün ikinci yarısında bəzi <span style="color:#a78bfa;font-weight:bold;">dağlıq rayonlarda</span> qısamüddətli zəif yağış, şimşək və dolu ehtimalı var. Ayrı-ayrı yerlərdə duman müşahidə olunacaq. Mülayim şərq küləyi gün ərzində arabir güclənəcək.</p>
 
 <p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–27°C</span>, gündüz <span style="color:#ef4444;font-weight:bold;">35–39°C</span> olacaq. Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–20°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">25–30°C</span> isti gözlənilir.</p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-🌡 Günorta saatlarında xüsusilə aran rayonlarında güclü isti hava şəraiti müşahidə olunacaq. Günəş şüalarının ən aktiv olduğu saatlarda açıq havada uzun müddət qalmamaq və bol maye qəbul etmək tövsiyə edilir.
+🌡 Günorta saatlarında ölkənin əksər ərazilərində güclü istilər davam edəcək. Açıq havada uzun müddət qalmamaq, bol maye qəbul etmək və günəş şüalarından qorunmaq tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
