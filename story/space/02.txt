@@ -1,17 +1,21 @@
 <h2 style="color:#a78bfa;">
-🪐✨ Plutonun rəngarəng dünyası — NASA cırtdan planetin möhtəşəm görüntüsünü təqdim etdi
+🌌✨ Космосda nəhəng “Pelikan” dəyişir — NASA yeni görüntünü təqdim etdi
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 6 sentyabr 2026, 16:32 — Bakı vaxtı
+🕐 Əlavə olunub: 7 sentyabr 2026, 14:45 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Günəş sisteminin ən məşhur cırtdan planetlərindən biri olan Plutonun qeyri-adi rəngləri yenidən diqqət mərkəzindədir. Sentyabrın 6-da yayımlanan astronomik görüntüdə Plutonun səthi gücləndirilmiş rənglərdə nümayiş etdirilib.</strong>
+<strong>META Meteorologiya Mərkəzinin kosmik məlumatlar üzrə təhlilinə görə,
+sentyabrın 7-də NASA kosmosun ən maraqlı ulduz yaranma bölgələrindən biri olan
+Pelikan dumanlığının (IC 5070) son dərəcə detallı görüntüsünü təqdim edib.</strong>
 </p>
 
 <p>
-META Meteorologiya Mərkəzinin kosmik məlumatlar üzrə təhlilinə görə, görüntü NASA-nın <strong>New Horizons</strong> kosmik aparatının Plutonun yaxınlığından keçidi zamanı əldə etdiyi yüksək ayırdetməli fotoşəkillər və rəng məlumatlarının birləşdirilməsi əsasında hazırlanıb.
+Nəhəng qaz və toz buludlarından ibarət olan bu kosmik struktur sabit deyil.
+Gənc və enerjili ulduzlardan yayılan güclü şüalanma dumanlığın daxilindəki qazı
+tədricən dəyişdirir və onun görünüşünü yenidən formalaşdırır.
 </p>
 
 <div style="
@@ -22,157 +26,205 @@ border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🪐 PLUTON — ƏSAS MƏLUMATLAR</strong><br><br>
+<strong style="color:#c4b5fd;">🌌 PELİKAN DUMANLIĞI</strong><br><br>
 
-🚀 Kosmik aparat: <strong>New Horizons</strong><br><br>
+🔭 Rəsmi adı: <strong>IC 5070</strong><br><br>
 
-📅 Plutonun yaxınlığından keçid: <strong>iyul 2015</strong><br><br>
+⭐ Obyekt: <strong>ulduz yaranma bölgəsi</strong><br><br>
 
-🎨 Görüntü: <strong>gücləndirilmiş rənglərdə</strong><br><br>
+☁️ Tərkibi: <strong>qaz, molekulyar buludlar və kosmik toz</strong><br><br>
 
-❤️ Ən məşhur bölgə: <strong>Tombaugh Regio</strong><br><br>
+📸 Görüntünün ümumi ekspozisiyası: <strong>25 saat</strong><br><br>
 
-❄️ Böyük hamar düzənlik: <strong>Sputnik Planitia</strong>
+🌠 Əsas proses: <strong>yeni ulduzların yaranması və qaz buludlarının dəyişməsi</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🎨 Bunlar Plutonun həqiqi rəngləridir?</h3>
+<h3 style="color:#38bdf8;">🔭 25 saatlıq müşahidə</h3>
 
 <p>
-Görüntüdəki rənglər insan gözünün Plutonu yaxından gördüyü halda müşahidə edəcəyi rənglərlə tam eyni deyil.
+Yeni görüntü ABŞ-ın Yuta ştatından aparılan müşahidələr nəticəsində hazırlanıb.
+Foto üçün ümumilikdə <strong>25 saatlıq ekspozisiya</strong> istifadə edilib.
 </p>
 
 <p>
-Alimlər New Horizons tərəfindən əldə edilmiş rəng məlumatlarını yüksək ayırdetməli görüntülərlə rəqəmsal şəkildə birləşdirərək <strong>gücləndirilmiş rəngli təsvir</strong> hazırlayıblar.
+Uzunmüddətli ekspozisiya adi görüntüdə zəif görünən qaz və toz strukturlarını
+daha aydın göstərməyə imkan verib. Nəticədə dumanlığın daxilindəki nazik,
+sapvari kosmik toz strukturları xüsusilə detallı şəkildə görünür.
 </p>
 
 <div style="
 background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
-padding:17px;
+border:1px solid rgba(96,165,250,0.30);
+padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🔬 NİYƏ RƏNGLƏR GÜCLƏNDİRİLİR?</strong><br><br>
+<strong style="color:#60a5fa;">📸 GÖRÜNTÜDƏ NƏ GÖRÜRÜK?</strong><br><br>
 
-🧪 Müxtəlif kimyəvi tərkibli əraziləri ayırmaq üçün<br><br>
+✨ Gənc ulduzlar<br><br>
 
-🗺️ Səth strukturlarını daha aydın göstərmək üçün<br><br>
+☁️ İsti qaz buludları<br><br>
 
-🧊 Buz və digər materialların paylanmasını araşdırmaq üçün<br><br>
+🌑 Qaranlıq kosmik toz<br><br>
 
-🔭 Plutonun geoloji quruluşunu daha yaxşı öyrənmək üçün
+🌀 Sapvari qaz və toz strukturları<br><br>
+
+🔥 Ulduzların şüalanması ilə dəyişən qaz bölgələri
 
 </div>
 
-<h3 style="color:#f472b6;">❤️ Plutonun məşhur “ürəyi”</h3>
+<h3 style="color:#f97316;">🔥 Gənc ulduzlar dumanlığı dəyişdirir</h3>
 
 <p>
-Görüntüdə ən diqqətçəkən obyektlərdən biri Plutonun nəhəng açıq rəngli ürək formalı bölgəsi — <strong>Tombaugh Regio</strong>dur.
+Pelikan dumanlığının ən maraqlı xüsusiyyətlərindən biri burada aktiv
+<strong>ulduz yaranması prosesinin</strong> davam etməsidir.
 </p>
 
 <p>
-Bu struktur Plutonun ilk kəşfçisi Klayd Tombonun şərəfinə adlandırılıb və New Horizons missiyasının ən məşhur kəşflərindən birinə çevrilib.
-</p>
-
-<p>
-Lakin yaxından aparılan müşahidələr göstərib ki, bu “ürək” vahid geoloji struktur deyil — onun iki hissəsi bir-birindən fərqlənir.
+Yeni yaranmış enerjili ulduzlardan gələn güclü şüalanma ətrafdakı soyuq qazı
+qızdırır. Bunun nəticəsində soyuq və isti qaz arasındakı sərhəd zamanla irəliləyir.
 </p>
 
 <div style="
-background:rgba(236,72,153,0.05);
-border:1px solid rgba(244,114,182,0.28);
-padding:17px;
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.30);
+padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#f9a8d4;">❤️ TOMBAUGH REGIO</strong><br><br>
+<strong style="color:#fb923c;">🔥 İONLAŞMA CƏBHƏSİ</strong><br><br>
 
-Plutonun məşhur ürək formalı bölgəsidir.<br><br>
+☁️ Soyuq qaz<br>
+⬇️<br><br>
 
-🔬 Gücləndirilmiş rənglər onun daxilində geoloji cəhətdən fərqli sahələrin olduğunu daha aydın göstərir.
+⭐ Gənc ulduzların güclü şüalanması<br>
+⬇️<br><br>
+
+🔥 Qazın qızması və ionlaşması<br>
+⬇️<br><br>
+
+🌌 Dumanlığın strukturunun tədricən dəyişməsi
 
 </div>
 
-<h3 style="color:#e2e8f0;">❄️ Sputnik Planitia — qeyri-adi hamar dünya</h3>
+<p>
+NASA-nın təqdim etdiyi görüntüdə soyuq və isti qaz arasındakı bu
+<strong>ionlaşma cəbhəsi</strong> xüsusilə aydın seçilir.
+</p>
+
+<h3 style="color:#e2e8f0;">🌑 Qaranlıq molekulyar bulud</h3>
 
 <p>
-“Ürəyin” sol hissəsində yerləşən <strong>Sputnik Planitia</strong> Plutonun ən maraqlı bölgələrindən biridir.
+Pelikan dumanlığı daha böyük <strong>Şimali Amerika dumanlığından</strong>
+qaranlıq molekulyar buludla ayrılır.
 </p>
 
 <p>
-Bu ərazi görüntüdə ətrafındakı sahələrlə müqayisədə qeyri-adi dərəcədə hamar görünür. Məhz belə xüsusiyyətlər Plutonun səthinin alimlərin əvvəl düşündüyündən daha mürəkkəb və geoloji baxımdan maraqlı olduğunu göstərib.
+Bu bölgədəki sıx kosmik toz arxadan gələn işığı udduğu üçün görüntüdə
+qaranlıq sahələr əmələ gətirir.
 </p>
 
 <div style="
 background:rgba(226,232,240,0.04);
 border:1px solid rgba(226,232,240,0.25);
-padding:17px;
+padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#e2e8f0;">❄️ MARAQLI FAKT</strong><br><br>
+<strong style="color:#e2e8f0;">🌑 KOSMİK TOZ</strong><br><br>
 
-Pluton Günəşdən çox uzaqda yerləşən soyuq bir dünya olsa da, New Horizons müşahidələri onun səthində müxtəlif və mürəkkəb geoloji strukturların olduğunu göstərib.
+Kosmik toz yalnız görüntüdə qaranlıq sahələr yaratmır.
+Belə sıx qaz və toz buludları yeni ulduzların yaranması üçün lazım olan
+materialın böyük hissəsini təşkil edir.
 
 </div>
 
-<h3 style="color:#f59e0b;">🚀 New Horizons Plutondan sonra yoluna davam etdi</h3>
+<h3 style="color:#22c55e;">⭐ Kosmosda yeni ulduzlar necə yaranır?</h3>
 
 <p>
-NASA-nın New Horizons aparatı <strong>2015-ci ilin iyulunda</strong> Plutonun yaxınlığından keçərək cırtdan planet haqqında indiyədək əldə edilmiş ən detallı məlumatları Yerə göndərib.
+Nəhəng molekulyar qaz və toz buludlarının müəyyən hissələri cazibə qüvvəsinin
+təsiri altında sıxılmağa başlayır.
 </p>
 
 <p>
-Missiya bununla başa çatmayıb. Kosmik aparat daha sonra Kuiper qurşağında yerləşən <strong>Arrokoth</strong> obyektinin yanından keçib. Bu tarixi yaxınlaşma 2019-cu ildə baş tutub.
+Maddə getdikcə daha sıx və isti olduqda protoulduz formalaşa bilər.
+Milyonlarla il davam edən proses nəticəsində isə yeni ulduz meydana gəlir.
 </p>
 
 <div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.28);
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">⭐ ULDUZUN YARANMASI</strong><br><br>
+
+☁️ Qaz və toz buludu<br>
+⬇️<br><br>
+
+🌀 Maddənin cazibə qüvvəsi ilə sıxılması<br>
+⬇️<br><br>
+
+🔥 Protoulduzun yaranması<br>
+⬇️<br><br>
+
+⭐ Yeni ulduz
+
+</div>
+
+<h3 style="color:#f472b6;">⏳ Milyonlarla ildən sonra tamamilə fərqli görünə bilər</h3>
+
+<p>
+Pelikan dumanlığının hazırkı görünüşü əbədi deyil.
+Gənc ulduzların şüalanması qaz buludlarını dəyişdirməyə davam etdikcə
+onun strukturu da tədricən yenidən formalaşacaq.
+</p>
+
+<p>
+Astronomların fikrincə, <strong>milyonlarla ildən sonra</strong> ulduzların və qazın
+yerləşməsi o qədər dəyişə bilər ki, dumanlıq artıq indiki “Pelikan”
+formasına bənzəməyə bilər.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.05);
+border:1px solid rgba(167,139,250,0.30);
 padding:18px;
 border-radius:10px;
 font-size:18px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🚀 NEW HORIZONS SƏYAHƏTİ</strong><br><br>
+<strong style="color:#c4b5fd;">🌌 MARAQLI FAKT</strong><br><br>
 
-🌍 Yer kürəsindən buraxılış<br>
-⬇️<br>
-🪐 <strong>Pluton — 2015</strong><br>
-⬇️<br>
-☄️ <strong>Arrokoth — 2019</strong><br>
-⬇️<br>
-🌌 Günəş sisteminin xarici bölgələrinə doğru səyahət
+Biz kosmik dumanlıqları dəyişməz obyektlər kimi görsək də,
+əslində onların daxilində ulduzların yaranması, qazın qızması və
+maddənin hərəkəti davam edir.<br><br>
+
+⏳ Sadəcə bu dəyişikliklərin böyük hissəsi insan ömrü ilə müqayisədə
+çox uzun zaman miqyasında baş verir.
 
 </div>
 
-<h3 style="color:#22c55e;">🔭 Pluton niyə alimlər üçün vacibdir?</h3>
-
-<p>
-Pluton və digər Kuiper qurşağı obyektləri Günəş sisteminin çox qədim tarixindən qalan materialları qoruyub saxlaya bilər.
-</p>
-
-<p>
-Bu uzaq dünyaların öyrənilməsi planetlərin və digər göy cisimlərinin milyardlarla il əvvəl necə formalaşdığını daha yaxşı anlamağa kömək edir.
-</p>
-
-<div style="
+<p style="
 background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.25);
 padding:17px;
 border-radius:10px;
 font-size:18px;
-margin:18px 0;">
+margin-top:20px;">
 
 📡 <strong style="color:#60a5fa;">META Kosmos:</strong>
-Plutonun gücləndirilmiş rəngli görüntüsü sadəcə vizual effekt deyil.
-Rəng fərqləri alimlərə cırtdan planetin müxtəlif kimyəvi və geoloji bölgələrini bir-birindən ayırmağa kömək edir.
+Pelikan dumanlığının yeni görüntüsü ulduzların yalnız kosmosda yaranmadığını,
+eyni zamanda ətraf mühiti də dəyişdirdiyini göstərir.
+Gənc ulduzların enerjisi nəhəng qaz buludlarını tədricən formalaşdırmağa davam edir.
 
-</div>
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və planetlər haqqında yeni elmi məlumatları izləməyə davam edir.
+🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və
+planetlər haqqında yeni məlumatları izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
@@ -182,8 +234,8 @@ Rəng fərqləri alimlərə cırtdan planetin müxtəlif kimyəvi və geoloji b�
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı </a>
-
+➡️ META WhatsApp Kanalı
+</a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
@@ -194,10 +246,10 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#94a3b8;font-size:14px;">
 <strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
-təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
-əməl etmək tövsiyə olunur.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
+əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
