@@ -1,234 +1,224 @@
-<h2 style="color:#22c55e;">
-🌍🌱 Bakı dünyanın iqlim gündəminin mərkəzinə çevrilir — İqlim Həftəsi başlayır
+<h2 style="color:#38bdf8;">
+🌊⚠️ Xəzər dənizinin səviyyəsinin azalması narahatlıq yaradır — ekosistemlər üçün risk artır
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 6 sentyabr 2026, 16:32 — Bakı vaxtı
+🕐 Əlavə olunub: 7 sentyabr 2026, 14:45 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 7-dən 11-dək Bakı yenidən beynəlxalq iqlim və
-ekologiya gündəminin əsas mərkəzlərindən birinə çevriləcək.
-Paytaxtda BMT-nin İqlim Dəyişmələri üzrə Çərçivə Konvensiyasının
-Dördüncü İqlim Həftəsi keçiriləcək.</strong>
+<strong>META Ekologiya-nın məlumatların təhlilinə görə, Xəzər dənizinin
+səviyyəsinin azalması regionun ən mühüm ekoloji problemlərindən birinə çevrilməkdədir.
+Sentyabrın 7-də Bakıda keçirilən iqlim tədbirlərində bu məsələyə xüsusi diqqət ayrılıb.</strong>
 </p>
 
 <p>
-Eyni tarixlərdə <strong>Bakı İqlim Fəaliyyəti Həftəsi 2026
-(BCAW 2026)</strong> də baş tutacaq. Tədbirlər iqlimlə bağlı qəbul
-edilən qərarların real fəaliyyətə çevrilməsi, beynəlxalq əməkdaşlığın
-gücləndirilməsi və COP31 ərəfəsində gələcək addımların
-müzakirəsinə həsr olunacaq.
+Xəzərin səviyyəsinin aşağı düşməsi yalnız sahil xəttinin dəyişməsi demək deyil.
+Bu proses dəniz və sahilyanı ekosistemlərə, canlıların yaşayış mühitinə,
+sahilyanı icmalara, gəmiçiliyə və iqtisadi fəaliyyətə təsir göstərə bilər.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.30);
+background:rgba(14,165,233,0.05);
+border:1px solid rgba(56,189,248,0.30);
 padding:18px;
 border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🌍 BAKI İQLİM HƏFTƏSİ — 2026</strong><br><br>
+<strong style="color:#38bdf8;">🌊 XƏZƏR DƏNİZİ — ƏSAS MƏSƏLƏ</strong><br><br>
 
-📅 Tarix: <strong>7–11 sentyabr 2026</strong><br><br>
+📉 Dənizin səviyyəsi: <strong>azalma tendensiyası göstərir</strong><br><br>
 
-📍 Məkan: <strong>Bakı, Azərbaycan</strong><br><br>
+🐟 Risk: <strong>dəniz ekosistemlərinin dəyişməsi</strong><br><br>
 
-🌱 Mövzu: <strong>iqlim fəaliyyətinin gücləndirilməsi</strong><br><br>
+🏝️ Sahillər: <strong>sahil xəttinin geri çəkilməsi</strong><br><br>
 
-🤝 İstiqamət: <strong>beynəlxalq əməkdaşlıq</strong><br><br>
+🚢 Gəmiçilik: <strong>dayazlaşmadan təsirlənə bilər</strong><br><br>
 
-🌍 Hədəf: <strong>COP31 ərəfəsində praktiki iqlim fəaliyyətinin sürətləndirilməsi</strong>
+🌍 Problem: <strong>bütün Xəzəryanı region üçün əhəmiyyətlidir</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🌎 İqlim qərarlarından real fəaliyyətə</h3>
+<h3 style="color:#22c55e;">🐟 Ekosistemlər dəyişə bilər</h3>
 
 <p>
-İqlim dəyişikliyi artıq yalnız gələcəyə aid problem hesab edilmir.
-Temperaturun yüksəlməsi, quraqlıq, su ehtiyatlarının dəyişməsi,
-ekstremal yağıntılar və digər hadisələr dünyanın müxtəlif
-regionlarında təbii ekosistemlərə təsir göstərir.
+Xəzər dənizi özünəməxsus bioloji müxtəlifliyə malik qapalı su hövzəsidir.
+Suyun səviyyəsinin uzunmüddətli azalması dayaz sahələrin,
+sahilyanı bataqlıqların və müxtəlif canlıların yaşayış mühitinin dəyişməsinə səbəb ola bilər.
 </p>
 
 <p>
-Bakıdakı tədbirlərin əsas istiqamətlərindən biri qəbul edilmiş
-iqlim qərarlarının <strong>praktiki layihə və fəaliyyətlərə
-çevrilməsinin sürətləndirilməsi</strong> olacaq.
+Xüsusilə sahilə bağlı ekosistemlər su xəttinin sürətlə dəyişməsinə qarşı həssasdır.
+Belə dəyişikliklər qida zəncirinə və ayrı-ayrı növlərin yayılma ərazilərinə də təsir göstərə bilər.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
-padding:17px;
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌱 ƏSAS MÜZAKİRƏ İSTİQAMƏTLƏRİ</strong><br><br>
+<strong style="color:#4ade80;">🌿 TƏBİƏT ÜÇÜN MÜMKÜN TƏSİRLƏR</strong><br><br>
 
-🌡️ İqlim dəyişmələrinin təsirlərinin azaldılması<br><br>
+🐟 Su canlılarının yaşayış mühitinin dəyişməsi<br><br>
 
-🌳 Təbii ekosistemlərin qorunması<br><br>
+🦭 Xəzərin nadir fauna növlərinə əlavə təzyiq<br><br>
 
-💧 Su ehtiyatlarının davamlı idarə olunması<br><br>
+🐦 Sahilyanı quşların yaşayış və qidalanma sahələrinin dəyişməsi<br><br>
 
-⚡ Təmiz və bərpa olunan enerji<br><br>
+🌱 Sahilyanı bitki örtüyünün yenidən formalaşması<br><br>
 
-🏙️ Şəhərlərin iqlim dəyişmələrinə uyğunlaşdırılması<br><br>
-
-🤝 Beynəlxalq iqlim əməkdaşlığı
+🏝️ Dayaz sahələrin quruması və yeni quru ərazilərin yaranması
 
 </div>
 
-<h3 style="color:#22c55e;">🇦🇿 Azərbaycan üçün niyə vacibdir?</h3>
+<h3 style="color:#f97316;">📉 Sahil xətti geri çəkilir</h3>
 
 <p>
-Azərbaycan üçün iqlim dəyişmələri ilə mübarizə yalnız qlobal
-məsələ deyil. Ölkənin müxtəlif təbii zonaları iqlim şəraitindəki
-uzunmüddətli dəyişikliklərə fərqli şəkildə reaksiya verə bilər.
+Dəniz səviyyəsi azaldıqca bəzi ərazilərdə su əvvəlki sahil xəttindən
+uzaqlaşır və əvvəllər su altında olan ərazilər üzə çıxır.
 </p>
 
 <p>
-Xəzər dənizi, dağ və meşə ekosistemləri, çaylar, su ehtiyatları,
-yarımsəhra əraziləri və kənd təsərrüfatı iqlim dəyişikliklərinin
-təsirlərinin öyrənilməsi baxımından xüsusi əhəmiyyət daşıyır.
+Bu dəyişiklik Azərbaycan sahillərində də ekoloji monitorinqin
+əhəmiyyətini artırır. Xüsusilə Abşeron yarımadası və digər sahilyanı
+ərazilərdə uzunmüddətli müşahidələr gələcək dəyişikliklərin miqyasını
+qiymətləndirmək üçün vacibdir.
 </p>
 
 <div style="
 background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.28);
-padding:17px;
+border:1px solid rgba(249,115,22,0.30);
+padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🇦🇿 AZƏRBAYCANIN TƏBİƏTİ ÜÇÜN ƏSAS ÇAĞIRIŞLAR</strong><br><br>
+<strong style="color:#fb923c;">📉 DƏNİZ GERİ ÇƏKİLDİKDƏ</strong><br><br>
 
-🌊 Xəzər dənizində uzunmüddətli dəyişikliklər<br><br>
+🌊 Su xətti sahildən uzaqlaşır<br><br>
 
-💧 Su ehtiyatlarının qorunması<br><br>
+🏜️ Əvvəllər su altında olan ərazilər üzə çıxır<br><br>
 
-🌳 Meşə və dağ ekosistemlərinin mühafizəsi<br><br>
+⚓ Bəzi dayaz sahələrdə gəmiçilik çətinləşə bilər<br><br>
 
-🌾 Torpaq və kənd təsərrüfatının iqlimə uyğunlaşdırılması<br><br>
+🌱 Sahilyanı ekosistemlərin sərhədləri dəyişir<br><br>
 
-🌡️ Ekstremal temperatur hadisələri<br><br>
-
-🌧️ Güclü yağıntı, sel və digər təhlükəli təbiət hadisələri
+🔬 Yeni ərazilərin ekoloji monitorinqinə ehtiyac yaranır
 
 </div>
 
-<h3 style="color:#38bdf8;">🌊 Xəzər dənizi xüsusi diqqət tələb edir</h3>
+<h3 style="color:#38bdf8;">🇦🇿 Azərbaycan üçün xüsusi əhəmiyyət daşıyır</h3>
 
 <p>
-Azərbaycanın ən mühüm təbii ekosistemlərindən biri Xəzər dənizidir.
-Onun ekoloji vəziyyəti biomüxtəliflik, sahilyanı ərazilər,
-iqtisadi fəaliyyət və milyonlarla insan üçün əhəmiyyət daşıyır.
+Xəzər Azərbaycan üçün yalnız təbii su hövzəsi deyil.
+Dəniz ölkənin biomüxtəlifliyi, sahilyanı yaşayış məntəqələri,
+nəqliyyat, turizm və iqtisadi fəaliyyəti üçün böyük əhəmiyyət daşıyır.
 </p>
 
 <p>
-Dəniz və sahilyanı ekosistemlərin qorunması, çirklənmənin
-azaldılması və təbii ehtiyatlardan davamlı istifadə Azərbaycanın
-uzunmüddətli ekoloji inkişafı üçün mühüm istiqamətlərdəndir.
+Buna görə də səviyyənin uzunmüddətli dəyişməsi həm ekoloji,
+həm də sosial-iqtisadi baxımdan davamlı şəkildə izlənilməlidir.
 </p>
 
 <div style="
-background:rgba(14,165,233,0.05);
-border:1px solid rgba(56,189,248,0.28);
-padding:17px;
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.30);
+padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#38bdf8;">🌊 XƏZƏRİ QORUMAQ</strong><br><br>
+<strong style="color:#60a5fa;">🇦🇿 AZƏRBAYCAN ÜÇÜN NƏ DEMƏKDİR?</strong><br><br>
 
-🐟 Biomüxtəlifliyin qorunması<br><br>
+🌊 Xəzər sahillərinin dəyişməsi<br><br>
 
-♻️ Sahillərin tullantılardan təmiz saxlanılması<br><br>
+🐟 Biomüxtəlifliyin qorunması zərurəti<br><br>
 
-💧 Su çirklənməsinin azaldılması<br><br>
+🏖️ Sahilyanı ərazilərə mümkün təsirlər<br><br>
 
-🌱 Sahilyanı ekosistemlərin mühafizəsi<br><br>
+🚢 Liman və gəmiçilik üçün yeni şərait<br><br>
 
-🔬 Davamlı ekoloji monitorinq
+🔬 Daha geniş ekoloji monitorinq ehtiyacı
 
 </div>
 
-<h3 style="color:#a78bfa;">🌍 COP31 ərəfəsində mühüm görüş</h3>
+<h3 style="color:#a78bfa;">🌍 Xəzər beş ölkəni birləşdirir</h3>
 
 <p>
-Dördüncü İqlim Həftəsinin keçirilməsi COP31 ərəfəsində beynəlxalq
-iqlim fəaliyyətinin gücləndirilməsi baxımından da əhəmiyyət daşıyır.
+Xəzərin ekoloji vəziyyəti yalnız Azərbaycanın həll edə biləcəyi məsələ deyil.
+Dəniz Azərbaycan, Rusiya, Qazaxıstan, Türkmənistan və İranın sahillərini birləşdirir.
 </p>
 
 <p>
-Bakıdakı müzakirələr müxtəlif ölkələr və təşkilatlar arasında
-təcrübə mübadiləsinin aparılması və gələcək iqlim fəaliyyətinin
-prioritetlərinin müəyyənləşdirilməsi üçün platforma yaradacaq.
+Buna görə su səviyyəsinin dəyişməsi, çirklənmə, biomüxtəlifliyin qorunması
+və digər ekoloji problemlərin həlli üçün Xəzəryanı ölkələr arasında
+əməkdaşlıq xüsusi əhəmiyyət daşıyır.
 </p>
 
 <div style="
 background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.28);
+border:1px solid rgba(167,139,250,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">🤝 ORTAQ DƏNİZ — ORTAQ MƏSULİYYƏT</strong><br><br>
+
+🇦🇿 Azərbaycan<br>
+🇷🇺 Rusiya<br>
+🇰🇿 Qazaxıstan<br>
+🇹🇲 Türkmənistan<br>
+🇮🇷 İran<br><br>
+
+🌊 Xəzərin qorunması bütün sahilyanı ölkələrin əməkdaşlığını tələb edir.
+
+</div>
+
+<h3 style="color:#22c55e;">🌱 Xəzəri qorumaq üçün nə vacibdir?</h3>
+
+<div style="
+background:rgba(34,197,94,0.04);
+border:1px solid rgba(34,197,94,0.25);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+📊 Dəniz səviyyəsinin daimi monitorinqi<br><br>
+
+🐟 Biomüxtəlifliyin mühafizəsi<br><br>
+
+🦭 Nadir növlərin qorunması<br><br>
+
+💧 Dənizin çirklənməsinin azaldılması<br><br>
+
+🏝️ Sahilyanı ekosistemlərin monitorinqi<br><br>
+
+🤝 Xəzəryanı ölkələr arasında elmi və ekoloji əməkdaşlıq<br><br>
+
+🌡️ İqlim dəyişmələrinin Xəzərə təsirinin araşdırılması
+
+</div>
+
+<div style="
+background:rgba(239,68,68,0.05);
+border:1px solid rgba(239,68,68,0.30);
 padding:18px;
 border-radius:10px;
 font-size:18px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌐 7–11 SENTYABR</strong><br><br>
+<strong style="color:#f87171;">⚠️ META EKOLOGİYA</strong><br><br>
 
-Bakı bir neçə gün ərzində iqlim dəyişmələri, ekologiya və
-davamlı inkişafla bağlı beynəlxalq müzakirələrin keçirildiyi
-əsas platformalardan biri olacaq.
-
-</div>
-
-<h3 style="color:#22c55e;">🌿 Təbiətin qorunması hər kəsdən başlayır</h3>
-
-<p>
-Böyük beynəlxalq tədbirlərlə yanaşı, ətraf mühitin qorunmasında
-gündəlik davranış da mühüm rol oynayır.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.04);
-border:1px solid rgba(34,197,94,0.25);
-padding:17px;
-border-radius:10px;
-margin:18px 0;">
-
-🌳 Yaşıllıqları qorumaq<br><br>
-
-🚯 Təbiətə tullantı atmamaq<br><br>
-
-♻️ Tullantıları mümkün qədər çeşidləmək<br><br>
-
-💧 Su ehtiyatlarından qənaətlə istifadə etmək<br><br>
-
-🌊 Xəzər sahillərini təmiz saxlamaq<br><br>
-
-🐾 Vəhşi təbiətə və onun yaşayış mühitinə zərər verməmək
+Xəzər dənizinin səviyyəsinin azalması uzunmüddətli ekoloji məsələdir.
+Dəyişikliklərin davam etməsi sahilyanı təbiət ərazilərinin və dəniz
+ekosistemlərinin qorunmasını daha da vacib edir.
 
 </div>
-
-<p style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.25);
-padding:17px;
-border-radius:10px;
-font-size:18px;
-margin-top:20px;">
-
-📡 <strong style="color:#60a5fa;">META Ekologiya:</strong>
-7–11 sentyabr tarixlərində Bakıda keçiriləcək İqlim Həftəsi
-Azərbaycanın ekoloji problemlərinin və təbiətin qorunması
-məsələlərinin beynəlxalq iqlim gündəliyi ilə birlikdə
-müzakirəsi üçün mühüm fürsət yaradır.
-
-</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌿📡 META Meteorologiya Mərkəzi Azərbaycan təbiəti, ekologiya,
-Xəzər dənizi və iqlim dəyişmələri ilə bağlı yenilikləri izləməyə davam edir.
+🌊🌿 META Meteorologiya Mərkəzi Xəzər dənizi, Azərbaycanın təbiəti,
+ekologiya və iqlim dəyişmələri ilə bağlı yenilikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
@@ -250,10 +240,10 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#94a3b8;font-size:14px;">
 <strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
-təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
-əməl etmək tövsiyə olunur.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
+əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
