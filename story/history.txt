@@ -1,17 +1,22 @@
 <h2 style="color:#38bdf8;">
-🌧️⛈️ Bakıda leysan gözlənilir, külək güclənəcək — 8 sentyabr üçün hava proqnozu
+🌤️ Bakıda +26°C-dək isti olacaq — 9 sentyabr üçün hava proqnozu
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 7 sentyabr 2026, 14:45 — Bakı vaxtı
+🕐 Əlavə olunub: 8 sentyabr 2026, 14:25 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 8-də Bakı və Abşeron yarımadasının bəzi yerlərində yağış, lokal leysan və şimşək gözlənilir. Azərbaycanın rayonlarında isə intensiv leysan, şimşək, dolu, yüksək dağlıq ərazilərdə yağışın qara keçməsi ehtimalı var.</strong>
+<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında
+hazırladığı proqnoza görə, sentyabrın 9-da Bakı və Abşeron yarımadasında
+dəyişkən buludlu hava şəraiti gözlənilir. Hava əsasən yağmursuz keçəcək,
+lakin gündüz bəzi yerlərdə qısamüddətli zəif yağış ehtimalı var.</strong>
 </p>
 
 <p>
-Gün ərzində hava şəraitinin tədricən sabitləşəcəyi və yağıntıların əsasən gündüz saatlarında kəsiləcəyi gözlənilir.
+Səhər saatlarında şimal-qərb istiqamətindən əsən külək
+<strong>cənub-şərq küləyi ilə əvəz olunacaq</strong>.
+Gündüz temperaturun +26°C-dək yüksələcəyi gözlənilir.
 </p>
 
 <div style="
@@ -22,28 +27,59 @@ border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🏙️ BAKI VƏ ABŞERON — 8 SENTYABR</strong><br><br>
+<strong style="color:#60a5fa;">🏙️ BAKI VƏ ABŞERON — 9 SENTYABR</strong><br><br>
 
-🌧️ Hava: <strong>arabir yağışlı</strong><br><br>
+🌤️ Hava: <strong>dəyişkən buludlu</strong><br><br>
 
-⛈️ Ayrı-ayrı yerlərdə: <strong>qısamüddətli leysan və şimşək</strong><br><br>
+☀️ Yağıntı: <strong>əsasən gözlənilmir</strong><br><br>
 
-🌤️ Gündüz: <strong>yağıntılar tədricən kəsiləcək</strong><br><br>
+🌦️ Gündüz: <strong>bəzi yerlərdə qısamüddətli zəif yağış mümkündür</strong><br><br>
 
-🌡️ Gecə: <strong>+18…+20°C</strong><br><br>
+🌡️ Gecə: <strong>+16…+18°C</strong><br><br>
 
-🌡️ Gündüz: <strong>+22…+25°C</strong><br><br>
+🌡️ Gündüz: <strong>+22…+26°C</strong><br><br>
 
-💧 Nisbi rütubət: <strong>60–70%</strong><br><br>
+💧 Gecə rütubət: <strong>70–75%</strong><br><br>
 
-🔵 Atmosfer təzyiqi: <strong>764 mmHg ≈ 1019 hPa</strong>
+💧 Gündüz rütubət: <strong>55–60%</strong>
 
 </div>
 
-<h3 style="color:#f97316;">💨 Külək arabir güclənəcək</h3>
+<h3 style="color:#a78bfa;">🔵 Atmosfer təzyiqi azalacaq</h3>
 
 <p>
-Bakıda və Abşeron yarımadasında <strong>şimal-qərb küləyi arabir güclənəcək</strong>. Səhər saatlarından etibarən isə küləyin şimal-şərq istiqamətinə keçəcəyi gözlənilir.
+Bakı və Abşeronda atmosfer təzyiqinin gün ərzində bir qədər azalacağı gözlənilir.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.05);
+border:1px solid rgba(167,139,250,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">📉 ATMOSFER TƏZYİQİ</strong><br><br>
+
+🔵 Başlanğıc: <strong>764 mmHg ≈ 1019 hPa</strong><br><br>
+
+⬇️ Gün ərzində azalacaq<br><br>
+
+🔵 Son göstərici: <strong>762 mmHg ≈ 1016 hPa</strong><br><br>
+
+📉 Ümumi dəyişiklik: <strong>−2 mmHg / təxminən −3 hPa</strong>
+
+</div>
+
+<h3 style="color:#f59e0b;">💨 Küləyin istiqaməti dəyişəcək</h3>
+
+<p>
+Səhər saatlarında Bakı və Abşeronda əsən <strong>şimal-qərb küləyi
+cənub-şərq küləyi ilə əvəz olunacaq</strong>.
+</p>
+
+<p>
+Küləyin konkret sürəti proqnoz məlumatında göstərilmədiyindən,
+META Meteorologiya Mərkəzi tərəfindən əlavə sürət göstəricisi təqdim edilmir.
 </p>
 
 <div style="
@@ -53,24 +89,20 @@ padding:17px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">💨 KÜLƏKLİ HAVA</strong><br><br>
+<strong style="color:#fb923c;">💨 KÜLƏK</strong><br><br>
 
-🌬️ Gecə və səhər: <strong>şimal-qərb küləyi</strong><br><br>
+🌬️ Səhər: <strong>şimal-qərb</strong><br><br>
 
-⚠️ Arabir: <strong>güclənəcək</strong><br><br>
-
-🧭 Səhər: <strong>şimal-şərq küləyi ilə əvəz olunacaq</strong>
+🔄 Daha sonra: <strong>cənub-şərq</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🌧️ Bakıda lokal leysan mümkündür</h3>
+<h3 style="color:#38bdf8;">🌦️ Gündüz zəif yağış ehtimalı var</h3>
 
 <p>
-Paytaxt və yarımadanın bəzi ərazilərində fasilələrlə yağış yağacağı gözlənilir. Ayrı-ayrı yerlərdə yağıntılar <strong>qısamüddətli leysan xarakterli</strong> ola və şimşək çaxa bilər.
-</p>
-
-<p>
-Yağıntıların günün ikinci yarısında tədricən dayanacağı gözlənilir.
+Günün böyük hissəsində paytaxt və Abşeron yarımadasında yağıntı
+gözlənilmir. Bununla belə, gündüz saatlarında bəzi ərazilərdə
+<strong>qısamüddətli zəif yağış</strong> müşahidə oluna bilər.
 </p>
 
 <div style="
@@ -80,121 +112,86 @@ padding:17px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#38bdf8;">🌧️ BAKI ÜÇÜN QISA PROQNOZ</strong><br><br>
+<strong style="color:#38bdf8;">🌤️ BAKIDA GÜN ƏRZİNDƏ</strong><br><br>
 
-🌙 Gecə: <strong>+18…+20°C</strong><br><br>
+🌙 Gecə: <strong>+16…+18°C</strong><br><br>
 
-🌧️ Səhər: <strong>yağış ehtimalı</strong><br><br>
+🌅 Səhər: <strong>dəyişkən buludlu</strong><br><br>
 
-⛈️ Lokal olaraq: <strong>leysan və şimşək</strong><br><br>
+🌦️ Gündüz: <strong>lokal zəif yağış ehtimalı</strong><br><br>
 
-🌤️ Gündüz: <strong>yağıntılar tədricən dayanacaq</strong><br><br>
+🌡️ Maksimum temperatur: <strong>+26°C</strong><br><br>
 
-🌡️ Maksimum: <strong>+22…+25°C</strong>
+🌆 Axşam: <strong>əsasən yağmursuz</strong>
 
 </div>
 
-<h3 style="color:#a78bfa;">🇦🇿 Rayonlarda intensiv leysan və dolu</h3>
+<h3 style="color:#22c55e;">🇦🇿 Rayonlarda hava əsasən yağmursuz olacaq</h3>
 
 <p>
-Azərbaycanın rayonlarında bəzi yerlərdə arabir yağış yağacağı gözlənilir. Ayrı-ayrı ərazilərdə yağıntılar <strong>qısamüddətli və intensiv leysan</strong> xarakterli ola bilər.
+Azərbaycanın rayonlarında hava şəraitinin əsasən yağmursuz keçəcəyi gözlənilir.
+Lakin gündüz bəzi yerlərdə <strong>qısamüddətli leysan xarakterli yağış
+və şimşək</strong> mümkündür.
 </p>
 
 <p>
-⛈️ Şimşək çaxması və lokal olaraq <strong>dolu düşməsi</strong> də istisna edilmir. Gecə saatlarında yağıntı ehtimalının bir qədər artacağı gözlənilir.
+Gecə və səhər saatlarında bəzi dağlıq ərazilərdə
+<strong>duman</strong> müşahidə oluna bilər. Şərq küləyi əsəcək.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.28);
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌧️ AZƏRBAYCANIN RAYONLARI</strong><br><br>
+<strong style="color:#4ade80;">🇦🇿 AZƏRBAYCANIN RAYONLARI</strong><br><br>
 
-🌧️ Arabir yağış<br><br>
+☀️ Hava: <strong>əsasən yağmursuz</strong><br><br>
 
-⛈️ <strong>İntensiv qısamüddətli leysan</strong><br><br>
+🌧️ Gündüz: <strong>bəzi yerlərdə qısamüddətli leysan mümkündür</strong><br><br>
 
-⚡ Şimşək ehtimalı<br><br>
+⚡ Şimşək: <strong>lokal olaraq mümkündür</strong><br><br>
 
-🌨️ Dolu ehtimalı<br><br>
+🌫️ Dağlarda: <strong>gecə və səhər duman</strong><br><br>
 
-🌫️ Dağlarda gecə və səhər duman<br><br>
+💨 Külək: <strong>şərq istiqamətli</strong><br><br>
 
-💨 Qərb küləyi bəzi yerlərdə arabir güclənəcək
+🌡️ Gecə: <strong>+14…+18°C</strong><br><br>
+
+🌡️ Gündüz: <strong>+23…+28°C</strong>
 
 </div>
 
-<h3 style="color:#e2e8f0;">❄️ Yüksək dağlarda yağış qara keçə bilər</h3>
+<h3 style="color:#e2e8f0;">🏔️ Dağlarda gecə +7°C-dək sərin</h3>
 
 <p>
-Gecə saatlarında yüksək dağlıq ərazilərdə temperaturun aşağı düşməsi ilə əlaqədar <strong>yağışın qara keçməsi ehtimalı</strong> var.
-</p>
-
-<p>
-Dağlıq rayonlarda gecə temperatur <strong>+8…+13°C</strong>, gündüz isə <strong>+15…+20°C</strong> arasında dəyişəcək.
+Dağlıq ərazilərdə hava daha sərin olacaq. Temperatur gecə
+<strong>+7…+12°C</strong>, gündüz isə <strong>+15…+19°C</strong>
+arasında dəyişəcək.
 </p>
 
 <div style="
 background:rgba(226,232,240,0.04);
-border:1px solid rgba(226,232,240,0.28);
+border:1px solid rgba(226,232,240,0.25);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#e2e8f0;">❄️ DAĞLIQ ƏRAZİLƏR</strong><br><br>
+<strong style="color:#e2e8f0;">🏔️ DAĞLIQ ƏRAZİLƏR</strong><br><br>
 
-🌡️ Gecə: <strong>+8…+13°C</strong><br><br>
+🌡️ Gecə: <strong>+7…+12°C</strong><br><br>
 
-🌡️ Gündüz: <strong>+15…+20°C</strong><br><br>
+🌡️ Gündüz: <strong>+15…+19°C</strong><br><br>
 
-🌧️ Yağıntı ehtimalı: <strong>yüksək</strong><br><br>
+🌫️ Gecə və səhər: <strong>lokal duman</strong><br><br>
 
-❄️ Yüksək dağlarda: <strong>yağışın qara keçməsi mümkündür</strong><br><br>
-
-🌫️ Gecə və səhər: <strong>duman</strong>
+🌦️ Gündüz: <strong>ayrı-ayrı yerlərdə yağış və şimşək mümkündür</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🌡️ Rayonlarda +28°C-dək isti</h3>
-
-<p>
-Ölkənin aran və düzənlik rayonlarında temperatur gecə <strong>+16…+20°C</strong>, gündüz isə <strong>+25…+28°C</strong> təşkil edəcək.
-</p>
-
-<p>
-Gündüz saatlarından etibarən əksər ərazilərdə yağıntıların tədricən kəsiləcəyi gözlənilir.
-</p>
-
-<div style="
-background:rgba(239,68,68,0.05);
-border:1px solid rgba(239,68,68,0.32);
-padding:18px;
-border-radius:10px;
-font-size:19px;
-margin:18px 0;">
-
-<strong style="color:#f87171;">⚠️ 8 SENTYABR — ƏSAS HAVA RİSKLƏRİ</strong><br><br>
-
-🌧️ <strong>Yağış</strong><br><br>
-
-⛈️ <strong>Qısamüddətli intensiv leysan</strong><br><br>
-
-⚡ <strong>Şimşək</strong><br><br>
-
-🌨️ <strong>Lokal dolu</strong><br><br>
-
-💨 <strong>Arabir güclənən külək</strong><br><br>
-
-🌫️ <strong>Dağlarda duman</strong><br><br>
-
-❄️ <strong>Yüksək dağlarda qar ehtimalı</strong>
-
-</div>
-
-<h3 style="color:#22c55e;">📊 8 sentyabrın qısa xülasəsi</h3>
+<h3 style="color:#22c55e;">📊 9 sentyabrın qısa xülasəsi</h3>
 
 <div style="
 background:rgba(34,197,94,0.04);
@@ -203,19 +200,19 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-🏙️ <strong>Bakı və Abşeron:</strong> +18…+20°C / +22…+25°C<br><br>
+🏙️ <strong>Bakı və Abşeron:</strong> +16…+18°C / +22…+26°C<br><br>
 
-🌧️ <strong>Bakı:</strong> yağış, lokal leysan və şimşək<br><br>
+🌤️ <strong>Hava:</strong> dəyişkən buludlu, əsasən yağmursuz<br><br>
 
-🔵 <strong>Təzyiq:</strong> 764 mmHg / ≈1019 hPa<br><br>
+🌦️ <strong>Yağıntı:</strong> gündüz lokal zəif yağış mümkündür<br><br>
 
-💧 <strong>Rütubət:</strong> 60–70%<br><br>
+🔵 <strong>Təzyiq:</strong> 764 → 762 mmHg / ≈1019 → 1016 hPa<br><br>
 
-🇦🇿 <strong>Rayonlar:</strong> +16…+20°C / +25…+28°C<br><br>
+💧 <strong>Rütubət:</strong> gecə 70–75%, gündüz 55–60%<br><br>
 
-🏔️ <strong>Dağlar:</strong> +8…+13°C / +15…+20°C<br><br>
+🇦🇿 <strong>Rayonlar:</strong> +14…+18°C / +23…+28°C<br><br>
 
-❄️ <strong>Yüksək dağlar:</strong> yağışın qara keçməsi mümkündür
+🏔️ <strong>Dağlar:</strong> +7…+12°C / +15…+19°C
 
 </div>
 
@@ -224,26 +221,30 @@ background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.25);
 padding:17px;
 border-radius:10px;
-font-size:18px;">
+font-size:18px;
+margin-top:20px;">
 
 📡 <strong style="color:#60a5fa;">META proqnozu:</strong>
-8 sentyabrın ilk yarısında əsas diqqət yağış, lokal leysan, şimşək və küləyə yönəlir. Gün ərzində hava şəraitinin tədricən sabitləşməsi və yağıntıların kəsilməsi gözlənilir.
+9 sentyabrda Bakı və Abşeronda əvvəlki günlə müqayisədə daha sabit
+hava şəraiti gözlənilir. Yağıntı əsasən gözlənilmir, lakin gündüz
+bəzi ərazilərdə qısamüddətli zəif yağış ehtimalı qalır.
 
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌦️📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini və təhlükəli meteoroloji hadisələri izləməyə davam edir.
+🌦️📡 META Meteorologiya Mərkəzi Bakı, Abşeron və Azərbaycanın
+digər ərazilərində hava şəraitini izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava proqnozları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava məlumatları və proqnozlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı </a>
-
+➡️ META WhatsApp Kanalı
+</a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
