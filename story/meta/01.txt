@@ -1,232 +1,208 @@
-<h2 style="color:#ef4444;">
-⚠️🌧️ FHN əhaliyə müraciət etdi: qeyri-sabit hava ilə əlaqədar təhlükəsizlik qaydalarına əməl edin
+<h2 style="color:#38bdf8;">
+🌧️ Bakıda və Abşeronda aylıq normanın 133%-i qədər yağıntı düşüb
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 6 sentyabr 2026, 16:32 — Bakı vaxtı
+🕐 Əlavə olunub: 8 sentyabr 2026, 14:25 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycan Fövqəladə Hallar Nazirliyi (FHN) ölkə ərazisində
-gözlənilən qeyri-sabit və əlverişsiz hava şəraiti ilə əlaqədar
-əhaliyə müraciət edib.</strong>
+<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlilinə görə,
+8 sentyabr saat 09:00-a olan vəziyyətə əsasən, Azərbaycanın bir sıra
+ərazilərində yağışlı hava şəraiti müşahidə olunub. Ayrı-ayrı yerlərdə
+yağıntılar leysan xarakterli və intensiv olub.</strong>
 </p>
 
 <p>
-Milli Hidrometeorologiya Xidmətinin məlumatına əsasən, yaxın günlərdə
-ölkə ərazisində qeyri-sabit və yağıntılı hava şəraitinin müşahidə
-olunacağı, bəzi yerlərdə yağıntıların intensiv xarakter alacağı,
-bir sıra dağ çaylarından qısamüddətli sel keçəcəyi, güclü külək
-əsəcəyi və şimşək çaxacağı proqnozlaşdırılır.
-</p>
-
-
-<div style="
-background:rgba(239,68,68,0.06);
-border:1px solid rgba(239,68,68,0.32);
-padding:18px;
-border-radius:10px;
-font-size:19px;
-margin:18px 0;">
-
-<strong style="color:#f87171;">⚠️ ƏSAS TƏHLÜKƏLƏR</strong><br><br>
-
-🌧️ <strong>İntensiv yağıntılar</strong><br><br>
-
-🌊 <strong>Sel və daşqın təhlükəsi</strong><br><br>
-
-🏔️ <strong>Dağ çaylarından qısamüddətli sel keçməsi</strong><br><br>
-
-💨 <strong>Güclü külək</strong><br><br>
-
-⛈️ <strong>Şimşək və göy gurultusu</strong>
-
-</div>
-
-
-<h3 style="color:#38bdf8;">🌊 Sel və daşqın zamanı nə etmək lazımdır?</h3>
-
-<p>
-FHN vətəndaşlara sel, daşqın və subasma təhlükəsi olan ərazilərdən
-uzaq durmağı tövsiyə edir.
-</p>
-
-<p>
-Təhlükə yarandığı halda dərhal <strong>daha yüksək və təhlükəsiz
-əraziyə qalxmaq</strong>, xilasedicilərin göstərişlərinə əməl etmək
-lazımdır.
+Ən diqqətçəkən göstəricilərdən biri Bakı və Abşeron yarımadasında qeydə alınıb.
+Burada düşən yağıntının miqdarı bəzi ərazilərdə <strong>30 mm-ə çatıb</strong>.
+Bu isə <strong>aylıq yağıntı normasının 133%-nə</strong> bərabərdir.
 </p>
 
 <div style="
 background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.30);
-padding:17px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#60a5fa;">🌊 SEL VƏ SUBASMA ZAMANI</strong><br><br>
-
-📍 Təhlükəli ərazilərdən uzaqlaşın.<br><br>
-
-🏔️ Mümkün qədər yüksək və təhlükəsiz yerə qalxın.<br><br>
-
-🌊 Güclü su axınını keçməyə çalışmayın.<br><br>
-
-🚨 Xilasedicilərin göstərişlərinə əməl edin.<br><br>
-
-📞 Fövqəladə vəziyyətdə <strong>112</strong> qaynar xəttinə müraciət edin.
-
-</div>
-
-
-<h3 style="color:#f97316;">💨 Güclü külək zamanı ehtiyatlı olun</h3>
-
-<p>
-Güclü külək zamanı yüngül konstruksiyaların, müvəqqəti tikililərin
-və reklam lövhələrinin yaxınlığında olmaq təhlükəlidir.
-</p>
-
-<p>
-Həmçinin elektrik xətlərindən, dirəklərdən və hündür ağaclardan
-təhlükəsiz məsafədə dayanmaq tövsiyə olunur.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.30);
-padding:17px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">💨 GÜCLÜ KÜLƏK ZAMANI</strong><br><br>
-
-🏗️ Yüngül və müvəqqəti konstruksiyalardan uzaq durun.<br><br>
-
-📢 Reklam lövhələrinin altında dayanmayın.<br><br>
-
-⚡ Elektrik xətləri və dirəklərdən uzaq olun.<br><br>
-
-🌳 Hündür ağacların yaxınlığında dayanmayın.<br><br>
-
-🏠 Açıq havada təhlükəli əşyalardan qorunun.
-
-</div>
-
-
-<h3 style="color:#38bdf8;">🌊 Kiçikhəcmli gəmilərin dənizə çıxması təhlükəlidir</h3>
-
-<p>
-FHN hava şəraitinin pisləşdiyi dövrdə kiçikhəcmli gəmi
-istifadəçilərinə də xəbərdarlıq edib.
-</p>
-
-<p>
-<strong>Əlverişsiz hava şəraitində kiçikhəcmli gəmilərlə dənizə
-çıxmaq qadağandır.</strong>
-</p>
-
-
-<h3 style="color:#eab308;">⛈️ Şimşək zamanı bu qaydalara əməl edin</h3>
-
-<p>
-Göy gurultusu və şimşək zamanı açıq ərazidə qalmaq əlavə təhlükə
-yarada bilər. FHN elektrik cihazlarının şəbəkədən ayrılmasını və
-təhlükəli obyektlərdən uzaq durmağı tövsiyə edir.
-</p>
-
-<div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.30);
-padding:17px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#facc15;">⚡ ŞİMŞƏK VƏ GÖY GURULTUSU ZAMANI</strong><br><br>
-
-🔌 Elektrik cihazlarını şəbəkədən ayırın.<br><br>
-
-📱 Açıq havada telefondan istifadə etməyin.<br><br>
-
-⚡ Elektrik xətlərindən uzaq durun.<br><br>
-
-📡 Antena və ildırımötürücülərə yaxınlaşmayın.<br><br>
-
-🌳 Hündür ağacların altında gizlənməyin.
-
-</div>
-
-
-<h3 style="color:#22c55e;">🚗 Avtomobildəsinizsə nə etməlisiniz?</h3>
-
-<p>
-Güclü şimşək və leysan zamanı sürücülərə avtomobili təhlükəsiz
-yerdə saxlamaq tövsiyə olunur.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:17px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🚗 AVTOMOBİLDƏ TƏHLÜKƏSİZLİK</strong><br><br>
-
-🅿️ Avtomobili təhlükəsiz yerdə saxlayın.<br><br>
-
-🪟 Şüşələri tam bağlayın.<br><br>
-
-⛈️ Güclü hava hadisəsinin keçməsini avtomobilin içərisində gözləyin.<br><br>
-
-🌳 Avtomobili hündür ağacların və təhlükəli konstruksiyaların yanında saxlamayın.
-
-</div>
-
-
-<h3 style="color:#ef4444;">🚨 Təhlükə zamanı — 112</h3>
-
-<div style="
-background:rgba(239,68,68,0.06);
-border:1px solid rgba(239,68,68,0.35);
 padding:18px;
 border-radius:10px;
 font-size:20px;
 margin:18px 0;">
 
-<strong style="color:#f87171;">🚨 FÖVQƏLADƏ VƏZİYYƏT YARANARSA</strong><br><br>
+<strong style="color:#60a5fa;">🌧️ BAKI VƏ ABŞERON</strong><br><br>
 
-📞 <strong style="font-size:25px;">112</strong><br><br>
+💧 Yağıntının miqdarı: <strong>30 mm-dək</strong><br><br>
 
-Fövqəladə Hallar Nazirliyinin qaynar xətti<br><br>
+📊 Aylıq normaya nisbəti: <strong>133%</strong><br><br>
 
-⚠️ Özünüzü təhlükəyə atmayın və xilasedicilərin göstərişlərinə əməl edin.
+🌧️ Xarakteri: <strong>bəzi ərazilərdə leysan və intensiv</strong><br><br>
+
+📅 Məlumat: <strong>8 sentyabr, saat 09:00-a olan vəziyyət</strong>
 
 </div>
 
+<h3 style="color:#f59e0b;">📊 133% nə deməkdir?</h3>
+
+<p>
+Bu göstərici o deməkdir ki, Bakı və Abşeronun bəzi ərazilərində
+qısa müddət ərzində düşən yağıntının miqdarı sentyabr ayı üçün nəzərdə
+tutulan orta aylıq yağıntı miqdarını artıq keçib.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#facc15;">📈 DİQQƏTÇƏKƏN GÖSTƏRİCİ</strong><br><br>
+
+🌧️ Faktiki yağıntı: <strong>30 mm-dək</strong><br><br>
+
+📊 Aylıq normanın: <strong>133%-i</strong><br><br>
+
+➡️ Yəni bəzi ərazilərdə sentyabr ayının orta aylıq normasından
+<strong>daha çox yağıntı artıq düşüb.</strong>
+
+</div>
+
+<h3 style="color:#38bdf8;">🇦🇿 Rayonlarda nə qədər yağış düşüb?</h3>
+
+<p>
+Yağıntılar ölkənin müxtəlif bölgələrində də qeydə alınıb.
+Bakı və Abşerondan sonra daha yüksək göstəricilər Xızı, Astara,
+Qobustan və Ağdamda müşahidə olunub.
+</p>
+
+<div style="
+background:rgba(14,165,233,0.05);
+border:1px solid rgba(56,189,248,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#38bdf8;">🌧️ ƏN ÇOX YAĞINTI QEYDƏ ALINAN ƏRAZİLƏR</strong><br><br>
+
+🏙️ <strong>Bakı və Abşeron — 30 mm-dək</strong><br><br>
+
+🌧️ Xızı — <strong>23 mm</strong><br><br>
+
+🌧️ Astara — <strong>18 mm</strong><br><br>
+
+🌧️ Qobustan — <strong>17 mm</strong><br><br>
+
+🌧️ Ağdam — <strong>14 mm</strong><br><br>
+
+🌧️ Sabirabad — <strong>10 mm</strong><br><br>
+
+🌧️ Lənkəran və Şamaxı — <strong>10 mm</strong><br><br>
+
+🌧️ Xaltan, Tərtər və Lerik — <strong>9 mm</strong><br><br>
+
+🌧️ Zərdab — <strong>8 mm</strong><br><br>
+
+🌧️ Lerik və Kürdəmir — <strong>7 mm</strong><br><br>
+
+🌧️ Şirvan — <strong>4 mm</strong><br><br>
+
+🌧️ Yardımlı — <strong>3 mm</strong>
+
+</div>
+
+<h3 style="color:#a78bfa;">🌦️ Bir sıra ərazilərdə 1–2 mm yağıntı</h3>
+
+<p>
+Qaxın Sarıbaş kəndi, Xınalıq, Quba və Göyçayda yağıntının miqdarı
+<strong>2 mm</strong> olub.
+</p>
+
+<p>
+Cəbrayıl, Bərdə, Qusar, Qrız, Oğuz, Şəki (Kişçay), Biləsuvar,
+Naftalan, Balakən, Zaqatala, Gəncə, Daşkəsən, Göygöl, Yevlax,
+Ordubad, Beyləqan, İmişli, Şahdağ və Şabranda isə
+<strong>1 mm-dək</strong> yağıntı qeydə alınıb.
+</p>
+
+<h3 style="color:#f97316;">💨 Güclü külək tədricən zəifləyir</h3>
+
+<p>
+8 sentyabr səhər saatlarından müşahidə olunan güclü külək
+tədricən zəifləməyə başlayıb.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.30);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">💨 KÜLƏK</strong><br><br>
+
+📉 Vəziyyət: <strong>tədricən zəifləyir</strong><br><br>
+
+🌬️ Sürət: <strong>8–13 m/s</strong><br><br>
+
+🚩 Saatda sürət: <strong>təxminən 29–47 km/saat</strong>
+
+</div>
+
+<h3 style="color:#22c55e;">🌧️ Sentyabrın əvvəlində diqqətçəkən yağıntı</h3>
+
+<p>
+Ayın hələ ilk ongünlüyündə Bakı və Abşeronun bəzi ərazilərində
+aylıq normanın 133%-nə bərabər yağıntının qeydə alınması
+meteoroloji baxımdan diqqətçəkən göstəricidir.
+</p>
+
+<p>
+Yağıntının qısa müddətdə intensiv düşməsi zamanı şəhər ərazilərində
+su yığılması, yolların ayrı-ayrı hissələrində hərəkətin çətinləşməsi
+və aşağı ərazilərdə lokal problemlərin yaranması mümkündür.
+</p>
+
+<div style="
+background:rgba(239,68,68,0.05);
+border:1px solid rgba(239,68,68,0.32);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#f87171;">⚠️ İNTENSİV YAĞIŞ ZAMANI</strong><br><br>
+
+🚗 Su yığılmış yol hissələrində ehtiyatlı hərəkət edin<br><br>
+
+🌊 Aşağı ərazilərdə suyun sürətlə toplanmasına diqqət yetirin<br><br>
+
+⚡ Şimşək zamanı açıq ərazilərdə uzun müddət qalmayın<br><br>
+
+💨 Güclü külək zamanı ağac və zəif konstruksiyalardan uzaq durun
+
+</div>
 
 <p style="
 background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.25);
 padding:17px;
 border-radius:10px;
-font-size:18px;">
+font-size:18px;
+margin-top:20px;">
 
-📡 <strong>META xəbərdarlığı:</strong> Yaxın günlərdə gözlənilən
-güclü külək, intensiv yağıntı və lokal sel təhlükəsini nəzərə alaraq
-hava şəraitindəki dəyişiklikləri izləmək və təhlükəsizlik qaydalarına
-əməl etmək tövsiyə olunur.
+📡 <strong style="color:#60a5fa;">META müşahidəsi:</strong>
+8 sentyabr səhərinə olan məlumatlarda ən diqqətçəkən göstərici
+Bakı və Abşeronda qeydə alınıb — yağıntının miqdarı bəzi ərazilərdə
+30 mm-ə, yəni aylıq normanın 133%-nə çatıb. Güclü külək isə
+səhər saatlarından etibarən tədricən zəifləyir.
 
 </p>
-
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌦️📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini,
-təhlükəli meteoroloji hadisələri və rəsmi xəbərdarlıqları izləməyə davam edir.
+🌦️📡 META Meteorologiya Mərkəzi Bakı, Abşeron və Azərbaycanın
+digər ərazilərində hava şəraitini izləməyə davam edir.
 </p>
 
-
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava xəbərdarlıqları üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
@@ -236,7 +212,6 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </a>
 </p>
 
-
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
 👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
 </p>
@@ -245,10 +220,10 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#94a3b8;font-size:14px;">
 <strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
-təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
-əməl etmək tövsiyə olunur.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
+əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
