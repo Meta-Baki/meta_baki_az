@@ -1,91 +1,51 @@
-<h2 style="color:#38bdf8;">
-🌊⚠️ Xəzər dənizinin səviyyəsinin azalması narahatlıq yaradır — ekosistemlər üçün risk artır
+<h2 style="color:#22c55e;">
+🌍⚠️ Azərbaycanda ekstremal hava hadisələri artır — iqlim riskləri güclənir
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 7 sentyabr 2026, 14:45 — Bakı vaxtı
+🕐 Əlavə olunub: 8 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Ekologiya-nın məlumatların təhlilinə görə, Xəzər dənizinin
-səviyyəsinin azalması regionun ən mühüm ekoloji problemlərindən birinə çevrilməkdədir.
-Sentyabrın 7-də Bakıda keçirilən iqlim tədbirlərində bu məsələyə xüsusi diqqət ayrılıb.</strong>
+<strong>META Meteorologiya Mərkəzinin iqlim və ekoloji məlumatlar üzrə təhlilinə görə, Azərbaycanda son 10 il ərzində ekstremal hava və iqlim hadisələrinin sayı və intensivliyində nəzərəçarpacaq artım müşahidə olunur.</strong>
 </p>
 
 <p>
-Xəzərin səviyyəsinin aşağı düşməsi yalnız sahil xəttinin dəyişməsi demək deyil.
-Bu proses dəniz və sahilyanı ekosistemlərə, canlıların yaşayış mühitinə,
-sahilyanı icmalara, gəmiçiliyə və iqtisadi fəaliyyətə təsir göstərə bilər.
+Sentyabrın 8-də Bakıda keçirilən iqlim tədbirlərində ölkənin iqlim dəyişmələrinə həssaslığı, güclü yağıntılar, sel və daşqınlar, quraqlıq, su ehtiyatlarının azalması və digər təbii risklər müzakirə edilib.
 </p>
 
 <div style="
-background:rgba(14,165,233,0.05);
-border:1px solid rgba(56,189,248,0.30);
+background:rgba(239,68,68,0.05);
+border:1px solid rgba(239,68,68,0.32);
 padding:18px;
 border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#38bdf8;">🌊 XƏZƏR DƏNİZİ — ƏSAS MƏSƏLƏ</strong><br><br>
+<strong style="color:#f87171;">⚠️ AZƏRBAYCANDA İQLİM RİSKLƏRİ</strong><br><br>
 
-📉 Dənizin səviyyəsi: <strong>azalma tendensiyası göstərir</strong><br><br>
+🌡️ Ekstremal temperatur hadisələri<br><br>
 
-🐟 Risk: <strong>dəniz ekosistemlərinin dəyişməsi</strong><br><br>
+🌧️ Güclü və intensiv yağıntılar<br><br>
 
-🏝️ Sahillər: <strong>sahil xəttinin geri çəkilməsi</strong><br><br>
+🌊 Sel və daşqın təhlükəsi<br><br>
 
-🚢 Gəmiçilik: <strong>dayazlaşmadan təsirlənə bilər</strong><br><br>
+☀️ Uzunmüddətli quraqlıq<br><br>
 
-🌍 Problem: <strong>bütün Xəzəryanı region üçün əhəmiyyətlidir</strong>
+💧 Su ehtiyatlarına artan təzyiq<br><br>
 
-</div>
-
-<h3 style="color:#22c55e;">🐟 Ekosistemlər dəyişə bilər</h3>
-
-<p>
-Xəzər dənizi özünəməxsus bioloji müxtəlifliyə malik qapalı su hövzəsidir.
-Suyun səviyyəsinin uzunmüddətli azalması dayaz sahələrin,
-sahilyanı bataqlıqların və müxtəlif canlıların yaşayış mühitinin dəyişməsinə səbəb ola bilər.
-</p>
-
-<p>
-Xüsusilə sahilə bağlı ekosistemlər su xəttinin sürətlə dəyişməsinə qarşı həssasdır.
-Belə dəyişikliklər qida zəncirinə və ayrı-ayrı növlərin yayılma ərazilərinə də təsir göstərə bilər.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🌿 TƏBİƏT ÜÇÜN MÜMKÜN TƏSİRLƏR</strong><br><br>
-
-🐟 Su canlılarının yaşayış mühitinin dəyişməsi<br><br>
-
-🦭 Xəzərin nadir fauna növlərinə əlavə təzyiq<br><br>
-
-🐦 Sahilyanı quşların yaşayış və qidalanma sahələrinin dəyişməsi<br><br>
-
-🌱 Sahilyanı bitki örtüyünün yenidən formalaşması<br><br>
-
-🏝️ Dayaz sahələrin quruması və yeni quru ərazilərin yaranması
+🏔️ Dağlıq ərazilərdə təhlükəli təbiət hadisələri
 
 </div>
 
-<h3 style="color:#f97316;">📉 Sahil xətti geri çəkilir</h3>
+<h3 style="color:#f97316;">📈 Son 10 ildə dəyişiklik daha aydın görünür</h3>
 
 <p>
-Dəniz səviyyəsi azaldıqca bəzi ərazilərdə su əvvəlki sahil xəttindən
-uzaqlaşır və əvvəllər su altında olan ərazilər üzə çıxır.
+İqlim həssaslığı üzrə aparılan qiymətləndirmələr son onillikdə Azərbaycanda ekstremal hava-iqlim hadisələrinin həm sayının, həm də intensivliyinin artdığını göstərir.
 </p>
 
 <p>
-Bu dəyişiklik Azərbaycan sahillərində də ekoloji monitorinqin
-əhəmiyyətini artırır. Xüsusilə Abşeron yarımadası və digər sahilyanı
-ərazilərdə uzunmüddətli müşahidələr gələcək dəyişikliklərin miqyasını
-qiymətləndirmək üçün vacibdir.
+Bu tendensiya iqlim amillərinin kənd təsərrüfatı, su ehtiyatları, şəhər infrastrukturu və təbii ekosistemlər nəzərə alınmaqla inkişaf planlarına daxil edilməsinin əhəmiyyətini artırır.
 </p>
 
 <div style="
@@ -95,31 +55,24 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">📉 DƏNİZ GERİ ÇƏKİLDİKDƏ</strong><br><br>
+<strong style="color:#fb923c;">📊 SON 10 İL</strong><br><br>
 
-🌊 Su xətti sahildən uzaqlaşır<br><br>
+⬆️ Ekstremal hava hadisələrinin sayı: <strong>artıb</strong><br><br>
 
-🏜️ Əvvəllər su altında olan ərazilər üzə çıxır<br><br>
+⬆️ Hadisələrin intensivliyi: <strong>artıb</strong><br><br>
 
-⚓ Bəzi dayaz sahələrdə gəmiçilik çətinləşə bilər<br><br>
-
-🌱 Sahilyanı ekosistemlərin sərhədləri dəyişir<br><br>
-
-🔬 Yeni ərazilərin ekoloji monitorinqinə ehtiyac yaranır
+⚠️ Nəticə: <strong>iqlim risklərinə uyğunlaşmanın əhəmiyyəti yüksəlir</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🇦🇿 Azərbaycan üçün xüsusi əhəmiyyət daşıyır</h3>
+<h3 style="color:#38bdf8;">💧 Azərbaycanın su ehtiyatları da təzyiq altındadır</h3>
 
 <p>
-Xəzər Azərbaycan üçün yalnız təbii su hövzəsi deyil.
-Dəniz ölkənin biomüxtəlifliyi, sahilyanı yaşayış məntəqələri,
-nəqliyyat, turizm və iqtisadi fəaliyyəti üçün böyük əhəmiyyət daşıyır.
+İqlim dəyişmələri ölkənin su ehtiyatlarına da əlavə təzyiq yaradır. Uzunmüddətli quraqlıq dövrləri ilə yanaşı, qısa müddətdə düşən intensiv yağıntılar, sel və daşqınlar su sistemlərinin idarə olunmasını çətinləşdirə bilər.
 </p>
 
 <p>
-Buna görə də səviyyənin uzunmüddətli dəyişməsi həm ekoloji,
-həm də sosial-iqtisadi baxımdan davamlı şəkildə izlənilməlidir.
+Azərbaycanın transsərhəd çaylardan əhəmiyyətli dərəcədə asılı olması bu məsələni regional səviyyədə də vacib edir.
 </p>
 
 <div style="
@@ -129,76 +82,116 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🇦🇿 AZƏRBAYCAN ÜÇÜN NƏ DEMƏKDİR?</strong><br><br>
+<strong style="color:#60a5fa;">💧 SU EHTİYATLARINA TƏSİR</strong><br><br>
 
-🌊 Xəzər sahillərinin dəyişməsi<br><br>
+☀️ Quraqlıq dövrlərinin təsiri<br><br>
 
-🐟 Biomüxtəlifliyin qorunması zərurəti<br><br>
+🌧️ Yağıntı rejiminin dəyişməsi<br><br>
 
-🏖️ Sahilyanı ərazilərə mümkün təsirlər<br><br>
+🌊 İntensiv sel və daşqınlar<br><br>
 
-🚢 Liman və gəmiçilik üçün yeni şərait<br><br>
+🏔️ Buzlaqların sahə və həcminin azalması<br><br>
 
-🔬 Daha geniş ekoloji monitorinq ehtiyacı
+🌊 Xəzər dənizinin səviyyəsində dəyişikliklər<br><br>
+
+🏙️ Şəhər su infrastrukturu üçün əlavə risklər
 
 </div>
 
-<h3 style="color:#a78bfa;">🌍 Xəzər beş ölkəni birləşdirir</h3>
+<h3 style="color:#22c55e;">🌿 Təbiət və ekosistemlər üçün nə deməkdir?</h3>
 
 <p>
-Xəzərin ekoloji vəziyyəti yalnız Azərbaycanın həll edə biləcəyi məsələ deyil.
-Dəniz Azərbaycan, Rusiya, Qazaxıstan, Türkmənistan və İranın sahillərini birləşdirir.
-</p>
-
-<p>
-Buna görə su səviyyəsinin dəyişməsi, çirklənmə, biomüxtəlifliyin qorunması
-və digər ekoloji problemlərin həlli üçün Xəzəryanı ölkələr arasında
-əməkdaşlıq xüsusi əhəmiyyət daşıyır.
+İqlim dəyişmələri yalnız temperatur göstəricilərinə təsir etmir. Yağıntı rejiminin dəyişməsi, uzun quraqlıq dövrləri və ekstremal hadisələr meşələrə, çaylara, torpaq örtüyünə və digər təbii ekosistemlərə təsir göstərə bilər.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.30);
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🤝 ORTAQ DƏNİZ — ORTAQ MƏSULİYYƏT</strong><br><br>
+<strong style="color:#4ade80;">🌿 TƏBİƏT ÜÇÜN ƏSAS RİSKLƏR</strong><br><br>
 
-🇦🇿 Azərbaycan<br>
-🇷🇺 Rusiya<br>
-🇰🇿 Qazaxıstan<br>
-🇹🇲 Türkmənistan<br>
-🇮🇷 İran<br><br>
+🌳 Meşə ekosistemlərində dəyişikliklər<br><br>
 
-🌊 Xəzərin qorunması bütün sahilyanı ölkələrin əməkdaşlığını tələb edir.
+💧 Çayların su rejiminin dəyişməsi<br><br>
+
+🌱 Torpaqda rütubətin azalması<br><br>
+
+🏜️ Quraqlığın geniş ərazilərə təsiri<br><br>
+
+🌊 Güclü yağıntılar zamanı eroziya və sel<br><br>
+
+🐾 Canlıların yaşayış mühitində dəyişikliklər
 
 </div>
 
-<h3 style="color:#22c55e;">🌱 Xəzəri qorumaq üçün nə vacibdir?</h3>
+<h3 style="color:#38bdf8;">🌊 Xəzər də əsas ekoloji risklərdən biridir</h3>
+
+<p>
+Sentyabrın 8-də Bakıda aparılan müzakirələrdə Xəzər dənizinin səviyyəsinin uzunmüddətli azalması da aktual ekoloji problem kimi ön plana çıxıb.
+</p>
+
+<p>
+Səviyyənin azalması sahilyanı zonaların dəyişməsinə, bəzi ekosistemlərin kiçilməsinə, həmçinin Xəzər suitisi və nərə balıqları kimi növlər üçün risklərin artmasına səbəb ola bilər.
+</p>
 
 <div style="
-background:rgba(34,197,94,0.04);
-border:1px solid rgba(34,197,94,0.25);
+background:rgba(14,165,233,0.05);
+border:1px solid rgba(56,189,248,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-📊 Dəniz səviyyəsinin daimi monitorinqi<br><br>
+<strong style="color:#38bdf8;">🌊 XƏZƏR DƏNİZİ</strong><br><br>
 
-🐟 Biomüxtəlifliyin mühafizəsi<br><br>
+📉 Su səviyyəsinin azalması<br><br>
 
-🦭 Nadir növlərin qorunması<br><br>
+🏝️ Sahilyanı ərazilərin dəyişməsi<br><br>
 
-💧 Dənizin çirklənməsinin azaldılması<br><br>
+🐟 Su ekosistemlərinə təsir<br><br>
 
-🏝️ Sahilyanı ekosistemlərin monitorinqi<br><br>
+🦭 Xəzər suitisi üçün əlavə risklər<br><br>
 
-🤝 Xəzəryanı ölkələr arasında elmi və ekoloji əməkdaşlıq<br><br>
-
-🌡️ İqlim dəyişmələrinin Xəzərə təsirinin araşdırılması
+🐟 Nərə balıqlarının yaşayış mühitinə mümkün təsirlər
 
 </div>
+
+<h3 style="color:#f59e0b;">🚨 Erkən xəbərdarlıq sistemləri genişləndirilə bilər</h3>
+
+<p>
+İqlim risklərinin artması fonunda Azərbaycanda iqlim baxımından daha həssas ərazilər üçün erkən xəbərdarlıq sistemlərinin inkişaf etdirilməsi planlaşdırılır.
+</p>
+
+<p>
+Belə sistemlərin əsas məqsədi təhlükəli hava hadisələri başlamazdan əvvəl məlumatı insanlara, fermerlərə və aidiyyəti strukturlara daha sürətli çatdırmaqdır.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#facc15;">🚨 ERKƏN XƏBƏRDARLIQ NƏ VERƏ BİLƏR?</strong><br><br>
+
+🌧️ Güclü yağıntı barədə əvvəlcədən məlumat<br><br>
+
+🌊 Sel və daşqın riskinin izlənilməsi<br><br>
+
+🌾 Fermerlər üçün operativ xəbərdarlıqlar<br><br>
+
+🏙️ Şəhər və rayonlarda risklərin əvvəlcədən qiymətləndirilməsi<br><br>
+
+📉 İqlim hadisələrinin vurduğu zərərin azaldılması
+
+</div>
+
+<p>
+Təqdim olunan qiymətləndirmələrə əsasən, effektiv erkən xəbərdarlıq sistemləri iqlim hadisələrinin yaratdığı zərəri <strong>təxminən 30%-dək azaltmağa</strong> kömək edə bilər.
+</p>
 
 <div style="
 background:rgba(239,68,68,0.05);
@@ -210,15 +203,19 @@ margin:18px 0;">
 
 <strong style="color:#f87171;">⚠️ META EKOLOGİYA</strong><br><br>
 
-Xəzər dənizinin səviyyəsinin azalması uzunmüddətli ekoloji məsələdir.
-Dəyişikliklərin davam etməsi sahilyanı təbiət ərazilərinin və dəniz
-ekosistemlərinin qorunmasını daha da vacib edir.
+Azərbaycanda ekstremal hava hadisələrinin artması təbiətin müşahidəsini,
+meteoroloji monitorinqi və erkən xəbərdarlıq sistemlərinin inkişafını
+daha vacib edir.<br><br>
+
+🌿 İqlim dəyişikliklərinə uyğunlaşma yalnız şəhərlər üçün deyil,
+meşələrin, çayların, su ehtiyatlarının və digər təbii ekosistemlərin
+qorunması üçün də mühüm əhəmiyyət daşıyır.
 
 </div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌊🌿 META Meteorologiya Mərkəzi Xəzər dənizi, Azərbaycanın təbiəti,
-ekologiya və iqlim dəyişmələri ilə bağlı yenilikləri izləməyə davam edir.
+🌿📡 META Meteorologiya Mərkəzi Azərbaycanın təbiəti, ekologiyası,
+iqlim dəyişmələri və təhlükəli hava hadisələri ilə bağlı vəziyyəti izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
@@ -228,8 +225,8 @@ ekologiya və iqlim dəyişmələri ilə bağlı yenilikləri izləməyə davam 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
+➡️ META WhatsApp Kanalı </a>
+
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
@@ -249,3 +246,4 @@ Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və t
 <p style="color:#94a3b8;font-size:14px;">
 © 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
+```
