@@ -1,21 +1,22 @@
 <h2 style="color:#a78bfa;">
-🌌✨ Kosmosda nəhəng “Pelikan” dəyişir — NASA yeni görüntünü təqdim etdi
+🪐🔭 Hubble Saturnun cənub qütbündə nəhəng 10 tərəfli struktur aşkarlayıb
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 7 sentyabr 2026, 14:45 — Bakı vaxtı
+🕐 Əlavə olunub: 8 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
 <strong>META Meteorologiya Mərkəzinin kosmik məlumatlar üzrə təhlilinə görə,
-sentyabrın 7-də NASA kosmosun ən maraqlı ulduz yaranma bölgələrindən biri olan
-Pelikan dumanlığının (IC 5070) son dərəcə detallı görüntüsünü təqdim edib.</strong>
+Hubble Kosmik Teleskopunun Saturn üzərində apardığı müşahidələr planetin
+cənub qütbü ətrafında qeyri-adi həndəsi bulud strukturunu üzə çıxarıb.
+Struktur təxminən 10 tərəfli formaya malikdir və “dekaqon” adlandırılır.</strong>
 </p>
 
 <p>
-Nəhəng qaz və toz buludlarından ibarət olan bu kosmik struktur sabit deyil.
-Gənc və enerjili ulduzlardan yayılan güclü şüalanma dumanlığın daxilindəki qazı
-tədricən dəyişdirir və onun görünüşünü yenidən formalaşdırır.
+Saturn artıq uzun illərdir şimal qütbündə yerləşən məşhur
+altıbucaqlı bulud sistemi ilə tanınır. Yeni müşahidələr isə planetin
+cənub qütbündə də nəhəng həndəsi atmosfer strukturunun mövcud olduğunu göstərir.
 </p>
 
 <div style="
@@ -26,31 +27,31 @@ border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌌 PELİKAN DUMANLIĞI</strong><br><br>
+<strong style="color:#c4b5fd;">🪐 SATURNDA YENİ MARAQLI STRUKTUR</strong><br><br>
 
-🔭 Rəsmi adı: <strong>IC 5070</strong><br><br>
+🔭 Müşahidə: <strong>Hubble Kosmik Teleskopu</strong><br><br>
 
-⭐ Obyekt: <strong>ulduz yaranma bölgəsi</strong><br><br>
+🪐 Planet: <strong>Saturn</strong><br><br>
 
-☁️ Tərkibi: <strong>qaz, molekulyar buludlar və kosmik toz</strong><br><br>
+📍 Yer: <strong>cənub qütbü</strong><br><br>
 
-📸 Görüntünün ümumi ekspozisiyası: <strong>25 saat</strong><br><br>
+🔟 Forma: <strong>təxminən 10 tərəfli — dekaqon</strong><br><br>
 
-🌠 Əsas proses: <strong>yeni ulduzların yaranması və qaz buludlarının dəyişməsi</strong>
+☁️ Struktur: <strong>nəhəng atmosfer və bulud sistemi</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🔭 25 saatlıq müşahidə</h3>
+<h3 style="color:#38bdf8;">🔟 Saturnun cənubunda “dekaqon”</h3>
 
 <p>
-Yeni görüntü ABŞ-ın Yuta ştatından aparılan müşahidələr nəticəsində hazırlanıb.
-Foto üçün ümumilikdə <strong>25 saatlıq ekspozisiya</strong> istifadə edilib.
+Hubble tərəfindən əldə edilmiş görüntülərdə Saturnun cənub qütbü
+ətrafında dövr edən bulud zolaqları görünür.
 </p>
 
 <p>
-Uzunmüddətli ekspozisiya adi görüntüdə zəif görünən qaz və toz strukturlarını
-daha aydın göstərməyə imkan verib. Nəticədə dumanlığın daxilindəki nazik,
-sapvari kosmik toz strukturları xüsusilə detallı şəkildə görünür.
+Bu zolaqların daxili hissəsində sərhədləri təxminən
+<strong>10 tərəfli həndəsi fiqura</strong> bənzəyən struktur xüsusilə seçilir.
+Astronomiyada belə onbucaqlı forma <strong>dekaqon</strong> adlanır.
 </p>
 
 <div style="
@@ -60,30 +61,65 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">📸 GÖRÜNTÜDƏ NƏ GÖRÜRÜK?</strong><br><br>
+<strong style="color:#60a5fa;">🔭 HUBBLE NƏ GÖRDÜ?</strong><br><br>
 
-✨ Gənc ulduzlar<br><br>
+☁️ Saturnun cənub qütbünü əhatə edən bulud zolaqları<br><br>
 
-☁️ İsti qaz buludları<br><br>
+🔟 Təxminən 10 tərəfli sərhəd<br><br>
 
-🌑 Qaranlıq kosmik toz<br><br>
+🌀 Qütb ətrafında dövr edən atmosfer sistemi<br><br>
 
-🌀 Sapvari qaz və toz strukturları<br><br>
-
-🔥 Ulduzların şüalanması ilə dəyişən qaz bölgələri
+🌑 Daxili qaranlıq bölgələrdə daha aydın görünən dekaqon
 
 </div>
 
-<h3 style="color:#f97316;">🔥 Gənc ulduzlar dumanlığı dəyişdirir</h3>
+<h3 style="color:#f59e0b;">⬡ Şimalda isə məşhur altıbucaqlı var</h3>
 
 <p>
-Pelikan dumanlığının ən maraqlı xüsusiyyətlərindən biri burada aktiv
-<strong>ulduz yaranması prosesinin</strong> davam etməsidir.
+Saturnun qütblərində həndəsi atmosfer strukturlarının müşahidə edilməsi
+tamamilə yeni hadisə deyil.
 </p>
 
 <p>
-Yeni yaranmış enerjili ulduzlardan gələn güclü şüalanma ətrafdakı soyuq qazı
-qızdırır. Bunun nəticəsində soyuq və isti qaz arasındakı sərhəd zamanla irəliləyir.
+Planetin <strong>şimal qütbündə nəhəng altıbucaqlı — heksaqon</strong>
+hələ 1980-ci illərdə Voyager kosmik aparatlarının məlumatlarında aşkar edilmişdi.
+Bu strukturun altı tərəfi var və onun uzunmüddətli sabitliyi alimlərin
+diqqətini onilliklərdir cəlb edir.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#facc15;">🪐 SATURNUN İKİ QÜTBÜ</strong><br><br>
+
+⬡ <strong>Şimal qütbü:</strong> 6 tərəfli heksaqon<br><br>
+
+🌀 Uzun müddətdir müşahidə edilir<br><br>
+
+⬇️⬆️<br><br>
+
+🔟 <strong>Cənub qütbü:</strong> təxminən 10 tərəfli dekaqon<br><br>
+
+🔭 Yeni müşahidələr onun xüsusiyyətlərini öyrənməyə imkan verir
+
+</div>
+
+<h3 style="color:#f97316;">🌀 Belə həndəsi forma necə yarana bilər?</h3>
+
+<p>
+İlkin izahlardan birinə görə, qeyri-adi sərhədlər Saturn atmosferində
+müxtəlif sürətlə hərəkət edən qaz axınlarının qarşılıqlı təsiri nəticəsində
+yaranan nəhəng dalğalarla əlaqəli ola bilər.
+</p>
+
+<p>
+Qütbdən daha uzaqda yerləşən sürətli qaz axınları ilə qütbə yaxın
+nisbətən yavaş qazın qarşılıqlı təsiri atmosferdə dalğa sistemləri yarada bilər.
+Bu proses nəticəsində dairəvi bulud zolağının sərhədi həndəsi görünüş ala bilər.
 </p>
 
 <div style="
@@ -93,63 +129,32 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🔥 İONLAŞMA CƏBHƏSİ</strong><br><br>
+<strong style="color:#fb923c;">🌀 NECƏ YARANA BİLƏR?</strong><br><br>
 
-☁️ Soyuq qaz<br>
+💨 Sürətlə hərəkət edən qaz<br>
 ⬇️<br><br>
 
-⭐ Gənc ulduzların güclü şüalanması<br>
+🌬️ Daha yavaş atmosfer axını<br>
 ⬇️<br><br>
 
-🔥 Qazın qızması və ionlaşması<br>
+🌊 Nəhəng atmosfer dalğaları<br>
 ⬇️<br><br>
 
-🌌 Dumanlığın strukturunun tədricən dəyişməsi
+🔟 Həndəsi görünüşə malik bulud sərhədi
 
 </div>
 
-<p>
-NASA-nın təqdim etdiyi görüntüdə soyuq və isti qaz arasındakı bu
-<strong>ionlaşma cəbhəsi</strong> xüsusilə aydın seçilir.
-</p>
-
-<h3 style="color:#e2e8f0;">🌑 Qaranlıq molekulyar bulud</h3>
+<h3 style="color:#22c55e;">🔬 İndi əsas sual: struktur nə qədər sabitdir?</h3>
 
 <p>
-Pelikan dumanlığı daha böyük <strong>Şimali Amerika dumanlığından</strong>
-qaranlıq molekulyar buludla ayrılır.
+Saturnun şimalındakı altıbucaqlı strukturun <strong>40 ildən artıqdır</strong>
+müşahidələrdə qalması onun son dərəcə sabit atmosfer sistemi olduğunu göstərir.
 </p>
 
 <p>
-Bu bölgədəki sıx kosmik toz arxadan gələn işığı udduğu üçün görüntüdə
-qaranlıq sahələr əmələ gətirir.
-</p>
-
-<div style="
-background:rgba(226,232,240,0.04);
-border:1px solid rgba(226,232,240,0.25);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#e2e8f0;">🌑 KOSMİK TOZ</strong><br><br>
-
-Kosmik toz yalnız görüntüdə qaranlıq sahələr yaratmır.
-Belə sıx qaz və toz buludları yeni ulduzların yaranması üçün lazım olan
-materialın böyük hissəsini təşkil edir.
-
-</div>
-
-<h3 style="color:#22c55e;">⭐ Kosmosda yeni ulduzlar necə yaranır?</h3>
-
-<p>
-Nəhəng molekulyar qaz və toz buludlarının müəyyən hissələri cazibə qüvvəsinin
-təsiri altında sıxılmağa başlayır.
-</p>
-
-<p>
-Maddə getdikcə daha sıx və isti olduqda protoulduz formalaşa bilər.
-Milyonlarla il davam edən proses nəticəsində isə yeni ulduz meydana gəlir.
+Cənubdakı yeni dekaqon üçün isə vəziyyət hələ tam aydın deyil.
+Alimlər onun uzun müddət mövcud olub-olmayacağını və formasının
+zamanla necə dəyişəcəyini araşdıracaqlar.
 </p>
 
 <div style="
@@ -159,33 +164,32 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">⭐ ULDUZUN YARANMASI</strong><br><br>
+<strong style="color:#4ade80;">🔬 ALİMLƏR NƏYİ ARAŞDIRACAQ?</strong><br><br>
 
-☁️ Qaz və toz buludu<br>
-⬇️<br><br>
+⏳ Dekaqonun nə qədər davamlı olduğunu<br><br>
 
-🌀 Maddənin cazibə qüvvəsi ilə sıxılması<br>
-⬇️<br><br>
+🌀 Buludların hərəkət sürətini<br><br>
 
-🔥 Protoulduzun yaranması<br>
-⬇️<br><br>
+💨 Atmosfer axınlarının qarşılıqlı təsirini<br><br>
 
-⭐ Yeni ulduz
+🔟 10 tərəfli formanın zamanla dəyişib-dəyişmədiyini<br><br>
+
+🪐 Saturnun şimal və cənub qütbləri arasındakı fərqləri
 
 </div>
 
-<h3 style="color:#f472b6;">⏳ Milyonlarla ildən sonra tamamilə fərqli görünə bilər</h3>
+<h3 style="color:#38bdf8;">🪐 Saturn niyə belə qeyri-adidir?</h3>
 
 <p>
-Pelikan dumanlığının hazırkı görünüşü əbədi deyil.
-Gənc ulduzların şüalanması qaz buludlarını dəyişdirməyə davam etdikcə
-onun strukturu da tədricən yenidən formalaşacaq.
+Saturn əsasən hidrogen və heliumdan ibarət qaz nəhəngidir.
+Planetin atmosferində son dərəcə güclü küləklər, nəhəng fırtınalar
+və mürəkkəb bulud sistemləri mövcuddur.
 </p>
 
 <p>
-Astronomların fikrincə, <strong>milyonlarla ildən sonra</strong> ulduzların və qazın
-yerləşməsi o qədər dəyişə bilər ki, dumanlıq artıq indiki “Pelikan”
-formasına bənzəməyə bilər.
+Bu səbəbdən Saturnun atmosferinin öyrənilməsi təkcə planetin özünü deyil,
+ümumilikdə qaz nəhənglərində atmosfer proseslərinin necə işlədiyini
+anlamağa kömək edir.
 </p>
 
 <div style="
@@ -198,12 +202,9 @@ margin:18px 0;">
 
 <strong style="color:#c4b5fd;">🌌 MARAQLI FAKT</strong><br><br>
 
-Biz kosmik dumanlıqları dəyişməz obyektlər kimi görsək də,
-əslində onların daxilində ulduzların yaranması, qazın qızması və
-maddənin hərəkəti davam edir.<br><br>
-
-⏳ Sadəcə bu dəyişikliklərin böyük hissəsi insan ömrü ilə müqayisədə
-çox uzun zaman miqyasında baş verir.
+Saturnun şimalında 6 tərəfli, cənubunda isə təxminən 10 tərəfli
+atmosfer strukturunun müşahidə edilməsi planetin qütb atmosferinin
+nə qədər mürəkkəb olduğunu nümayiş etdirir.
 
 </div>
 
@@ -216,15 +217,15 @@ font-size:18px;
 margin-top:20px;">
 
 📡 <strong style="color:#60a5fa;">META Kosmos:</strong>
-Pelikan dumanlığının yeni görüntüsü ulduzların yalnız kosmosda yaranmadığını,
-eyni zamanda ətraf mühiti də dəyişdirdiyini göstərir.
-Gənc ulduzların enerjisi nəhəng qaz buludlarını tədricən formalaşdırmağa davam edir.
+Hubble müşahidələri Saturnun cənub qütbündəki dekaqonun quruluşunu
+araşdırmaq üçün yeni imkan yaradır. Əsas suallardan biri bu sistemin
+şimal qütbündəki məşhur heksaqon kimi uzunmüddətli və sabit olub-olmayacağıdır.
 
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və
-planetlər haqqında yeni məlumatları izləməyə davam edir.
+🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
+və planetlərlə bağlı yeni məlumatları izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
