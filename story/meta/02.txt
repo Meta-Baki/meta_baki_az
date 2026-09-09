@@ -1,78 +1,58 @@
 <h2 style="color:#22c55e;">
-🌍⚠️ Azərbaycanda ekstremal hava hadisələri artır — iqlim riskləri güclənir
+🌱🏫 Bakıda yüzlərlə məktəbli ekoloji maarifləndirilib — “Yaşıl gələcək, təmiz məktəb!” layihəsi başa çatıb
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 8 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 9 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin iqlim və ekoloji məlumatlar üzrə təhlilinə görə, Azərbaycanda son 10 il ərzində ekstremal hava və iqlim hadisələrinin sayı və intensivliyində nəzərəçarpacaq artım müşahidə olunur.</strong>
+<strong>META Ekologiya-nın məlumatların təhlilinə görə, Bakının müxtəlif ümumi təhsil məktəblərində həyata keçirilən “Yaşıl gələcək, təmiz məktəb!” ekoloji layihəsi başa çatıb. Layihə çərçivəsində yüzlərlə məktəbli ekoloji maarifləndirmə tədbirlərində iştirak edib.</strong>
 </p>
 
 <p>
-Sentyabrın 8-də Bakıda keçirilən iqlim tədbirlərində ölkənin iqlim dəyişmələrinə həssaslığı, güclü yağıntılar, sel və daşqınlar, quraqlıq, su ehtiyatlarının azalması və digər təbii risklər müzakirə edilib.
+Şagirdlərə ətraf mühitin qorunması, tullantıların düzgün çeşidlənməsi,
+təkrar emal, iqlim dəyişiklikləri, resurslardan səmərəli istifadə və
+dayanıqlı həyat tərzi barədə məlumat verilib.
 </p>
 
 <div style="
-background:rgba(239,68,68,0.05);
-border:1px solid rgba(239,68,68,0.32);
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
 padding:18px;
 border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#f87171;">⚠️ AZƏRBAYCANDA İQLİM RİSKLƏRİ</strong><br><br>
+<strong style="color:#4ade80;">🌱 “YAŞIL GƏLƏCƏK, TƏMİZ MƏKTƏB!”</strong><br><br>
 
-🌡️ Ekstremal temperatur hadisələri<br><br>
+🏫 Məkan: <strong>Bakı məktəbləri</strong><br><br>
 
-🌧️ Güclü və intensiv yağıntılar<br><br>
+👧👦 İştirakçılar: <strong>yüzlərlə məktəbli</strong><br><br>
 
-🌊 Sel və daşqın təhlükəsi<br><br>
+♻️ Tullantıların çeşidlənməsi<br><br>
 
-☀️ Uzunmüddətli quraqlıq<br><br>
+🔄 Təkrar emal<br><br>
 
-💧 Su ehtiyatlarına artan təzyiq<br><br>
+🌍 İqlim dəyişiklikləri<br><br>
 
-🏔️ Dağlıq ərazilərdə təhlükəli təbiət hadisələri
+💧 Resurslardan səmərəli istifadə<br><br>
 
-</div>
-
-<h3 style="color:#f97316;">📈 Son 10 ildə dəyişiklik daha aydın görünür</h3>
-
-<p>
-İqlim həssaslığı üzrə aparılan qiymətləndirmələr son onillikdə Azərbaycanda ekstremal hava-iqlim hadisələrinin həm sayının, həm də intensivliyinin artdığını göstərir.
-</p>
-
-<p>
-Bu tendensiya iqlim amillərinin kənd təsərrüfatı, su ehtiyatları, şəhər infrastrukturu və təbii ekosistemlər nəzərə alınmaqla inkişaf planlarına daxil edilməsinin əhəmiyyətini artırır.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">📊 SON 10 İL</strong><br><br>
-
-⬆️ Ekstremal hava hadisələrinin sayı: <strong>artıb</strong><br><br>
-
-⬆️ Hadisələrin intensivliyi: <strong>artıb</strong><br><br>
-
-⚠️ Nəticə: <strong>iqlim risklərinə uyğunlaşmanın əhəmiyyəti yüksəlir</strong>
+🏙️ “Yaşıl şəhər” anlayışı
 
 </div>
 
-<h3 style="color:#38bdf8;">💧 Azərbaycanın su ehtiyatları da təzyiq altındadır</h3>
+<h3 style="color:#38bdf8;">♻️ Uşaqlar tullantıları düzgün idarə etməyi öyrəniblər</h3>
 
 <p>
-İqlim dəyişmələri ölkənin su ehtiyatlarına da əlavə təzyiq yaradır. Uzunmüddətli quraqlıq dövrləri ilə yanaşı, qısa müddətdə düşən intensiv yağıntılar, sel və daşqınlar su sistemlərinin idarə olunmasını çətinləşdirə bilər.
+Tədbirlər yalnız nəzəri məlumatlarla məhdudlaşmayıb. Məktəblilərlə
+ekoloji problemlərin yaranma səbəbləri və onların həlli yolları barədə
+interaktiv müzakirələr aparılıb.
 </p>
 
 <p>
-Azərbaycanın transsərhəd çaylardan əhəmiyyətli dərəcədə asılı olması bu məsələni regional səviyyədə də vacib edir.
+Şagirdlərə gündəlik həyatda tətbiq edilə biləcək ekoloji davranışların
+təbiətin qorunmasına necə kömək etdiyi praktiki nümunələrlə göstərilib.
 </p>
 
 <div style="
@@ -82,90 +62,33 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">💧 SU EHTİYATLARINA TƏSİR</strong><br><br>
+<strong style="color:#60a5fa;">♻️ GÜNDƏLİK HƏYATDA NƏ ETMƏK OLAR?</strong><br><br>
 
-☀️ Quraqlıq dövrlərinin təsiri<br><br>
+🗑️ Tullantıları çeşidləmək<br><br>
 
-🌧️ Yağıntı rejiminin dəyişməsi<br><br>
+♻️ Təkrar emal edilə bilən materialları ayırmaq<br><br>
 
-🌊 İntensiv sel və daşqınlar<br><br>
+🛍️ Çoxistifadəli çantalardan istifadə etmək<br><br>
 
-🏔️ Buzlaqların sahə və həcminin azalması<br><br>
+🥤 Birdəfəlik plastikdən istifadəni azaltmaq<br><br>
 
-🌊 Xəzər dənizinin səviyyəsində dəyişikliklər<br><br>
+💧 Suya qənaət etmək<br><br>
 
-🏙️ Şəhər su infrastrukturu üçün əlavə risklər
-
-</div>
-
-<h3 style="color:#22c55e;">🌿 Təbiət və ekosistemlər üçün nə deməkdir?</h3>
-
-<p>
-İqlim dəyişmələri yalnız temperatur göstəricilərinə təsir etmir. Yağıntı rejiminin dəyişməsi, uzun quraqlıq dövrləri və ekstremal hadisələr meşələrə, çaylara, torpaq örtüyünə və digər təbii ekosistemlərə təsir göstərə bilər.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🌿 TƏBİƏT ÜÇÜN ƏSAS RİSKLƏR</strong><br><br>
-
-🌳 Meşə ekosistemlərində dəyişikliklər<br><br>
-
-💧 Çayların su rejiminin dəyişməsi<br><br>
-
-🌱 Torpaqda rütubətin azalması<br><br>
-
-🏜️ Quraqlığın geniş ərazilərə təsiri<br><br>
-
-🌊 Güclü yağıntılar zamanı eroziya və sel<br><br>
-
-🐾 Canlıların yaşayış mühitində dəyişikliklər
+💡 Enerjidən səmərəli istifadə etmək
 
 </div>
 
-<h3 style="color:#38bdf8;">🌊 Xəzər də əsas ekoloji risklərdən biridir</h3>
+<h3 style="color:#f59e0b;">🛍️ Birdəfəlik plastikə alternativ</h3>
 
 <p>
-Sentyabrın 8-də Bakıda aparılan müzakirələrdə Xəzər dənizinin səviyyəsinin uzunmüddətli azalması da aktual ekoloji problem kimi ön plana çıxıb.
+Layihənin praktiki hissəsində uşaqlar kətan çantaları öz təsəvvürlərinə
+uyğun şəkildə rəngləyiblər.
 </p>
 
 <p>
-Səviyyənin azalması sahilyanı zonaların dəyişməsinə, bəzi ekosistemlərin kiçilməsinə, həmçinin Xəzər suitisi və nərə balıqları kimi növlər üçün risklərin artmasına səbəb ola bilər.
-</p>
-
-<div style="
-background:rgba(14,165,233,0.05);
-border:1px solid rgba(56,189,248,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#38bdf8;">🌊 XƏZƏR DƏNİZİ</strong><br><br>
-
-📉 Su səviyyəsinin azalması<br><br>
-
-🏝️ Sahilyanı ərazilərin dəyişməsi<br><br>
-
-🐟 Su ekosistemlərinə təsir<br><br>
-
-🦭 Xəzər suitisi üçün əlavə risklər<br><br>
-
-🐟 Nərə balıqlarının yaşayış mühitinə mümkün təsirlər
-
-</div>
-
-<h3 style="color:#f59e0b;">🚨 Erkən xəbərdarlıq sistemləri genişləndirilə bilər</h3>
-
-<p>
-İqlim risklərinin artması fonunda Azərbaycanda iqlim baxımından daha həssas ərazilər üçün erkən xəbərdarlıq sistemlərinin inkişaf etdirilməsi planlaşdırılır.
-</p>
-
-<p>
-Belə sistemlərin əsas məqsədi təhlükəli hava hadisələri başlamazdan əvvəl məlumatı insanlara, fermerlərə və aidiyyəti strukturlara daha sürətli çatdırmaqdır.
+Bu fəaliyyət vasitəsilə çoxistifadəli çantalardan istifadənin üstünlükləri
+və birdəfəlik plastik məhsulların istifadəsinin azaldılmasının əhəmiyyəti
+məktəblilərə izah olunub.
 </p>
 
 <div style="
@@ -175,58 +98,88 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">🚨 ERKƏN XƏBƏRDARLIQ NƏ VERƏ BİLƏR?</strong><br><br>
+<strong style="color:#facc15;">🛍️ 1 SADƏ DƏYİŞİKLİK</strong><br><br>
 
-🌧️ Güclü yağıntı barədə əvvəlcədən məlumat<br><br>
+❌ Hər dəfə yeni plastik paket<br><br>
 
-🌊 Sel və daşqın riskinin izlənilməsi<br><br>
+⬇️<br>
 
-🌾 Fermerlər üçün operativ xəbərdarlıqlar<br><br>
+✅ Çoxistifadəli çanta<br><br>
 
-🏙️ Şəhər və rayonlarda risklərin əvvəlcədən qiymətləndirilməsi<br><br>
+⬇️<br>
 
-📉 İqlim hadisələrinin vurduğu zərərin azaldılması
+♻️ Daha az plastik tullantı<br><br>
+
+⬇️<br>
+
+🌿 Ətraf mühitə daha az yük
 
 </div>
 
+<h3 style="color:#a78bfa;">🌍 Ekoloji düşüncə uşaqlıqdan formalaşır</h3>
+
 <p>
-Təqdim olunan qiymətləndirmələrə əsasən, effektiv erkən xəbərdarlıq sistemləri iqlim hadisələrinin yaratdığı zərəri <strong>təxminən 30%-dək azaltmağa</strong> kömək edə bilər.
+Layihənin əsas məqsədi məktəblilərdə ətraf mühitə həssas münasibətin
+formalaşdırılması və gənc nəslin davamlı inkişaf prinsipləri barədə
+məlumatlılığının artırılması olub.
+</p>
+
+<p>
+Ekoloji vərdişlərin erkən yaşlarda formalaşması gələcəkdə tullantıların
+azaldılması, təbii resursların qorunması və daha məsuliyyətli istehlak
+mədəniyyətinin yaranmasına kömək edə bilər.
 </p>
 
 <div style="
-background:rgba(239,68,68,0.05);
-border:1px solid rgba(239,68,68,0.30);
+background:rgba(139,92,246,0.05);
+border:1px solid rgba(167,139,250,0.30);
 padding:18px;
 border-radius:10px;
-font-size:18px;
 margin:18px 0;">
 
-<strong style="color:#f87171;">⚠️ META EKOLOGİYA</strong><br><br>
+<strong style="color:#c4b5fd;">🌍 EKOLOJİ TƏHSİL</strong><br><br>
 
-Azərbaycanda ekstremal hava hadisələrinin artması təbiətin müşahidəsini,
-meteoroloji monitorinqi və erkən xəbərdarlıq sistemlərinin inkişafını
-daha vacib edir.<br><br>
+👧 Uşaqlıqdan ekoloji düşüncə<br><br>
 
-🌿 İqlim dəyişikliklərinə uyğunlaşma yalnız şəhərlər üçün deyil,
-meşələrin, çayların, su ehtiyatlarının və digər təbii ekosistemlərin
-qorunması üçün də mühüm əhəmiyyət daşıyır.
+♻️ Tullantılara məsuliyyətli yanaşma<br><br>
+
+🌱 Təbiətin qorunması<br><br>
+
+💧 Resurslardan səmərəli istifadə<br><br>
+
+🌎 Gələcək nəsillər üçün daha təmiz ətraf mühit
 
 </div>
 
+<p style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+font-size:18px;
+margin-top:20px;">
+
+🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
+Təbiətin qorunması yalnız ekoloji qurumların işi deyil.
+Tullantıların çeşidlənməsi, plastikdən istifadənin azaldılması,
+su və enerjiyə qənaət kimi gündəlik vərdişlər hər bir insanın
+ətraf mühitə təsirini azaltmağa kömək edə bilər.
+
+</p>
+
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌿📡 META Meteorologiya Mərkəzi Azərbaycanın təbiəti, ekologiyası,
-iqlim dəyişmələri və təhlükəli hava hadisələri ilə bağlı vəziyyəti izləməyə davam edir.
+🌿📡 META Meteorologiya Mərkəzi Azərbaycanın ekologiyası,
+təbiəti və iqlimi ilə bağlı yenilikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya, təbiət və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı </a>
-
+➡️ META WhatsApp Kanalı
+</a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
@@ -246,4 +199,3 @@ Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və t
 <p style="color:#94a3b8;font-size:14px;">
 © 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
-```
