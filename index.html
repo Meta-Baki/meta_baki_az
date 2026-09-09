@@ -1451,6 +1451,10 @@ html.phone-menu .top-area #topMenu {
         ⚙️ Parametrlər
     </button>
 
+    <button onclick="openSection('forecastAccuracySection')">
+        ✓ META proqnoz dəqiqliyi
+    </button>
+
     <button onclick="openSection('forecast7')">
         🌦 7 günlük proqnoz
     </button>
@@ -1546,6 +1550,15 @@ html.phone-menu .top-area #topMenu {
             <select id="precipitationUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="mm">mm</option><option value="cm">cm</option><option value="in">in</option></select>
         </label>
     </div>
+    <div style="max-width:620px; margin:28px auto 0; padding:20px; border:1px solid rgba(125,211,252,.35); border-radius:16px; text-align:left;">
+        <h2 style="margin-top:0; font-size:22px;">✨ Mənim hava şəraitim</h2>
+        <p style="opacity:.85">Bu seçimlər yalnız bu cihazda saxlanılır; hesab və şəxsi məlumat tələb olunmur.</p>
+        <div style="display:grid; gap:14px;">
+            <label>📍 Ərazi <select id="personalArea" onchange="savePersonalWeather()"><option value="Bakı / Abşeron">Bakı / Abşeron</option><option value="Bilgəh və sahil">Bilgəh və sahil</option><option value="Şəhər mərkəzi">Şəhər mərkəzi</option></select></label>
+            <label>🎯 Mənə nə vacibdir <select id="personalActivity" onchange="savePersonalWeather()"><option value="walk">Gəzinti</option><option value="commute">Yol və gediş-gəliş</option><option value="beach">Çimərlik</option><option value="outdoor">Açıq havada iş</option></select></label>
+            <label>💨 Xəbərdarlıq küləyi <input id="personalWindThreshold" type="number" min="1" step="0.1" onchange="savePersonalWeather()"> <span id="personalWindUnit">km/h</span></label>
+        </div>
+    </div>
     <p style="margin-top:25px; opacity:.8;">Seçim yadda saxlanılır və proqnozlar, kartlar və qrafiklərdə dərhal tətbiq olunur.</p>
 </div>
 
@@ -1570,7 +1583,24 @@ html.phone-menu .top-area #topMenu {
 </div>
 
 <!-- HOME -->
+<div class="box section" id="forecastAccuracySection" style="margin-top:-40px;">
+    <h1>✓ META proqnoz dəqiqliyi</h1>
+    <p style="max-width:760px;margin:0 auto 22px;line-height:1.65;opacity:.9;">24 saatlıq proqnoz növbəti gün üçün saxlanılır, sonra META stansiyasının faktiki ölçmələri ilə müqayisə olunur. Bütün hesablamalar ilkin olaraq km/h ilə aparılır.</p>
+    <div id="forecastAccuracyContent" style="max-width:920px;margin:auto;">Məlumat toplanır…</div>
+    <details style="max-width:920px;margin:20px auto 0;text-align:left;opacity:.9;"><summary style="cursor:pointer;font-weight:700;">Metodika</summary><p>Temperatur xətası günün minimum və maksimum temperaturunun orta fərqidir. Yağıntı proqnozu 40% və yuxarı olduqda “gözlənilir” sayılır; faktiki yağıntı 0.1 mm və yuxarı olduqda qeydə alınır. Stansiya məlumatı çatışmayan günlər hesablamaya daxil edilmir.</p></details>
+</div>
+
 <div class="section active" id="homeSection">
+
+    <section style="max-width:1180px;margin:0 auto 18px;padding:18px 22px;border-radius:20px;background:linear-gradient(135deg,rgba(8,145,178,.42),rgba(30,41,59,.66));border:1px solid rgba(125,211,252,.38);text-align:left;">
+        <div style="font-size:13px;letter-spacing:.12em;color:#bae6fd;font-weight:800;">İNDİ SİZİN ÜÇÜN ƏSAS OLAN</div>
+        <h2 id="smartHomeTitle" style="margin:8px 0 5px;font-size:26px;">Hava şəraiti yoxlanılır…</h2>
+        <div id="smartHomeText" style="line-height:1.6;color:#e2e8f0;">Canlı stansiya və yaxın 24 saatlıq proqnoz yüklənir.</div>
+    </section>
+
+    <section style="max-width:1180px;margin:0 auto 18px;padding:18px 22px;border-radius:20px;background:rgba(15,23,42,.66);border:1px solid rgba(255,255,255,.17);text-align:left;">
+        <div style="display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap;"><div><div style="font-size:13px;letter-spacing:.1em;color:#bae6fd;font-weight:800;">MƏNİM HAVA ŞƏRAİTİM</div><h2 id="personalWeatherTitle" style="margin:7px 0 4px;font-size:23px;">Fərdi tövsiyə yüklənir…</h2><div id="personalWeatherText" style="line-height:1.55;color:#e2e8f0;"></div></div><button type="button" onclick="openSection('settingsSection')" style="border:1px solid #7dd3fc;border-radius:10px;padding:10px 14px;background:#0369a1;color:white;cursor:pointer;">Tənzimlə</button></div>
+    </section>
 
     <div class="station-overview">
         <section class="station-hero">
@@ -2562,9 +2592,97 @@ function saveUnitSettings() {
     localStorage.setItem('metaUnitSettings', JSON.stringify(unitSettings));
     loadStation(); loadForecast(); loadForecast14(); loadChart(); loadMiniChart();
     if (activeCityForecast) showCityForecast(activeCityForecast.lat, activeCityForecast.lon, activeCityForecast.name);
+    readPersonalWeather();
+    if (window.forecastAccuracyData) renderForecastAccuracy(window.forecastAccuracyData);
+}
+
+const personalWeatherDefaults = { area: 'Bakı / Abşeron', activity: 'walk', windThresholdKmh: 35 };
+let personalWeather = { ...personalWeatherDefaults };
+
+function readPersonalWeather() {
+    try { Object.assign(personalWeather, JSON.parse(localStorage.getItem('metaPersonalWeather')) || {}); } catch (_) {}
+    const area = document.getElementById('personalArea');
+    const activity = document.getElementById('personalActivity');
+    const threshold = document.getElementById('personalWindThreshold');
+    if (!area || !activity || !threshold) return;
+    area.value = personalWeather.area;
+    activity.value = personalWeather.activity;
+    threshold.value = f(windValue(personalWeather.windThresholdKmh));
+    document.getElementById('personalWindUnit').textContent = unitSettings.wind;
+}
+
+function savePersonalWeather() {
+    const displayed = Number(document.getElementById('personalWindThreshold').value);
+    // Convert the user's chosen display unit back to the canonical km/h store.
+    personalWeather = {
+        area: document.getElementById('personalArea').value,
+        activity: document.getElementById('personalActivity').value,
+        windThresholdKmh: unitSettings.wind === 'm/s' ? displayed * 3.6 : unitSettings.wind === 'mph' ? displayed / 0.621371 : displayed,
+    };
+    localStorage.setItem('metaPersonalWeather', JSON.stringify(personalWeather));
+    renderPersonalWeather(window.currentWeatherState, window.currentForecastDaily);
+}
+
+function renderSmartHome(state, daily) {
+    if (!state || !daily) return;
+    const wind = Number(daily.wind_speed_10m_max?.[0] ?? daily.windspeed_10m_max?.[0] ?? state.wind ?? 0);
+    const rainProbability = Number(daily.precipitation_probability_max?.[0] ?? 0);
+    let title = 'Sakit hava şəraiti';
+    let text = `Hazırda külək ${windText(state.wind || 0)}. Yaxın saatlarda ciddi meteoroloji risk görünmür.`;
+    if (rainProbability >= 60) {
+        title = '🌧 Yağıntı ehtimalı yüksəkdir';
+        text = `Bu gün yağıntı ehtimalı ${f(rainProbability)}%-dir. Çölə çıxarkən çətir götürmək məsləhətdir.`;
+    } else if (wind >= 45) {
+        title = '🟠 Güclü külək gözlənilir';
+        text = `Bu gün maksimal külək ${windText(wind)} ola bilər. Açıq ərazilərdə və sahildə ehtiyatlı olun.`;
+    } else if (Number(daily.uv_index_max?.[0] ?? 0) >= 7) {
+        title = '☀️ UV indeksi yüksəkdir';
+        text = `UV indeksi ${f(daily.uv_index_max[0])}-dir. Günorta saatlarında günəşdən qorunun.`;
+    }
+    document.getElementById('smartHomeTitle').textContent = title;
+    document.getElementById('smartHomeText').textContent = text;
+    renderPersonalWeather(state, daily);
+}
+
+function renderPersonalWeather(state, daily) {
+    if (!state || !daily) return;
+    const titles = { walk: 'Gəzinti', commute: 'Yol və gediş-gəliş', beach: 'Çimərlik', outdoor: 'Açıq havada iş' };
+    const wind = Number(daily.wind_speed_10m_max?.[0] ?? daily.windspeed_10m_max?.[0] ?? state.wind ?? 0);
+    const rain = Number(daily.precipitation_probability_max?.[0] ?? 0);
+    const temp = Number(daily.temperature_2m_max?.[0] ?? state.temp ?? 0);
+    let advice = `Şərait uyğundur: ${tempText(temp)}, külək ${windText(wind)}.`;
+    if (wind >= personalWeather.windThresholdKmh) advice = `Külək sizin həddinizi keçir: ${windText(wind)}. Planı daha sakit saata keçirmək yaxşıdır.`;
+    else if (rain >= 50) advice = `Yağıntı ehtimalı ${f(rain)}%-dir. Ehtiyat planı seçin.`;
+    else if (personalWeather.activity === 'beach' && Number(daily.uv_index_max?.[0] ?? 0) >= 6) advice = `UV indeksi yüksəkdir. Səhər və ya axşam saatları daha münasibdir.`;
+    document.getElementById('personalWeatherTitle').textContent = `${titles[personalWeather.activity]} • ${personalWeather.area}`;
+    document.getElementById('personalWeatherText').textContent = advice;
+}
+
+function renderForecastAccuracy(data) {
+    const box = document.getElementById('forecastAccuracyContent');
+    if (!box) return;
+    if (!data.sample_size) {
+        box.innerHTML = '<div style="padding:25px;border-radius:16px;background:rgba(15,23,42,.55)">📥 META proqnoz arxivini toplamağa başlayıb. İlk müqayisə stansiyada tam bir gün faktiki ölçmə olduqdan sonra görünəcək.</div>';
+        return;
+    }
+    const rows = data.reports.map(item => `<tr><td>${item.date}</td><td>±${tempText(item.temperature_error_c).replace('°'+unitSettings.temperature, '°'+unitSettings.temperature)}</td><td>±${windText(item.wind_error_kmh)}</td><td>${item.precipitation_correct ? '✓' : '—'}</td></tr>`).join('');
+    box.innerHTML = `<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-bottom:18px"><div class="card">🌡 Temperatur<br><strong>±${tempText(data.temperature_mae_c)}</strong></div><div class="card">💨 Külək<br><strong>±${windText(data.wind_mae_kmh)}</strong></div><div class="card">🌧 Yağıntı<br><strong>${data.precipitation_accuracy_percent}%</strong></div><div class="card">📅 Nümunə<br><strong>${data.sample_size} gün</strong></div></div><div class="forecast-table-wrap"><table class="forecast-table"><thead><tr><th>Tarix</th><th>Temperatur xətası</th><th>Külək xətası</th><th>Yağıntı</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+
+async function loadForecastAccuracy() {
+    try {
+        const response = await fetch('/api/forecast-accuracy', { cache: 'no-store' });
+        if (!response.ok) throw new Error('Accuracy HTTP ' + response.status);
+        window.forecastAccuracyData = await response.json();
+        renderForecastAccuracy(window.forecastAccuracyData);
+    } catch (error) {
+        const box = document.getElementById('forecastAccuracyContent');
+        if (box) box.textContent = 'Dəqiqlik məlumatı hazırda yüklənmədi.';
+    }
 }
 
 readUnitSettings();
+readPersonalWeather();
 
 function setLanguage(language) {
     unitSettings.language = language;
@@ -2907,6 +3025,7 @@ async function loadForecast(){
     );
 
     let d = await r.json();
+    window.currentForecastDaily = d.daily;
 
     const currentWeather = d.current || {};
     window.currentWeatherCode = currentWeather.weather_code ?? d.daily.weathercode[0];
@@ -2916,6 +3035,7 @@ async function loadForecast(){
         code: window.currentWeatherCode,
         wind: currentWeather.wind_speed_10m ?? 0
     };
+    renderSmartHome(window.currentWeatherState, d.daily);
     setBackground(window.currentWeatherState.temp, window.currentWeatherState.rain, window.currentWeatherState.code, window.currentWeatherState.wind);
 
 // =====================================
@@ -3110,7 +3230,7 @@ document.getElementById("forecast").innerHTML = html;
   
 async function loadForecast14(){
     let r = await fetch(
-"https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,snowfall_sum,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,precipitation_sum,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean&timezone=auto&forecast_days=14"
+"https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,snowfall_sum,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,precipitation_sum,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean&wind_speed_unit=kmh&timezone=auto&forecast_days=14"
 );
     let d = await r.json();
 
@@ -4338,7 +4458,7 @@ async function showCityForecast(lat, lon, name) {
     container.innerHTML = '<div style="padding:25px;">Yüklənir...</div>';
 
     try {
-        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean,precipitation_sum&timezone=Asia%2FBaku&forecast_days=7`;
+            const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean,precipitation_sum&wind_speed_unit=kmh&timezone=Asia%2FBaku&forecast_days=7`;
         const response = await fetch(url);
         if (!response.ok) throw new Error('Forecast HTTP ' + response.status);
         const d = await response.json();
@@ -4361,7 +4481,7 @@ async function showHourlyForecast(lat, lon, name) {
     title.innerHTML = `<h2>🕒 ${name} üçün 24 saatlıq hava proqnozu</h2>`;
     container.innerHTML = '<div style="padding:25px;">Yüklənir...</div>';
     try {
-        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=temperature_2m,apparent_temperature,precipitation_probability,precipitation,weather_code,wind_speed_10m,surface_pressure&timezone=Asia%2FBaku&forecast_days=2`;
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=temperature_2m,apparent_temperature,precipitation_probability,precipitation,weather_code,wind_speed_10m,surface_pressure&wind_speed_unit=kmh&timezone=Asia%2FBaku&forecast_days=2`;
         const response = await fetch(url);
         if (!response.ok) throw new Error('Hourly forecast HTTP ' + response.status);
         const d = await response.json();
@@ -4397,6 +4517,7 @@ window.onload = function () {
     loadTextStory("meteorologyContent", "/story/sayt haqqında/meteorologiya.txt", "meteorologySection");
     loadMonthlyForecast();
     loadSystemStatus();
+    loadForecastAccuracy();
 
     setInterval(loadMiniChart, 60000);
 
@@ -4408,6 +4529,7 @@ window.onload = function () {
     setInterval(loadHistory, 60000);
     setInterval(loadSpace, 60000);
     setInterval(loadMonthlyForecast, 10 * 60 * 1000);
+    setInterval(loadForecastAccuracy, 60 * 60 * 1000);
     setInterval(() => loadTextStory("aboutContent", "/story/sayt haqqında/haqqımızda.txt", "aboutSection"), 10 * 60 * 1000);
     setInterval(() => loadTextStory("meteorologyContent", "/story/sayt haqqında/meteorologiya.txt", "meteorologySection"), 10 * 60 * 1000);
 
