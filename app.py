@@ -5,7 +5,7 @@ import os
 import hashlib
 import sqlite3
 import threading
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 import base64
 from html import escape
@@ -349,6 +349,123 @@ def save_history(entry):
         json.dump(_HISTORY_CACHE, f, ensure_ascii=False, indent=2)
 
     update_github(_HISTORY_CACHE)
+
+
+# ---------------- FORECAST ACCURACY ----------------
+# Forecast snapshots are stored in canonical metric units.  Display-unit
+# conversion is intentionally a front-end concern, so changing settings never
+# changes an accuracy calculation or its warning thresholds.
+FORECAST_ACCURACY_DB = os.getenv("FORECAST_ACCURACY_DB", os.path.join(app.root_path, "forecast_accuracy.sqlite3"))
+FORECAST_ACCURACY_LOCK = threading.Lock()
+
+
+def _accuracy_connection():
+    connection = sqlite3.connect(FORECAST_ACCURACY_DB, timeout=10)
+    connection.execute("""
+        CREATE TABLE IF NOT EXISTS forecast_snapshots (
+            target_date TEXT PRIMARY KEY,
+            created_at TEXT NOT NULL,
+            temp_min_c REAL NOT NULL,
+            temp_max_c REAL NOT NULL,
+            precipitation_probability_percent REAL NOT NULL,
+            wind_max_kmh REAL NOT NULL
+        )
+    """)
+    return connection
+
+
+def _capture_tomorrow_forecast():
+    """Save one immutable 24-hour forecast per target day, in km/h."""
+    response = requests.get(
+        "https://api.open-meteo.com/v1/forecast",
+        params={
+            "latitude": 40.4093, "longitude": 49.8671, "timezone": "Asia/Baku",
+            "forecast_days": 2, "wind_speed_unit": "kmh",
+            "daily": "temperature_2m_min,temperature_2m_max,precipitation_probability_max,wind_speed_10m_max",
+        },
+        timeout=12,
+    )
+    response.raise_for_status()
+    daily = response.json().get("daily", {})
+    if len(daily.get("time", [])) < 2:
+        raise ValueError("Forecast response has no tomorrow")
+    return {
+        "target_date": daily["time"][1],
+        "temp_min_c": _number(daily["temperature_2m_min"][1]),
+        "temp_max_c": _number(daily["temperature_2m_max"][1]),
+        "precipitation_probability_percent": _number(daily["precipitation_probability_max"][1]),
+        "wind_max_kmh": _number(daily["wind_speed_10m_max"][1]),
+    }
+
+
+def _actual_day(target_date):
+    points = []
+    for point in load_history():
+        try:
+            observed = datetime.fromisoformat(point["timestamp"]).astimezone(BAKU_TZ).date().isoformat()
+        except (KeyError, TypeError, ValueError):
+            continue
+        if observed == target_date:
+            points.append(point)
+    if not points:
+        return None
+    return {
+        "temp_min_c": min(_number(point.get("temp")) for point in points),
+        "temp_max_c": max(_number(point.get("temp")) for point in points),
+        "rain_mm": max(_number(point.get("rain")) for point in points),
+        "wind_max_kmh": max(_number(point.get("wind")) for point in points),
+    }
+
+
+@app.route("/api/forecast-accuracy")
+def forecast_accuracy():
+    """Transparent 24-hour forecast-vs-station report; all API speeds are km/h."""
+    capture_error = None
+    try:
+        snapshot = _capture_tomorrow_forecast()
+        with FORECAST_ACCURACY_LOCK:
+            connection = _accuracy_connection()
+            try:
+                connection.execute(
+                    "INSERT OR IGNORE INTO forecast_snapshots VALUES (?, ?, ?, ?, ?, ?)",
+                    (snapshot["target_date"], datetime.now(BAKU_TZ).isoformat(), snapshot["temp_min_c"], snapshot["temp_max_c"], snapshot["precipitation_probability_percent"], snapshot["wind_max_kmh"]),
+                )
+                connection.commit()
+            finally:
+                connection.close()
+    except Exception as error:
+        capture_error = str(error)
+
+    connection = _accuracy_connection()
+    try:
+        rows = connection.execute("SELECT target_date, created_at, temp_min_c, temp_max_c, precipitation_probability_percent, wind_max_kmh FROM forecast_snapshots ORDER BY target_date DESC LIMIT 90").fetchall()
+    finally:
+        connection.close()
+
+    reports = []
+    for row in rows:
+        actual = _actual_day(row[0])
+        if actual is None:
+            continue
+        predicted_rain = row[4] >= 40
+        actual_rain = actual["rain_mm"] >= 0.1
+        reports.append({
+            "date": row[0], "forecast_created_at": row[1],
+            "temperature_error_c": round((abs(row[2] - actual["temp_min_c"]) + abs(row[3] - actual["temp_max_c"])) / 2, 1),
+            "wind_error_kmh": round(abs(row[5] - actual["wind_max_kmh"]), 1),
+            "precipitation_correct": predicted_rain == actual_rain,
+            "forecast": {"temp_min_c": row[2], "temp_max_c": row[3], "rain_probability_percent": row[4], "wind_max_kmh": row[5]},
+            "actual": actual,
+        })
+    return jsonify({
+        "methodology": "24-hour forecast is saved once for the next local day. Facts come from META station history. Wind is calculated and returned in km/h.",
+        "sample_size": len(reports),
+        "collecting_since": min((row[1] for row in rows), default=None),
+        "temperature_mae_c": round(sum(item["temperature_error_c"] for item in reports) / len(reports), 1) if reports else None,
+        "wind_mae_kmh": round(sum(item["wind_error_kmh"] for item in reports) / len(reports), 1) if reports else None,
+        "precipitation_accuracy_percent": round(100 * sum(item["precipitation_correct"] for item in reports) / len(reports)) if reports else None,
+        "reports": reports[:14], "capture_error": capture_error,
+    })
 
 
 # ---------------- UPDATE ----------------
