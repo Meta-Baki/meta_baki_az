@@ -1,22 +1,48 @@
-<h2 style="color:#38bdf8;">
-🌧️ Bakıda və Abşeronda aylıq normanın 133%-i qədər yağıntı düşüb
+<h2 style="color:#22c55e;">
+🌊♻️ Neftçalada Xəzər sahili tullantılardan təmizlənib — “Xəzəri qoruyaq!” aksiyası keçirilib
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 8 sentyabr 2026, 14:25 — Bakı vaxtı
+🕐 Əlavə olunub: 9 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlilinə görə,
-8 sentyabr saat 09:00-a olan vəziyyətə əsasən, Azərbaycanın bir sıra
-ərazilərində yağışlı hava şəraiti müşahidə olunub. Ayrı-ayrı yerlərdə
-yağıntılar leysan xarakterli və intensiv olub.</strong>
+<strong>META Ekologiya-nın məlumatların təhlilinə görə, Neftçala rayonunun Şirvanlı kəndi ərazisində yerləşən Müşfiq çimərliyində “Xəzəri qoruyaq!” adlı sahilyanı təmizlik aksiyası keçirilib.</strong>
 </p>
 
 <p>
-Ən diqqətçəkən göstəricilərdən biri Bakı və Abşeron yarımadasında qeydə alınıb.
-Burada düşən yağıntının miqdarı bəzi ərazilərdə <strong>30 mm-ə çatıb</strong>.
-Bu isə <strong>aylıq yağıntı normasının 133%-nə</strong> bərabərdir.
+Aksiya çərçivəsində Xəzər dənizinin sahilində toplanmış məişət tullantıları yığılıb, çeşidlənib və ərazidən daşınıb. Tədbirə ekologiya sahəsində fəaliyyət göstərən qurumların nümayəndələri və könüllülər qoşulublar.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">♻️ AKSİYA ÇƏRÇİVƏSİNDƏ</strong><br><br>
+
+🌊 Xəzər sahili təmizlənib<br><br>
+
+🗑️ Məişət tullantıları toplanıb<br><br>
+
+♻️ Tullantılar çeşidlənib<br><br>
+
+🚛 Toplanmış tullantılar ərazidən daşınıb<br><br>
+
+🙋 Könüllülər aksiyaya qoşulublar
+
+</div>
+
+<h3 style="color:#38bdf8;">🌊 Məqsəd Xəzərin ekosistemini qorumaqdır</h3>
+
+<p>
+Təmizlik aksiyasının əsas məqsədi Xəzər dənizinin və sahilyanı ərazilərin ekoloji vəziyyətinin yaxşılaşdırılmasına töhfə vermək, sahillərin məişət tullantıları ilə çirklənməsinin qarşısını almaq və cəmiyyətdə ekoloji məsuliyyəti artırmaqdır.
+</p>
+
+<p>
+Sahildə qalan plastik və digər tullantılar uzun müddət ətraf mühitdə qala, suya düşə və dəniz canlılarının yaşayış mühitinə mənfi təsir göstərə bilər.
 </p>
 
 <div style="
@@ -24,27 +50,30 @@ background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.30);
 padding:18px;
 border-radius:10px;
-font-size:20px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌧️ BAKI VƏ ABŞERON</strong><br><br>
+<strong style="color:#60a5fa;">🐟 XƏZƏR ÜÇÜN NİYƏ VACİBDİR?</strong><br><br>
 
-💧 Yağıntının miqdarı: <strong>30 mm-dək</strong><br><br>
+🐟 Dəniz canlılarının yaşayış mühitinin qorunması<br><br>
 
-📊 Aylıq normaya nisbəti: <strong>133%</strong><br><br>
+🦭 Xəzərin biomüxtəlifliyinin mühafizəsi<br><br>
 
-🌧️ Xarakteri: <strong>bəzi ərazilərdə leysan və intensiv</strong><br><br>
+🏖️ Sahilyanı ərazilərin təmiz saxlanılması<br><br>
 
-📅 Məlumat: <strong>8 sentyabr, saat 09:00-a olan vəziyyət</strong>
+♻️ Tullantıların təbiətə düşməsinin azaldılması<br><br>
+
+🌱 Ekoloji mədəniyyətin formalaşdırılması
 
 </div>
 
-<h3 style="color:#f59e0b;">📊 133% nə deməkdir?</h3>
+<h3 style="color:#f59e0b;">♻️ Tullantılar çeşidlənib</h3>
 
 <p>
-Bu göstərici o deməkdir ki, Bakı və Abşeronun bəzi ərazilərində
-qısa müddət ərzində düşən yağıntının miqdarı sentyabr ayı üçün nəzərdə
-tutulan orta aylıq yağıntı miqdarını artıq keçib.
+Aksiyanın mühüm hissələrindən biri toplanmış tullantıların sadəcə yığılması deyil, onların çeşidlənməsi olub.
+</p>
+
+<p>
+Tullantıların düzgün çeşidlənməsi təkrar emal imkanlarını artırır və ətraf mühitə düşən ümumi tullantı yükünün azaldılmasına kömək edir.
 </p>
 
 <div style="
@@ -54,157 +83,38 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">📈 DİQQƏTÇƏKƏN GÖSTƏRİCİ</strong><br><br>
+<strong style="color:#facc15;">🌿 SADƏ QAYDA</strong><br><br>
 
-🌧️ Faktiki yağıntı: <strong>30 mm-dək</strong><br><br>
+🚯 Tullantını sahildə qoymamaq<br><br>
 
-📊 Aylıq normanın: <strong>133%-i</strong><br><br>
+♻️ Mümkün olduqda tullantıları çeşidləmək<br><br>
 
-➡️ Yəni bəzi ərazilərdə sentyabr ayının orta aylıq normasından
-<strong>daha çox yağıntı artıq düşüb.</strong>
+🧴 Birdəfəlik plastikdən istifadəni azaltmaq<br><br>
 
-</div>
+🌊 Dənizə və su hövzələrinə tullantı atmamaq<br><br>
 
-<h3 style="color:#38bdf8;">🇦🇿 Rayonlarda nə qədər yağış düşüb?</h3>
-
-<p>
-Yağıntılar ölkənin müxtəlif bölgələrində də qeydə alınıb.
-Bakı və Abşerondan sonra daha yüksək göstəricilər Xızı, Astara,
-Qobustan və Ağdamda müşahidə olunub.
-</p>
-
-<div style="
-background:rgba(14,165,233,0.05);
-border:1px solid rgba(56,189,248,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#38bdf8;">🌧️ ƏN ÇOX YAĞINTI QEYDƏ ALINAN ƏRAZİLƏR</strong><br><br>
-
-🏙️ <strong>Bakı və Abşeron — 30 mm-dək</strong><br><br>
-
-🌧️ Xızı — <strong>23 mm</strong><br><br>
-
-🌧️ Astara — <strong>18 mm</strong><br><br>
-
-🌧️ Qobustan — <strong>17 mm</strong><br><br>
-
-🌧️ Ağdam — <strong>14 mm</strong><br><br>
-
-🌧️ Sabirabad — <strong>10 mm</strong><br><br>
-
-🌧️ Lənkəran və Şamaxı — <strong>10 mm</strong><br><br>
-
-🌧️ Xaltan, Tərtər və Lerik — <strong>9 mm</strong><br><br>
-
-🌧️ Zərdab — <strong>8 mm</strong><br><br>
-
-🌧️ Lerik və Kürdəmir — <strong>7 mm</strong><br><br>
-
-🌧️ Şirvan — <strong>4 mm</strong><br><br>
-
-🌧️ Yardımlı — <strong>3 mm</strong>
-
-</div>
-
-<h3 style="color:#a78bfa;">🌦️ Bir sıra ərazilərdə 1–2 mm yağıntı</h3>
-
-<p>
-Qaxın Sarıbaş kəndi, Xınalıq, Quba və Göyçayda yağıntının miqdarı
-<strong>2 mm</strong> olub.
-</p>
-
-<p>
-Cəbrayıl, Bərdə, Qusar, Qrız, Oğuz, Şəki (Kişçay), Biləsuvar,
-Naftalan, Balakən, Zaqatala, Gəncə, Daşkəsən, Göygöl, Yevlax,
-Ordubad, Beyləqan, İmişli, Şahdağ və Şabranda isə
-<strong>1 mm-dək</strong> yağıntı qeydə alınıb.
-</p>
-
-<h3 style="color:#f97316;">💨 Güclü külək tədricən zəifləyir</h3>
-
-<p>
-8 sentyabr səhər saatlarından müşahidə olunan güclü külək
-tədricən zəifləməyə başlayıb.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.30);
-padding:18px;
-border-radius:10px;
-font-size:19px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">💨 KÜLƏK</strong><br><br>
-
-📉 Vəziyyət: <strong>tədricən zəifləyir</strong><br><br>
-
-🌬️ Sürət: <strong>8–13 m/s</strong><br><br>
-
-🚩 Saatda sürət: <strong>təxminən 29–47 km/saat</strong>
-
-</div>
-
-<h3 style="color:#22c55e;">🌧️ Sentyabrın əvvəlində diqqətçəkən yağıntı</h3>
-
-<p>
-Ayın hələ ilk ongünlüyündə Bakı və Abşeronun bəzi ərazilərində
-aylıq normanın 133%-nə bərabər yağıntının qeydə alınması
-meteoroloji baxımdan diqqətçəkən göstəricidir.
-</p>
-
-<p>
-Yağıntının qısa müddətdə intensiv düşməsi zamanı şəhər ərazilərində
-su yığılması, yolların ayrı-ayrı hissələrində hərəkətin çətinləşməsi
-və aşağı ərazilərdə lokal problemlərin yaranması mümkündür.
-</p>
-
-<div style="
-background:rgba(239,68,68,0.05);
-border:1px solid rgba(239,68,68,0.32);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#f87171;">⚠️ İNTENSİV YAĞIŞ ZAMANI</strong><br><br>
-
-🚗 Su yığılmış yol hissələrində ehtiyatlı hərəkət edin<br><br>
-
-🌊 Aşağı ərazilərdə suyun sürətlə toplanmasına diqqət yetirin<br><br>
-
-⚡ Şimşək zamanı açıq ərazilərdə uzun müddət qalmayın<br><br>
-
-💨 Güclü külək zamanı ağac və zəif konstruksiyalardan uzaq durun
+🌱 Təbiətdə olduğumuz yeri təmiz saxlamaq
 
 </div>
 
 <p style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.25);
-padding:17px;
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-📡 <strong style="color:#60a5fa;">META müşahidəsi:</strong>
-8 sentyabr səhərinə olan məlumatlarda ən diqqətçəkən göstərici
-Bakı və Abşeronda qeydə alınıb — yağıntının miqdarı bəzi ərazilərdə
-30 mm-ə, yəni aylıq normanın 133%-nə çatıb. Güclü külək isə
-səhər saatlarından etibarən tədricən zəifləyir.
+🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
+Xəzərin qorunması yalnız böyük ekoloji layihələrdən asılı deyil.
+Sahillərin təmiz saxlanılması və plastik tullantıların azaldılması kimi
+sadə addımlar da dənizin ekosisteminin qorunmasına töhfə verir.
 
-</p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌦️📡 META Meteorologiya Mərkəzi Bakı, Abşeron və Azərbaycanın
-digər ərazilərində hava şəraitini izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
+📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
