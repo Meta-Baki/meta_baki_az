@@ -82,7 +82,7 @@ PWS Weather
 </p>
 
 <p>
-📡 Weather Underground META Hava stansiyası:
+📡 WU Weather META Hava stansiyası:
 <a href="https://www.wunderground.com/dashboard/pws/IBAKU37"
 target="_blank"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
