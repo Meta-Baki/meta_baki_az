@@ -1,48 +1,17 @@
-<h2 style="color:#22c55e;">
-🌊♻️ Neftçalada Xəzər sahili tullantılardan təmizlənib — “Xəzəri qoruyaq!” aksiyası keçirilib
+<h2 style="color:#38bdf8;">
+🌊⚠️ Xəzərdə dəyişikliklər getdikcə daha aydın görünür — iqlim təsirləri sahillərdə müşahidə edilir
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 9 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 10 sentyabr 2026, 14:29 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Ekologiya-nın məlumatların təhlilinə görə, Neftçala rayonunun Şirvanlı kəndi ərazisində yerləşən Müşfiq çimərliyində “Xəzəri qoruyaq!” adlı sahilyanı təmizlik aksiyası keçirilib.</strong>
+<strong>Sentyabrın 10-da yayımlanan məlumatlara görə, Bakıda keçirilən BMT-nin İqlim Dəyişmələri üzrə Çərçivə Konvensiyasının Dördüncü İqlim Həftəsində iqlim dəyişmələrinin artıq uzaq gələcəyin təhlükəsi olmadığı, onun təsirlərinin real şəkildə müşahidə edildiyi vurğulanıb.</strong>
 </p>
 
 <p>
-Aksiya çərçivəsində Xəzər dənizinin sahilində toplanmış məişət tullantıları yığılıb, çeşidlənib və ərazidən daşınıb. Tədbirə ekologiya sahəsində fəaliyyət göstərən qurumların nümayəndələri və könüllülər qoşulublar.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">♻️ AKSİYA ÇƏRÇİVƏSİNDƏ</strong><br><br>
-
-🌊 Xəzər sahili təmizlənib<br><br>
-
-🗑️ Məişət tullantıları toplanıb<br><br>
-
-♻️ Tullantılar çeşidlənib<br><br>
-
-🚛 Toplanmış tullantılar ərazidən daşınıb<br><br>
-
-🙋 Könüllülər aksiyaya qoşulublar
-
-</div>
-
-<h3 style="color:#38bdf8;">🌊 Məqsəd Xəzərin ekosistemini qorumaqdır</h3>
-
-<p>
-Təmizlik aksiyasının əsas məqsədi Xəzər dənizinin və sahilyanı ərazilərin ekoloji vəziyyətinin yaxşılaşdırılmasına töhfə vermək, sahillərin məişət tullantıları ilə çirklənməsinin qarşısını almaq və cəmiyyətdə ekoloji məsuliyyəti artırmaqdır.
-</p>
-
-<p>
-Sahildə qalan plastik və digər tullantılar uzun müddət ətraf mühitdə qala, suya düşə və dəniz canlılarının yaşayış mühitinə mənfi təsir göstərə bilər.
+Müzakirələrdə Azərbaycanın sahilləri və sahilyanı ərazilərində baş verən dəyişikliklərə də diqqət çəkilib. Xəzər dənizinin səviyyəsində uzunmüddətli dəyişikliklər ölkə üçün əsas ekoloji məsələlərdən biri olaraq qalır.
 </p>
 
 <div style="
@@ -52,63 +21,126 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🐟 XƏZƏR ÜÇÜN NİYƏ VACİBDİR?</strong><br><br>
+<strong style="color:#60a5fa;">🌊 XƏZƏR DƏNİZİ — ƏSAS MƏSƏLƏLƏR</strong><br><br>
 
-🐟 Dəniz canlılarının yaşayış mühitinin qorunması<br><br>
+📉 Dəniz səviyyəsində uzunmüddətli dəyişikliklər<br><br>
 
-🦭 Xəzərin biomüxtəlifliyinin mühafizəsi<br><br>
+🏝️ Sahilyanı ərazilərin dəyişməsi<br><br>
 
-🏖️ Sahilyanı ərazilərin təmiz saxlanılması<br><br>
+🌿 Sahil ekosistemlərinə mümkün təsirlər<br><br>
 
-♻️ Tullantıların təbiətə düşməsinin azaldılması<br><br>
+🐟 Biomüxtəliflik üçün risklər<br><br>
 
-🌱 Ekoloji mədəniyyətin formalaşdırılması
+🚢 Nəqliyyat və infrastruktura mümkün təsirlər<br><br>
+
+🌡️ İqlim dəyişmələrinin artan təsiri
 
 </div>
 
-<h3 style="color:#f59e0b;">♻️ Tullantılar çeşidlənib</h3>
+<h3 style="color:#f97316;">🌡️ İqlim dəyişikliyi artıq uzaq təhlükə deyil</h3>
 
 <p>
-Aksiyanın mühüm hissələrindən biri toplanmış tullantıların sadəcə yığılması deyil, onların çeşidlənməsi olub.
+Bakıda keçirilən iqlim tədbirində son illərdə ciddi dəyişikliklərin müşahidə olunduğu və bu proseslərin artıq real nəticələrinin göründüyü bildirilib.
 </p>
 
 <p>
-Tullantıların düzgün çeşidlənməsi təkrar emal imkanlarını artırır və ətraf mühitə düşən ümumi tullantı yükünün azaldılmasına kömək edir.
+İqlim sistemində baş verən dəyişikliklər temperaturla məhdudlaşmır. Yağıntı rejimi, quraqlıq, su ehtiyatları və sahilyanı ərazilərdə gedən proseslər də iqlim dəyişmələrindən təsirlənə bilər.
 </p>
 
 <div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.30);
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.30);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">🌿 SADƏ QAYDA</strong><br><br>
+<strong style="color:#fb923c;">⚠️ İQLİM DƏYİŞMƏLƏRİNİN TƏSİRİ</strong><br><br>
 
-🚯 Tullantını sahildə qoymamaq<br><br>
+🌡️ Temperatur rejiminin dəyişməsi<br><br>
 
-♻️ Mümkün olduqda tullantıları çeşidləmək<br><br>
+☀️ Quraqlıq riskinin artması<br><br>
 
-🧴 Birdəfəlik plastikdən istifadəni azaltmaq<br><br>
+🌧️ Yağıntı rejimində dəyişikliklər<br><br>
 
-🌊 Dənizə və su hövzələrinə tullantı atmamaq<br><br>
+💧 Su ehtiyatlarına təzyiq<br><br>
 
-🌱 Təbiətdə olduğumuz yeri təmiz saxlamaq
+🌊 Sahilyanı ərazilərin dəyişməsi<br><br>
+
+🌿 Təbii ekosistemlərin uyğunlaşma ehtiyacı
+
+</div>
+
+<h3 style="color:#38bdf8;">🌊 Xəzər xüsusi diqqət tələb edir</h3>
+
+<p>
+Xəzər qapalı su hövzəsi olduğuna görə onun səviyyəsi iqlim və hidroloji proseslərdəki dəyişikliklərə həssasdır.
+</p>
+
+<p>
+Dəniz səviyyəsinin azalması davam edərsə, sahil xəttinin dəyişməsi ilə yanaşı, dayaz su ekosistemlərinə, liman və nəqliyyat infrastrukturuna, həmçinin bəzi canlı növlərinin yaşayış mühitinə təsirlər yarana bilər.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">🌿 TƏBİƏT ÜÇÜN NƏ DEMƏKDİR?</strong><br><br>
+
+🐟 Balıqların yaşayış və çoxalma sahələrinin dəyişməsi<br><br>
+
+🦭 Xəzərə xas canlıların yaşayış mühitinə təzyiq<br><br>
+
+🌱 Sahilyanı bitki örtüyündə dəyişikliklər<br><br>
+
+🏞️ Dayaz su ekosistemlərinin dəyişməsi<br><br>
+
+🦅 Su-bataqlıq ərazilərindən istifadə edən quşlara mümkün təsirlər
+
+</div>
+
+<h3 style="color:#a78bfa;">🌍 Bakı iqlim müzakirələrinin mərkəzindədir</h3>
+
+<p>
+Hazırda Bakıda keçirilən İqlim Həftəsi müxtəlif ölkələri, beynəlxalq təşkilatları, biznes və vətəndaş cəmiyyəti nümayəndələrini bir araya gətirir.
+</p>
+
+<p>
+Əsas məqsədlərdən biri iqlim sahəsində verilən vədlərin real layihələrə, investisiyalara və insanların, şəhərlərin və ekosistemlərin qorunmasına yönəlmiş tədbirlərə çevrilməsidir.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.05);
+border:1px solid rgba(167,139,250,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">🌍 ƏSAS MESAJ</strong><br><br>
+
+İqlim dəyişmələrinin təsirləri artıq yalnız gələcək üçün hazırlanmış proqnoz deyil.<br><br>
+
+🌊 Sahillər<br>
+💧 Su ehtiyatları<br>
+🌿 Ekosistemlər<br>
+🏙️ Şəhərlər və infrastruktur<br><br>
+
+bu dəyişikliklərə uyğunlaşmalı olacaq.
 
 </div>
 
 <p style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.30);
 padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
-Xəzərin qorunması yalnız böyük ekoloji layihələrdən asılı deyil.
-Sahillərin təmiz saxlanılması və plastik tullantıların azaldılması kimi
-sadə addımlar da dənizin ekosisteminin qorunmasına töhfə verir.
+🌊 <strong style="color:#60a5fa;">META Ekologiya:</strong>
+Xəzər dənizində və Azərbaycanın sahilyanı ərazilərində baş verən uzunmüddətli dəyişikliklərin davamlı monitorinqi ekoloji risklərin vaxtında müəyyən edilməsi üçün xüsusi əhəmiyyət daşıyır.
 
 </p>
 
