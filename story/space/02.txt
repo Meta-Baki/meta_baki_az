@@ -1,22 +1,20 @@
 <h2 style="color:#a78bfa;">
-🌌✨ Kosmosda “göz vuran” ulduz — XZ Andromedae sistemində daha iki ulduz ola bilər
+🌌🦒 Kosmosda nəhəng “Zürafə” — NASA qeyri-adi qaranlıq dumanlığı nümayiş etdirib
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 9 sentyabr 2026, 13:21 — Bakı vaxtı
+🕐 Əlavə olunub: 10 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin kosmik məlumatlar üzrə təhlilinə görə,
-astronomların müşahidə etdiyi XZ Andromedae sistemi qeyri-adi parlaqlıq
-dəyişiklikləri ilə diqqət çəkir. Kənardan ulduzun sanki “göz vurması” kimi
-görünən hadisə əslində iki ulduzun bir-birinin qarşısından keçməsi nəticəsində yaranır.</strong>
+<strong>Sentyabrın 10-da NASA günün astronomik görüntüsü kimi LDN 1295 adlı qeyri-adi kosmik obyekti təqdim edib. Formasına görə “Zürafə dumanlığı” adlandırılan bu nəhəng qaranlıq molekulyar bulud Kassiopeya bürcü istiqamətində yerləşir.</strong>
 </p>
 
 <p>
-XZ Andromedae tək ulduz deyil — o, <strong>Algol tipli tutulmalı ikili ulduz sistemidir</strong>.
-Sistemin orbitinin Yerə nisbətən demək olar ki, kənardan görünməsi astronomlara
-ulduzların bir-birini müntəzəm şəkildə örtməsini müşahidə etməyə imkan verir.
+İlk baxışdan görüntüdə kosmosun bəzi hissələrinin sanki boş və qaranlıq olduğu görünür.
+Əslində isə həmin ərazilərdə çoxlu miqdarda ulduzlararası qaz və toz mövcuddur.
+Bu maddə arxada yerləşən ulduzlardan gələn işığın qarşısını aldığı üçün bulud
+qaranlıq siluet şəklində görünür.
 </p>
 
 <div style="
@@ -27,31 +25,31 @@ border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌌 XZ ANDROMEDAE</strong><br><br>
+<strong style="color:#c4b5fd;">🌌 LDN 1295 — “ZÜRAFƏ DUMANLIĞI”</strong><br><br>
 
-⭐ Sistem: <strong>tutulmalı ikili ulduz</strong><br><br>
+🦒 Adı: <strong>LDN 1295 / Giraffe Nebula</strong><br><br>
 
-🔭 Tip: <strong>Algol tipli</strong><br><br>
+🌌 Obyekt: <strong>qaranlıq molekulyar bulud</strong><br><br>
 
-🌑 Hadisə: <strong>ulduzlardan biri digərini örtür</strong><br><br>
+✨ Bürc: <strong>Kassiopeya</strong><br><br>
 
-📉 Nəticə: <strong>sistemin parlaqlığı müvəqqəti azalır</strong><br><br>
+🌑 Görünüşü: <strong>ulduzların qarşısında qaranlıq siluet</strong><br><br>
 
-✨ Daha sonra: <strong>parlaqlıq yenidən artır</strong>
+🔭 NASA tərəfindən təqdim olunub: <strong>10 sentyabr 2026</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">😉 Ulduz niyə “göz vurur”?</h3>
+<h3 style="color:#38bdf8;">🌑 Niyə dumanlıq qaranlıq görünür?</h3>
 
 <p>
-XZ Andromedae sistemində iki ulduz bir-birinin ətrafında dövr edir.
-Daha soyuq ulduz daha isti və parlaq ulduzun qarşısından keçdikdə,
-Yerə çatan ümumi işığın miqdarı azalır.
+Kosmosdakı bütün dumanlıqlar parlaq olmur. Bəzi molekulyar buludlarda qaz və
+kosmik toz o qədər sıx olur ki, onların arxasında yerləşən ulduzların işığı
+Yerə çatmamış udulur və səpələnir.
 </p>
 
 <p>
-Bir müddət sonra ulduz hərəkətini davam etdirir və parlaq komponent
-yenidən tam görünür. Nəticədə sistemin parlaqlığı artır.
+Buna görə astronomlar belə obyektləri <strong>qaranlıq dumanlıqlar</strong>
+adlandırırlar. LDN 1295 də bu obyektlərin maraqlı nümunələrindən biridir.
 </p>
 
 <div style="
@@ -61,35 +59,31 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🔭 HADİSƏ NECƏ BAŞ VERİR?</strong><br><br>
+<strong style="color:#60a5fa;">🔭 BİZ ƏSLİNDƏ NƏYƏ BAXIRIQ?</strong><br><br>
 
-🔥 Daha isti və parlaq ulduz<br><br>
+✨ Arxa planda → <strong>minlərlə ulduz</strong><br><br>
 
-⬇️<br>
+🌫️ Qarşıda → <strong>soyuq qaz və kosmik toz buludu</strong><br><br>
 
-🌑 Daha soyuq ulduz onun qarşısından keçir<br><br>
+🚫 Toz → <strong>ulduz işığının bir hissəsini bloklayır</strong><br><br>
 
-⬇️<br>
-
-📉 Yerə çatan işıq azalır<br><br>
-
-⬇️<br>
-
-✨ Ulduz kənara çəkilir və sistem yenidən parlaq görünür
+🌑 Nəticə → <strong>qaranlıq kosmik siluet yaranır</strong>
 
 </div>
 
-<h3 style="color:#facc15;">🌟 Sistemdə daha iki ulduz ola bilər</h3>
+<h3 style="color:#facc15;">🦒 Niyə “Zürafə” adlandırılıb?</h3>
 
 <p>
-Hadisənin ən maraqlı tərəfi yalnız iki əsas ulduzun bir-birini örtməsi deyil.
-XZ Andromedae sisteminin müxtəlif dövrlərdə əldə edilmiş işıq əyrilərinin
-təhlili göstərir ki, sistem daha mürəkkəb ola bilər.
+LDN 1295-in mürəkkəb toz strukturları geniş sahəyə yayılır.
+Buludun əsas qaranlıq hissələrindən biri uzun boyunlu canlıya bənzədiyi
+üçün astrofotoqraflar arasında obyekt “Zürafə dumanlığı” adı ilə tanınır.
 </p>
 
 <p>
-Müşahidələrə əsasən, <strong>əsas ikili sistemin ətrafında daha iki ulduzun
-dövr etməsi ehtimalı var.</strong>
+Kosmosdakı dumanlıqlara belə qeyri-rəsmi adların verilməsi yeni hadisə deyil.
+Müxtəlif qaz və toz strukturları Yer kürəsində tanıdığımız heyvanlara,
+obyektlərə və fiqurlara bənzədiyinə görə astronomiyada çoxsaylı
+belə adlar mövcuddur.
 </p>
 
 <div style="
@@ -99,31 +93,28 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">⭐ 2 DEYİL, BƏLKƏ 4 ULDUZ?</strong><br><br>
+<strong style="color:#facc15;">🦒 MARAQLI FAKT</strong><br><br>
 
-⭐ Əsas ulduz №1<br>
-⭐ Əsas ulduz №2<br><br>
+Kosmosdakı “Zürafə” əslində bir obyektin səthi deyil.<br><br>
 
-➕<br><br>
+🌫️ Bu, böyük miqdarda <strong>ulduzlararası qaz və tozdan</strong> ibarət buluddur.<br><br>
 
-🌟 Mümkün əlavə ulduz №3<br>
-🌟 Mümkün əlavə ulduz №4<br><br>
-
-🔭 Beləliklə, XZ Andromedae daha mürəkkəb çoxulduzlu sistem ola bilər.
+✨ Onun ətrafında görünən çoxsaylı işıq nöqtələrinin böyük hissəsi isə
+bizdən müxtəlif məsafələrdə yerləşən ulduzlardır.
 
 </div>
 
-<h3 style="color:#22c55e;">📉 İşıq əyrisi astronomlara nə göstərir?</h3>
+<h3 style="color:#22c55e;">📚 Obyektin adı haradan gəlir?</h3>
 
 <p>
-Astronomlar ulduz sisteminin parlaqlığının zamanla necə dəyişdiyini
-ölçərək <strong>işıq əyrisi</strong> adlanan qrafik yaradırlar.
+LDN abreviaturası astronom <strong>Beverly Lynds</strong> tərəfindən hazırlanmış
+qaranlıq dumanlıqlar kataloqu ilə əlaqədardır.
 </p>
 
 <p>
-XZ Andromedae-nin parlaqlığı azaldıqda qrafik aşağı düşür.
-Tutulma başa çatdıqdan sonra sistem yenidən parlaqlaşır və
-işıq əyrisi yuxarı qalxır.
+Amerikalı astronom 1962-ci ildə səma fotoşəkillərini araşdıraraq
+qaranlıq dumanlıqların böyük kataloqunu hazırlayıb.
+LDN 1295 həmin kataloqda qeydə alınmış obyektlərdən biridir.
 </p>
 
 <div style="
@@ -133,34 +124,30 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">📊 İŞIQ ƏYRİSİ İLƏ NƏYİ ÖYRƏNMƏK OLAR?</strong><br><br>
+<strong style="color:#4ade80;">📖 LDN NƏ DEMƏKDİR?</strong><br><br>
 
-⭐ Ulduzların parlaqlığının dəyişməsini<br><br>
+🔭 LDN → <strong>Lynds' Dark Nebula</strong><br><br>
 
-🌑 Tutulmanın nə vaxt başladığını və bitdiyini<br><br>
+👩‍🔬 Kataloq → <strong>Beverly Lynds tərəfindən hazırlanıb</strong><br><br>
 
-⏱️ Sistemin orbital dövrünü<br><br>
+📅 Nəşr → <strong>1962-ci il</strong><br><br>
 
-🪐 Ekzoplanetlərin ulduz qarşısından keçməsini<br><br>
-
-💥 Supernovaların parlaqlıq dəyişikliklərini<br><br>
-
-⚫ Maddə udan qara dəlik sistemlərindəki dəyişiklikləri
+🌌 Məqsəd → <strong>qaranlıq kosmik dumanlıqların sistemləşdirilməsi</strong>
 
 </div>
 
-<h3 style="color:#f97316;">🔭 Həvəskar astronomlar da araşdırmaya qoşula bilər</h3>
+<h3 style="color:#f97316;">⭐ Belə buludlar yeni ulduzların yaranması ilə əlaqəlidir</h3>
 
 <p>
-NASA-nın 9 sentyabr təqdimatında göstərilən XZ Andromedae işıq əyrisi
-<strong>Citizen Astronomy</strong> adlı açıq mənbəli proqram təminatı ilə hazırlanıb.
+Qaranlıq molekulyar buludlar astronomlar üçün xüsusilə maraqlıdır.
+Belə soyuq və sıx qaz-toz bölgələri ulduzların formalaşması üçün lazım olan
+maddəni özündə saxlaya bilər.
 </p>
 
 <p>
-Proqram hədəf ulduzun parlaqlığını müqayisə ulduzu ilə qarşılaşdıraraq
-zaman ərzində baş verən dəyişiklikləri müəyyən etməyə imkan verir.
-Bu üsul Yer atmosferinin və müşahidə cihazlarının yaratdığı bir çox
-dəyişkənliyin təsirini azaltmağa kömək edir.
+Bulud daxilində maddə müəyyən bölgələrdə cazibə qüvvəsinin təsiri ilə sıxlaşdıqda,
+uzun müddət davam edən proses nəticəsində yeni ulduzların yaranması üçün şərait
+formalaşa bilər.
 </p>
 
 <div style="
@@ -170,50 +157,38 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🔭 MARAQLI FAKT</strong><br><br>
+<strong style="color:#fb923c;">⭐ ULDUZ NECƏ YARANA BİLƏR?</strong><br><br>
 
-Peşəkar observatoriya məlumatları ilə yanaşı,
-astrofotoqrafların əldə etdiyi müşahidələr də dəyişən ulduzların
-işıq əyrilərinin araşdırılmasında istifadə edilə bilər.<br><br>
+🌫️ Qaz və toz buludu<br><br>
 
-🌌 Bu, həvəskar astronomların da real astronomik müşahidələrin
-təhlilində iştirak etməsinə imkan yaradır.
+⬇️<br>
+
+🌀 Maddənin sıxlaşması<br><br>
+
+⬇️<br>
+
+🔥 Mərkəzdə temperatur və təzyiqin artması<br><br>
+
+⬇️<br>
+
+⭐ Yeni ulduzun formalaşması
 
 </div>
 
-<h3 style="color:#38bdf8;">🪐 Eyni üsulla ekzoplanetlər də tapılır</h3>
+<h3 style="color:#38bdf8;">🔭 Qaranlığın arxasında gizlənən kosmos</h3>
 
 <p>
-XZ Andromedae-də müşahidə olunan prinsip ekzoplanetlərin aşkarlanmasında
-istifadə edilən tranzit üsuluna bənzəyir.
+Görünən işıqda qaranlıq olan belə bölgələr astronomlardan tamamilə gizli deyil.
+Müxtəlif dalğa uzunluqlarında aparılan müşahidələr qaz və tozun daxilində və
+arxasında yerləşən strukturlar haqqında əlavə məlumat əldə etməyə imkan verir.
 </p>
 
 <p>
-Planet öz ulduzunun qarşısından keçdikdə ulduzun parlaqlığı çox cüzi azalır.
-Həssas teleskoplar bu dəyişiklikləri qeydə alaraq uzaq ulduzların ətrafında
-planetlərin mövcudluğunu müəyyən etməyə kömək edir.
+Bu səbəbdən qaranlıq molekulyar buludların araşdırılması ulduzların necə
+yarandığını və qalaktikalarda maddənin necə paylandığını anlamaqda mühüm rol oynayır.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#60a5fa;">🌌 PARLAQLIQ DƏYİŞİKLİYİ BİZƏ NƏ DEYİR?</strong><br><br>
-
-🌑 Ulduz tutulması → <strong>ikili ulduz sistemi</strong><br><br>
-
-🪐 Kiçik tranzit → <strong>ekzoplanet ehtimalı</strong><br><br>
-
-💥 Kəskin parlaqlıq artımı → <strong>partlayış və ya supernova</strong><br><br>
-
-⚫ Qeyri-sabit dəyişiklik → <strong>maddə udan kompakt obyektlərin araşdırılması</strong>
-
-</div>
-
-<p style="
 background:rgba(139,92,246,0.05);
 border:1px solid rgba(167,139,250,0.30);
 padding:18px;
@@ -222,12 +197,12 @@ font-size:18px;
 margin-top:20px;">
 
 🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
-XZ Andromedae-nin “göz vurması” əslində yüzlərlə və ya minlərlə
-işıq ili uzaqlıqda baş verən orbital hərəkətin müşahidə olunan nəticəsidir.
-İşıq əyrilərinin təhlili isə sistemdə görünən iki ulduzdan əlavə
-başqa ulduzların mövcudluğuna dair ipucları verə bilər.
+LDN 1295 bizə kosmosda qaranlıq görünən bölgələrin əslində boş olmadığını göstərir.
+Bəzən həmin qaranlığın içərisində nəhəng qaz və toz ehtiyatları,
+mürəkkəb molekulyar strukturlar və gələcək ulduzların yaranması üçün
+lazım olan maddə gizlənir.
 
-</p>
+</div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
 🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
