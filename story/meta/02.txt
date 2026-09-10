@@ -1,19 +1,17 @@
 <h2 style="color:#22c55e;">
-🌱🏫 Bakıda yüzlərlə məktəbli ekoloji maarifləndirilib — “Yaşıl gələcək, təmiz məktəb!” layihəsi başa çatıb
+☀️🌱 Azərbaycanda “Clean Energy Academy” fəaliyyətə başlayıb — təmiz enerji üzrə yerli mütəxəssislər hazırlanacaq
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 9 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 10 sentyabr 2026, 14:29 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Ekologiya-nın məlumatların təhlilinə görə, Bakının müxtəlif ümumi təhsil məktəblərində həyata keçirilən “Yaşıl gələcək, təmiz məktəb!” ekoloji layihəsi başa çatıb. Layihə çərçivəsində yüzlərlə məktəbli ekoloji maarifləndirmə tədbirlərində iştirak edib.</strong>
+<strong>Azərbaycanda bərpa olunan enerji və enerji səmərəliliyi sahəsində peşəkar və texniki potensialın artırılmasına yönəlmiş “Clean Energy Academy” proqramının həyata keçirilməsinə başlanılıb.</strong>
 </p>
 
 <p>
-Şagirdlərə ətraf mühitin qorunması, tullantıların düzgün çeşidlənməsi,
-təkrar emal, iqlim dəyişiklikləri, resurslardan səmərəli istifadə və
-dayanıqlı həyat tərzi barədə məlumat verilib.
+Proqramın əsas məqsədi ölkənin təmiz enerjiyə keçidini dəstəkləyə biləcək bilik və bacarıqlara malik yerli mütəxəssislərin sayını artırmaqdır.
 </p>
 
 <div style="
@@ -24,71 +22,30 @@ border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🌱 “YAŞIL GƏLƏCƏK, TƏMİZ MƏKTƏB!”</strong><br><br>
+<strong style="color:#4ade80;">🌱 CLEAN ENERGY ACADEMY</strong><br><br>
 
-🏫 Məkan: <strong>Bakı məktəbləri</strong><br><br>
+🇦🇿 Ölkə: <strong>Azərbaycan</strong><br><br>
 
-👧👦 İştirakçılar: <strong>yüzlərlə məktəbli</strong><br><br>
+☀️ İstiqamət: <strong>bərpa olunan enerji</strong><br><br>
 
-♻️ Tullantıların çeşidlənməsi<br><br>
+⚡ İstiqamət: <strong>enerji səmərəliliyi</strong><br><br>
 
-🔄 Təkrar emal<br><br>
+👥 İlk mərhələ: <strong>20 iştirakçı</strong><br><br>
 
-🌍 İqlim dəyişiklikləri<br><br>
+📅 Müddət: <strong>sentyabr–dekabr 2026</strong><br><br>
 
-💧 Resurslardan səmərəli istifadə<br><br>
-
-🏙️ “Yaşıl şəhər” anlayışı
+🎓 Məqsəd: <strong>yerli mütəxəssislərin hazırlanması</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">♻️ Uşaqlar tullantıları düzgün idarə etməyi öyrəniblər</h3>
+<h3 style="color:#facc15;">☀️ Günəş və külək enerjisi üçün mütəxəssislərə ehtiyac artır</h3>
 
 <p>
-Tədbirlər yalnız nəzəri məlumatlarla məhdudlaşmayıb. Məktəblilərlə
-ekoloji problemlərin yaranma səbəbləri və onların həlli yolları barədə
-interaktiv müzakirələr aparılıb.
+Azərbaycan bərpa olunan enerji mənbələrinin inkişafını genişləndirdikcə bu sahədə işləyə biləcək ixtisaslı yerli mütəxəssislərə ehtiyac da artır.
 </p>
 
 <p>
-Şagirdlərə gündəlik həyatda tətbiq edilə biləcək ekoloji davranışların
-təbiətin qorunmasına necə kömək etdiyi praktiki nümunələrlə göstərilib.
-</p>
-
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#60a5fa;">♻️ GÜNDƏLİK HƏYATDA NƏ ETMƏK OLAR?</strong><br><br>
-
-🗑️ Tullantıları çeşidləmək<br><br>
-
-♻️ Təkrar emal edilə bilən materialları ayırmaq<br><br>
-
-🛍️ Çoxistifadəli çantalardan istifadə etmək<br><br>
-
-🥤 Birdəfəlik plastikdən istifadəni azaltmaq<br><br>
-
-💧 Suya qənaət etmək<br><br>
-
-💡 Enerjidən səmərəli istifadə etmək
-
-</div>
-
-<h3 style="color:#f59e0b;">🛍️ Birdəfəlik plastikə alternativ</h3>
-
-<p>
-Layihənin praktiki hissəsində uşaqlar kətan çantaları öz təsəvvürlərinə
-uyğun şəkildə rəngləyiblər.
-</p>
-
-<p>
-Bu fəaliyyət vasitəsilə çoxistifadəli çantalardan istifadənin üstünlükləri
-və birdəfəlik plastik məhsulların istifadəsinin azaldılmasının əhəmiyyəti
-məktəblilərə izah olunub.
+Yeni proqram enerji keçidi, enerji səmərəliliyi və bərpa olunan enerji texnologiyaları üzrə biliklərin ölkə daxilində yayılmasını dəstəkləməyi nəzərdə tutur.
 </p>
 
 <div style="
@@ -98,36 +55,97 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">🛍️ 1 SADƏ DƏYİŞİKLİK</strong><br><br>
+<strong style="color:#facc15;">⚡ TƏMİZ ENERJİ NƏDİR?</strong><br><br>
 
-❌ Hər dəfə yeni plastik paket<br><br>
+☀️ Günəş enerjisi<br><br>
 
-⬇️<br>
+💨 Külək enerjisi<br><br>
 
-✅ Çoxistifadəli çanta<br><br>
+🌊 Digər aşağı karbonlu enerji həlləri<br><br>
 
-⬇️<br>
+🔋 Enerjinin daha səmərəli istifadəsi<br><br>
 
-♻️ Daha az plastik tullantı<br><br>
-
-⬇️<br>
-
-🌿 Ətraf mühitə daha az yük
+🌍 Atmosferə emissiyaların azaldılması
 
 </div>
 
-<h3 style="color:#a78bfa;">🌍 Ekoloji düşüncə uşaqlıqdan formalaşır</h3>
+<h3 style="color:#38bdf8;">🎓 İlk mərhələdə 20 nəfər hazırlanacaq</h3>
 
 <p>
-Layihənin əsas məqsədi məktəblilərdə ətraf mühitə həssas münasibətin
-formalaşdırılması və gənc nəslin davamlı inkişaf prinsipləri barədə
-məlumatlılığının artırılması olub.
+Proqramın ilk mərhələsi 2026-cı ilin sentyabrından dekabrına qədər davam edəcək.
+“Təlimçilərin hazırlanması” proqramı çərçivəsində Azərbaycanın <strong>20 nümayəndəsi</strong> iştirak edəcək.
 </p>
 
 <p>
-Ekoloji vərdişlərin erkən yaşlarda formalaşması gələcəkdə tullantıların
-azaldılması, təbii resursların qorunması və daha məsuliyyətli istehlak
-mədəniyyətinin yaranmasına kömək edə bilər.
+Əsas məqsəd yalnız həmin şəxslərin biliklərini artırmaq deyil, gələcəkdə digər mütəxəssislərə də təlim verə biləcək yerli təlimçilər şəbəkəsinin yaradılmasıdır.
+</p>
+
+<div style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#60a5fa;">🎓 NECƏ İŞLƏYƏCƏK?</strong><br><br>
+
+👥 Yerli mütəxəssislər seçilir<br><br>
+
+⬇️<br>
+
+📚 Bərpa olunan enerji üzrə təlim keçirilir<br><br>
+
+⬇️<br>
+
+🎓 Onlar yerli təlimçilərə çevrilirlər<br><br>
+
+⬇️<br>
+
+🇦🇿 Bilik Azərbaycanda digər mütəxəssislərə ötürülür
+
+</div>
+
+<h3 style="color:#22c55e;">🌿 Ekologiya üçün nə dəyişir?</h3>
+
+<p>
+Enerji istehsalında daha təmiz texnologiyaların geniş tətbiqi atmosferə atılan istixana qazlarının azaldılmasına və enerji sektorunun ətraf mühitə təsirinin aşağı salınmasına kömək edə bilər.
+</p>
+
+<p>
+Bununla yanaşı, enerji səmərəliliyinin yüksəldilməsi eyni işi görmək üçün daha az enerji sərf olunmasına imkan verir.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">🌍 EKOLOJİ FAYDALAR</strong><br><br>
+
+🌫️ Emissiyaların azaldılması<br><br>
+
+☀️ Bərpa olunan enerjidən istifadənin artması<br><br>
+
+⚡ Enerji səmərəliliyinin yüksəlməsi<br><br>
+
+🌱 Daha aşağı karbonlu iqtisadiyyata keçid<br><br>
+
+👨‍🔬 Yerli mütəxəssis potensialının formalaşdırılması
+
+</div>
+
+<h3 style="color:#a78bfa;">🇦🇿 Uzunmüddətli yerli potensial yaradılır</h3>
+
+<p>
+Layihənin əsas xüsusiyyətlərindən biri biliklərin yalnız xaricdən alınmasına deyil,
+Azərbaycanda müstəqil şəkildə təlim keçirə biləcək mütəxəssislərin hazırlanmasına yönəlməsidir.
+</p>
+
+<p>
+Belə yanaşma proqram başa çatdıqdan sonra da bərpa olunan enerji və enerji
+səmərəliliyi üzrə biliklərin ölkə daxilində yayılmasına imkan verə bilər.
 </p>
 
 <div style="
@@ -135,51 +153,30 @@ background:rgba(139,92,246,0.05);
 border:1px solid rgba(167,139,250,0.30);
 padding:18px;
 border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#c4b5fd;">🌍 EKOLOJİ TƏHSİL</strong><br><br>
-
-👧 Uşaqlıqdan ekoloji düşüncə<br><br>
-
-♻️ Tullantılara məsuliyyətli yanaşma<br><br>
-
-🌱 Təbiətin qorunması<br><br>
-
-💧 Resurslardan səmərəli istifadə<br><br>
-
-🌎 Gələcək nəsillər üçün daha təmiz ətraf mühit
-
-</div>
-
-<p style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
-Təbiətin qorunması yalnız ekoloji qurumların işi deyil.
-Tullantıların çeşidlənməsi, plastikdən istifadənin azaldılması,
-su və enerjiyə qənaət kimi gündəlik vərdişlər hər bir insanın
-ətraf mühitə təsirini azaltmağa kömək edə bilər.
+🌿 <strong style="color:#c4b5fd;">META Ekologiya:</strong>
+Təmiz enerji texnologiyalarının inkişafı ilə yanaşı, bu texnologiyaları
+qura, idarə və inkişaf etdirə biləcək mütəxəssislərin hazırlanması
+Azərbaycanın uzunmüddətli yaşıl enerji keçidinin mühüm hissəsidir.
 
-</p>
+</div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌿📡 META Meteorologiya Mərkəzi Azərbaycanın ekologiyası,
-təbiəti və iqlimi ilə bağlı yenilikləri izləməyə davam edir.
+🌿📡 META Meteorologiya Mərkəzi Azərbaycanın ekologiyası, təbiəti,
+iqlimi və yaşıl enerji sahəsindəki yenilikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
+
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
+➡️ META WhatsApp Kanalı </a>
+
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
