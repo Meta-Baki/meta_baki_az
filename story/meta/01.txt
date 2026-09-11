@@ -1,17 +1,46 @@
-<h2 style="color:#38bdf8;">
-🌊⚠️ Xəzərdə dəyişikliklər getdikcə daha aydın görünür — iqlim təsirləri sahillərdə müşahidə edilir
+<h2 style="color:#f59e0b;">
+⚡ Bakının və Abşeronun bəzi ərazilərində elektrik enerjisinin verilişində fasilələr olacaq
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 10 sentyabr 2026, 14:29 — Bakı vaxtı
+🕐 Əlavə olunub: 11 sentyabr 2026, 15:29 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 10-da yayımlanan məlumatlara görə, Bakıda keçirilən BMT-nin İqlim Dəyişmələri üzrə Çərçivə Konvensiyasının Dördüncü İqlim Həftəsində iqlim dəyişmələrinin artıq uzaq gələcəyin təhlükəsi olmadığı, onun təsirlərinin real şəkildə müşahidə edildiyi vurğulanıb.</strong>
+<strong>META Xəbər bildirir ki, sentyabrın 11-də Bakı və Abşeronun bəzi ərazilərində enerji infrastrukturu obyektlərində aparılan planlı təmir işləri ilə əlaqədar elektrik enerjisinin verilişində müvəqqəti fasilələr yaranacaq.</strong>
 </p>
 
 <p>
-Müzakirələrdə Azərbaycanın sahilləri və sahilyanı ərazilərində baş verən dəyişikliklərə də diqqət çəkilib. Xəzər dənizinin səviyyəsində uzunmüddətli dəyişikliklər ölkə üçün əsas ekoloji məsələlərdən biri olaraq qalır.
+Məhdudiyyətlər ayrı-ayrı ünvanlarda müxtəlif saatlarda tətbiq ediləcək.
+Sakinlərə elektrik enerjisinin kəsiləcəyi vaxtları əvvəlcədən nəzərə almaları tövsiyə olunur.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.30);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
+
+<strong style="color:#facc15;">⚡ PLANLI ELEKTRİK KƏSİNTİSİ — 11 SENTYABR</strong><br><br>
+
+📍 <strong>Bakı — Yasamal rayonu</strong><br><br>
+
+🕙 Saat: <strong>10:00–13:00</strong><br><br>
+
+🏙 Həsən bəy Zərdabi küçəsi<br>
+🏙 İsmayıl Talıblı küçəsi<br>
+🏙 Ümid Əkbərov küçəsi<br>
+🏙 Vasif Əliyev küçəsi
+
+</div>
+
+<h3 style="color:#38bdf8;">📍 Abşeron rayonunda daha uzunmüddətli fasilələr</h3>
+
+<p>
+Abşeron rayonunun bir sıra yaşayış məntəqələrində aparılan işlərlə əlaqədar
+elektrik enerjisinin verilişində fasilələr günün böyük hissəsini əhatə edəcək.
 </p>
 
 <div style="
@@ -21,94 +50,24 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌊 XƏZƏR DƏNİZİ — ƏSAS MƏSƏLƏLƏR</strong><br><br>
+<strong style="color:#60a5fa;">🏘 AŞAĞI GÜZDƏK VƏ ATYALI</strong><br><br>
 
-📉 Dəniz səviyyəsində uzunmüddətli dəyişikliklər<br><br>
+📅 Tarix: <strong>11 sentyabr</strong><br><br>
 
-🏝️ Sahilyanı ərazilərin dəyişməsi<br><br>
+🕤 Başlama: <strong>09:30</strong><br><br>
 
-🌿 Sahil ekosistemlərinə mümkün təsirlər<br><br>
+🕔 Bitmə: <strong>17:00</strong><br><br>
 
-🐟 Biomüxtəliflik üçün risklər<br><br>
-
-🚢 Nəqliyyat və infrastruktura mümkün təsirlər<br><br>
-
-🌡️ İqlim dəyişmələrinin artan təsiri
+⚡ Səbəb: <strong>planlı təmir işləri</strong>
 
 </div>
 
-<h3 style="color:#f97316;">🌡️ İqlim dəyişikliyi artıq uzaq təhlükə deyil</h3>
+<h3 style="color:#a78bfa;">🏙 Xırdalan, Masazır və Yeni Saray</h3>
 
 <p>
-Bakıda keçirilən iqlim tədbirində son illərdə ciddi dəyişikliklərin müşahidə olunduğu və bu proseslərin artıq real nəticələrinin göründüyü bildirilib.
-</p>
-
-<p>
-İqlim sistemində baş verən dəyişikliklər temperaturla məhdudlaşmır. Yağıntı rejimi, quraqlıq, su ehtiyatları və sahilyanı ərazilərdə gedən proseslər də iqlim dəyişmələrindən təsirlənə bilər.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">⚠️ İQLİM DƏYİŞMƏLƏRİNİN TƏSİRİ</strong><br><br>
-
-🌡️ Temperatur rejiminin dəyişməsi<br><br>
-
-☀️ Quraqlıq riskinin artması<br><br>
-
-🌧️ Yağıntı rejimində dəyişikliklər<br><br>
-
-💧 Su ehtiyatlarına təzyiq<br><br>
-
-🌊 Sahilyanı ərazilərin dəyişməsi<br><br>
-
-🌿 Təbii ekosistemlərin uyğunlaşma ehtiyacı
-
-</div>
-
-<h3 style="color:#38bdf8;">🌊 Xəzər xüsusi diqqət tələb edir</h3>
-
-<p>
-Xəzər qapalı su hövzəsi olduğuna görə onun səviyyəsi iqlim və hidroloji proseslərdəki dəyişikliklərə həssasdır.
-</p>
-
-<p>
-Dəniz səviyyəsinin azalması davam edərsə, sahil xəttinin dəyişməsi ilə yanaşı, dayaz su ekosistemlərinə, liman və nəqliyyat infrastrukturuna, həmçinin bəzi canlı növlərinin yaşayış mühitinə təsirlər yarana bilər.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🌿 TƏBİƏT ÜÇÜN NƏ DEMƏKDİR?</strong><br><br>
-
-🐟 Balıqların yaşayış və çoxalma sahələrinin dəyişməsi<br><br>
-
-🦭 Xəzərə xas canlıların yaşayış mühitinə təzyiq<br><br>
-
-🌱 Sahilyanı bitki örtüyündə dəyişikliklər<br><br>
-
-🏞️ Dayaz su ekosistemlərinin dəyişməsi<br><br>
-
-🦅 Su-bataqlıq ərazilərindən istifadə edən quşlara mümkün təsirlər
-
-</div>
-
-<h3 style="color:#a78bfa;">🌍 Bakı iqlim müzakirələrinin mərkəzindədir</h3>
-
-<p>
-Hazırda Bakıda keçirilən İqlim Həftəsi müxtəlif ölkələri, beynəlxalq təşkilatları, biznes və vətəndaş cəmiyyəti nümayəndələrini bir araya gətirir.
-</p>
-
-<p>
-Əsas məqsədlərdən biri iqlim sahəsində verilən vədlərin real layihələrə, investisiyalara və insanların, şəhərlərin və ekosistemlərin qorunmasına yönəlmiş tədbirlərə çevrilməsidir.
+Xırdalan və Masazırın bəzi hissələrində, həmçinin Ceyranbatan gölünün
+yuxarı hissəsində yerləşən yaşayış massivlərində və Yeni Saray yolu boyunca
+da elektrik enerjisinin verilişində müvəqqəti fasilələr nəzərdə tutulub.
 </p>
 
 <div style="
@@ -118,35 +77,90 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌍 ƏSAS MESAJ</strong><br><br>
+<strong style="color:#c4b5fd;">⚡ 10:00–17:00</strong><br><br>
 
-İqlim dəyişmələrinin təsirləri artıq yalnız gələcək üçün hazırlanmış proqnoz deyil.<br><br>
+📍 <strong>Xırdalan:</strong> Həsən Əliyev küçəsi<br><br>
 
-🌊 Sahillər<br>
-💧 Su ehtiyatları<br>
-🌿 Ekosistemlər<br>
-🏙️ Şəhərlər və infrastruktur<br><br>
+📍 <strong>Masazır:</strong> Rafiq Dünyamalıyev küçəsi<br><br>
 
-bu dəyişikliklərə uyğunlaşmalı olacaq.
+📍 Ceyranbatan gölünün yuxarı hissəsində yerləşən yaşayış massivləri<br><br>
+
+📍 Yeni Saray yolunun hər iki tərəfində yerləşən ərazilər
+
+</div>
+
+<h3 style="color:#22c55e;">🔧 Təmir işləri aparılır</h3>
+
+<p>
+Elektrik enerjisinin verilişindəki fasilələr qəza ilə deyil,
+<strong>əvvəlcədən planlaşdırılmış təmir işləri</strong> ilə əlaqədardır.
+</p>
+
+<p>
+İşlərin məqsədi enerji infrastrukturunun yenilənməsi və abonentlərin
+daha keyfiyyətli və stabil elektrik enerjisi ilə təmin olunmasıdır.
+Təmir işləri tamamlandıqdan sonra qeyd olunan ərazilərdə elektrik enerjisinin
+verilişi bərpa olunacaq.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">📋 QISA XÜLASƏ</strong><br><br>
+
+⚡ <strong>Yasamal:</strong> 10:00–13:00<br><br>
+
+⚡ <strong>Aşağı Güzdək və Atyalı:</strong> 09:30–17:00<br><br>
+
+⚡ <strong>Xırdalan, Masazır və digər göstərilən ərazilər:</strong> 10:00–17:00<br><br>
+
+🔧 <strong>Səbəb:</strong> enerji infrastrukturu obyektlərində planlı təmir işləri
+
+</div>
+
+<div style="
+background:rgba(239,68,68,0.04);
+border:1px solid rgba(239,68,68,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#f87171;">⚠️ META — SAKİNLƏRİN NƏZƏRİNƏ</strong><br><br>
+
+Elektrik enerjisindən asılı cihazlardan istifadə edən sakinlərin planlı
+fasilələrin vaxtını nəzərə almaları tövsiyə olunur.<br><br>
+
+🔋 Telefon və digər cihazları əvvəlcədən enerji ilə doldurun.<br><br>
+
+💻 Kompüter və digər həssas elektron cihazlarda vacib məlumatları yadda saxlayın.<br><br>
+
+⚡ Elektrik enerjisi bərpa edilərkən mümkün gərginlik dəyişikliklərini nəzərə alın.
 
 </div>
 
 <p style="
 background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
-padding:18px;
+border:1px solid rgba(96,165,250,0.25);
+padding:17px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-🌊 <strong style="color:#60a5fa;">META Ekologiya:</strong>
-Xəzər dənizində və Azərbaycanın sahilyanı ərazilərində baş verən uzunmüddətli dəyişikliklərin davamlı monitorinqi ekoloji risklərin vaxtında müəyyən edilməsi üçün xüsusi əhəmiyyət daşıyır.
+📡 <strong style="color:#60a5fa;">META Xəbər:</strong>
+11 sentyabrda planlı elektrik fasilələri Bakı və Abşeronun yalnız
+göstərilən ərazilərində tətbiq olunur. Təmir işləri başa çatdıqdan sonra
+elektrik enerjisinin verilişi bərpa ediləcək.
 
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ xəbərlər, hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
+
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
