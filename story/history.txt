@@ -1,53 +1,45 @@
-<h2 style="color:#38bdf8;">
-☀️ Bakıda hava açılacaq — sentyabrın 11-də +27°C-dək isti gözlənilir
+<h2 style="color:#f59e0b;">
+☀️ Bakıda hava isti və əsasən yağmursuz olacaq — temperatur +31°C-yə çatacaq
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 10 sentyabr 2026, 14:29 — Bakı vaxtı
+🕐 Əlavə olunub: 11 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin aktual meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 11-də Bakı və Abşeron yarımadasında hava şəraitinin əvvəlki günlə müqayisədə yaxşılaşacağı gözlənilir.</strong>
+<strong>META Meteorologiya Mərkəzinin aktual meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 12-də Bakı və Abşeron yarımadasında əsasən yağmursuz və isti hava şəraitinin üstünlük təşkil edəcəyi gözlənilir.</strong>
 </p>
 
 <p>
-Gün ərzində hava əsasən <strong>açıq və günəşli</strong> olacaq. Əhəmiyyətli yağıntı gözlənilmir. Gecə və səhər saatlarında hava nisbətən sərin, gündüz isə mülayim isti olacaq.
+Gün ərzində dəyişkən buludluluq müşahidə oluna bilər. Yağıntı ehtimalı aşağı qiymətləndirilir. Gündüz saatlarında havanın temperaturunun yüksələrək bəzi ərazilərdə <strong>+30…+31°C</strong>-yə çatacağı gözlənilir.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.30);
 padding:18px;
 border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🏙️ BAKI VƏ ABŞERON — 11 SENTYABR</strong><br><br>
+<strong style="color:#fb923c;">☀️ BAKI VƏ ABŞERON — 12 SENTYABR</strong><br><br>
 
-☀️ Hava: <strong>əsasən açıq və günəşli</strong><br><br>
+🌤️ Hava: <strong>dəyişkən buludlu, əsasən yağmursuz</strong><br><br>
 
-🌧️ Yağıntı: <strong>gözlənilmir</strong><br><br>
+🌧️ Yağıntı: <strong>əsasən gözlənilmir</strong><br><br>
 
-🌡️ Gecə: <strong>+21…+22°C</strong><br><br>
+🌡️ Gecə: <strong>təxminən +20…+23°C</strong><br><br>
 
-🌡️ Gündüz: <strong>+26…+27°C</strong><br><br>
+🌡️ Gündüz: <strong>+27…+31°C</strong><br><br>
 
-💨 Külək: <strong>təxminən 4–4,7 m/s (14–17 km/saat)</strong><br><br>
-
-💧 Nisbi rütubət: <strong>təxminən 49–51%</strong>
+☀️ Maksimum temperatur: <strong>+31°C ətrafında</strong>
 
 </div>
 
-<h3 style="color:#facc15;">☀️ Yağıntılardan sonra hava sabitləşir</h3>
+<h3 style="color:#facc15;">🌡️ Gün ərzində hava isinəcək</h3>
 
 <p>
-Son günlər müşahidə edilən dəyişkən və bəzi ərazilərdə yağıntılı hava şəraitindən sonra
-11 sentyabrda atmosfer şəraitinin daha sabit olacağı gözlənilir.
-</p>
-
-<p>
-Səhər saatlarından etibarən buludların azalması və gün ərzində günəşli hava şəraitinin
-üstünlük təşkil etməsi proqnozlaşdırılır.
+Səhər saatlarında hava nisbətən mülayim olacaq. Günəş yüksəldikcə temperatur tədricən artacaq və günorta saatlarında günün ən yüksək göstəricilərinə çatacaq.
 </p>
 
 <div style="
@@ -57,30 +49,48 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">🌤️ GÜN ƏRZİNDƏ</strong><br><br>
+<strong style="color:#facc15;">🌡️ GÜN ƏRZİNDƏ</strong><br><br>
 
-🌅 Səhər: <strong>+22…+23°C, əsasən açıq</strong><br><br>
+🌅 Səhər → <strong>mülayim və əsasən yağmursuz</strong><br><br>
 
-☀️ Günorta: <strong>+25…+26°C, günəşli</strong><br><br>
+☀️ Günorta → <strong>isti, +28…+31°C</strong><br><br>
 
-🌡️ Günün maksimumu: <strong>+26…+27°C</strong><br><br>
+🌇 Axşam → <strong>temperatur tədricən azalacaq</strong><br><br>
 
-🌇 Axşam: <strong>+24…+25°C, açıq hava</strong><br><br>
-
-🌙 Gecə: <strong>+21…+22°C</strong>
+🌙 Gecə → <strong>mülayim hava</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">💨 Külək mülayim olacaq</h3>
+<h3 style="color:#38bdf8;">🌧️ Əhəmiyyətli yağıntı gözlənilmir</h3>
 
 <p>
-Mövcud proqnoz hesablamalarına əsasən, küləyin orta sürətinin təxminən
-<strong>4–4,7 m/s</strong> və ya <strong>14–17 km/saat</strong> ətrafında olması gözlənilir.
+Hazırkı məlumatlara əsasən, Bakı və Abşeron yarımadasında sentyabrın 12-də əhəmiyyətli yağıntı gözlənilmir.
 </p>
 
 <p>
-Hazırkı məlumatlara görə, təhlükəli və ya güclü külək şəraiti gözlənilmir.
+Gün ərzində buludların miqdarı dəyişə bilsə də, ümumi meteoroloji şəraitin əvvəlki günlərlə müqayisədə daha sabit qalacağı proqnozlaşdırılır.
 </p>
+
+<div style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.30);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#60a5fa;">🌤️ HAVA ŞƏRAİTİ</strong><br><br>
+
+☀️ Günəşli intervallar: <strong>gözlənilir</strong><br><br>
+
+☁️ Buludluluq: <strong>dəyişkən</strong><br><br>
+
+🌧️ Yağıntı ehtimalı: <strong>aşağı</strong><br><br>
+
+⛈️ Təhlükəli hava hadisəsi: <strong>hazırda gözlənilmir</strong>
+
+</div>
+
+<h3 style="color:#22c55e;">📊 12 sentyabrın qısa xülasəsi</h3>
 
 <div style="
 background:rgba(34,197,94,0.05);
@@ -89,98 +99,43 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">💨 KÜLƏK</strong><br><br>
+📅 <strong>Tarix:</strong> 12 sentyabr 2026<br><br>
 
-🌬️ Orta sürət: <strong>4–4,7 m/s</strong><br><br>
+📍 <strong>Ərazi:</strong> Bakı və Abşeron yarımadası<br><br>
 
-🚩 Saatda: <strong>14–17 km/saat</strong><br><br>
+🌤️ <strong>Hava:</strong> dəyişkən buludlu, əsasən yağmursuz<br><br>
 
-🟢 Ümumi qiymətləndirmə: <strong>mülayim</strong>
+🌡️ <strong>Gecə:</strong> təxminən +20…+23°C<br><br>
 
-</div>
+🌡️ <strong>Gündüz:</strong> +27…+31°C<br><br>
 
-<h3 style="color:#a78bfa;">💧 Rütubət azalacaq</h3>
+🌧️ <strong>Yağıntı:</strong> əsasən gözlənilmir<br><br>
 
-<p>
-Nisbi rütubətin gün ərzində təxminən <strong>49–51%</strong> ətrafında olacağı
-proqnozlaşdırılır. Günorta saatlarında temperatur yüksəldikcə rütubətin bir qədər
-azalması mümkündür.
-</p>
-
-<h3 style="color:#f97316;">🌡️ Günorta +27°C-dək isti</h3>
-
-<p>
-Səhər saatlarında temperatur təxminən <strong>+22…+23°C</strong> təşkil edəcək.
-Günorta və günün ikinci yarısında havanın tədricən isinərək
-<strong>+26…+27°C</strong>-yə çatacağı gözlənilir.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">🌡️ TEMPERATUR DƏYİŞİMİ</strong><br><br>
-
-🌙 00:00–06:00 → <strong>+21…+22°C</strong><br><br>
-
-🌅 06:00–09:00 → <strong>+22…+23°C</strong><br><br>
-
-☀️ 12:00–15:00 → <strong>+25…+27°C</strong><br><br>
-
-🌇 18:00–21:00 → <strong>+24…+26°C</strong>
-
-</div>
-
-<h3 style="color:#22c55e;">📊 11 sentyabrın qısa xülasəsi</h3>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-☀️ <strong>Hava:</strong> əsasən açıq və günəşli<br><br>
-
-🌧️ <strong>Yağıntı:</strong> gözlənilmir<br><br>
-
-🌡️ <strong>Gecə:</strong> +21…+22°C<br><br>
-
-🌡️ <strong>Gündüz:</strong> +26…+27°C<br><br>
-
-💨 <strong>Külək:</strong> 4–4,7 m/s (14–17 km/saat)<br><br>
-
-💧 <strong>Rütubət:</strong> təxminən 49–51%<br><br>
-
-🌤️ <strong>Ümumi vəziyyət:</strong> sabit və əsasən günəşli
+🟢 <strong>Ümumi vəziyyət:</strong> sabit və isti
 
 </div>
 
 <p style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.25);
-padding:17px;
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.28);
+padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-📡 <strong style="color:#60a5fa;">META proqnozu:</strong>
-11 sentyabrda Bakı və Abşeronda hava şəraitinin yaxşılaşacağı gözlənilir.
-Yağıntı ehtimalı aşağıdır, gün ərzində əsasən açıq və günəşli hava üstünlük təşkil edəcək.
-Maksimum temperatur +26…+27°C-yə çata bilər.
+📡 <strong style="color:#fb923c;">META proqnozu:</strong>
+12 sentyabrda Bakı və Abşeronda əsasən yağmursuz və isti hava gözlənilir.
+Gündüz temperatur bəzi ərazilərdə +30…+31°C-yə qədər yüksələ bilər.
+Hazırkı məlumatlara görə, təhlükəli meteoroloji hadisə gözlənilmir.
 
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌦️📡 META Meteorologiya Mərkəzi Bakı, Abşeron və Azərbaycanın digər
-ərazilərində hava şəraitini izləməyə davam edir.
+🌦️📡 META Meteorologiya Mərkəzi Bakı və Abşeronda hava şəraitində baş verən dəyişiklikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava məlumatları və proqnozlar üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava məlumatları, proqnozlar və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
@@ -198,10 +153,8 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#94a3b8;font-size:14px;">
 <strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
-əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
