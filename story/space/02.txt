@@ -1,20 +1,22 @@
 <h2 style="color:#a78bfa;">
-🌌🦒 Kosmosda nəhəng “Zürafə” — NASA qeyri-adi qaranlıq dumanlığı nümayiş etdirib
+🌕🤖 Süni intellekt Ayda su axtaracaq — NASA yeni sistemi təqdim edib
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 10 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 11 sentyabr 2026, 15:29 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 10-da NASA günün astronomik görüntüsü kimi LDN 1295 adlı qeyri-adi kosmik obyekti təqdim edib. Formasına görə “Zürafə dumanlığı” adlandırılan bu nəhəng qaranlıq molekulyar bulud Kassiopeya bürcü istiqamətində yerləşir.</strong>
+<strong>NASA və IBM Ay səthinin öyrənilməsi üçün yeni süni intellekt modeli təqdim edib.
+“NASA-IBM Lunar Foundation Model” adlanan sistem böyük həcmdə Ay məlumatlarını
+avtomatik təhlil etməyə, kraterləri müəyyənləşdirməyə və potensial su-buz
+ehtiyatlarının yerləşdiyi əraziləri araşdırmağa imkan verir.</strong>
 </p>
 
 <p>
-İlk baxışdan görüntüdə kosmosun bəzi hissələrinin sanki boş və qaranlıq olduğu görünür.
-Əslində isə həmin ərazilərdə çoxlu miqdarda ulduzlararası qaz və toz mövcuddur.
-Bu maddə arxada yerləşən ulduzlardan gələn işığın qarşısını aldığı üçün bulud
-qaranlıq siluet şəklində görünür.
+Yeni model NASA-nın müxtəlif Ay missiyalarından əldə edilmiş böyük həcmli məlumatlar
+əsasında hazırlanıb. Sistem xüsusilə gələcəkdə insanların Ayda uzunmüddətli
+fəaliyyətinin planlaşdırılmasına kömək edə bilər.
 </p>
 
 <div style="
@@ -25,31 +27,33 @@ border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌌 LDN 1295 — “ZÜRAFƏ DUMANLIĞI”</strong><br><br>
+<strong style="color:#c4b5fd;">🌕 NASA-IBM LUNAR FOUNDATION MODEL</strong><br><br>
 
-🦒 Adı: <strong>LDN 1295 / Giraffe Nebula</strong><br><br>
+🤖 Texnologiya: <strong>süni intellekt</strong><br><br>
 
-🌌 Obyekt: <strong>qaranlıq molekulyar bulud</strong><br><br>
+🌕 Hədəf: <strong>Ay səthinin öyrənilməsi</strong><br><br>
 
-✨ Bürc: <strong>Kassiopeya</strong><br><br>
+🕳️ Kraterlərin avtomatik müəyyənləşdirilməsi<br><br>
 
-🌑 Görünüşü: <strong>ulduzların qarşısında qaranlıq siluet</strong><br><br>
+🧊 Potensial su-buz ehtiyatlarının axtarılması<br><br>
 
-🔭 NASA tərəfindən təqdim olunub: <strong>10 sentyabr 2026</strong>
+🌋 Vulkanik və geoloji strukturların təhlili<br><br>
+
+🚀 Gələcək Ay missiyalarının planlaşdırılmasına dəstək
 
 </div>
 
-<h3 style="color:#38bdf8;">🌑 Niyə dumanlıq qaranlıq görünür?</h3>
+<h3 style="color:#38bdf8;">🧊 Ayda su harada gizlənə bilər?</h3>
 
 <p>
-Kosmosdakı bütün dumanlıqlar parlaq olmur. Bəzi molekulyar buludlarda qaz və
-kosmik toz o qədər sıx olur ki, onların arxasında yerləşən ulduzların işığı
-Yerə çatmamış udulur və səpələnir.
+Alimlərin xüsusi maraq göstərdiyi ərazilərdən biri Ayın cənub qütbüdür.
+Burada bəzi dərin kraterlərin dibinə Günəş işığı milyonlarla, hətta milyardlarla
+il ərzində demək olar ki, çatmayıb.
 </p>
 
 <p>
-Buna görə astronomlar belə obyektləri <strong>qaranlıq dumanlıqlar</strong>
-adlandırırlar. LDN 1295 də bu obyektlərin maraqlı nümunələrindən biridir.
+Bu ərazilər Günəş sisteminin ən soyuq yerləri sırasındadır. Belə şəraitdə
+su molekulları uzun müddət <strong>buz şəklində qala bilər.</strong>
 </p>
 
 <div style="
@@ -59,31 +63,32 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🔭 BİZ ƏSLİNDƏ NƏYƏ BAXIRIQ?</strong><br><br>
+<strong style="color:#60a5fa;">🧊 AYIN CƏNUB QÜTBÜ</strong><br><br>
 
-✨ Arxa planda → <strong>minlərlə ulduz</strong><br><br>
+🌑 Dərin kraterlər<br><br>
 
-🌫️ Qarşıda → <strong>soyuq qaz və kosmik toz buludu</strong><br><br>
+☀️ Günəş işığının çatmadığı sahələr<br><br>
 
-🚫 Toz → <strong>ulduz işığının bir hissəsini bloklayır</strong><br><br>
+❄️ Son dərəcə aşağı temperatur<br><br>
 
-🌑 Nəticə → <strong>qaranlıq kosmik siluet yaranır</strong>
+🧊 Su buzunun qorunması üçün əlverişli şərait<br><br>
+
+🔭 NASA missiyalarının əsas tədqiqat bölgələrindən biri
 
 </div>
 
-<h3 style="color:#facc15;">🦒 Niyə “Zürafə” adlandırılıb?</h3>
+<h3 style="color:#facc15;">🤖 Süni intellekt nəhəng məlumat bazasını araşdırır</h3>
 
 <p>
-LDN 1295-in mürəkkəb toz strukturları geniş sahəyə yayılır.
-Buludun əsas qaranlıq hissələrindən biri uzun boyunlu canlıya bənzədiyi
-üçün astrofotoqraflar arasında obyekt “Zürafə dumanlığı” adı ilə tanınır.
+Yeni model <strong>4 NASA missiyasında istifadə edilmiş 9 cihazdan əldə olunan
+30-dan çox məlumat qatından</strong> istifadə etməklə hazırlanıb.
+Məlumatlara Lunar Reconnaissance Orbiter missiyasının müşahidələri də daxildir.
 </p>
 
 <p>
-Kosmosdakı dumanlıqlara belə qeyri-rəsmi adların verilməsi yeni hadisə deyil.
-Müxtəlif qaz və toz strukturları Yer kürəsində tanıdığımız heyvanlara,
-obyektlərə və fiqurlara bənzədiyinə görə astronomiyada çoxsaylı
-belə adlar mövcuddur.
+Bu məlumatların insan tərəfindən ayrı-ayrılıqda təhlil edilməsi çox vaxt tələb edir.
+Süni intellekt isə böyük əraziləri avtomatik müqayisə edərək maraqlı geoloji
+strukturları daha sürətli müəyyənləşdirə bilər.
 </p>
 
 <div style="
@@ -93,28 +98,31 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">🦒 MARAQLI FAKT</strong><br><br>
+<strong style="color:#facc15;">📊 MODEL NƏYİ AXTARIR?</strong><br><br>
 
-Kosmosdakı “Zürafə” əslində bir obyektin səthi deyil.<br><br>
+🕳️ Ay kraterləri<br><br>
 
-🌫️ Bu, böyük miqdarda <strong>ulduzlararası qaz və tozdan</strong> ibarət buluddur.<br><br>
+🧊 Potensial buz yataqları<br><br>
 
-✨ Onun ətrafında görünən çoxsaylı işıq nöqtələrinin böyük hissəsi isə
-bizdən müxtəlif məsafələrdə yerləşən ulduzlardır.
+🌋 Vulkanik strukturlar<br><br>
+
+⛰️ Səthin geoloji xüsusiyyətləri<br><br>
+
+🚀 Gələcək eniş üçün maraqlı ərazilər
 
 </div>
 
-<h3 style="color:#22c55e;">📚 Obyektin adı haradan gəlir?</h3>
+<h3 style="color:#22c55e;">📈 Bəzi tapşırıqlarda 23%-dək daha dəqiq</h3>
 
 <p>
-LDN abreviaturası astronom <strong>Beverly Lynds</strong> tərəfindən hazırlanmış
-qaranlıq dumanlıqlar kataloqu ilə əlaqədardır.
+NASA və IBM-in məlumatına görə, sınaqlar zamanı yeni model Ay səthindəki
+müəyyən xüsusiyyətlərin aşkarlanmasında geniş istifadə olunan mövcud metodlarla
+müqayisədə <strong>23%-dək daha yüksək dəqiqlik</strong> nümayiş etdirib.
 </p>
 
 <p>
-Amerikalı astronom 1962-ci ildə səma fotoşəkillərini araşdıraraq
-qaranlıq dumanlıqların böyük kataloqunu hazırlayıb.
-LDN 1295 həmin kataloqda qeydə alınmış obyektlərdən biridir.
+Bu, gələcəkdə alimlərə nəhəng Ay xəritələrini daha sürətli təhlil etməyə və
+əlavə araşdırma tələb edən bölgələri müəyyənləşdirməyə imkan verə bilər.
 </p>
 
 <div style="
@@ -124,30 +132,65 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">📖 LDN NƏ DEMƏKDİR?</strong><br><br>
+<strong style="color:#4ade80;">📈 YENİ TEXNOLOGİYANIN ÜSTÜNLÜKLƏRİ</strong><br><br>
 
-🔭 LDN → <strong>Lynds' Dark Nebula</strong><br><br>
+⚡ Böyük məlumatların sürətli təhlili<br><br>
 
-👩‍🔬 Kataloq → <strong>Beverly Lynds tərəfindən hazırlanıb</strong><br><br>
+🗺️ Ay səthinin avtomatik xəritələşdirilməsi<br><br>
 
-📅 Nəşr → <strong>1962-ci il</strong><br><br>
+🕳️ Kraterlərin müəyyənləşdirilməsi<br><br>
 
-🌌 Məqsəd → <strong>qaranlıq kosmik dumanlıqların sistemləşdirilməsi</strong>
+🧊 Buz ehtimalı olan ərazilərin seçilməsi<br><br>
+
+🔬 Alimlərin daha perspektivli bölgələrə fokuslanması
 
 </div>
 
-<h3 style="color:#f97316;">⭐ Belə buludlar yeni ulduzların yaranması ilə əlaqəlidir</h3>
+<h3 style="color:#38bdf8;">🚀 Ayda su niyə bu qədər vacibdir?</h3>
 
 <p>
-Qaranlıq molekulyar buludlar astronomlar üçün xüsusilə maraqlıdır.
-Belə soyuq və sıx qaz-toz bölgələri ulduzların formalaşması üçün lazım olan
-maddəni özündə saxlaya bilər.
+Ayda əldə edilə bilən su ehtiyatlarının mövcudluğu gələcək kosmik missiyalar
+üçün böyük əhəmiyyət daşıyır.
 </p>
 
 <p>
-Bulud daxilində maddə müəyyən bölgələrdə cazibə qüvvəsinin təsiri ilə sıxlaşdıqda,
-uzun müddət davam edən proses nəticəsində yeni ulduzların yaranması üçün şərait
-formalaşa bilər.
+Su yalnız astronavtların istifadəsi üçün lazım deyil. Onun tərkibindəki
+hidrogen və oksigen gələcəkdə müxtəlif texnoloji proseslərdə, o cümlədən
+kosmik missiyaların resurs təminatında istifadə edilə bilər.
+</p>
+
+<div style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#60a5fa;">💧 AYDA SU TAPILARSA...</strong><br><br>
+
+👨‍🚀 Astronavtlar üçün su mənbəyi<br><br>
+
+🫁 Oksigen əldə etmək imkanı<br><br>
+
+🚀 Gələcək kosmik missiyalar üçün resurs<br><br>
+
+🏠 Uzunmüddətli Ay bazalarının yaradılmasına dəstək<br><br>
+
+🔴 Gələcək Mars missiyaları üçün əlavə imkanlar
+
+</div>
+
+<h3 style="color:#f97316;">🌕 Süni intellekt gələcək eniş yerlərinin seçimində də kömək edə bilər</h3>
+
+<p>
+Ay səthində təhlükəsiz eniş yeri seçmək mürəkkəb prosesdir.
+Kraterlər, daşlar, yamaclar və səthin digər xüsusiyyətləri kosmik aparatların
+enişi zamanı nəzərə alınmalıdır.
+</p>
+
+<p>
+Yeni süni intellekt modeli səthin xüsusiyyətlərini daha sürətli təhlil etməklə
+alimlərə potensial eniş bölgələrinin qiymətləndirilməsində kömək edə bilər.
 </p>
 
 <div style="
@@ -157,56 +200,53 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">⭐ ULDUZ NECƏ YARANA BİLƏR?</strong><br><br>
+<strong style="color:#fb923c;">🚀 GƏLƏCƏK AY MISSİYALARI</strong><br><br>
 
-🌫️ Qaz və toz buludu<br><br>
+🗺️ Səthin xəritələşdirilməsi<br><br>
 
-⬇️<br>
+🧊 Resursların axtarılması<br><br>
 
-🌀 Maddənin sıxlaşması<br><br>
+🕳️ Təhlükəli kraterlərin müəyyənləşdirilməsi<br><br>
 
-⬇️<br>
+📍 Potensial eniş sahələrinin seçilməsi<br><br>
 
-🔥 Mərkəzdə temperatur və təzyiqin artması<br><br>
-
-⬇️<br>
-
-⭐ Yeni ulduzun formalaşması
+🏠 Uzunmüddətli insan fəaliyyəti üçün uyğun bölgələrin araşdırılması
 
 </div>
 
-<h3 style="color:#38bdf8;">🔭 Qaranlığın arxasında gizlənən kosmos</h3>
+<h3 style="color:#a78bfa;">🔓 Sistem açıq istifadəyə verilib</h3>
 
 <p>
-Görünən işıqda qaranlıq olan belə bölgələr astronomlardan tamamilə gizli deyil.
-Müxtəlif dalğa uzunluqlarında aparılan müşahidələr qaz və tozun daxilində və
-arxasında yerləşən strukturlar haqqında əlavə məlumat əldə etməyə imkan verir.
+Yeni Lunar Foundation Model-in mühüm xüsusiyyətlərindən biri onun
+<strong>açıq mənbəli olmasıdır.</strong>
 </p>
 
 <p>
-Bu səbəbdən qaranlıq molekulyar buludların araşdırılması ulduzların necə
-yarandığını və qalaktikalarda maddənin necə paylandığını anlamaqda mühüm rol oynayır.
+Bu, dünyanın müxtəlif ölkələrindən tədqiqatçıların modeli istifadə etməsinə,
+öz Ay məlumatlarını təhlil etməsinə və yeni elmi tətbiqlər hazırlamasına
+imkan verə bilər.
 </p>
 
 <div style="
 background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.30);
+border:1px solid rgba(167,139,250,0.28);
 padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
 🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
-LDN 1295 bizə kosmosda qaranlıq görünən bölgələrin əslində boş olmadığını göstərir.
-Bəzən həmin qaranlığın içərisində nəhəng qaz və toz ehtiyatları,
-mürəkkəb molekulyar strukturlar və gələcək ulduzların yaranması üçün
-lazım olan maddə gizlənir.
+Süni intellekt artıq yalnız Yer haqqında məlumatların təhlilində deyil,
+digər göy cisimlərinin öyrənilməsində də mühüm vasitəyə çevrilir.
+Yeni NASA-IBM sistemi gələcəkdə Ayın ən əlçatmaz bölgələrində gizlənən
+geoloji strukturların və potensial su ehtiyatlarının daha sürətli
+müəyyənləşdirilməsinə kömək edə bilər.
 
 </div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
 🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
-və planetlərlə bağlı yeni məlumatları izləməyə davam edir.
+və planetlərin tədqiqi ilə bağlı yeni məlumatları izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
@@ -216,8 +256,8 @@ və planetlərlə bağlı yeni məlumatları izləməyə davam edir.
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı </a>
-
+➡️ META WhatsApp Kanalı
+</a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
