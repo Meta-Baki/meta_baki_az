@@ -68,6 +68,10 @@ LAST_SAVE_FILE = "last_save.json"
 PUBLIC_SITE_URL = "https://meta-baki1.onrender.com"
 STATION_NAME = "META Abşeron Proqnozu"
 STATION_LOCATION = "Əhmədli, Bakı"
+# Configure these in Render → Environment.  Use a bank payment page (never a
+# raw card number) and either a public HTTPS QR image or a local /static path.
+SUPPORT_PAYMENT_URL = os.getenv("SUPPORT_PAYMENT_URL", "").strip()
+SUPPORT_QR_URL = os.getenv("SUPPORT_QR_URL", "").strip()
 
 
 # ---------------- PAGE VIEW COUNTERS ----------------
@@ -252,6 +256,9 @@ def home():
 
     if 'id="menuToggle"' not in page:
         page = page.replace("</body>", MENU_INJECTION + "</body>")
+
+    page = page.replace("__SUPPORT_PAYMENT_URL__", escape(SUPPORT_PAYMENT_URL, quote=True))
+    page = page.replace("__SUPPORT_QR_URL__", escape(SUPPORT_QR_URL, quote=True))
 
     return app.response_class(page, mimetype="text/html")
 
