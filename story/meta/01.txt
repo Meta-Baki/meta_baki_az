@@ -1,46 +1,21 @@
-<h2 style="color:#f59e0b;">
-⚡ Bakının və Abşeronun bəzi ərazilərində elektrik enerjisinin verilişində fasilələr olacaq
+<h2 style="color:#38bdf8;">
+🌫️ Bakıda gecə zəif duman gözlənilir — bəzi şəhərətrafı ərazilərdə yağış mümkündür
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 11 sentyabr 2026, 15:29 — Bakı vaxtı
+🕐 Əlavə olunub: 12 sentyabr 2026, 16:21 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Xəbər bildirir ki, sentyabrın 11-də Bakı və Abşeronun bəzi ərazilərində enerji infrastrukturu obyektlərində aparılan planlı təmir işləri ilə əlaqədar elektrik enerjisinin verilişində müvəqqəti fasilələr yaranacaq.</strong>
+<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında
+hazırladığı məlumata görə, sentyabrın 13-də Bakı və Abşeron yarımadasında
+hava dəyişkən buludlu, arabir tutulmuş olacaq, əsasən yağmursuz keçəcək.</strong>
 </p>
 
 <p>
-Məhdudiyyətlər ayrı-ayrı ünvanlarda müxtəlif saatlarda tətbiq ediləcək.
-Sakinlərə elektrik enerjisinin kəsiləcəyi vaxtları əvvəlcədən nəzərə almaları tövsiyə olunur.
-</p>
-
-<div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.30);
-padding:18px;
-border-radius:10px;
-font-size:19px;
-margin:18px 0;">
-
-<strong style="color:#facc15;">⚡ PLANLI ELEKTRİK KƏSİNTİSİ — 11 SENTYABR</strong><br><br>
-
-📍 <strong>Bakı — Yasamal rayonu</strong><br><br>
-
-🕙 Saat: <strong>10:00–13:00</strong><br><br>
-
-🏙 Həsən bəy Zərdabi küçəsi<br>
-🏙 İsmayıl Talıblı küçəsi<br>
-🏙 Ümid Əkbərov küçəsi<br>
-🏙 Vasif Əliyev küçəsi
-
-</div>
-
-<h3 style="color:#38bdf8;">📍 Abşeron rayonunda daha uzunmüddətli fasilələr</h3>
-
-<p>
-Abşeron rayonunun bir sıra yaşayış məntəqələrində aparılan işlərlə əlaqədar
-elektrik enerjisinin verilişində fasilələr günün böyük hissəsini əhatə edəcək.
+Bununla belə, gündüz saatlarında bəzi şəhərətrafı ərazilərdə qısamüddətli
+zəif yağış ehtimalı var. Gecə isə yarımadanın ayrı-ayrı yerlərində
+<strong>zəif duman</strong> müşahidə oluna bilər. Cənub-şərq küləyi əsəcək.
 </p>
 
 <div style="
@@ -50,77 +25,135 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🏘 AŞAĞI GÜZDƏK VƏ ATYALI</strong><br><br>
+<strong style="color:#60a5fa;">🌦️ BAKI VƏ ABŞERON — 12 SENTYABR</strong><br><br>
 
-📅 Tarix: <strong>11 sentyabr</strong><br><br>
+🌤️ Hava: <strong>dəyişkən buludlu, arabir tutulacaq</strong><br><br>
 
-🕤 Başlama: <strong>09:30</strong><br><br>
+🌧️ Yağıntı: <strong>əsasən gözlənilmir</strong><br><br>
 
-🕔 Bitmə: <strong>17:00</strong><br><br>
+🌦️ Şəhərətrafı ərazilər: <strong>gündüz qısamüddətli zəif yağış mümkündür</strong><br><br>
 
-⚡ Səbəb: <strong>planlı təmir işləri</strong>
+🌫️ Duman: <strong>gecə ayrı-ayrı yerlərdə zəif duman</strong><br><br>
+
+💨 Külək: <strong>cənub-şərq</strong><br><br>
+
+🌡️ Gecə: <strong>+17…+20°C</strong><br><br>
+
+🌡️ Gündüz: <strong>+25…+29°C</strong>
 
 </div>
 
-<h3 style="color:#a78bfa;">🏙 Xırdalan, Masazır və Yeni Saray</h3>
+<h3 style="color:#94a3b8;">🌫️ Gecə bəzi yerlərdə duman yarana bilər</h3>
 
 <p>
-Xırdalan və Masazırın bəzi hissələrində, həmçinin Ceyranbatan gölünün
-yuxarı hissəsində yerləşən yaşayış massivlərində və Yeni Saray yolu boyunca
-da elektrik enerjisinin verilişində müvəqqəti fasilələr nəzərdə tutulub.
+Gecə saatlarında yüksək nisbi rütubət fonunda Bakı və Abşeronun ayrı-ayrı
+ərazilərində zəif dumanın əmələ gəlməsi gözlənilir.
+</p>
+
+<p>
+Duman lokal xarakter daşıyacaq. Belə ərazilərdə görünüş məsafəsi müvəqqəti
+olaraq azala bilər.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.30);
+background:rgba(148,163,184,0.05);
+border:1px solid rgba(148,163,184,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">⚡ 10:00–17:00</strong><br><br>
+<strong style="color:#cbd5e1;">🌫️ DUMAN EHTİMALI</strong><br><br>
 
-📍 <strong>Xırdalan:</strong> Həsən Əliyev küçəsi<br><br>
+🕐 Vaxt: <strong>gecə saatları</strong><br><br>
 
-📍 <strong>Masazır:</strong> Rafiq Dünyamalıyev küçəsi<br><br>
+📍 Ərazi: <strong>Bakı və Abşeronun ayrı-ayrı yerləri</strong><br><br>
 
-📍 Ceyranbatan gölünün yuxarı hissəsində yerləşən yaşayış massivləri<br><br>
+🌫️ İntensivlik: <strong>zəif</strong><br><br>
 
-📍 Yeni Saray yolunun hər iki tərəfində yerləşən ərazilər
+💧 Gecə rütubəti: <strong>70–75%</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🔧 Təmir işləri aparılır</h3>
+<h3 style="color:#38bdf8;">🌦️ Gündüz lokal yağış mümkündür</h3>
 
 <p>
-Elektrik enerjisinin verilişindəki fasilələr qəza ilə deyil,
-<strong>əvvəlcədən planlaşdırılmış təmir işləri</strong> ilə əlaqədardır.
+Günün böyük hissəsində əhəmiyyətli yağıntı gözlənilməsə də, bəzi
+<strong>şəhərətrafı ərazilərdə</strong> qısamüddətli zəif yağışın düşməsi mümkündür.
 </p>
 
 <p>
-İşlərin məqsədi enerji infrastrukturunun yenilənməsi və abonentlərin
-daha keyfiyyətli və stabil elektrik enerjisi ilə təmin olunmasıdır.
-Təmir işləri tamamlandıqdan sonra qeyd olunan ərazilərdə elektrik enerjisinin
-verilişi bərpa olunacaq.
+Yağıntının lokal xarakter daşıyacağı gözlənildiyindən yarımadanın bir
+hissəsində yağış müşahidə olunduğu halda digər ərazilərdə hava tamamilə
+yağmursuz qala bilər.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">📋 QISA XÜLASƏ</strong><br><br>
+<strong style="color:#60a5fa;">🌧️ YAĞIŞ EHTİMALI</strong><br><br>
 
-⚡ <strong>Yasamal:</strong> 10:00–13:00<br><br>
+📍 Bakı və Abşeron: <strong>əsasən yağmursuz</strong><br><br>
 
-⚡ <strong>Aşağı Güzdək və Atyalı:</strong> 09:30–17:00<br><br>
+🏘️ Bəzi şəhərətrafı ərazilər:
+<strong>qısamüddətli zəif yağış mümkündür</strong><br><br>
 
-⚡ <strong>Xırdalan, Masazır və digər göstərilən ərazilər:</strong> 10:00–17:00<br><br>
-
-🔧 <strong>Səbəb:</strong> enerji infrastrukturu obyektlərində planlı təmir işləri
+⛈️ Güclü leysan:
+<strong>proqnozlaşdırılmır</strong>
 
 </div>
+
+<h3 style="color:#f59e0b;">🌡️ Temperatur +29°C-yə çatacaq</h3>
+
+<p>
+Havanın temperaturu gecə <strong>+17…+20°C</strong>, gündüz isə
+<strong>+25…+29°C</strong> təşkil edəcək.
+</p>
+
+<p>
+Atmosfer təzyiqi <strong>765 mm civə sütunu</strong>, yəni təxminən
+<strong>1020 hPa</strong> olacaq. Nisbi rütubət gecə 70–75%, gündüz isə
+50–60% təşkil edəcək.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">📊 ƏSAS METEOROLOJİ GÖSTƏRİCİLƏR</strong><br><br>
+
+🌡️ Gecə: <strong>+17…+20°C</strong><br><br>
+
+☀️ Gündüz: <strong>+25…+29°C</strong><br><br>
+
+📊 Təzyiq: <strong>765 mmHg / ≈1020 hPa</strong><br><br>
+
+💧 Gecə rütubəti: <strong>70–75%</strong><br><br>
+
+💧 Gündüz rütubəti: <strong>50–60%</strong><br><br>
+
+💨 Külək: <strong>cənub-şərq</strong>
+
+</div>
+
+<h3 style="color:#f97316;">⛈️ Bölgələrdə leysan, şimşək və dolu mümkündür</h3>
+
+<p>
+Azərbaycanın rayonlarında hava əsasən yağmursuz keçəcək. Lakin gündüz
+bəzi ərazilərdə arabir yağış gözlənilir.
+</p>
+
+<p>
+Ayrı-ayrı yerlərdə yağıntının <strong>qısamüddətli leysan xarakterli</strong>
+olması, şimşək çaxması və dolu düşməsi mümkündür. Gecə və səhər bəzi
+dağlıq rayonlarda duman müşahidə oluna bilər.
+</p>
 
 <div style="
 background:rgba(239,68,68,0.04);
@@ -129,36 +162,58 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#f87171;">⚠️ META — SAKİNLƏRİN NƏZƏRİNƏ</strong><br><br>
+<strong style="color:#f87171;">⛈️ BÖLGƏLƏRDƏ DƏYİŞKƏN HAVA</strong><br><br>
 
-Elektrik enerjisindən asılı cihazlardan istifadə edən sakinlərin planlı
-fasilələrin vaxtını nəzərə almaları tövsiyə olunur.<br><br>
+🌧️ Bəzi yerlərdə yağış<br><br>
 
-🔋 Telefon və digər cihazları əvvəlcədən enerji ilə doldurun.<br><br>
+🌧️ Lokal qısamüddətli leysan<br><br>
 
-💻 Kompüter və digər həssas elektron cihazlarda vacib məlumatları yadda saxlayın.<br><br>
+⚡ Şimşək ehtimalı<br><br>
 
-⚡ Elektrik enerjisi bərpa edilərkən mümkün gərginlik dəyişikliklərini nəzərə alın.
+🧊 Dolu ehtimalı<br><br>
+
+🌫️ Dağlarda gecə və səhər duman<br><br>
+
+💨 Mülayim şərq küləyi
+
+</div>
+
+<h3 style="color:#22c55e;">🇦🇿 Azərbaycan üzrə temperatur</h3>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+🌡️ Rayonlarda gecə: <strong>+16…+19°C</strong><br><br>
+
+☀️ Rayonlarda gündüz: <strong>+26…+31°C</strong><br><br>
+
+🏔️ Dağlarda gecə: <strong>+8…+13°C</strong><br><br>
+
+🏔️ Dağlarda gündüz: <strong>+20…+25°C</strong>
 
 </div>
 
 <p style="
 background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.25);
-padding:17px;
+border:1px solid rgba(96,165,250,0.28);
+padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-📡 <strong style="color:#60a5fa;">META Xəbər:</strong>
-11 sentyabrda planlı elektrik fasilələri Bakı və Abşeronun yalnız
-göstərilən ərazilərində tətbiq olunur. Təmir işləri başa çatdıqdan sonra
-elektrik enerjisinin verilişi bərpa ediləcək.
+📡 <strong style="color:#60a5fa;">META proqnozu:</strong>
+12 sentyabrda Bakı və Abşeronda hava əsasən sabit və yağmursuz olacaq.
+Gecə bəzi yerlərdə zəif duman, gündüz isə ayrı-ayrı şəhərətrafı ərazilərdə
+qısamüddətli zəif yağış mümkündür. Temperatur gündüz +29°C-yə çatacaq.
 
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ xəbərlər, hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava məlumatları, proqnozlar və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
