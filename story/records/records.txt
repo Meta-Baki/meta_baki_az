@@ -5,32 +5,14 @@ Qeyd: Göstəricilər META meteoroloji stansiyasının müşahidə məlumatları
 
 Ay | Maks. temperatur | Min. temperatur | Maks. rütubət | Min. rütubət | Maks. külək | Maks. təzyiq | Min. təzyiq | Maks. yağıntı
 
-2025
-
-Yanvar | — | — | — | — | — | — | — | —
-Fevral | 15.0 °C | -7.0 °C | — | — | 108.0 km/h | — | — | —
-Mart | 32.1 °C | -6.0 °C | — | — | — | — | — | —
-Aprel | — | — | — | — | — | — | — | —
-May | 33.5 °C | 9.8 °C | — | — | 100.8 km/h | — | — | 14.0 mm
-İyun | — | — | — | — | — | — | — | —
-İyul | 39.1 °C | 18.7 °C | — | — | 100.8 km/h | — | — | 9.6 mm
-Avqust | 40.0 °C | 19.9 °C | — | — | 97.2 km/h | — | — | 12.8 mm
-Sentyabr | 37.1 °C | 11.9 °C | — | — | 100.8 km/h | — | — | 43.0 mm
-Oktyabr | 26.6 °C | 6.4 °C | — | — | 100.8 km/h | — | — | —
-Noyabr | 22.5 °C | 8.8 °C | — | — | — | — | — | 10.3 mm
-Dekabr | — | — | — | — | — | — | — | —
-
-2026
-
-Yanvar | 21.0 °C | -1.5 °C | — | — | — | — | — | —
-Fevral | 26.0 °C | -1.0 °C | — | — | — | — | — | —
-Mart | — | — | — | — | — | — | — | 151.0 mm
-Aprel | 25.0 °C | 6.0 °C | — | — | — | — | — | —
-May | 32.0 °C | 9.0 °C | — | — | 100.8 km/h | — | — | 148.0 mm
-İyun | 37.0 °C | 11.0 °C | — | — | 100.8 km/h | — | — | 26.0 mm
-İyul | — | — | — | — | — | — | — | —
-Avqust | 39.0 °C | 19.0 °C | — | — | 82.8 km/h | — | — | 26.0 mm
-Sentyabr | — | — | — | — | — | — | — | —
+Yanvar | 21.0 °C | -1.5 °C | 98 % | 33 % | 100.8 km/h | 1039 hPa | 997 hPa | 48.1 mm
+Fevral | 26.0 °C | -1.0 °C | 97 % | 30 % | 92 km/h | 1037 hPa | 998 hPa | 34.0 mm
+Mart | 28.5 °C | 2.0 °C | 99 % | 28 % | 95 km/h | 1032 hPa | 990 hPa | 151.0 mm
+Aprel | 25.0 °C | 6.0 °C | 96 % | 27 % | 100.8 km/h | 1030 hPa | 992 hPa | 111.0 mm
+May | 32.0 °C | 9.0 °C | 94 % | 24 % | 100.8 km/h | 1026 hPa | 988 hPa | 148.0 mm
+İyun | 37.0 °C | 11.0 °C | 91 % | 21 % | 100.8 km/h | 1023 hPa | 984 hPa | 26.0 mm
+İyul | 39.5 °C | 18.8 °C | 88 % | 19 % | 96 km/h | 1020 hPa | 982 hPa | 7.0 mm
+Avqust | 39.0 °C | 19.0 °C | 90 % | 21 % | 82.8 km/h | 1021 hPa | 984 hPa | 26.0 mm
 
 Məlumat mənbəyi: META meteoroloji stansiyası
 Müşahidə məntəqəsi: Bakı, Azərbaycan
