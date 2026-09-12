@@ -1,22 +1,22 @@
 <h2 style="color:#a78bfa;">
-🌕🤖 Süni intellekt Ayda su axtaracaq — NASA yeni sistemi təqdim edib
+🌌 NASA aşkar etdi: kosmosda əvvəllər məlum olmayan 84 sirli obyekt tapılıb
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 11 sentyabr 2026, 15:29 — Bakı vaxtı
+🕐 Əlavə olunub: 12 sentyabr 2026, 16:21 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA və IBM Ay səthinin öyrənilməsi üçün yeni süni intellekt modeli təqdim edib.
-“NASA-IBM Lunar Foundation Model” adlanan sistem böyük həcmdə Ay məlumatlarını
-avtomatik təhlil etməyə, kraterləri müəyyənləşdirməyə və potensial su-buz
-ehtiyatlarının yerləşdiyi əraziləri araşdırmağa imkan verir.</strong>
+<strong>NASA-nın “Chandra” rentgen kosmik rəsədxanasının məlumatlarını
+təhlil edən astronomlar yaxın qalaktikalarda əvvəllər məlum olmayan
+xüsusiyyətlərə malik 84 sirli kosmik obyekt aşkar ediblər.</strong>
 </p>
 
 <p>
-Yeni model NASA-nın müxtəlif Ay missiyalarından əldə edilmiş böyük həcmli məlumatlar
-əsasında hazırlanıb. Sistem xüsusilə gələcəkdə insanların Ayda uzunmüddətli
-fəaliyyətinin planlaşdırılmasına kömək edə bilər.
+Bu obyektlər məlum qara dəlik, neytron ulduzu və ağ cırtdan sistemlərindən
+fərqli davranış nümayiş etdirir. Alimlər onları yeni sinfə —
+<strong>“hypersoft X-ray sources”</strong>, yəni hiper-yumşaq rentgen
+mənbələrinə aid edirlər.
 </p>
 
 <div style="
@@ -27,136 +27,38 @@ border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌕 NASA-IBM LUNAR FOUNDATION MODEL</strong><br><br>
+<strong style="color:#c4b5fd;">🌌 YENİ KOSMİK KƏŞF</strong><br><br>
 
-🤖 Texnologiya: <strong>süni intellekt</strong><br><br>
+🔭 Rəsədxana: <strong>NASA Chandra</strong><br><br>
 
-🌕 Hədəf: <strong>Ay səthinin öyrənilməsi</strong><br><br>
+✨ Aşkar edilən obyektlər: <strong>84</strong><br><br>
 
-🕳️ Kraterlərin avtomatik müəyyənləşdirilməsi<br><br>
+🌌 Tədqiq edilən qalaktikalar: <strong>6</strong><br><br>
 
-🧊 Potensial su-buz ehtiyatlarının axtarılması<br><br>
+🌀 Onların arasında: <strong>Andromeda (M31) və M101 qalaktikaları</strong><br><br>
 
-🌋 Vulkanik və geoloji strukturların təhlili<br><br>
+🩻 Əsas xüsusiyyət: <strong>qeyri-adi aşağı enerjili rentgen şüalanması</strong><br><br>
 
-🚀 Gələcək Ay missiyalarının planlaşdırılmasına dəstək
-
-</div>
-
-<h3 style="color:#38bdf8;">🧊 Ayda su harada gizlənə bilər?</h3>
-
-<p>
-Alimlərin xüsusi maraq göstərdiyi ərazilərdən biri Ayın cənub qütbüdür.
-Burada bəzi dərin kraterlərin dibinə Günəş işığı milyonlarla, hətta milyardlarla
-il ərzində demək olar ki, çatmayıb.
-</p>
-
-<p>
-Bu ərazilər Günəş sisteminin ən soyuq yerləri sırasındadır. Belə şəraitdə
-su molekulları uzun müddət <strong>buz şəklində qala bilər.</strong>
-</p>
-
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#60a5fa;">🧊 AYIN CƏNUB QÜTBÜ</strong><br><br>
-
-🌑 Dərin kraterlər<br><br>
-
-☀️ Günəş işığının çatmadığı sahələr<br><br>
-
-❄️ Son dərəcə aşağı temperatur<br><br>
-
-🧊 Su buzunun qorunması üçün əlverişli şərait<br><br>
-
-🔭 NASA missiyalarının əsas tədqiqat bölgələrindən biri
+🔬 Status: <strong>yeni kosmik obyekt sinfi</strong>
 
 </div>
 
-<h3 style="color:#facc15;">🤖 Süni intellekt nəhəng məlumat bazasını araşdırır</h3>
+<h3 style="color:#38bdf8;">🔭 Alimlər belə obyektləri əvvəllər görməyiblər</h3>
 
 <p>
-Yeni model <strong>4 NASA missiyasında istifadə edilmiş 9 cihazdan əldə olunan
-30-dan çox məlumat qatından</strong> istifadə etməklə hazırlanıb.
-Məlumatlara Lunar Reconnaissance Orbiter missiyasının müşahidələri də daxildir.
+Astronomların diqqətini çəkən əsas xüsusiyyət bu mənbələrin rentgen
+şüalanmasının qeyri-adi dərəcədə aşağı enerjili olmasıdır.
 </p>
 
 <p>
-Bu məlumatların insan tərəfindən ayrı-ayrılıqda təhlil edilməsi çox vaxt tələb edir.
-Süni intellekt isə böyük əraziləri avtomatik müqayisə edərək maraqlı geoloji
-strukturları daha sürətli müəyyənləşdirə bilər.
-</p>
-
-<div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#facc15;">📊 MODEL NƏYİ AXTARIR?</strong><br><br>
-
-🕳️ Ay kraterləri<br><br>
-
-🧊 Potensial buz yataqları<br><br>
-
-🌋 Vulkanik strukturlar<br><br>
-
-⛰️ Səthin geoloji xüsusiyyətləri<br><br>
-
-🚀 Gələcək eniş üçün maraqlı ərazilər
-
-</div>
-
-<h3 style="color:#22c55e;">📈 Bəzi tapşırıqlarda 23%-dək daha dəqiq</h3>
-
-<p>
-NASA və IBM-in məlumatına görə, sınaqlar zamanı yeni model Ay səthindəki
-müəyyən xüsusiyyətlərin aşkarlanmasında geniş istifadə olunan mövcud metodlarla
-müqayisədə <strong>23%-dək daha yüksək dəqiqlik</strong> nümayiş etdirib.
+Adətən qara dəlik, neytron ulduzu və ya ağ cırtdan yaxınlıqdakı ulduzdan
+maddə çəkdikdə həmin maddə son dərəcə yüksək temperatura qədər qızır və
+güclü rentgen şüalanması yaranır.
 </p>
 
 <p>
-Bu, gələcəkdə alimlərə nəhəng Ay xəritələrini daha sürətli təhlil etməyə və
-əlavə araşdırma tələb edən bölgələri müəyyənləşdirməyə imkan verə bilər.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">📈 YENİ TEXNOLOGİYANIN ÜSTÜNLÜKLƏRİ</strong><br><br>
-
-⚡ Böyük məlumatların sürətli təhlili<br><br>
-
-🗺️ Ay səthinin avtomatik xəritələşdirilməsi<br><br>
-
-🕳️ Kraterlərin müəyyənləşdirilməsi<br><br>
-
-🧊 Buz ehtimalı olan ərazilərin seçilməsi<br><br>
-
-🔬 Alimlərin daha perspektivli bölgələrə fokuslanması
-
-</div>
-
-<h3 style="color:#38bdf8;">🚀 Ayda su niyə bu qədər vacibdir?</h3>
-
-<p>
-Ayda əldə edilə bilən su ehtiyatlarının mövcudluğu gələcək kosmik missiyalar
-üçün böyük əhəmiyyət daşıyır.
-</p>
-
-<p>
-Su yalnız astronavtların istifadəsi üçün lazım deyil. Onun tərkibindəki
-hidrogen və oksigen gələcəkdə müxtəlif texnoloji proseslərdə, o cümlədən
-kosmik missiyaların resurs təminatında istifadə edilə bilər.
+Yeni aşkar edilmiş obyektlər isə bu qaydaya tam uyğun gəlmir.
+Onların müşahidə olunan rentgen şüalanması gözləniləndən daha “yumşaqdır”.
 </p>
 
 <div style="
@@ -166,65 +68,134 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">💧 AYDA SU TAPILARSA...</strong><br><br>
+<strong style="color:#60a5fa;">🩻 NƏYİ QƏRİBƏDİR?</strong><br><br>
 
-👨‍🚀 Astronavtlar üçün su mənbəyi<br><br>
+⭐ Sistemlərdə kompakt kosmik obyekt ola bilər<br><br>
 
-🫁 Oksigen əldə etmək imkanı<br><br>
+🌀 Yaxınlıqdakı ulduzdan maddə çəkilir<br><br>
 
-🚀 Gələcək kosmik missiyalar üçün resurs<br><br>
+🔥 Maddə yüksək temperatura qədər qızır<br><br>
 
-🏠 Uzunmüddətli Ay bazalarının yaradılmasına dəstək<br><br>
+❓ Lakin müşahidə olunan rentgen şüalanması gözləniləndən fərqlidir<br><br>
 
-🔴 Gələcək Mars missiyaları üçün əlavə imkanlar
+💜 Eyni zamanda güclü ultrabənövşəyi şüalanmanın yaranması mümkün hesab edilir
 
 </div>
 
-<h3 style="color:#f97316;">🌕 Süni intellekt gələcək eniş yerlərinin seçimində də kömək edə bilər</h3>
+<h3 style="color:#facc15;">🌌 84 obyekt altı qalaktikada tapılıb</h3>
 
 <p>
-Ay səthində təhlükəsiz eniş yeri seçmək mürəkkəb prosesdir.
-Kraterlər, daşlar, yamaclar və səthin digər xüsusiyyətləri kosmik aparatların
-enişi zamanı nəzərə alınmalıdır.
+Astronomlar “Chandra” məlumatlarında ümumilikdə <strong>84 belə namizəd
+obyekt</strong> müəyyən ediblər.
 </p>
 
 <p>
-Yeni süni intellekt modeli səthin xüsusiyyətlərini daha sürətli təhlil etməklə
-alimlərə potensial eniş bölgələrinin qiymətləndirilməsində kömək edə bilər.
+Onlar altı yaxın qalaktikada yerləşir. Tədqiq edilən sistemlər arasında
+bizə ən yaxın böyük qalaktikalardan biri olan <strong>Andromeda qalaktikası
+(M31)</strong> və məşhur <strong>M101 — Pinwheel qalaktikası</strong> da var.
 </p>
 
 <div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.30);
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🚀 GƏLƏCƏK AY MISSİYALARI</strong><br><br>
+<strong style="color:#facc15;">🔢 KƏŞF RƏQƏMLƏRLƏ</strong><br><br>
 
-🗺️ Səthin xəritələşdirilməsi<br><br>
+🔭 <strong>1</strong> əsas kosmik rəsədxana — Chandra<br><br>
 
-🧊 Resursların axtarılması<br><br>
+🌌 <strong>6</strong> qalaktika araşdırılıb<br><br>
 
-🕳️ Təhlükəli kraterlərin müəyyənləşdirilməsi<br><br>
+✨ <strong>84</strong> qeyri-adi mənbə müəyyən edilib<br><br>
 
-📍 Potensial eniş sahələrinin seçilməsi<br><br>
-
-🏠 Uzunmüddətli insan fəaliyyəti üçün uyğun bölgələrin araşdırılması
+🆕 <strong>1 yeni obyekt sinfi</strong> təklif olunur
 
 </div>
 
-<h3 style="color:#a78bfa;">🔓 Sistem açıq istifadəyə verilib</h3>
+<h3 style="color:#f97316;">🕳️ Qara dəliklər ola bilərmi?</h3>
 
 <p>
-Yeni Lunar Foundation Model-in mühüm xüsusiyyətlərindən biri onun
-<strong>açıq mənbəli olmasıdır.</strong>
+Bu sistemlərin daxilində qara dəliklər, neytron ulduzları və ya ağ
+cırtdanlar kimi kompakt obyektlərin olması mümkündür.
 </p>
 
 <p>
-Bu, dünyanın müxtəlif ölkələrindən tədqiqatçıların modeli istifadə etməsinə,
-öz Ay məlumatlarını təhlil etməsinə və yeni elmi tətbiqlər hazırlamasına
-imkan verə bilər.
+Belə obyektlər ömrünü başa vurmuş ulduzların qalıqlarıdır. Güclü cazibə
+qüvvəsinə malik olduqlarına görə yaxınlıqdakı ulduzdan qaz və digər
+maddələri özlərinə çəkə bilirlər.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">🌀 SİSTEMİN MƏRKƏZİNDƏ NƏ OLA BİLƏR?</strong><br><br>
+
+⚫ Qara dəlik<br><br>
+
+⭐ Neytron ulduzu<br><br>
+
+⚪ Ağ cırtdan<br><br>
+
+❓ Yaxud xüsusiyyətləri hələ tam müəyyən edilməmiş başqa kompakt sistem
+
+</div>
+
+<h3 style="color:#22c55e;">🔬 İki böyük kosmik sirrin həllinə kömək edə bilər</h3>
+
+<p>
+Yeni obyektlərin əhəmiyyəti yalnız onların qeyri-adi davranışı ilə
+məhdudlaşmır.
+</p>
+
+<p>
+Alimlər hesab edirlər ki, belə mənbələr qalaktikalardakı qazın
+ionlaşmasının necə baş verdiyini daha yaxşı anlamağa kömək edə bilər.
+</p>
+
+<p>
+Bundan başqa, bu obyektlərin öyrənilməsi astronomiyada ən mühüm hadisələrdən
+biri olan <strong>Ia tipli fövqəlnovaların</strong> hansı şəraitdə
+partlamasının anlaşılmasına da töhfə verə bilər.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">🔬 KƏŞF NƏYİ İZAH EDƏ BİLƏR?</strong><br><br>
+
+🌌 Qalaktikalardakı qazın ionlaşmasını<br><br>
+
+💥 Ia tipli fövqəlnovaların yaranmasını<br><br>
+
+⭐ Kompakt ulduz sistemlərinin təkamülünü<br><br>
+
+🌀 Qara dəlik və ulduzlar arasında maddə mübadiləsini<br><br>
+
+🌍 Kainatın genişlənməsinin öyrənilməsini
+
+</div>
+
+<h3 style="color:#a78bfa;">💥 Fövqəlnovalar Kainatın ölçülməsində istifadə olunur</h3>
+
+<p>
+Ia tipli fövqəlnovalar astronomiya üçün xüsusi əhəmiyyət daşıyır.
+Onların parlaqlığından istifadə etməklə alimlər kosmik məsafələri
+hesablaya və Kainatın genişlənməsini araşdıra bilirlər.
+</p>
+
+<p>
+Məhz buna görə yeni obyektlərin Ia tipli fövqəlnovaların yaranması ilə
+əlaqəsi təsdiqlənərsə, kəşf kosmologiya üçün də mühüm nəticələr verə bilər.
 </p>
 
 <div style="
@@ -232,21 +203,56 @@ background:rgba(139,92,246,0.05);
 border:1px solid rgba(167,139,250,0.28);
 padding:18px;
 border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">🌌 NİYƏ VACİBDİR?</strong><br><br>
+
+✨ Yeni kosmik obyekt sinfi aşkar edilib<br><br>
+
+🩻 Onların şüalanması məlum sistemlərdən fərqlənir<br><br>
+
+💥 Fövqəlnovaların mənşəyini izah etməyə kömək edə bilər<br><br>
+
+🌌 Qalaktikaların təkamülü haqqında yeni məlumat verə bilər<br><br>
+
+🔭 Gələcək müşahidələr onların əsl təbiətini müəyyənləşdirəcək
+
+</div>
+
+<h3 style="color:#38bdf8;">🔭 Chandra Kainatı rentgen şüalarında görür</h3>
+
+<p>
+NASA-nın “Chandra X-ray Observatory” rəsədxanası Kainatın adi optik
+teleskoplarla görünməyən yüksək enerjili hissəsini müşahidə etmək üçün
+hazırlanıb.
+</p>
+
+<p>
+Rentgen müşahidələri qara dəliklərin, neytron ulduzlarının, fövqəlnova
+qalıqlarının və qalaktikalardakı yüksək temperaturlu qazların
+öyrənilməsində xüsusi əhəmiyyət daşıyır.
+</p>
+
+<div style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.28);
+padding:18px;
+border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
-Süni intellekt artıq yalnız Yer haqqında məlumatların təhlilində deyil,
-digər göy cisimlərinin öyrənilməsində də mühüm vasitəyə çevrilir.
-Yeni NASA-IBM sistemi gələcəkdə Ayın ən əlçatmaz bölgələrində gizlənən
-geoloji strukturların və potensial su ehtiyatlarının daha sürətli
-müəyyənləşdirilməsinə kömək edə bilər.
+🌌 <strong style="color:#60a5fa;">META Kosmos:</strong>
+84 qeyri-adi rentgen mənbəsinin aşkar edilməsi göstərir ki, hətta yaxın
+qalaktikalarda belə astronomların indiyədək tanımadığı kosmik sistemlər
+mövcuddur. Gələcək müşahidələr bu obyektlərin daxilində hansı kompakt
+cisimlərin yerləşdiyini və onların necə yarandığını müəyyənləşdirməyə
+kömək edəcək.
 
 </div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
-və planetlərin tədqiqi ilə bağlı yeni məlumatları izləməyə davam edir.
+🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və
+Kainatda baş verən yeni elmi kəşfləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
