@@ -4,14 +4,33 @@ META Meteoroloji Rekordları
 Qeyd: Göstəricilər META meteoroloji stansiyasının müşahidə məlumatları əsasında hazırlanmışdır. Temperatur və rütubət 2 m səviyyəsində, atmosfer təzyiqi hPa ilə, külək sürəti km/saat ilə, yağıntı isə mm ilə göstərilir.
 
 Ay | Maks. temperatur | Min. temperatur | Maks. rütubət | Min. rütubət | Maks. külək | Maks. təzyiq | Min. təzyiq | Maks. yağıntı
-Yanvar | 18.4 °C | -2.1 °C | 98 % | 34 % | 72 km/h | 1035 hPa | 998 hPa | 18.6 mm
-Fevral | 21.7 °C | 1.3 °C | 96 % | 31 % | 81 km/h | 1038 hPa | 1001 hPa | 22.4 mm
-Mart | 25.9 °C | 4.8 °C | 97 % | 29 % | 76 km/h | 1031 hPa | 995 hPa | 31.8 mm
-Aprel | 29.6 °C | 8.7 °C | 95 % | 27 % | 83 km/h | 1028 hPa | 993 hPa | 27.3 mm
-May | 34.2 °C | 12.6 °C | 93 % | 25 % | 79 km/h | 1024 hPa | 989 hPa | 9.9 mm
-İyun | 38.1 °C | 18.3 °C | 91 % | 22 % | 88 km/h | 1021 hPa | 985 hPa | 0.7 mm
-İyul | 41.3 °C | 21.1 °C | 89 % | 20 % | 91 km/h | 1018 hPa | 982 hPa | 0.4 mm
-Avqust | 40.6 °C | 20.4 °C | 90 % | 21 % | 86 km/h | 1020 hPa | 984 hPa | 33.7 mm
+
+2025
+
+Yanvar | — | — | — | — | — | — | — | —
+Fevral | 15.0 °C | -7.0 °C | — | — | 108.0 km/h | — | — | —
+Mart | 32.1 °C | -6.0 °C | — | — | — | — | — | —
+Aprel | — | — | — | — | — | — | — | —
+May | 33.5 °C | 9.8 °C | — | — | 100.8 km/h | — | — | 14.0 mm
+İyun | — | — | — | — | — | — | — | —
+İyul | 39.1 °C | 18.7 °C | — | — | 100.8 km/h | — | — | 9.6 mm
+Avqust | 40.0 °C | 19.9 °C | — | — | 97.2 km/h | — | — | 12.8 mm
+Sentyabr | 37.1 °C | 11.9 °C | — | — | 100.8 km/h | — | — | 43.0 mm
+Oktyabr | 26.6 °C | 6.4 °C | — | — | 100.8 km/h | — | — | —
+Noyabr | 22.5 °C | 8.8 °C | — | — | — | — | — | 10.3 mm
+Dekabr | — | — | — | — | — | — | — | —
+
+2026
+
+Yanvar | 21.0 °C | -1.5 °C | — | — | — | — | — | —
+Fevral | 26.0 °C | -1.0 °C | — | — | — | — | — | —
+Mart | — | — | — | — | — | — | — | 151.0 mm
+Aprel | 25.0 °C | 6.0 °C | — | — | — | — | — | —
+May | 32.0 °C | 9.0 °C | — | — | 100.8 km/h | — | — | 148.0 mm
+İyun | 37.0 °C | 11.0 °C | — | — | 100.8 km/h | — | — | 26.0 mm
+İyul | — | — | — | — | — | — | — | —
+Avqust | 39.0 °C | 19.0 °C | — | — | 82.8 km/h | — | — | 26.0 mm
+Sentyabr | — | — | — | — | — | — | — | —
 
 Məlumat mənbəyi: META meteoroloji stansiyası
 Müşahidə məntəqəsi: Bakı, Azərbaycan
