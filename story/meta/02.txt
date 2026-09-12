@@ -1,51 +1,61 @@
 <h2 style="color:#22c55e;">
-🌿🌍 Azərbaycanın təbiəti iqlim dəyişmələri qarşısında — əsas risklər və görülməli tədbirlər
+🌍 Azərbaycanın 36,6%-i iqlim dəyişmələrinin təsiri ilə üzləşə bilər — Abşeron üçün də risklər artır
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 11 sentyabr 2026, 15:29 — Bakı vaxtı
+🕐 Əlavə olunub: 12 sentyabr 2026, 16:21 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bakıda keçirilən iqlim tədbirlərinin yekun günündə iqlim dəyişmələrinin təsirlərinə uyğunlaşma, təbii ekosistemlərin qorunması və ekoloji risklərə qarşı daha davamlı sistemlərin yaradılması əsas müzakirə mövzularından biri olaraq qalır.</strong>
+<strong>Azərbaycanda iqlim dəyişmələrinin gələcək təsirləri ilə bağlı yeni
+qiymətləndirmə açıqlanıb. Mütəxəssislərin hesablamalarına görə, qarşıdakı
+dövrdə ölkə ərazisinin təxminən 36,6%-i iqlim dəyişmələrinin müxtəlif
+nəticələri ilə üzləşə bilər.</strong>
 </p>
 
 <p>
-META Meteorologiya Mərkəzinin ekoloji və iqlim məlumatlarının təhlilinə görə, Azərbaycan üçün əsas məsələlər arasında su ehtiyatlarının qorunması, Xəzər dənizində baş verən dəyişikliklərin izlənilməsi, quraqlıq riskinin qiymətləndirilməsi və ölkənin zəngin biomüxtəlifliyinin mühafizəsi xüsusi əhəmiyyət daşıyır.
+Əsas risklər arasında intensiv yağıntıların, daşqın və sellərin artması,
+Abşeron yarımadasında ekstremal atmosfer hadisələrinin daha tez-tez
+müşahidə olunması və Kür-Araz ovalığında subasma hallarının çoxalması göstərilir.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
+background:rgba(239,68,68,0.04);
+border:1px solid rgba(239,68,68,0.28);
 padding:18px;
 border-radius:10px;
-font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🌿 AZƏRBAYCAN ÜÇÜN ƏSAS EKOLOJİ MƏSƏLƏLƏR</strong><br><br>
+<strong style="color:#f87171;">⚠️ AZƏRBAYCAN ÜÇÜN ƏSAS RİSKLƏR</strong><br><br>
 
-🌊 Xəzər dənizində baş verən dəyişikliklər<br><br>
+🌍 İqlim təsirlərinə məruz qala biləcək ərazi:
+<strong>36,6%</strong><br><br>
 
-💧 Su ehtiyatlarının qorunması<br><br>
+🌊 Kür-Araz ovalığı:
+<strong>subasma hallarının artması riski</strong><br><br>
 
-☀️ Quraqlıq və istilərin təsiri<br><br>
+🌧️ Abşeron:
+<strong>ekstremal yağıntıların artması</strong><br><br>
 
-🌳 Meşə ekosistemlərinin mühafizəsi<br><br>
+⛈️ Abşeron:
+<strong>şimşək və dolu hadisələrinin daha tez-tez müşahidəsi</strong><br><br>
 
-🐾 Biomüxtəlifliyin qorunması<br><br>
-
-🌧️ Ekstremal hava hadisələrinə uyğunlaşma
+🏔️ Dağlıq ərazilər:
+<strong>sel və daşqınların artması riski</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🌊 Xəzər xüsusi diqqət mərkəzindədir</h3>
+<h3 style="color:#38bdf8;">🌧️ Abşeronda ekstremal yağıntılar artır</h3>
 
 <p>
-Xəzər dənizində su səviyyəsinin uzunmüddətli dəyişməsi Azərbaycan üçün ən mühüm ekoloji məsələlərdən biridir.
+Mütəxəssis Camal Hüseynovun Bakı İqlim Fəaliyyəti Həftəsi çərçivəsində
+açıqladığı məlumatlara görə, iqlim dəyişmələrinin təsirləri
+<strong>Abşeron yarımadasında da davam edəcək.</strong>
 </p>
 
 <p>
-Sahil xəttinin dəyişməsi yalnız dənizin görünüşünə təsir etmir. Proses davam etdikcə dayaz su sahələri, sahilyanı ekosistemlər, liman infrastrukturu və bəzi canlı növlərinin yaşayış mühiti də dəyişə bilər.
+Qiymətləndirməyə əsasən, gələcək illərdə yarımadada dolu və şimşək
+hadisələrinin tezliyi, eləcə də ekstremal atmosfer yağıntılarının miqdarı arta bilər.
 </p>
 
 <div style="
@@ -55,14 +65,244 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌊 XƏZƏR ÜÇÜN MÜMKÜN TƏSİRLƏR</strong><br><br>
+<strong style="color:#60a5fa;">🌧️ ABŞERONDA NƏ DƏYİŞƏ BİLƏR?</strong><br><br>
 
-📉 Sahil xəttinin dəyişməsi<br><br>
+⛈️ Şimşəkli hava hadisələrinin tezliyi arta bilər<br><br>
 
-🐟 Balıqların yaşayış və çoxalma ərazilərinə təsir<br><br>
+🧊 Dolu hadisələri daha tez-tez müşahidə oluna bilər<br><br>
 
-🦭 Xəzər suitisinin yaşayış mühitinə təzyiq<br><br>
+🌧️ Qısa müddətdə intensiv yağıntılar arta bilər<br><br>
 
-🌱 Sahilyanı ekosistemlərin dəyişməsi<br><br>
+🌊 Lokal subasma riski yüksələ bilər<br><br>
 
-🚢 Liman və dəniz infrastrukturu üçün yeni şə
+🌡️ Ekstremal hava hadisələri daha dəyişkən xarakter ala bilər
+
+</div>
+
+<h3 style="color:#f59e0b;">📊 Son müşahidələr də diqqət çəkir</h3>
+
+<p>
+Açıqlanan məlumatda maraqlı müqayisə də təqdim olunub.
+Mütəxəssisin sözlərinə görə, Abşeron yarımadasında ekstremal yağıntı
+hadisəsi <strong>2024-cü ildə yalnız bir dəfə</strong> qeydə alınmışdı.
+</p>
+
+<p>
+2026-cı ildə isə analoji ekstremal təbiət hadisələrinin artıq
+<strong>üç dəfə müşahidə edildiyi</strong> bildirilib.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#facc15;">📈 ABŞERON — EKSTREMAL YAĞINTI</strong><br><br>
+
+📅 2024 → <strong>1 hadisə</strong><br><br>
+
+📅 2026 → <strong>artıq 3 hadisə</strong><br><br>
+
+📊 Tendensiya → <strong>ekstremal yağıntı hadisələrinin artması mümkündür</strong>
+
+</div>
+
+<h3 style="color:#38bdf8;">🌊 Kür-Araz ovalığında subasma riski</h3>
+
+<p>
+İqlim dəyişmələrinin təsir göstərə biləcəyi digər mühüm ərazi
+<strong>Kür-Araz ovalığıdır.</strong>
+</p>
+
+<p>
+Qiymətləndirməyə görə, zaman keçdikcə burada subasma hadisələrinin
+tezliyinin əhəmiyyətli dərəcədə artması mümkündür.
+</p>
+
+<p>
+Güclü və uzunmüddətli yağıntılar çaylarda sululuğun yüksəlməsinə,
+torpağın su ilə doymasına və aşağı ərazilərdə lokal daşqınların
+yaranmasına şərait yarada bilər.
+</p>
+
+<div style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#60a5fa;">🌊 KÜR-ARAZ OVALIĞI</strong><br><br>
+
+🌧️ Güclü yağıntılar<br><br>
+
+⬇️<br>
+
+🏞️ Çaylarda sululuğun artması<br><br>
+
+⬇️<br>
+
+💧 Torpağın su ilə doyması<br><br>
+
+⬇️<br>
+
+🌊 Aşağı ərazilərdə subasma riskinin yüksəlməsi
+
+</div>
+
+<h3 style="color:#f97316;">🏔️ Dağlarda sel hadisələri arta bilər</h3>
+
+<p>
+Azərbaycanın dağlıq ərazilərində isə əsas təhlükələrdən biri
+<strong>sel hadisələrinin tezliyinin artmasıdır.</strong>
+</p>
+
+<p>
+Dağlıq ərazilərdə qısa müddət ərzində çoxlu yağıntının düşməsi
+çay və dərələrdə suyun səviyyəsinin sürətlə yüksəlməsinə səbəb ola bilər.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">🏔️ DAĞLIQ ƏRAZİLƏR ÜÇÜN RİSK</strong><br><br>
+
+🌧️ İntensiv leysan<br><br>
+
+⛰️ Səth axınının sürətlənməsi<br><br>
+
+🌊 Dağ çaylarının sürətlə qalxması<br><br>
+
+🪨 Torpaq və süxurların daşınması<br><br>
+
+⚠️ Sel və lokal daşqın təhlükəsinin artması
+
+</div>
+
+<h3 style="color:#22c55e;">🌿 Təbiətə təsiri nə ola bilər?</h3>
+
+<p>
+Belə dəyişikliklər yalnız şəhər infrastrukturu üçün problem yaratmır.
+Ekstremal hava hadisələrinin artması Azərbaycanın təbii ekosistemlərinə
+də təsir göstərə bilər.
+</p>
+
+<p>
+İntensiv yağıntılar torpaq eroziyasını sürətləndirə, sel hadisələri
+çay ekosistemlərini dəyişdirə, uzunmüddətli isti və quraqlıq dövrləri
+isə bitki örtüyü və su ehtiyatlarına əlavə təzyiq yarada bilər.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">🌿 TƏBİƏT ÜÇÜN MÜMKÜN NƏTİCƏLƏR</strong><br><br>
+
+🌱 Torpaq eroziyasının sürətlənməsi<br><br>
+
+💧 Su ehtiyatlarında dəyişikliklər<br><br>
+
+🏞️ Çay ekosistemlərinə təsir<br><br>
+
+🌳 Bitki örtüyünə əlavə təzyiq<br><br>
+
+🐾 Canlıların yaşayış mühitində dəyişikliklər<br><br>
+
+🌊 Sel və daşqınların təbii ərazilərə təsiri
+
+</div>
+
+<h3 style="color:#a78bfa;">📡 Meteoroloji monitorinq daha vacib olur</h3>
+
+<p>
+Ekstremal hadisələrin tezliyinin artması meteoroloji müşahidələrin,
+yağıntı monitorinqinin və erkən xəbərdarlıq sistemlərinin əhəmiyyətini
+daha da artırır.
+</p>
+
+<p>
+Xüsusilə qısa müddətdə yaranan güclü leysan, sel, dolu və şimşək
+hadisələrinin vaxtında müəyyən edilməsi insanların, infrastrukturun
+və təbii ərazilərin qorunmasına kömək edə bilər.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.05);
+border:1px solid rgba(167,139,250,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">📡 NƏ VACİBDİR?</strong><br><br>
+
+🌦️ Lokal meteoroloji müşahidələrin artırılması<br><br>
+
+🌧️ Yağıntıların real vaxt rejimində izlənilməsi<br><br>
+
+🌊 Çayların səviyyəsinin monitorinqi<br><br>
+
+⚡ Şimşək və güclü leysanların izlənilməsi<br><br>
+
+🚨 Erkən xəbərdarlıq sistemlərinin inkişaf etdirilməsi
+
+</div>
+
+<p style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+font-size:18px;
+margin-top:20px;">
+
+🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
+İqlim dəyişmələri artıq yalnız temperaturun yüksəlməsi ilə məhdudlaşmır.
+Yağıntıların intensivliyi, sel və daşqınlar, dolu, şimşək və digər ekstremal
+hava hadisələrində baş verən dəyişikliklər də Azərbaycanın təbiəti və
+ekosistemləri üçün mühüm müşahidə istiqamətidir.
+
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+🌿📡 META Meteorologiya Mərkəzi Azərbaycanın təbiəti, ekologiyası,
+iqlimi və ekstremal hava hadisələri ilə bağlı dəyişiklikləri izləməyə davam edir.
+</p>
+
+<p style="color:#25D366;font-size:20px;font-weight:bold;">
+📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
+
+<hr>
+
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
+əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>ы
