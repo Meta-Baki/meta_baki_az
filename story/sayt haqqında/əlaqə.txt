@@ -13,7 +13,7 @@ aşağıdakı əlaqə vasitələrindən istifadə edə bilərsiniz.</strong>
 <h3>📱 Sosial şəbəkələr və messencerlər</h3>
 
 <p>
-🎵 TikTok:
+🎵 META TikTok:
 <a href="https://www.tiktok.com/@meta_baki1"
 target="_blank"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
@@ -64,7 +64,7 @@ təqdim olunan səhifələrinə aşağıdakı keçidlər vasitəsilə baxmaq mü
 </p>
 
 <p>
-📡 Windy.com Hava stansiyası:
+📡 Windy.com META Hava stansiyası:
 <a href="https://www.windy.com/station/pws-5Ij81tUN"
 target="_blank"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
@@ -82,7 +82,7 @@ PWS Weather
 </p>
 
 <p>
-📡 WU Weather META Hava stansiyası:
+📡 W Undeground META Hava stansiyası:
 <a href="https://www.wunderground.com/dashboard/pws/IBAKU37"
 target="_blank"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
@@ -91,7 +91,7 @@ Weather Underground
 </p>
 
 <p>
-📡 WeatherCloud META Hava stansiyası:
+📡 W Cloud META Hava stansiyası:
 <a href="https://app.weathercloud.net/d1638839656"
 target="_blank"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
