@@ -1,90 +1,17 @@
 <h2 style="color:#38bdf8;">
-🌫️ Bakıda gecə zəif duman gözlənilir — bəzi şəhərətrafı ərazilərdə yağış mümkündür
+🌊 Azərbaycanın bəzi çaylarında sululuq arta bilər — leysanlar sel riskini yüksəldir
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 12 sentyabr 2026, 16:21 — Bakı vaxtı
+🕐 Əlavə olunub: 13 sentyabr 2026, 17:20 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında
-hazırladığı məlumata görə, sentyabrın 13-də Bakı və Abşeron yarımadasında
-hava dəyişkən buludlu, arabir tutulmuş olacaq, əsasən yağmursuz keçəcək.</strong>
+<strong>META Meteorologiya Mərkəzinin meteoroloji vəziyyətin təhlili əsasında hazırladığı məlumata görə, sentyabrın 13-də Azərbaycanın bəzi dağlıq və cənub-şərq ərazilərində yağıntılar fonunda çaylarda sululuğun artması mümkündür.</strong>
 </p>
 
 <p>
-Bununla belə, gündüz saatlarında bəzi şəhərətrafı ərazilərdə qısamüddətli
-zəif yağış ehtimalı var. Gecə isə yarımadanın ayrı-ayrı yerlərində
-<strong>zəif duman</strong> müşahidə oluna bilər. Cənub-şərq küləyi əsəcək.
-</p>
-
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#60a5fa;">🌦️ BAKI VƏ ABŞERON — 12 SENTYABR</strong><br><br>
-
-🌤️ Hava: <strong>dəyişkən buludlu, arabir tutulacaq</strong><br><br>
-
-🌧️ Yağıntı: <strong>əsasən gözlənilmir</strong><br><br>
-
-🌦️ Şəhərətrafı ərazilər: <strong>gündüz qısamüddətli zəif yağış mümkündür</strong><br><br>
-
-🌫️ Duman: <strong>gecə ayrı-ayrı yerlərdə zəif duman</strong><br><br>
-
-💨 Külək: <strong>cənub-şərq</strong><br><br>
-
-🌡️ Gecə: <strong>+17…+20°C</strong><br><br>
-
-🌡️ Gündüz: <strong>+25…+29°C</strong>
-
-</div>
-
-<h3 style="color:#94a3b8;">🌫️ Gecə bəzi yerlərdə duman yarana bilər</h3>
-
-<p>
-Gecə saatlarında yüksək nisbi rütubət fonunda Bakı və Abşeronun ayrı-ayrı
-ərazilərində zəif dumanın əmələ gəlməsi gözlənilir.
-</p>
-
-<p>
-Duman lokal xarakter daşıyacaq. Belə ərazilərdə görünüş məsafəsi müvəqqəti
-olaraq azala bilər.
-</p>
-
-<div style="
-background:rgba(148,163,184,0.05);
-border:1px solid rgba(148,163,184,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#cbd5e1;">🌫️ DUMAN EHTİMALI</strong><br><br>
-
-🕐 Vaxt: <strong>gecə saatları</strong><br><br>
-
-📍 Ərazi: <strong>Bakı və Abşeronun ayrı-ayrı yerləri</strong><br><br>
-
-🌫️ İntensivlik: <strong>zəif</strong><br><br>
-
-💧 Gecə rütubəti: <strong>70–75%</strong>
-
-</div>
-
-<h3 style="color:#38bdf8;">🌦️ Gündüz lokal yağış mümkündür</h3>
-
-<p>
-Günün böyük hissəsində əhəmiyyətli yağıntı gözlənilməsə də, bəzi
-<strong>şəhərətrafı ərazilərdə</strong> qısamüddətli zəif yağışın düşməsi mümkündür.
-</p>
-
-<p>
-Yağıntının lokal xarakter daşıyacağı gözlənildiyindən yarımadanın bir
-hissəsində yağış müşahidə olunduğu halda digər ərazilərdə hava tamamilə
-yağmursuz qala bilər.
+Ayrı-ayrı ərazilərdə yağıntının qısamüddətli leysan xarakterli olması, şimşək çaxması və dolu düşməsi ehtimalı var. Güclü lokal yağıntılar xüsusilə kiçik dağ çaylarında su səviyyəsinin qısa müddətdə yüksəlməsinə səbəb ola bilər.
 </p>
 
 <div style="
@@ -94,29 +21,24 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌧️ YAĞIŞ EHTİMALI</strong><br><br>
+<strong style="color:#60a5fa;">🌊 ƏSAS RİSKLƏR</strong><br><br>
 
-📍 Bakı və Abşeron: <strong>əsasən yağmursuz</strong><br><br>
+🌧️ Lokal güclü leysan<br><br>
 
-🏘️ Bəzi şəhərətrafı ərazilər:
-<strong>qısamüddətli zəif yağış mümkündür</strong><br><br>
+⛈️ Şimşək və göy gurultusu<br><br>
 
-⛈️ Güclü leysan:
-<strong>proqnozlaşdırılmır</strong>
+🧊 Ayrı-ayrı ərazilərdə dolu ehtimalı<br><br>
+
+🏞️ Çaylarda sululuğun artması<br><br>
+
+⚠️ Kiçik dağ çaylarında sürətli səviyyə dəyişiklikləri
 
 </div>
 
-<h3 style="color:#f59e0b;">🌡️ Temperatur +29°C-yə çatacaq</h3>
+<h3 style="color:#f97316;">🏔️ Dağlıq ərazilərdə vəziyyət daha diqqətlə izlənilməlidir</h3>
 
 <p>
-Havanın temperaturu gecə <strong>+17…+20°C</strong>, gündüz isə
-<strong>+25…+29°C</strong> təşkil edəcək.
-</p>
-
-<p>
-Atmosfer təzyiqi <strong>765 mm civə sütunu</strong>, yəni təxminən
-<strong>1020 hPa</strong> olacaq. Nisbi rütubət gecə 70–75%, gündüz isə
-50–60% təşkil edəcək.
+Dağlıq relyefdə intensiv yağıntı zamanı su sürətlə dərələrə və çay yataqlarına toplanır. Buna görə qısa müddətli leysan belə bəzi kiçik çaylarda suyun səviyyəsinin sürətlə yüksəlməsinə səbəb ola bilər.
 </p>
 
 <div style="
@@ -126,59 +48,27 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">📊 ƏSAS METEOROLOJİ GÖSTƏRİCİLƏR</strong><br><br>
+<strong style="color:#fb923c;">⛰️ LEYSAN ZAMANI</strong><br><br>
 
-🌡️ Gecə: <strong>+17…+20°C</strong><br><br>
-
-☀️ Gündüz: <strong>+25…+29°C</strong><br><br>
-
-📊 Təzyiq: <strong>765 mmHg / ≈1020 hPa</strong><br><br>
-
-💧 Gecə rütubəti: <strong>70–75%</strong><br><br>
-
-💧 Gündüz rütubəti: <strong>50–60%</strong><br><br>
-
-💨 Külək: <strong>cənub-şərq</strong>
+🌧️ Güclü yağıntı<br><br>
+⬇️<br><br>
+💧 Səth axınının artması<br><br>
+⬇️<br><br>
+🏞️ Suyun çay və dərələrə sürətlə toplanması<br><br>
+⬇️<br><br>
+🌊 Sululuğun və lokal sel riskinin artması
 
 </div>
 
-<h3 style="color:#f97316;">⛈️ Bölgələrdə leysan, şimşək və dolu mümkündür</h3>
+<h3 style="color:#22c55e;">🌿 Təbiətə də təsir göstərə bilər</h3>
 
 <p>
-Azərbaycanın rayonlarında hava əsasən yağmursuz keçəcək. Lakin gündüz
-bəzi ərazilərdə arabir yağış gözlənilir.
+Güclü su axınları torpaq eroziyasını sürətləndirə, çay sahillərində torpaq qatının yuyulmasına və suyun bulanıqlığının artmasına səbəb ola bilər.
 </p>
 
 <p>
-Ayrı-ayrı yerlərdə yağıntının <strong>qısamüddətli leysan xarakterli</strong>
-olması, şimşək çaxması və dolu düşməsi mümkündür. Gecə və səhər bəzi
-dağlıq rayonlarda duman müşahidə oluna bilər.
+Belə hadisələr çay ekosistemlərinə də qısamüddətli təsir göstərə bilər. Buna görə intensiv yağıntılar yalnız meteoroloji deyil, həm də ekoloji baxımdan izlənilməlidir.
 </p>
-
-<div style="
-background:rgba(239,68,68,0.04);
-border:1px solid rgba(239,68,68,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#f87171;">⛈️ BÖLGƏLƏRDƏ DƏYİŞKƏN HAVA</strong><br><br>
-
-🌧️ Bəzi yerlərdə yağış<br><br>
-
-🌧️ Lokal qısamüddətli leysan<br><br>
-
-⚡ Şimşək ehtimalı<br><br>
-
-🧊 Dolu ehtimalı<br><br>
-
-🌫️ Dağlarda gecə və səhər duman<br><br>
-
-💨 Mülayim şərq küləyi
-
-</div>
-
-<h3 style="color:#22c55e;">🇦🇿 Azərbaycan üzrə temperatur</h3>
 
 <div style="
 background:rgba(34,197,94,0.05);
@@ -187,13 +77,15 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-🌡️ Rayonlarda gecə: <strong>+16…+19°C</strong><br><br>
+<strong style="color:#4ade80;">🌿 MÜMKÜN EKOLOJİ TƏSİRLƏR</strong><br><br>
 
-☀️ Rayonlarda gündüz: <strong>+26…+31°C</strong><br><br>
+🌱 Torpaq eroziyası<br><br>
 
-🏔️ Dağlarda gecə: <strong>+8…+13°C</strong><br><br>
+🏞️ Çay sahillərinin yuyulması<br><br>
 
-🏔️ Dağlarda gündüz: <strong>+20…+25°C</strong>
+💧 Suyun bulanıqlığının artması<br><br>
+
+🐟 Su ekosistemlərinə qısamüddətli təsir
 
 </div>
 
@@ -202,22 +94,16 @@ background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.28);
 padding:18px;
 border-radius:10px;
-font-size:18px;
-margin-top:20px;">
+font-size:18px;">
 
-📡 <strong style="color:#60a5fa;">META proqnozu:</strong>
-12 sentyabrda Bakı və Abşeronda hava əsasən sabit və yağmursuz olacaq.
-Gecə bəzi yerlərdə zəif duman, gündüz isə ayrı-ayrı şəhərətrafı ərazilərdə
-qısamüddətli zəif yağış mümkündür. Temperatur gündüz +29°C-yə çatacaq.
+🌿 <strong style="color:#60a5fa;">META Ekologiya:</strong>
+Sentyabrın 13-də xüsusilə dağlıq və cənub-şərq ərazilərində lokal leysanların mümkünlüyü nəzərə alınmalıdır. Yağıntının intensiv olduğu ərazilərdə kiçik çay və dərələrdə vəziyyət qısa müddətdə dəyişə bilər.
 
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava məlumatları, proqnozlar və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
+📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
@@ -230,11 +116,9 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 <hr>
 
 <p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
-əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
