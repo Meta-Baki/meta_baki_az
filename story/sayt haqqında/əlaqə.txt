@@ -86,7 +86,7 @@ PWS Weather
 <a href="https://www.wunderground.com/dashboard/pws/IBAKU37"
 target="_blank"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
-Weather Underground
+W Underground
 </a>
 </p>
 
@@ -95,7 +95,7 @@ Weather Underground
 <a href="https://app.weathercloud.net/d1638839656"
 target="_blank"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
-WeatherCloud
+W Cloud
 </a>
 </p>
 
