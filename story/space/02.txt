@@ -1,201 +1,22 @@
 <h2 style="color:#a78bfa;">
-🌌 NASA aşkar etdi: kosmosda əvvəllər məlum olmayan 84 sirli obyekt tapılıb
+☄️ NASA günün kosmik görüntüsünü təqdim edib — NEOWISE kometası səmanı işıqlandırır
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 12 sentyabr 2026, 16:21 — Bakı vaxtı
+🕐 Əlavə olunub: 13 sentyabr 2026, 17:20 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA-nın “Chandra” rentgen kosmik rəsədxanasının məlumatlarını
-təhlil edən astronomlar yaxın qalaktikalarda əvvəllər məlum olmayan
-xüsusiyyətlərə malik 84 sirli kosmik obyekt aşkar ediblər.</strong>
+<strong>NASA sentyabrın 13-də günün astronomik görüntüsü kimi
+C/2020 F3 (NEOWISE) kometasının möhtəşəm fotosunu təqdim edib.
+Görüntüdə kometa Adriatik dənizi üzərində ulduzlu səmanı keçərkən
+uzun və parlaq quyruğu ilə seçilir.</strong>
 </p>
 
 <p>
-Bu obyektlər məlum qara dəlik, neytron ulduzu və ağ cırtdan sistemlərindən
-fərqli davranış nümayiş etdirir. Alimlər onları yeni sinfə —
-<strong>“hypersoft X-ray sources”</strong>, yəni hiper-yumşaq rentgen
-mənbələrinə aid edirlər.
-</p>
-
-<div style="
-background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.30);
-padding:18px;
-border-radius:10px;
-font-size:19px;
-margin:18px 0;">
-
-<strong style="color:#c4b5fd;">🌌 YENİ KOSMİK KƏŞF</strong><br><br>
-
-🔭 Rəsədxana: <strong>NASA Chandra</strong><br><br>
-
-✨ Aşkar edilən obyektlər: <strong>84</strong><br><br>
-
-🌌 Tədqiq edilən qalaktikalar: <strong>6</strong><br><br>
-
-🌀 Onların arasında: <strong>Andromeda (M31) və M101 qalaktikaları</strong><br><br>
-
-🩻 Əsas xüsusiyyət: <strong>qeyri-adi aşağı enerjili rentgen şüalanması</strong><br><br>
-
-🔬 Status: <strong>yeni kosmik obyekt sinfi</strong>
-
-</div>
-
-<h3 style="color:#38bdf8;">🔭 Alimlər belə obyektləri əvvəllər görməyiblər</h3>
-
-<p>
-Astronomların diqqətini çəkən əsas xüsusiyyət bu mənbələrin rentgen
-şüalanmasının qeyri-adi dərəcədə aşağı enerjili olmasıdır.
-</p>
-
-<p>
-Adətən qara dəlik, neytron ulduzu və ya ağ cırtdan yaxınlıqdakı ulduzdan
-maddə çəkdikdə həmin maddə son dərəcə yüksək temperatura qədər qızır və
-güclü rentgen şüalanması yaranır.
-</p>
-
-<p>
-Yeni aşkar edilmiş obyektlər isə bu qaydaya tam uyğun gəlmir.
-Onların müşahidə olunan rentgen şüalanması gözləniləndən daha “yumşaqdır”.
-</p>
-
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#60a5fa;">🩻 NƏYİ QƏRİBƏDİR?</strong><br><br>
-
-⭐ Sistemlərdə kompakt kosmik obyekt ola bilər<br><br>
-
-🌀 Yaxınlıqdakı ulduzdan maddə çəkilir<br><br>
-
-🔥 Maddə yüksək temperatura qədər qızır<br><br>
-
-❓ Lakin müşahidə olunan rentgen şüalanması gözləniləndən fərqlidir<br><br>
-
-💜 Eyni zamanda güclü ultrabənövşəyi şüalanmanın yaranması mümkün hesab edilir
-
-</div>
-
-<h3 style="color:#facc15;">🌌 84 obyekt altı qalaktikada tapılıb</h3>
-
-<p>
-Astronomlar “Chandra” məlumatlarında ümumilikdə <strong>84 belə namizəd
-obyekt</strong> müəyyən ediblər.
-</p>
-
-<p>
-Onlar altı yaxın qalaktikada yerləşir. Tədqiq edilən sistemlər arasında
-bizə ən yaxın böyük qalaktikalardan biri olan <strong>Andromeda qalaktikası
-(M31)</strong> və məşhur <strong>M101 — Pinwheel qalaktikası</strong> da var.
-</p>
-
-<div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#facc15;">🔢 KƏŞF RƏQƏMLƏRLƏ</strong><br><br>
-
-🔭 <strong>1</strong> əsas kosmik rəsədxana — Chandra<br><br>
-
-🌌 <strong>6</strong> qalaktika araşdırılıb<br><br>
-
-✨ <strong>84</strong> qeyri-adi mənbə müəyyən edilib<br><br>
-
-🆕 <strong>1 yeni obyekt sinfi</strong> təklif olunur
-
-</div>
-
-<h3 style="color:#f97316;">🕳️ Qara dəliklər ola bilərmi?</h3>
-
-<p>
-Bu sistemlərin daxilində qara dəliklər, neytron ulduzları və ya ağ
-cırtdanlar kimi kompakt obyektlərin olması mümkündür.
-</p>
-
-<p>
-Belə obyektlər ömrünü başa vurmuş ulduzların qalıqlarıdır. Güclü cazibə
-qüvvəsinə malik olduqlarına görə yaxınlıqdakı ulduzdan qaz və digər
-maddələri özlərinə çəkə bilirlər.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">🌀 SİSTEMİN MƏRKƏZİNDƏ NƏ OLA BİLƏR?</strong><br><br>
-
-⚫ Qara dəlik<br><br>
-
-⭐ Neytron ulduzu<br><br>
-
-⚪ Ağ cırtdan<br><br>
-
-❓ Yaxud xüsusiyyətləri hələ tam müəyyən edilməmiş başqa kompakt sistem
-
-</div>
-
-<h3 style="color:#22c55e;">🔬 İki böyük kosmik sirrin həllinə kömək edə bilər</h3>
-
-<p>
-Yeni obyektlərin əhəmiyyəti yalnız onların qeyri-adi davranışı ilə
-məhdudlaşmır.
-</p>
-
-<p>
-Alimlər hesab edirlər ki, belə mənbələr qalaktikalardakı qazın
-ionlaşmasının necə baş verdiyini daha yaxşı anlamağa kömək edə bilər.
-</p>
-
-<p>
-Bundan başqa, bu obyektlərin öyrənilməsi astronomiyada ən mühüm hadisələrdən
-biri olan <strong>Ia tipli fövqəlnovaların</strong> hansı şəraitdə
-partlamasının anlaşılmasına da töhfə verə bilər.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🔬 KƏŞF NƏYİ İZAH EDƏ BİLƏR?</strong><br><br>
-
-🌌 Qalaktikalardakı qazın ionlaşmasını<br><br>
-
-💥 Ia tipli fövqəlnovaların yaranmasını<br><br>
-
-⭐ Kompakt ulduz sistemlərinin təkamülünü<br><br>
-
-🌀 Qara dəlik və ulduzlar arasında maddə mübadiləsini<br><br>
-
-🌍 Kainatın genişlənməsinin öyrənilməsini
-
-</div>
-
-<h3 style="color:#a78bfa;">💥 Fövqəlnovalar Kainatın ölçülməsində istifadə olunur</h3>
-
-<p>
-Ia tipli fövqəlnovalar astronomiya üçün xüsusi əhəmiyyət daşıyır.
-Onların parlaqlığından istifadə etməklə alimlər kosmik məsafələri
-hesablaya və Kainatın genişlənməsini araşdıra bilirlər.
-</p>
-
-<p>
-Məhz buna görə yeni obyektlərin Ia tipli fövqəlnovaların yaranması ilə
-əlaqəsi təsdiqlənərsə, kəşf kosmologiya üçün də mühüm nəticələr verə bilər.
+NEOWISE son illərin ən məşhur kometalarından biridir. O, 2020-ci ildə
+Günəşə yaxınlaşdığı dövrdə kifayət qədər parlaqlaşmış və dünyanın bir çox
+yerindən adi gözlə müşahidə edilmişdi.
 </p>
 
 <div style="
@@ -205,32 +26,31 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌌 NİYƏ VACİBDİR?</strong><br><br>
+<strong style="color:#c4b5fd;">☄️ C/2020 F3 (NEOWISE)</strong><br><br>
 
-✨ Yeni kosmik obyekt sinfi aşkar edilib<br><br>
+🔭 Kəşf: <strong>2020-ci il</strong><br><br>
 
-🩻 Onların şüalanması məlum sistemlərdən fərqlənir<br><br>
+🛰️ Kəşf edən: <strong>NASA-nın NEOWISE kosmik teleskopu</strong><br><br>
 
-💥 Fövqəlnovaların mənşəyini izah etməyə kömək edə bilər<br><br>
+☀️ Obyekt: <strong>uzunperiodlu kometa</strong><br><br>
 
-🌌 Qalaktikaların təkamülü haqqında yeni məlumat verə bilər<br><br>
+✨ Xüsusiyyəti: <strong>parlaq koma və uzun quyruq</strong><br><br>
 
-🔭 Gələcək müşahidələr onların əsl təbiətini müəyyənləşdirəcək
+📸 NASA paylaşımı: <strong>13 sentyabr 2026</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🔭 Chandra Kainatı rentgen şüalarında görür</h3>
+<h3 style="color:#38bdf8;">☄️ Kometa quyruğu necə yaranır?</h3>
 
 <p>
-NASA-nın “Chandra X-ray Observatory” rəsədxanası Kainatın adi optik
-teleskoplarla görünməyən yüksək enerjili hissəsini müşahidə etmək üçün
-hazırlanıb.
+Kometalar əsasən buz, toz və qayalı materiallardan ibarət qədim Günəş
+sistemi cisimləridir. Kometa Günəşə yaxınlaşdıqca onun səthindəki donmuş
+maddələr isinərək qaz halına keçir.
 </p>
 
 <p>
-Rentgen müşahidələri qara dəliklərin, neytron ulduzlarının, fövqəlnova
-qalıqlarının və qalaktikalardakı yüksək temperaturlu qazların
-öyrənilməsində xüsusi əhəmiyyət daşıyır.
+Nəticədə kometanın nüvəsi ətrafında qaz və tozdan ibarət parlaq
+<strong>koma</strong> yaranır.
 </p>
 
 <div style="
@@ -238,25 +58,142 @@ background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.28);
 padding:18px;
 border-radius:10px;
-font-size:18px;
-margin-top:20px;">
+margin:18px 0;">
 
-🌌 <strong style="color:#60a5fa;">META Kosmos:</strong>
-84 qeyri-adi rentgen mənbəsinin aşkar edilməsi göstərir ki, hətta yaxın
-qalaktikalarda belə astronomların indiyədək tanımadığı kosmik sistemlər
-mövcuddur. Gələcək müşahidələr bu obyektlərin daxilində hansı kompakt
-cisimlərin yerləşdiyini və onların necə yarandığını müəyyənləşdirməyə
-kömək edəcək.
+<strong style="color:#60a5fa;">☀️ KOMETA GÜNƏŞƏ YAXINLAŞDIQDA</strong><br><br>
+
+🧊 Buz isinməyə başlayır<br><br>
+
+⬇️<br>
+
+💨 Qaz və toz nüvədən ayrılır<br><br>
+
+⬇️<br>
+
+✨ Nüvənin ətrafında parlaq koma yaranır<br><br>
+
+⬇️<br>
+
+☄️ Günəş küləyi və radiasiya uzun quyruğun formalaşmasına səbəb olur
 
 </div>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və
-Kainatda baş verən yeni elmi kəşfləri izləməyə davam edir.
+<h3 style="color:#facc15;">✨ NEOWISE niyə bu qədər məşhur oldu?</h3>
+
+<p>
+2020-ci ilin yayında NEOWISE Günəş sisteminin daxili hissəsinə daxil oldu
+və kifayət qədər parlaqlaşdı. Bunun nəticəsində kometanı xüsusi böyük
+teleskop olmadan da müşahidə etmək mümkün idi.
 </p>
 
+<p>
+Dünyanın müxtəlif bölgələrində astronomlar və astrofotoqraflar kometanın
+uzun quyruğunu gecə səmasında qeydə aldılar.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#facc15;">🌌 NEOWISE-NIN 2020-Cİ İL MÜŞAHİDƏLƏRİ</strong><br><br>
+
+👁️ Adi gözlə görünə bilirdi<br><br>
+
+📷 Minlərlə astrofoto çəkildi<br><br>
+
+☄️ Uzun toz quyruğu müşahidə edildi<br><br>
+
+🌍 Şimal yarımkürəsinin bir çox ərazisindən göründü<br><br>
+
+🔭 Astronomların kometaların quruluşunu araşdırmasına imkan yaratdı
+
+</div>
+
+<h3 style="color:#f97316;">🛰️ Onu kosmik teleskop kəşf etmişdi</h3>
+
+<p>
+C/2020 F3 kometası 2020-ci ilin martında NASA-nın NEOWISE missiyasının
+müşahidələri zamanı aşkar edilmişdi.
+</p>
+
+<p>
+NEOWISE Yerə yaxın asteroid və kometaları infraqırmızı diapazonda
+müşahidə edirdi. Kəşfdən sonra obyekt teleskopun adı ilə
+<strong>NEOWISE</strong> adlandırıldı.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">🛰️ NEOWISE MISSİYASI</strong><br><br>
+
+🔭 Müşahidə: <strong>infraqırmızı diapazon</strong><br><br>
+
+☄️ Hədəflər: <strong>asteroidlər və kometalar</strong><br><br>
+
+🌍 Yerə yaxın obyektlərin araşdırılması<br><br>
+
+🔎 Günəş sistemində yeni obyektlərin axtarışı
+
+</div>
+
+<h3 style="color:#22c55e;">🌌 Kometalar Günəş sisteminin keçmişini qoruyur</h3>
+
+<p>
+Kometaların elmi əhəmiyyəti onların gözəl görünüşündən daha böyükdür.
+Bu cisimlər Günəş sisteminin təxminən 4,6 milyard il əvvəl formalaşdığı
+dövrdən qalan ilkin materialları özündə saxlaya bilər.
+</p>
+
+<p>
+Onların tərkibinin öyrənilməsi alimlərə planetlərin formalaşdığı ilkin
+mühitin xüsusiyyətlərini daha yaxşı anlamağa kömək edir.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">🔬 KOMETALAR NƏYİ ÖYRƏNMƏYƏ KÖMƏK EDİR?</strong><br><br>
+
+☀️ Günəş sisteminin yaranmasını<br><br>
+
+🧊 İlkin buz və qazların tərkibini<br><br>
+
+🪨 Planetlərin formalaşdığı materialları<br><br>
+
+🌍 Erkən Günəş sisteminin tarixini
+
+</div>
+
+<div style="
+background:rgba(139,92,246,0.05);
+border:1px solid rgba(167,139,250,0.28);
+padding:18px;
+border-radius:10px;
+font-size:18px;
+margin-top:20px;">
+
+🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
+NASA-nın 13 sentyabr üçün seçdiyi görüntü NEOWISE kometasının
+2020-ci ildəki möhtəşəm görünüşünü yenidən diqqət mərkəzinə gətirib.
+Belə kometaların müşahidəsi Günəş sisteminin milyardlarla illik tarixinin
+araşdırılması üçün mühüm məlumatlar verir.
+
+</div>
+
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos, astronomiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
