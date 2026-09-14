@@ -1,144 +1,192 @@
 <h2 style="color:#22c55e;">
-🌿 Azərbaycan təbiətin və biomüxtəlifliyin qorunması üzrə əməkdaşlığı genişləndirir
+🌊 Bakı buxtasında Xəzərin suyu neft ləkələri və tullantılardan təmizlənir
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 13 sentyabr 2026, 17:20 — Bakı vaxtı
+🕐 Əlavə olunub: 14 sentyabr 2026, 16:44 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycan təbiətin, ekosistemlərin və biomüxtəlifliyin qorunması istiqamətində türk dövlətləri ilə əməkdaşlığı genişləndirməyi planlaşdırır.</strong>
+<strong>Bakı buxtasının ekoloji vəziyyətinin yaxşılaşdırılması məqsədilə
+Dənizkənarı Milli Parkın yaxınlığındakı akvatoriyada su səthinin
+çirkləndiricilərdən təmizlənməsi işləri aparılır.</strong>
 </p>
 
 <p>
-Son günlər Bakıda keçirilən iqlim tədbirləri çərçivəsində ekoloji problemlərlə birgə mübarizə, biomüxtəlifliyin qorunması və təbii ehtiyatlardan davamlı istifadə əsas müzakirə mövzularından biri olub.
+Təmizləmə zamanı Xəzərin su səthində toplanan müxtəlif üzvi tullantılar,
+neft ləkələri və digər qalıqlar yığılaraq ərazidən uzaqlaşdırılır.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
+background:rgba(59,130,246,0.045);
+border:1px solid rgba(96,165,250,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🌿 ƏSAS İSTİQAMƏTLƏR</strong><br><br>
+<strong style="color:#60a5fa;">🌊 BAKI BUXTASINDA TƏMİZLİK</strong><br><br>
 
-🌳 Təbiətin mühafizəsi<br><br>
+📍 Ərazi: <strong>Bakı buxtası</strong><br><br>
 
-🐾 Biomüxtəlifliyin qorunması<br><br>
+🌊 Akvatoriya: <strong>Dənizkənarı Milli Parkın yaxınlığı</strong><br><br>
 
-💧 Su ehtiyatlarının davamlı idarə olunması<br><br>
+🛢️ Neft ləkələri təmizlənir<br><br>
 
-🌍 İqlim dəyişmələrinə uyğunlaşma<br><br>
+🍂 Üzvi tullantılar sudan çıxarılır<br><br>
 
-🤝 Regional ekoloji əməkdaşlığın genişləndirilməsi
+🗑️ Digər çirkləndirici qalıqlar toplanır<br><br>
+
+🌿 Məqsəd: <strong>buxtanın ekoloji vəziyyətinin yaxşılaşdırılması</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🐾 Biomüxtəlifliyin qorunması xüsusi əhəmiyyət daşıyır</h3>
+<h3 style="color:#38bdf8;">🛢️ Su səthindəki neft ləkələri yığılır</h3>
 
 <p>
-Azərbaycan müxtəlif iqlim qurşaqlarının və təbii landşaftların bir arada yerləşdiyi ölkələrdən biridir. Xəzər sahillərindən Böyük və Kiçik Qafqaz dağlarına, Hirkan meşələrindən yarımsəhra ərazilərinə qədər müxtəlif ekosistemlər çoxsaylı bitki və heyvan növləri üçün yaşayış mühiti yaradır.
+Bakı buxtasında aparılan işlərin əsas istiqamətlərindən biri su səthində
+müşahidə edilən neft mənşəli ləkələrin və digər çirkləndiricilərin
+təmizlənməsidir.
 </p>
 
 <p>
-İqlim dəyişmələri, su ehtiyatlarının dəyişməsi və insan fəaliyyəti bu ekosistemlərin uzunmüddətli qorunmasını daha vacib edir.
+Su səthində toplanan tullantıların vaxtında çıxarılması onların külək və
+dalğaların təsiri ilə akvatoriyanın digər hissələrinə yayılmasının
+qarşısının alınması baxımından əhəmiyyətlidir.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
+background:rgba(249,115,22,0.045);
+border:1px solid rgba(249,115,22,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🇦🇿 AZƏRBAYCANIN TƏBİİ SƏRVƏTLƏRİ</strong><br><br>
+<strong style="color:#fb923c;">🛢️ SUYU NƏ ÇİRKLƏNDİRƏ BİLƏR?</strong><br><br>
 
-🌊 Xəzər dənizi ekosistemi<br><br>
+🛢️ Neft və neft mənşəli qalıqlar<br><br>
 
-🌳 Hirkan meşələri<br><br>
+🗑️ Məişət tullantıları<br><br>
 
-🏔️ Böyük və Kiçik Qafqazın dağ ekosistemləri<br><br>
+🍂 Üzvi qalıqlar<br><br>
 
-🌾 Aran və yarımsəhra landşaftları<br><br>
+🥤 Plastik və digər üzən tullantılar<br><br>
 
-🐾 Zəngin flora və fauna
+🌊 Sahildən və şəhər ərazisindən suya daxil olan çirkləndiricilər
 
 </div>
 
-<h3 style="color:#f59e0b;">🌍 İqlim dəyişmələri sərhəd tanımır</h3>
+<h3 style="color:#22c55e;">🐟 Xəzərin ekosistemi üçün niyə vacibdir?</h3>
 
 <p>
-Quraqlıq, su çatışmazlığı, torpaq deqradasiyası, meşə yanğınları və biomüxtəlifliyin azalması kimi ekoloji problemlər bir ölkənin sərhədləri ilə məhdudlaşmır.
+Bakı buxtası Xəzər dənizinin şəhər mühiti ilə ən sıx təmasda olan
+hissələrindən biridir. Buna görə burada suyun təmizliyinin qorunması
+yalnız şəhərin görünüşü deyil, dəniz ekosisteminin vəziyyəti baxımından
+da əhəmiyyət daşıyır.
 </p>
 
 <p>
-Bu səbəbdən region ölkələri arasında məlumat və təcrübə mübadiləsinin gücləndirilməsi təbiətin uzunmüddətli qorunması baxımından mühüm əhəmiyyət daşıyır.
+Neft mənşəli çirkləndiricilər suyun səthində təbəqə yarada və dəniz
+mühitində gedən təbii proseslərə mənfi təsir göstərə bilər.
+Plastik və digər tullantılar isə su canlıları və quşlar üçün əlavə
+təhlükə yaradır.
 </p>
 
 <div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.28);
+background:rgba(34,197,94,0.045);
+border:1px solid rgba(34,197,94,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🌍 ORTAQ EKOLOJİ ÇAĞIRIŞLAR</strong><br><br>
+<strong style="color:#4ade80;">🐟 DƏNİZ EKOSİSTEMİNİN QORUNMASI</strong><br><br>
 
-🔥 Meşə yanğınları<br><br>
+💧 Suyun çirklənməsinin azaldılması<br><br>
 
-🌡️ Temperaturun yüksəlməsi<br><br>
+🐟 Su canlılarının yaşayış mühitinin qorunması<br><br>
 
-💧 Su ehtiyatlarının azalması<br><br>
+🐦 Sahil quşları üçün risklərin azaldılması<br><br>
 
-🏜️ Torpaq deqradasiyası və səhralaşma<br><br>
+🌊 Tullantıların dənizdə yayılmasının qarşısının alınması<br><br>
 
-🐾 Biomüxtəlifliyə təzyiq
+🌿 Sahil ekosisteminin sağlam vəziyyətdə saxlanılması
 
 </div>
 
-<h3 style="color:#a78bfa;">🤝 Birgə layihələr genişləndirilə bilər</h3>
+<h3 style="color:#38bdf8;">🌊 Bakı buxtasının ekoloji vəziyyəti diqqət mərkəzindədir</h3>
 
 <p>
-Regional əməkdaşlıq gələcəkdə mühafizə olunan təbiət əraziləri, nadir heyvan və bitki növlərinin qorunması, su ehtiyatlarının idarə edilməsi və ekoloji monitorinq sahələrində yeni layihələrin həyata keçirilməsinə imkan yarada bilər.
+Buxtanın şəhərin mərkəzi hissəsində yerləşməsi burada ekoloji monitorinq
+və müntəzəm təmizlik işlərinin aparılmasını xüsusilə vacib edir.
+</p>
+
+<p>
+Su səthində yığılan tullantıların sistemli şəkildə təmizlənməsi
+çirklənmənin azalmasına və sahilyanı ərazinin ekoloji vəziyyətinin
+yaxşılaşdırılmasına kömək edir.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.28);
+background:rgba(59,130,246,0.045);
+border:1px solid rgba(96,165,250,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🤝 ƏMƏKDAŞLIQ NƏ VERƏ BİLƏR?</strong><br><br>
+<strong style="color:#60a5fa;">🌊 ƏSAS MƏQSƏD</strong><br><br>
 
-📡 Birgə ekoloji monitorinq<br><br>
+🧹 Su səthinin təmiz saxlanılması<br><br>
 
-🔬 Elmi məlumat mübadiləsi<br><br>
+🛢️ Neft ləkələrinin aradan qaldırılması<br><br>
 
-🌳 Təbiətin bərpası layihələri<br><br>
+♻️ Tullantıların akvatoriyadan çıxarılması<br><br>
 
-🐾 Nadir növlərin qorunması<br><br>
+🌿 Ekoloji vəziyyətin yaxşılaşdırılması<br><br>
 
-🌍 İqlim dəyişmələrinə qarşı ortaq tədbirlər
+💙 Xəzər dənizinin qorunması
 
 </div>
 
-<p style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
+<h3 style="color:#f59e0b;">🌍 Xəzərin qorunması uzunmüddətli əhəmiyyət daşıyır</h3>
+
+<p>
+Xəzər dənizi Azərbaycan üçün mühüm təbii ekosistemdir. Dənizin sahilyanı
+ərazilərində çirklənmənin azaldılması, tullantıların düzgün idarə edilməsi
+və suyun vəziyyətinin monitorinqi onun ekoloji tarazlığının qorunmasında
+mühüm rol oynayır.
+</p>
+
+<p>
+Bakı kimi böyük şəhərlərin sahilyanı ərazilərində bu tədbirlərin
+mütəmadi həyata keçirilməsi xüsusilə vacibdir.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.045);
+border:1px solid rgba(34,197,94,0.27);
 padding:18px;
 border-radius:10px;
-font-size:18px;">
+font-size:18px;
+margin-top:20px;">
 
 🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
-Azərbaycanın zəngin təbiətinin qorunması yalnız ayrı-ayrı ərazilərin mühafizəsi deyil, ekosistemlərin uzunmüddətli davamlılığının təmin olunmasını tələb edir. Regional əməkdaşlıq bu istiqamətdə mühüm vasitələrdən biri ola bilər.
+Bakı buxtasının tullantı və neft ləkələrindən təmizlənməsi Xəzərin
+sahilyanı ekosisteminin qorunması baxımından mühüm tədbirlərdən biridir.
+Dənizə daxil olan tullantıların azaldılması isə uzunmüddətli ekoloji
+nəticə əldə etmək üçün əsas istiqamətlərdən biri olaraq qalır.
 
+</div>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+🌊📡 META Meteorologiya Mərkəzi Xəzər dənizi, Azərbaycan təbiəti və
+ekologiyası ilə bağlı baş verən dəyişiklikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:<br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank"
+📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
@@ -152,8 +200,10 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#94a3b8;font-size:14px;">
 META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
+əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
