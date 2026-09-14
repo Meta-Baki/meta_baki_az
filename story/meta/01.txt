@@ -1,73 +1,23 @@
-<h2 style="color:#38bdf8;">
-🌊 Azərbaycanın bəzi çaylarında sululuq arta bilər — leysanlar sel riskini yüksəldir
+<h2 style="color:#22c55e;">
+🌳 Bakıda təhlükə yarada biləcək ağaclar müəyyən edilərək götürülür
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 13 sentyabr 2026, 17:20 — Bakı vaxtı
+🕐 Əlavə olunub: 14 sentyabr 2026, 16:44 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin meteoroloji vəziyyətin təhlili əsasında hazırladığı məlumata görə, sentyabrın 13-də Azərbaycanın bəzi dağlıq və cənub-şərq ərazilərində yağıntılar fonunda çaylarda sululuğun artması mümkündür.</strong>
+<strong>Bakının müxtəlif ərazilərində yaşıllıqlara mövsümi qulluq və
+təhlükəsizlik tədbirləri çərçivəsində quru, zədələnmiş və güclü külək
+zamanı təhlükə yarada biləcək ağacların müəyyənləşdirilməsi istiqamətində
+monitorinqlər aparılır.</strong>
 </p>
 
 <p>
-Ayrı-ayrı ərazilərdə yağıntının qısamüddətli leysan xarakterli olması, şimşək çaxması və dolu düşməsi ehtimalı var. Güclü lokal yağıntılar xüsusilə kiçik dağ çaylarında su səviyyəsinin qısa müddətdə yüksəlməsinə səbəb ola bilər.
-</p>
-
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#60a5fa;">🌊 ƏSAS RİSKLƏR</strong><br><br>
-
-🌧️ Lokal güclü leysan<br><br>
-
-⛈️ Şimşək və göy gurultusu<br><br>
-
-🧊 Ayrı-ayrı ərazilərdə dolu ehtimalı<br><br>
-
-🏞️ Çaylarda sululuğun artması<br><br>
-
-⚠️ Kiçik dağ çaylarında sürətli səviyyə dəyişiklikləri
-
-</div>
-
-<h3 style="color:#f97316;">🏔️ Dağlıq ərazilərdə vəziyyət daha diqqətlə izlənilməlidir</h3>
-
-<p>
-Dağlıq relyefdə intensiv yağıntı zamanı su sürətlə dərələrə və çay yataqlarına toplanır. Buna görə qısa müddətli leysan belə bəzi kiçik çaylarda suyun səviyyəsinin sürətlə yüksəlməsinə səbəb ola bilər.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">⛰️ LEYSAN ZAMANI</strong><br><br>
-
-🌧️ Güclü yağıntı<br><br>
-⬇️<br><br>
-💧 Səth axınının artması<br><br>
-⬇️<br><br>
-🏞️ Suyun çay və dərələrə sürətlə toplanması<br><br>
-⬇️<br><br>
-🌊 Sululuğun və lokal sel riskinin artması
-
-</div>
-
-<h3 style="color:#22c55e;">🌿 Təbiətə də təsir göstərə bilər</h3>
-
-<p>
-Güclü su axınları torpaq eroziyasını sürətləndirə, çay sahillərində torpaq qatının yuyulmasına və suyun bulanıqlığının artmasına səbəb ola bilər.
-</p>
-
-<p>
-Belə hadisələr çay ekosistemlərinə də qısamüddətli təsir göstərə bilər. Buna görə intensiv yağıntılar yalnız meteoroloji deyil, həm də ekoloji baxımdan izlənilməlidir.
+Bakı Şəhər Yaşıllaşdırma Təsərrüfatı Birliyinin məlumatına görə,
+mütəxəssislər paytaxtın müxtəlif ərazilərində ağacların vəziyyətini
+yoxlayırlar. Monitorinq zamanı qurumuş, zədələnmiş, aşmaq və ya budaqları
+qırılmaq riski olan ağaclara xüsusi diqqət yetirilir.
 </p>
 
 <div style="
@@ -77,33 +27,153 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🌿 MÜMKÜN EKOLOJİ TƏSİRLƏR</strong><br><br>
+<strong style="color:#4ade80;">🌳 HANSI AĞACLAR YOXLANILIR?</strong><br><br>
 
-🌱 Torpaq eroziyası<br><br>
+🍂 Qurumuş ağaclar<br><br>
 
-🏞️ Çay sahillərinin yuyulması<br><br>
+🌳 Gövdəsi zədələnmiş ağaclar<br><br>
 
-💧 Suyun bulanıqlığının artması<br><br>
+🪵 Qırılmaq təhlükəsi olan budaqlar<br><br>
 
-🐟 Su ekosistemlərinə qısamüddətli təsir
+💨 Güclü külək zamanı aşa biləcək ağaclar<br><br>
+
+⚠️ İnsanlar və nəqliyyat üçün təhlükə yarada biləcək yaşıllıqlar
+
+</div>
+
+<h3 style="color:#f97316;">💨 Külək zamanı təhlükə yarada bilərlər</h3>
+
+<p>
+Zəifləmiş və qurumuş ağaclar güclü külək zamanı daha böyük təhlükə
+yaradır. Küləyin təsiri nəticəsində iri budaqların qırılması və ya ağacın
+tamamilə aşması mümkündür.
+</p>
+
+<p>
+Belə hallar piyadalar, avtomobillər, elektrik xətləri və şəhər
+infrastrukturu üçün təhlükə yarada bilər.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.045);
+border:1px solid rgba(249,115,22,0.27);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">💨 GÜCLÜ KÜLƏK ZAMANI RİSK</strong><br><br>
+
+🌳 Zəifləmiş ağac<br><br>
+
+⬇️<br><br>
+
+💨 Güclü külək yükü<br><br>
+
+⬇️<br><br>
+
+🪵 Budaqların qırılması və ya ağacın aşması<br><br>
+
+⬇️<br><br>
+
+🚶🚗 İnsanlar, avtomobillər və infrastruktura təhlükə
+
+</div>
+
+<h3 style="color:#38bdf8;">🔎 Təhlükəli ağaclar monitorinq zamanı müəyyən edilir</h3>
+
+<p>
+Mütəxəssislər ağacların gövdəsini, budaqlarını və ümumi vəziyyətini
+qiymətləndirirlər. Təhlükəli hesab edilən quru ağaclar müvafiq rəy
+əsasında kökündən çıxarılır.
+</p>
+
+<p>
+Tam götürülməsinə ehtiyac olmayan ağaclarda isə quru, zədələnmiş və
+potensial təhlükəli budaqlar budanır.
+</p>
+
+<div style="
+background:rgba(59,130,246,0.045);
+border:1px solid rgba(96,165,250,0.27);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#60a5fa;">🔎 İŞLƏR NECƏ APARILIR?</strong><br><br>
+
+1️⃣ Ağacların vəziyyəti yoxlanılır<br><br>
+
+2️⃣ Quru və təhlükəli hissələr müəyyən edilir<br><br>
+
+3️⃣ Risk səviyyəsi qiymətləndirilir<br><br>
+
+4️⃣ Təhlükəli budaqlar budanır<br><br>
+
+5️⃣ Zəruri hallarda quru ağac kökündən çıxarılır
+
+</div>
+
+<h3 style="color:#22c55e;">🌿 Məqsəd yaşıl fondu sağlam saxlamaqdır</h3>
+
+<p>
+Görülən tədbirlərin məqsədi yalnız güclü külək zamanı mümkün hadisələrin
+qarşısını almaq deyil. İşlər eyni zamanda Bakının yaşıl fondunun sağlam
+və davamlı vəziyyətdə saxlanılmasına xidmət edir.
+</p>
+
+<p>
+Qurumuş və ciddi zədələnmiş hissələrin vaxtında müəyyən edilməsi sağlam
+ağacların qorunması və şəhər yaşıllıqlarına düzgün qulluq baxımından
+əhəmiyyətlidir.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.045);
+border:1px solid rgba(34,197,94,0.27);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#4ade80;">🌿 ƏSAS MƏQSƏD</strong><br><br>
+
+👥 Vətəndaşların təhlükəsizliyi<br><br>
+
+🚗 Nəqliyyat vasitələrinin qorunması<br><br>
+
+🏙️ Şəhər infrastrukturuna zərərin qarşısının alınması<br><br>
+
+🌳 Sağlam ağacların qorunması<br><br>
+
+🌱 Bakının yaşıl fondunun davamlı saxlanılması
 
 </div>
 
 <p style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
+background:rgba(34,197,94,0.045);
+border:1px solid rgba(34,197,94,0.27);
 padding:18px;
 border-radius:10px;
-font-size:18px;">
+font-size:18px;
+margin-top:20px;">
 
-🌿 <strong style="color:#60a5fa;">META Ekologiya:</strong>
-Sentyabrın 13-də xüsusilə dağlıq və cənub-şərq ərazilərində lokal leysanların mümkünlüyü nəzərə alınmalıdır. Yağıntının intensiv olduğu ərazilərdə kiçik çay və dərələrdə vəziyyət qısa müddətdə dəyişə bilər.
+🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
+Şəhər ağaclarının mütəmadi monitorinqi həm yaşıllıqların qorunması,
+həm də küləkli hava şəraitində yarana biləcək risklərin əvvəlcədən
+müəyyən edilməsi baxımından mühüm əhəmiyyət daşıyır.
 
 </p>
 
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+🌿📡 META Meteorologiya Mərkəzi Azərbaycan və Bakıda təbiət, ekologiya
+və hava şəraiti ilə bağlı yenilikləri izləməyə davam edir.
+</p>
+
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:<br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank"
+📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
@@ -117,8 +187,10 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#94a3b8;font-size:14px;">
 META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
+əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
