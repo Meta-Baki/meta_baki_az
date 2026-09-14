@@ -1,20 +1,21 @@
 <h2 style="color:#f59e0b;">
-☀️ Bakıda temperatur +31°C-yə yüksələcək — 14 sentyabrın hava proqnozu
+🎓☀️ Bakıda Bilik Günündə +32°C-dək isti olacaq — gecə bəzi yerlərdə zəif duman gözlənilir
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 13 sentyabr 2026, 17:20 — Bakı vaxtı
+🕐 Əlavə olunub: 14 sentyabr 2026, 16:40 — Bakı vaxtı
 </p>
 
 <p>
 <strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında
-hazırladığı proqnoza görə, sentyabrın 14-də Bakı və Abşeron yarımadasında
-hava dəyişkən buludlu olacaq, əsasən yağmursuz keçəcək.</strong>
+hazırladığı proqnoza görə, sentyabrın 15-də — Bilik Günündə Bakı və Abşeron
+yarımadasında hava dəyişkən buludlu olacaq, əsasən yağmursuz keçəcək.</strong>
 </p>
 
 <p>
-Gün ərzində cənub küləyi əsəcək. Havanın temperaturu gecə
-<strong>+18…+21°C</strong>, gündüz isə <strong>+26…+31°C</strong> təşkil edəcək.
+Gecə saatlarında bəzi yerlərdə zəif duman müşahidə oluna bilər.
+Gün ərzində cənub-şərq küləyi əsəcək. Temperatur gündüz
+<strong>+27…+32°C</strong>-yə yüksələcək.
 </p>
 
 <div style="
@@ -24,37 +25,32 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">☀️ BAKI VƏ ABŞERON — 14 SENTYABR</strong><br><br>
+<strong style="color:#fb923c;">🎓 BAKI VƏ ABŞERON — 15 SENTYABR</strong><br><br>
 
 🌤️ Hava: <strong>dəyişkən buludlu, əsasən yağmursuz</strong><br><br>
 
-🌧️ Yağıntı: <strong>gözlənilmir</strong><br><br>
+🌫️ Gecə: <strong>bəzi yerlərdə zəif duman</strong><br><br>
 
-🌡️ Gecə: <strong>+18…+21°C</strong><br><br>
+🌡️ Gecə: <strong>+19…+22°C</strong><br><br>
 
-🌡️ Gündüz: <strong>+26…+31°C</strong><br><br>
+🌡️ Gündüz: <strong>+27…+32°C</strong><br><br>
 
-💨 Külək: <strong>cənub</strong><br><br>
+💨 Külək: <strong>cənub-şərq</strong><br><br>
 
-📊 Atmosfer təzyiqi: <strong>761 mmHg / ≈1015 hPa</strong><br><br>
+📊 Atmosfer təzyiqi: <strong>759 mmHg / ≈1012 hPa</strong><br><br>
 
 💧 Rütubət gecə: <strong>70–75%</strong><br><br>
 
-💧 Rütubət gündüz: <strong>45–50%</strong>
+💧 Rütubət gündüz: <strong>55–65%</strong>
 
 </div>
 
-<h3 style="color:#facc15;">🌡️ Günorta +31°C-dək isti olacaq</h3>
+<h3 style="color:#facc15;">☀️ Bilik Günündə hava isti olacaq</h3>
 
 <p>
-Səhər saatlarında hava mülayim olacaq. Gün ərzində temperatur tədricən
-yüksələcək və günorta saatlarında Bakı və Abşeronun bəzi ərazilərində
-<strong>+30…+31°C</strong>-yə çatacaq.
-</p>
-
-<p>
-Gecə saatlarında rütubət yüksək olsa da, gündüz havanın daha quru olması
-gözlənilir.
+Səhər saatlarında hava mülayim keçəcək, lakin günorta temperatur tədricən
+yüksələrək Bakı və Abşeronun bəzi ərazilərində <strong>+32°C</strong>-yə
+çata bilər.
 </p>
 
 <div style="
@@ -66,9 +62,9 @@ margin:18px 0;">
 
 <strong style="color:#facc15;">🌡️ GÜN ƏRZİNDƏ</strong><br><br>
 
-🌅 Səhər → <strong>mülayim hava</strong><br><br>
+🌅 Səhər → <strong>mülayim, əsasən yağmursuz</strong><br><br>
 
-☀️ Günorta → <strong>isti, +26…+31°C</strong><br><br>
+☀️ Günorta → <strong>isti, +27…+32°C</strong><br><br>
 
 🌤️ Buludluluq → <strong>dəyişkən</strong><br><br>
 
@@ -78,16 +74,42 @@ margin:18px 0;">
 
 </div>
 
-<h3 style="color:#38bdf8;">📊 Təzyiq 761 mm civə sütunu olacaq</h3>
+<h3 style="color:#94a3b8;">🌫️ Gecə zəif duman mümkündür</h3>
 
 <p>
-Atmosfer təzyiqinin <strong>761 mm civə sütunu</strong> təşkil edəcəyi
-gözlənilir. Bu göstərici təxminən <strong>1015 hPa</strong>-ya bərabərdir.
+Gecə saatlarında yüksək rütubət fonunda Bakı və Abşeronun bəzi yerlərində
+<strong>zəif duman</strong> əmələ gələ bilər.
+</p>
+
+<div style="
+background:rgba(148,163,184,0.05);
+border:1px solid rgba(148,163,184,0.26);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#cbd5e1;">🌫️ DUMAN</strong><br><br>
+
+🕐 Vaxt: <strong>gecə saatları</strong><br><br>
+
+📍 Ərazi: <strong>Bakı və Abşeronun bəzi yerləri</strong><br><br>
+
+🌫️ İntensivlik: <strong>zəif</strong><br><br>
+
+💧 Rütubət: <strong>70–75%</strong>
+
+</div>
+
+<h3 style="color:#38bdf8;">📊 Təzyiq 759 mm civə sütunu olacaq</h3>
+
+<p>
+Atmosfer təzyiqinin <strong>759 mm civə sütunu</strong> təşkil edəcəyi
+gözlənilir. Bu göstərici təxminən <strong>1012 hPa</strong>-ya bərabərdir.
 </p>
 
 <p>
 Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə
-<strong>45–50%</strong> səviyyəsində olacaq.
+<strong>55–65%</strong> olacaq.
 </p>
 
 <div style="
@@ -101,22 +123,22 @@ margin:18px 0;">
 
 🌙 Gecə rütubəti → <strong>70–75%</strong><br><br>
 
-☀️ Gündüz rütubəti → <strong>45–50%</strong><br><br>
+☀️ Gündüz rütubəti → <strong>55–65%</strong><br><br>
 
-📊 Təzyiq → <strong>761 mmHg / ≈1015 hPa</strong>
+📊 Təzyiq → <strong>759 mmHg / ≈1012 hPa</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🇦🇿 Bölgələrdə +33°C-dək isti olacaq</h3>
+<h3 style="color:#22c55e;">🇦🇿 Rayonlarda +34°C-dək isti</h3>
 
 <p>
-Azərbaycanın rayonlarında hava əsasən yağmursuz keçəcək. Havanın temperaturu
-gecə <strong>+16…+21°C</strong>, gündüz isə <strong>+28…+33°C</strong> təşkil edəcək.
+Azərbaycanın rayonlarında hava əsasən yağmursuz keçəcək. Temperatur gecə
+<strong>+17…+20°C</strong>, gündüz isə <strong>+30…+34°C</strong> təşkil edəcək.
 </p>
 
 <p>
-Dağlıq ərazilərdə gecə temperatur <strong>+8…+13°C</strong>, gündüz isə
-<strong>+20…+25°C</strong> olacaq.
+Dağlıq ərazilərdə gecə <strong>+12…+17°C</strong>, gündüz isə
+<strong>+22…+27°C</strong> gözlənilir.
 </p>
 
 <div style="
@@ -130,28 +152,28 @@ margin:18px 0;">
 
 ☀️ Hava: <strong>əsasən yağmursuz</strong><br><br>
 
-🌡️ Gecə: <strong>+16…+21°C</strong><br><br>
+🌡️ Gecə: <strong>+17…+20°C</strong><br><br>
 
-🌡️ Gündüz: <strong>+28…+33°C</strong><br><br>
+🌡️ Gündüz: <strong>+30…+34°C</strong><br><br>
 
-🏔️ Dağlarda gecə: <strong>+8…+13°C</strong><br><br>
+🏔️ Dağlarda gecə: <strong>+12…+17°C</strong><br><br>
 
-🏔️ Dağlarda gündüz: <strong>+20…+25°C</strong><br><br>
+🏔️ Dağlarda gündüz: <strong>+22…+27°C</strong><br><br>
 
 💨 Külək: <strong>şərq</strong>
 
 </div>
 
-<h3 style="color:#f97316;">⛈️ Bəzi dağlıq ərazilərdə şimşək mümkündür</h3>
+<h3 style="color:#f97316;">⛈️ Bəzi dağlıq rayonlarda şimşək mümkündür</h3>
 
 <p>
-Ölkə ərazisinin böyük hissəsində sabit və quru hava şəraiti üstünlük
-təşkil etsə də, gündüz saatlarında bəzi dağlıq rayonlarda
-<strong>qısamüddətli zəif yağış və şimşək</strong> ehtimalı var.
+Ölkənin böyük hissəsində quru hava üstünlük təşkil etsə də, gündüz saatlarında
+bəzi dağlıq rayonlarda <strong>qısamüddətli zəif yağış və şimşək</strong>
+ehtimalı var.
 </p>
 
 <p>
-Gecə və səhər saatlarında isə ayrı-ayrı ərazilərdə duman müşahidə oluna bilər.
+Gecə və səhər dağlıq ərazilərin bəzi yerlərində duman müşahidə oluna bilər.
 </p>
 
 <div style="
@@ -167,9 +189,7 @@ margin:18px 0;">
 
 ⚡ Lokal şimşək ehtimalı var<br><br>
 
-🌫️ Gecə və səhər bəzi yerlərdə duman gözlənilir<br><br>
-
-🌡️ Gündüz temperatur: <strong>+20…+25°C</strong>
+🌫️ Gecə və səhər duman mümkündür
 
 </div>
 
@@ -182,9 +202,9 @@ font-size:18px;
 margin-top:20px;">
 
 📡 <strong style="color:#fb923c;">META proqnozu:</strong>
-14 sentyabrda Bakı və Abşeronda əsasən sabit, isti və yağmursuz hava
-şəraiti gözlənilir. Temperatur gündüz +31°C-yə qədər yüksələcək.
-Bəzi dağlıq rayonlarda isə gün ərzində lokal yağış və şimşək ehtimalı var.
+15 sentyabr — Bilik Günündə Bakı və Abşeronda əsasən yağmursuz və isti
+hava gözlənilir. Gecə bəzi yerlərdə zəif duman ola bilər, gündüz isə
+temperatur +32°C-yə qədər yüksələcək.
 
 </p>
 
