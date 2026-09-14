@@ -1,199 +1,223 @@
 <h2 style="color:#a78bfa;">
-☄️ NASA günün kosmik görüntüsünü təqdim edib — NEOWISE kometası səmanı işıqlandırır
+🌌 Günəş sisteminin uzaq sərhədlərində 27 sirli obyekt aşkar edilib
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 13 sentyabr 2026, 17:20 — Bakı vaxtı
+🕐 Əlavə olunub: 14 sentyabr 2026, 16:44 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA sentyabrın 13-də günün astronomik görüntüsü kimi
-C/2020 F3 (NEOWISE) kometasının möhtəşəm fotosunu təqdim edib.
-Görüntüdə kometa Adriatik dənizi üzərində ulduzlu səmanı keçərkən
-uzun və parlaq quyruğu ilə seçilir.</strong>
+<strong>“James Webb” və “Hubble” kosmik teleskoplarının məlumatlarından
+istifadə edən astronomlar Neptunun orbitindən çox uzaqda yerləşən
+27 kiçik kosmik obyekt müəyyən ediblər.</strong>
 </p>
 
 <p>
-NEOWISE son illərin ən məşhur kometalarından biridir. O, 2020-ci ildə
-Günəşə yaxınlaşdığı dövrdə kifayət qədər parlaqlaşmış və dünyanın bir çox
-yerindən adi gözlə müşahidə edilmişdi.
+Bu cisimlər transneptun obyektləri adlanan böyük kosmik obyektlər
+ailəsinə daxildir. Onların orbitlərinin təhlili Günəş sisteminin
+xarici hissəsinin alimlərin düşündüyündən daha mürəkkəb tarixə malik
+ola biləcəyini göstərir.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.05);
+background:rgba(139,92,246,0.045);
 border:1px solid rgba(167,139,250,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">☄️ C/2020 F3 (NEOWISE)</strong><br><br>
+<strong style="color:#c4b5fd;">🌌 YENİ KOSMİK KƏŞF</strong><br><br>
 
-🔭 Kəşf: <strong>2020-ci il</strong><br><br>
+🔭 Teleskoplar: <strong>James Webb və Hubble</strong><br><br>
 
-🛰️ Kəşf edən: <strong>NASA-nın NEOWISE kosmik teleskopu</strong><br><br>
+✨ Aşkar edilən obyektlər: <strong>27</strong><br><br>
 
-☀️ Obyekt: <strong>uzunperiodlu kometa</strong><br><br>
+🪐 Ərazi: <strong>Neptunun orbitindən kənar</strong><br><br>
 
-✨ Xüsusiyyəti: <strong>parlaq koma və uzun quyruq</strong><br><br>
+☀️ Sistem: <strong>Günəş sisteminin xarici hissəsi</strong><br><br>
 
-📸 NASA paylaşımı: <strong>13 sentyabr 2026</strong>
+🔬 Obyekt növü: <strong>transneptun cisimləri</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">☄️ Kometa quyruğu necə yaranır?</h3>
+<h3 style="color:#38bdf8;">🪐 Neptunun arxasında nəhəng kosmik ərazi yerləşir</h3>
 
 <p>
-Kometalar əsasən buz, toz və qayalı materiallardan ibarət qədim Günəş
-sistemi cisimləridir. Kometa Günəşə yaxınlaşdıqca onun səthindəki donmuş
-maddələr isinərək qaz halına keçir.
+Neptun Günəşdən orta hesabla təxminən 30 astronomik vahid məsafədə
+yerləşir. Lakin Günəş sistemi onun orbiti ilə bitmir.
 </p>
 
 <p>
-Nəticədə kometanın nüvəsi ətrafında qaz və tozdan ibarət parlaq
-<strong>koma</strong> yaranır.
+Neptunun arxasında çoxlu buzlu və qayalı cisimlərin yerləşdiyi geniş
+kosmik region mövcuddur. Pluton da bu uzaq ərazinin ən məşhur
+obyektlərindən biridir.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
+background:rgba(59,130,246,0.045);
+border:1px solid rgba(96,165,250,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">☀️ KOMETA GÜNƏŞƏ YAXINLAŞDIQDA</strong><br><br>
+<strong style="color:#60a5fa;">🪐 GÜNƏŞDƏN UZAQLAŞDIQCA</strong><br><br>
 
-🧊 Buz isinməyə başlayır<br><br>
+☀️ Günəş<br><br>
 
-⬇️<br>
+⬇️<br><br>
 
-💨 Qaz və toz nüvədən ayrılır<br><br>
+🌍 Daxili planetlər<br><br>
 
-⬇️<br>
+⬇️<br><br>
 
-✨ Nüvənin ətrafında parlaq koma yaranır<br><br>
+🪐 Yupiter, Saturn, Uran və Neptun<br><br>
 
-⬇️<br>
+⬇️<br><br>
 
-☄️ Günəş küləyi və radiasiya uzun quyruğun formalaşmasına səbəb olur
+❄️ Transneptun obyektləri<br><br>
+
+⬇️<br><br>
+
+🌌 Günəş sisteminin çox uzaq xarici bölgələri
 
 </div>
 
-<h3 style="color:#facc15;">✨ NEOWISE niyə bu qədər məşhur oldu?</h3>
+<h3 style="color:#facc15;">🔭 Webb və Hubble birlikdə işləyib</h3>
 
 <p>
-2020-ci ilin yayında NEOWISE Günəş sisteminin daxili hissəsinə daxil oldu
-və kifayət qədər parlaqlaşdı. Bunun nəticəsində kometanı xüsusi böyük
-teleskop olmadan da müşahidə etmək mümkün idi.
+Tədqiqatın maraqlı tərəflərindən biri iki güclü kosmik teleskopun
+imkanlarının birləşdirilməsidir.
 </p>
 
 <p>
-Dünyanın müxtəlif bölgələrində astronomlar və astrofotoqraflar kometanın
-uzun quyruğunu gecə səmasında qeydə aldılar.
+“Hubble” uzun illər ərzində uzaq kosmik obyektlərin müşahidəsində
+mühüm rol oynayıb. “James Webb” isə infraqırmızı müşahidələr vasitəsilə
+çox zəif və uzaq obyektləri aşkar etmək imkanına malikdir.
 </p>
 
 <div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.28);
+background:rgba(234,179,8,0.045);
+border:1px solid rgba(234,179,8,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">🌌 NEOWISE-NIN 2020-Cİ İL MÜŞAHİDƏLƏRİ</strong><br><br>
+<strong style="color:#facc15;">🔭 İKİ KOSMİK TELESKOP</strong><br><br>
 
-👁️ Adi gözlə görünə bilirdi<br><br>
+🔵 <strong>Hubble</strong> → uzunmüddətli və yüksək dəqiqlikli kosmik müşahidələr<br><br>
 
-📷 Minlərlə astrofoto çəkildi<br><br>
+🟠 <strong>James Webb</strong> → güclü infraqırmızı müşahidələr<br><br>
 
-☄️ Uzun toz quyruğu müşahidə edildi<br><br>
-
-🌍 Şimal yarımkürəsinin bir çox ərazisindən göründü<br><br>
-
-🔭 Astronomların kometaların quruluşunu araşdırmasına imkan yaratdı
+🤝 Birlikdə → <strong>çox zəif və uzaq obyektlərin müəyyən edilməsi</strong>
 
 </div>
 
-<h3 style="color:#f97316;">🛰️ Onu kosmik teleskop kəşf etmişdi</h3>
+<h3 style="color:#f97316;">❓ Orbitlər alimləri təəccübləndirib</h3>
 
 <p>
-C/2020 F3 kometası 2020-ci ilin martında NASA-nın NEOWISE missiyasının
-müşahidələri zamanı aşkar edilmişdi.
+Yeni aşkar edilmiş obyektlərin ən maraqlı xüsusiyyətlərindən biri onların
+Günəş ətrafındakı orbitləridir.
 </p>
 
 <p>
-NEOWISE Yerə yaxın asteroid və kometaları infraqırmızı diapazonda
-müşahidə edirdi. Kəşfdən sonra obyekt teleskopun adı ilə
-<strong>NEOWISE</strong> adlandırıldı.
+Astronomların araşdırması göstərir ki, bu kiçik cisimlərin orbital
+quruluşu kifayət qədər müxtəlifdir. Bu isə Günəş sisteminin xarici
+hissəsində milyardlarla il ərzində baş vermiş proseslərin daha mürəkkəb
+ola biləcəyini göstərir.
 </p>
 
 <div style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.28);
+background:rgba(249,115,22,0.045);
+border:1px solid rgba(249,115,22,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🛰️ NEOWISE MISSİYASI</strong><br><br>
+<strong style="color:#fb923c;">❓ ALİMLƏR NƏYİ ARAŞDIRIR?</strong><br><br>
 
-🔭 Müşahidə: <strong>infraqırmızı diapazon</strong><br><br>
+🌀 Obyektlərin orbitləri necə formalaşıb?<br><br>
 
-☄️ Hədəflər: <strong>asteroidlər və kometalar</strong><br><br>
+🪐 Nəhəng planetlər onların hərəkətinə necə təsir edib?<br><br>
 
-🌍 Yerə yaxın obyektlərin araşdırılması<br><br>
+💫 Kiçik cisimlər keçmişdə bir-biri ilə toqquşubmu?<br><br>
 
-🔎 Günəş sistemində yeni obyektlərin axtarışı
+🌌 Xarici Günəş sistemi əvvəllər necə görünürdü?
 
 </div>
 
-<h3 style="color:#22c55e;">🌌 Kometalar Günəş sisteminin keçmişini qoruyur</h3>
+<h3 style="color:#22c55e;">🕰️ Günəş sisteminin milyardlarla illik tarixini qoruyurlar</h3>
 
 <p>
-Kometaların elmi əhəmiyyəti onların gözəl görünüşündən daha böyükdür.
-Bu cisimlər Günəş sisteminin təxminən 4,6 milyard il əvvəl formalaşdığı
-dövrdən qalan ilkin materialları özündə saxlaya bilər.
+Transneptun obyektlərinin böyük hissəsi çox aşağı temperaturda yerləşən
+buzlu cisimlərdir. Onların bəzilərində Günəş sisteminin formalaşdığı
+təxminən 4,6 milyard il əvvəlki dövrdən qalan materiallar qoruna bilər.
 </p>
 
 <p>
-Onların tərkibinin öyrənilməsi alimlərə planetlərin formalaşdığı ilkin
-mühitin xüsusiyyətlərini daha yaxşı anlamağa kömək edir.
+Buna görə belə kiçik və uzaq obyektlərin araşdırılması planetlərin necə
+formalaşdığını və erkən Günəş sisteminin necə dəyişdiyini anlamaq üçün
+xüsusi əhəmiyyət daşıyır.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
+background:rgba(34,197,94,0.045);
+border:1px solid rgba(34,197,94,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🔬 KOMETALAR NƏYİ ÖYRƏNMƏYƏ KÖMƏK EDİR?</strong><br><br>
+<strong style="color:#4ade80;">🔬 KƏŞF NƏYİ ÖYRƏNMƏYƏ KÖMƏK EDİR?</strong><br><br>
 
 ☀️ Günəş sisteminin yaranmasını<br><br>
 
-🧊 İlkin buz və qazların tərkibini<br><br>
+🪐 Planetlərin ilkin miqrasiyasını<br><br>
 
-🪨 Planetlərin formalaşdığı materialları<br><br>
+❄️ Xarici Günəş sisteminin quruluşunu<br><br>
 
-🌍 Erkən Günəş sisteminin tarixini
+🌀 Kiçik cisimlərin orbital təkamülünü<br><br>
+
+🕰️ Təxminən 4,6 milyard illik kosmik tarixi
 
 </div>
 
+<h3 style="color:#a78bfa;">🌌 Orada daha minlərlə naməlum obyekt ola bilər</h3>
+
+<p>
+Günəş sisteminin xarici hissəsinin çox böyük və zəif işıqlandırılmış
+olması onun tam şəkildə araşdırılmasını çətinləşdirir.
+</p>
+
+<p>
+Yeni nəsil teleskopların imkanları artdıqca astronomlar bu regionda
+indiyədək müşahidə olunmamış daha çox kiçik obyekt aşkar edə bilərlər.
+Bu isə Günəş sisteminin sərhədləri haqqında təsəvvürlərimizi
+dəqiqləşdirməyə imkan verəcək.
+</p>
+
 <div style="
-background:rgba(139,92,246,0.05);
-border:1px solid rgba(167,139,250,0.28);
+background:rgba(139,92,246,0.045);
+border:1px solid rgba(167,139,250,0.27);
 padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
 🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
-NASA-nın 13 sentyabr üçün seçdiyi görüntü NEOWISE kometasının
-2020-ci ildəki möhtəşəm görünüşünü yenidən diqqət mərkəzinə gətirib.
-Belə kometaların müşahidəsi Günəş sisteminin milyardlarla illik tarixinin
-araşdırılması üçün mühüm məlumatlar verir.
+Neptunun arxasında 27 kiçik obyektin müəyyən edilməsi Günəş sisteminin
+xarici hissəsinin nə qədər az öyrənildiyini bir daha göstərir.
+Onların orbitlərinin gələcək tədqiqatları planetlərin və kiçik
+kosmik cisimlərin milyardlarla illik təkamülü haqqında yeni məlumatlar
+verə bilər.
 
 </div>
 
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
+və yeni elmi kəşflərlə bağlı məlumatları izləməyə davam edir.
+</p>
+
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, astronomiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
@@ -210,7 +234,7 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 <hr>
 
 <p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
 Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
 atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
 Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
