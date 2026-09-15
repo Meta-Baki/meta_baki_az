@@ -1,122 +1,136 @@
 <h2 style="color:#f59e0b;">
-☀️ Günəş aktivliyi yüksələ bilər — 14–20 sentyabr üçün həftəlik proqnoz
+☀️ 16–22 sentyabr üçün Günəş və geomaqnit aktivliyi proqnozu
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 13 sentyabr 2026, 17:20 — Bakı vaxtı
+🕐 Əlavə olunub: 15 sentyabr 2026, 15:10 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin kosmik hava məlumatlarının təhlili
-əsasında hazırladığı proqnoza görə, 14–20 sentyabr tarixlərində Günəş
-aktivliyinin əsasən aşağı səviyyədə qalacağı, lakin həftənin əvvəlində
-Yer maqnit sahəsində müvəqqəti aktivləşmələrin mümkün olacağı gözlənilir.</strong>
+<strong>META Meteorologiya Mərkəzinin kosmik hava məlumatlarının təhlilinə
+əsasən, 16–22 sentyabr tarixlərində geomaqnit şəraitin həftənin əvvəlində
+daha aktiv, sonrakı günlərdə isə əsasən sakit və ya zəif qeyri-sabit
+olacağı gözlənilir.</strong>
 </p>
 
 <p>
-Xüsusilə <strong>14–15 sentyabr</strong> tarixlərində koronal dəliklərdən
-çıxan yüksək sürətli Günəş küləyi axınlarının Yerə təsiri nəticəsində
-geomaqnit aktivlik arta bilər.
+Əsas diqqət <strong>16 sentyabra</strong> yönəlir. Bu tarixdə Günəş küləyinin
+təsiri fonunda Kp indeksinin müvəqqəti olaraq <strong>5</strong> səviyyəsinə
+çatması və <strong>G1 səviyyəli zəif geomaqnit qasırğasının</strong>
+yaranması mümkündür.
 </p>
 
 <div style="
-background:rgba(249,115,22,0.05);
+background:rgba(249,115,22,0.045);
 border:1px solid rgba(249,115,22,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">☀️ 14–20 SENTYABR — ÜMUMİ PROQNOZ</strong><br><br>
+<strong style="color:#fb923c;">☀️ HƏFTƏNİN ƏSAS GÖSTƏRİCİLƏRİ</strong><br><br>
 
-☀️ Günəş aktivliyi: <strong>əsasən aşağı</strong><br><br>
+📅 Dövr: <strong>16–22 sentyabr 2026</strong><br><br>
 
-🔥 Günəş alışmaları: <strong>C sinfi ehtimalı daha yüksək</strong><br><br>
+🧲 Maksimum gözlənilən Kp: <strong>5</strong><br><br>
 
-⚡ M sinfi alışma: <strong>aşağı ehtimal</strong><br><br>
+⚠️ Maksimum ehtimal olunan səviyyə: <strong>G1</strong><br><br>
 
-🌍 Geomaqnit aktivlik: <strong>sakitdən aktiv səviyyəyədək</strong><br><br>
+📆 Daha aktiv gün: <strong>16 sentyabr</strong><br><br>
 
-🧲 Ən aktiv dövr: <strong>14–15 sentyabr</strong><br><br>
-
-⚠️ Maqnit qasırğası: <strong>ayrı-ayrı dövrlərdə G1 mümkündür</strong>
+🟢 Həftənin ikinci yarısı: <strong>əsasən sakit</strong>
 
 </div>
 
-<h3 style="color:#facc15;">📊 Həftəlik Günəş və geomaqnit aktivliyi</h3>
+<h3 style="color:#38bdf8;">📊 7 günlük Günəş aktivliyi proqnozu</h3>
 
 <div style="overflow-x:auto;margin:20px 0;">
 <table style="
 width:100%;
 border-collapse:collapse;
-background:rgba(15,23,42,0.10);
-font-size:16px;">
+font-size:15px;
+text-align:center;
+min-width:760px;">
 
-<tr style="background:rgba(249,115,22,0.08);">
+<thead>
+<tr style="background:rgba(59,130,246,0.07);">
 <th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Tarix</th>
 <th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Günəş aktivliyi</th>
-<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Kp indeksi</th>
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Kp</th>
 <th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Geomaqnit vəziyyət</th>
-<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Risk</th>
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Qasırğa riski</th>
 </tr>
+</thead>
 
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>14 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aşağı–orta</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>Kp 3–5</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟠 Aktivləşmə mümkündür</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">G1 mümkündür</td>
-</tr>
+<tbody>
 
-<tr style="background:rgba(239,68,68,0.035);">
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>15 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aşağı–orta</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>Kp 4–5</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟠 Aktiv</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">G1 mümkündür</td>
-</tr>
-
-<tr>
+<tr style="background:rgba(249,115,22,0.055);">
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>16 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aşağı</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>Kp 3–4</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Qeyri-sabit</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aşağı–orta</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>4–5</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟠 Aktiv</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">⚠️ G1 mümkündür</td>
+</tr>
+
+<tr style="background:rgba(234,179,8,0.045);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>17 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aşağı–orta</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>3–4</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Qeyri-sabit / aktiv</td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">Aşağı</td>
 </tr>
 
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>17 sentyabr</strong></td>
+<tr style="background:rgba(34,197,94,0.035);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>18 sentyabr</strong></td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Aşağı</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>Kp 2–3</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>2–3</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Sakit–qeyri-sabit</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">Çox aşağı</td>
+</tr>
+
+<tr style="background:rgba(34,197,94,0.035);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>19 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Aşağı</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>2–3</strong></td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Əsasən sakit</td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">Çox aşağı</td>
 </tr>
 
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>18 sentyabr</strong></td>
+<tr style="background:rgba(34,197,94,0.035);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>20 sentyabr</strong></td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Aşağı</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>Kp 2–3</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>2–3</strong></td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Sakit</td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">Çox aşağı</td>
 </tr>
 
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>19 sentyabr</strong></td>
+<tr style="background:rgba(34,197,94,0.035);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>21 sentyabr</strong></td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Aşağı</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>Kp 2–3</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>2–3</strong></td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Sakit–qeyri-sabit</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">Aşağı</td>
-</tr>
-
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>20 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Aşağı</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>Kp 2–3</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Əsasən sakit</td>
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">Çox aşağı</td>
 </tr>
 
+<tr style="background:rgba(234,179,8,0.04);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>22 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aşağı</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);"><strong>2–4</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aktivləşmə mümkündür</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">Aşağı</td>
+</tr>
+
+</tbody>
 </table>
 </div>
+
+<h3 style="color:#f97316;">⚠️ 16 sentyabrda G1 ehtimalı</h3>
+
+<p>
+Həftənin əvvəlində Yerə çatan yüksək sürətli Günəş küləyi axınlarının
+maqnitosferə təsiri nəticəsində geomaqnit aktivliyin yüksəlməsi mümkündür.
+Kp indeksinin qısa müddət ərzində <strong>5</strong> səviyyəsinə çatması
+zəif — <strong>G1 səviyyəli geomaqnit qasırğası</strong> deməkdir.
+</p>
 
 <div style="
 background:rgba(239,68,68,0.04);
@@ -125,74 +139,117 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#f87171;">🧲 14–15 SENTYABRA DİQQƏT</strong><br><br>
+<strong style="color:#f87171;">🧲 16 SENTYABR — DİQQƏT</strong><br><br>
 
-🕳️ Səbəb: <strong>koronal dəliklərdən yüksək sürətli Günəş küləyi</strong><br><br>
+🧲 Kp indeksi: <strong>4–5</strong><br><br>
 
-🌍 Yer maqnit sahəsi: <strong>aktivləşə bilər</strong><br><br>
+⚠️ G1 geomaqnit qasırğası: <strong>mümkündür</strong><br><br>
 
-📈 Kp indeksi: <strong>ayrı-ayrı dövrlərdə 5-ə çata bilər</strong><br><br>
+☀️ Səbəb: <strong>Günəş küləyinin güclənməsi və mümkün CME təsiri</strong><br><br>
 
-⚠️ Səviyyə: <strong>G1 — zəif geomaqnit qasırğası mümkündür</strong>
+📡 Maqnitosfer: <strong>aktivləşə bilər</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">☀️ Güclü Günəş alışması ehtimalı aşağıdır</h3>
+<h3 style="color:#22c55e;">🟢 18 sentyabrdan sonra vəziyyət sakitləşə bilər</h3>
 
 <p>
-Mövcud kosmik hava proqnozlarına əsasən, yaxın günlərdə Günəş aktivliyinin
-əsasən aşağı səviyyədə qalması gözlənilir. C sinifli zəif alışmalar mümkündür,
-M sinifli alışmaların ehtimalı isə aşağı qiymətləndirilir.
+Hazırkı proqnoza əsasən, 18 sentyabrdan etibarən geomaqnit aktivliyin
+azalması gözlənilir. Kp indeksinin əsasən <strong>2–3</strong> intervalında
+qalması ehtimal olunur.
 </p>
 
 <p>
-Hazırkı vəziyyətə əsasən, həftənin əsas diqqətçəkən hadisəsi güclü Günəş
-alışmalarından daha çox <strong>koronal dəliklərdən gələn sürətli Günəş
-küləyinin Yer maqnit sahəsinə təsiri</strong> ola bilər.
+19–21 sentyabr tarixlərində Yer maqnit sahəsinin əsasən sakit olması
+proqnozlaşdırılır.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.28);
+background:rgba(34,197,94,0.04);
+border:1px solid rgba(34,197,94,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">📊 KP İNDEKSİ NƏ DEMƏKDİR?</strong><br><br>
+<strong style="color:#4ade80;">🟢 HƏFTƏNİN İKİNCİ YARISI</strong><br><br>
+
+☀️ Günəş aktivliyi → <strong>əsasən aşağı</strong><br><br>
+
+🧲 Kp → <strong>2–3</strong><br><br>
+
+🌍 Geomaqnit vəziyyət → <strong>əsasən sakit</strong><br><br>
+
+⚠️ Güclü maqnit qasırğası → <strong>hazırda gözlənilmir</strong>
+
+</div>
+
+<h3 style="color:#a78bfa;">🌌 Kp indeksi nədir?</h3>
+
+<p>
+Kp indeksi Yer maqnit sahəsindəki dəyişikliklərin intensivliyini göstərən
+0-dan 9-a qədər olan göstəricidir. İndeks yüksəldikcə geomaqnit aktivlik
+də artır.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.04);
+border:1px solid rgba(167,139,250,0.27);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">🧲 KP ŞKALASI</strong><br><br>
 
 🟢 Kp 0–2 → <strong>sakit</strong><br><br>
 
-🟡 Kp 3 → <strong>zəif dəyişkənlik</strong><br><br>
+🟡 Kp 3 → <strong>zəif qeyri-sabit</strong><br><br>
 
-🟠 Kp 4 → <strong>aktiv geomaqnit şərait</strong><br><br>
+🟠 Kp 4 → <strong>aktiv</strong><br><br>
 
 🔴 Kp 5 → <strong>G1 zəif geomaqnit qasırğası</strong><br><br>
 
 🔴 Kp 6 → <strong>G2 orta geomaqnit qasırğası</strong><br><br>
 
-🟣 Kp 7 və daha yüksək → <strong>güclü geomaqnit aktivlik</strong>
+🟣 Kp 7 → <strong>G3 güclü geomaqnit qasırğası</strong><br><br>
+
+🟣 Kp 8 → <strong>G4 çox güclü geomaqnit qasırğası</strong><br><br>
+
+🟣 Kp 9 → <strong>G5 ekstremal geomaqnit qasırğası</strong>
 
 </div>
 
-<p style="
-background:rgba(249,115,22,0.05);
-border:1px solid rgba(249,115,22,0.28);
+<h3 style="color:#38bdf8;">📡 Proqnoz dəyişə bilər</h3>
+
+<p>
+Günəş aktivliyinin 7 günlük proqnozlarında son günlər üzrə qeyri-müəyyənlik
+daha yüksəkdir. Yeni güclü Günəş alışması və Yer istiqamətində koronal
+kütlə atılması — CME baş verərsə, geomaqnit proqnoz qısa müddətdə
+əhəmiyyətli dərəcədə dəyişə bilər.
+</p>
+
+<div style="
+background:rgba(59,130,246,0.04);
+border:1px solid rgba(96,165,250,0.27);
 padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-☀️ <strong style="color:#fb923c;">META Kosmos proqnozu:</strong>
-14–20 sentyabr həftəsində Günəş aktivliyinin əsasən aşağı səviyyədə qalacağı
-gözlənilir. Ən diqqətçəkən dövr 14–15 sentyabr ola bilər. Bu tarixlərdə
-sürətli Günəş küləyi axınlarının təsiri ilə Kp indeksinin müvəqqəti olaraq
-5-ə çatması və G1 səviyyəli zəif geomaqnit qasırğasının yaranması mümkündür.
-Həftənin ikinci yarısında geomaqnit şəraitin tədricən sakitləşməsi gözlənilir.
+☀️ <strong style="color:#60a5fa;">META Kosmos:</strong>
+16–22 sentyabr dövründə əsas geomaqnit aktivlik həftənin əvvəlində
+gözlənilir. 16 sentyabrda Kp indeksinin 5-ə çatması və G1 səviyyəli
+zəif geomaqnit qasırğasının yaranması mümkündür. Həftənin ikinci
+yarısında isə daha sakit kosmik hava şəraiti gözlənilir.
 
+</div>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+☀️📡 META Meteorologiya Mərkəzi Günəş və geomaqnit aktivliyində baş verən
+dəyişiklikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Günəş aktivliyi, kosmik hava və meteoroloji məlumatlar üçün WhatsApp kanalımıza qoşulun:
+📲 Günəş aktivliyi, kosmos və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
@@ -209,7 +266,7 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 <hr>
 
 <p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
 Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
 atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
 Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
