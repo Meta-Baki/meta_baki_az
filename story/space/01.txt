@@ -1,5 +1,5 @@
-<h2 style="color:#22c55e;">
-🌳 Azərbaycanda qorunan təbiət əraziləri genişlənir — milli parkların sayı 12-yə çatıb
+<h2 style="color:#38bdf8;">
+🌊 Xəzər dənizinin səviyyəsinin azalması sahilyanı ekosistemlərə təsir göstərir
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
@@ -7,40 +7,10 @@
 </p>
 
 <p>
-<strong>Azərbaycanda biomüxtəlifliyin və nadir təbiət ərazilərinin qorunması
-istiqamətində işlər davam etdirilir. Son dövrdə iki yeni milli parkın
-yaradılması ilə ölkədə milli parkların sayı 12-yə çatıb.</strong>
-</p>
-
-<p>
-Hazırda xüsusi mühafizə olunan təbiət əraziləri Azərbaycanın ümumi
-ərazisinin <strong>10,5%-dən çoxunu</strong> əhatə edir.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.04);
-border:1px solid rgba(34,197,94,0.27);
-padding:18px;border-radius:10px;margin:18px 0;">
-
-<strong style="color:#4ade80;">🌿 AZƏRBAYCANIN QORUNAN TƏBİƏTİ</strong><br><br>
-
-🏞️ Milli parkların sayı: <strong>12</strong><br><br>
-
-🌍 Xüsusi mühafizə olunan ərazilər:
-<strong>ölkə ərazisinin 10,5%-dən çoxu</strong><br><br>
-
-🌳 Əsas istiqamət: <strong>təbii ekosistemlərin qorunması</strong><br><br>
-
-🐾 Məqsəd: <strong>biomüxtəlifliyin və nadir növlərin mühafizəsi</strong>
-
-</div>
-
-<h3 style="color:#38bdf8;">🐾 Biomüxtəlifliyin qorunması üçün mühüm ərazilər</h3>
-
-<p>
-Milli parklar meşə, dağ, yarımsəhra və sahilyanı ekosistemlərin, eləcə də
-Azərbaycanın müxtəlif bölgələrində yaşayan nadir heyvan və bitki növlərinin
-qorunmasında mühüm rol oynayır.
+<strong>Xəzər dənizinin səviyyəsində uzunmüddətli azalma regionun ən mühüm
+ekoloji məsələlərindən biri olaraq qalır. Suyun geri çəkilməsi sahil
+xəttinin dəyişməsinə və dayaz ərazilərdə yeni quru sahələrin yaranmasına
+səbəb olur.</strong>
 </p>
 
 <div style="
@@ -48,23 +18,28 @@ background:rgba(59,130,246,0.04);
 border:1px solid rgba(96,165,250,0.27);
 padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#60a5fa;">🐾 NƏ QORUNUR?</strong><br><br>
+<strong style="color:#60a5fa;">🌊 XƏZƏRDƏ NƏ BAŞ VERİR?</strong><br><br>
 
-🌳 Təbii meşələr<br><br>
-🏔️ Dağ ekosistemləri<br><br>
-🌾 Çöl və yarımsəhra əraziləri<br><br>
-🐆 Nadir və nəsli təhlükə altında olan heyvanlar<br><br>
-🌱 Yerli və relikt bitki növləri
+📉 Dəniz səviyyəsində uzunmüddətli azalma müşahidə olunur<br><br>
+
+🏖️ Bəzi dayaz sahələrdə sahil xətti geri çəkilir<br><br>
+
+🌿 Sahilyanı ekosistemlər dəyişir<br><br>
+
+🐟 Su canlılarının yaşayış mühitinə təsir riski yaranır
 
 </div>
 
-<h3 style="color:#f59e0b;">🌍 Qorunan ərazilərin genişləndirilməsi niyə vacibdir?</h3>
+<h3 style="color:#f59e0b;">🌡️ İqlim amili mühüm rol oynayır</h3>
 
 <p>
-Təbii yaşayış mühitlərinin parçalanması və iqlim dəyişiklikləri bir çox
-növ üçün əlavə risk yaradır. Böyük və bir-biri ilə əlaqəli qorunan
-ərazilər heyvanların təbii miqrasiyasına və ekosistemlərin daha davamlı
-qalmasına kömək edir.
+Xəzərin səviyyəsi çaylardan daxil olan su, yağıntı və dəniz səthindən
+buxarlanma arasındakı balansdan asılıdır.
+</p>
+
+<p>
+Temperaturun yüksəlməsi buxarlanmanı gücləndirə bilər və uzunmüddətli
+dövrdə su balansına əlavə təsir göstərə bilər.
 </p>
 
 <div style="
@@ -72,27 +47,63 @@ background:rgba(249,115,22,0.04);
 border:1px solid rgba(249,115,22,0.27);
 padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#fb923c;">🌱 ƏSAS MƏQSƏDLƏR</strong><br><br>
+<strong style="color:#fb923c;">☀️ SU SƏVİYYƏSİNƏ TƏSİR EDƏN AMİLLƏR</strong><br><br>
 
-🐾 Nadir növlərin qorunması<br><br>
-🌳 Meşələrin mühafizəsi<br><br>
-💧 Su ekosistemlərinin qorunması<br><br>
-🌿 Biomüxtəlifliyin saxlanılması<br><br>
-🌍 Təbiətin gələcək nəsillər üçün qorunması
+🌡️ Havanın temperaturu<br><br>
+☀️ Buxarlanmanın intensivliyi<br><br>
+🌧️ Yağıntının miqdarı<br><br>
+🏞️ Çaylardan Xəzərə daxil olan su<br><br>
+🌍 Uzunmüddətli iqlim dəyişiklikləri
 
 </div>
+
+<h3 style="color:#22c55e;">🐟 Təbiət üçün hansı risklər yarana bilər?</h3>
+
+<p>
+Dayaz sahələrin azalması və sahil xəttinin dəyişməsi balıqların,
+su quşlarının və digər canlıların istifadə etdiyi yaşayış sahələrinə
+təsir göstərə bilər.
+</p>
 
 <div style="
 background:rgba(34,197,94,0.04);
 border:1px solid rgba(34,197,94,0.27);
 padding:18px;border-radius:10px;margin:18px 0;">
 
-🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
-Qorunan təbiət ərazilərinin genişləndirilməsi Azərbaycanın unikal
-ekosistemlərinin və biomüxtəlifliyinin uzunmüddətli qorunması baxımından
-mühüm əhəmiyyət daşıyır.
+<strong style="color:#4ade80;">🐟 EKOLOJİ TƏSİRLƏR</strong><br><br>
+
+🐠 Balıqların yaşayış sahələrinin dəyişməsi<br><br>
+🐦 Sahilyanı quşların ekosistemlərinə təsir<br><br>
+🌱 Su və sahil bitkilərinin yayılmasında dəyişiklik<br><br>
+🏖️ Sahil landşaftının dəyişməsi<br><br>
+💧 Dayaz su ekosistemlərinin azalması riski
 
 </div>
+
+<h3 style="color:#a78bfa;">📡 Davamlı müşahidə vacibdir</h3>
+
+<p>
+Xəzərin səviyyəsində baş verən dəyişikliklərin uzunmüddətli müşahidəsi
+prosesin sürətini müəyyənləşdirmək və gələcək ekoloji təsirləri
+qiymətləndirmək üçün vacibdir.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.04);
+border:1px solid rgba(167,139,250,0.27);
+padding:18px;border-radius:10px;margin:18px 0;">
+
+🌊 <strong style="color:#c4b5fd;">META Ekologiya:</strong>
+Xəzər dənizi Azərbaycanın ən mühüm təbii ekosistemlərindən biridir.
+Dənizin səviyyəsi, suyun vəziyyəti və sahilyanı təbiətdə baş verən
+dəyişikliklərin davamlı izlənilməsi xüsusi əhəmiyyət daşıyır.
+
+</div>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+🌊📡 META Meteorologiya Mərkəzi Xəzər dənizi və Azərbaycan təbiətində
+baş verən dəyişiklikləri izləməyə davam edir.
+</p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:<br><br>
