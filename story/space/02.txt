@@ -1,201 +1,185 @@
 <h2 style="color:#a78bfa;">
-🌌 Günəş sisteminin uzaq sərhədlərində 27 sirli obyekt aşkar edilib
+🌙✨ Ay gündüz səmasında Veneranı gizlətdi — nadir astronomik hadisə müşahidə olunub
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 14 sentyabr 2026, 16:44 — Bakı vaxtı
+🕐 Əlavə olunub: 15 sentyabr 2026, 15:05 — Bakı vaxtı
 </p>
 
 <p>
-<strong>“James Webb” və “Hubble” kosmik teleskoplarının məlumatlarından
-istifadə edən astronomlar Neptunun orbitindən çox uzaqda yerləşən
-27 kiçik kosmik obyekt müəyyən ediblər.</strong>
+<strong>Səmada maraqlı astronomik hadisə baş verib — Ay Venera planetinin
+qarşısından keçərək onu müvəqqəti olaraq gizlədib. NASA sentyabrın 15-də
+bu hadisənin Fransada çəkilmiş görüntüsünü günün astronomik fotosu kimi
+təqdim edib.</strong>
 </p>
 
 <p>
-Bu cisimlər transneptun obyektləri adlanan böyük kosmik obyektlər
-ailəsinə daxildir. Onların orbitlərinin təhlili Günəş sisteminin
-xarici hissəsinin alimlərin düşündüyündən daha mürəkkəb tarixə malik
-ola biləcəyini göstərir.
+Hadisə zamanı Venera Yerdən baxıldıqda Ayın arxasında qalıb və bir müddət
+görünməyib. Daha sonra parlaq planet Ayın digər kənarından yenidən
+görünməyə başlayıb.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.045);
-border:1px solid rgba(167,139,250,0.28);
+background:rgba(139,92,246,0.04);
+border:1px solid rgba(167,139,250,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌌 YENİ KOSMİK KƏŞF</strong><br><br>
+<strong style="color:#c4b5fd;">🌙 NADİR ASTRONOMİK HADİSƏ</strong><br><br>
 
-🔭 Teleskoplar: <strong>James Webb və Hubble</strong><br><br>
+🌙 Obyekt: <strong>Ay</strong><br><br>
 
-✨ Aşkar edilən obyektlər: <strong>27</strong><br><br>
+✨ Planet: <strong>Venera</strong><br><br>
 
-🪐 Ərazi: <strong>Neptunun orbitindən kənar</strong><br><br>
+🔭 Hadisə: <strong>Ayın Veneranı örtməsi</strong><br><br>
 
-☀️ Sistem: <strong>Günəş sisteminin xarici hissəsi</strong><br><br>
+☀️ Müşahidə vaxtı: <strong>gündüz</strong><br><br>
 
-🔬 Obyekt növü: <strong>transneptun cisimləri</strong>
+📍 NASA görüntüsünün çəkildiyi yer: <strong>Cessy, Fransa</strong><br><br>
+
+📅 NASA paylaşımı: <strong>15 sentyabr 2026</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🪐 Neptunun arxasında nəhəng kosmik ərazi yerləşir</h3>
+<h3 style="color:#38bdf8;">🌙 Ay Veneranı necə gizlədir?</h3>
 
 <p>
-Neptun Günəşdən orta hesabla təxminən 30 astronomik vahid məsafədə
-yerləşir. Lakin Günəş sistemi onun orbiti ilə bitmir.
+Bu hadisə astronomiyada <strong>okkultasiya</strong> adlanır. Yerdən
+müşahidə zamanı bizə daha yaxın olan göy cismi daha uzaqdakı obyektin
+qarşısından keçir və onu müəyyən müddət ərzində örtür.
 </p>
 
 <p>
-Neptunun arxasında çoxlu buzlu və qayalı cisimlərin yerləşdiyi geniş
-kosmik region mövcuddur. Pluton da bu uzaq ərazinin ən məşhur
-obyektlərindən biridir.
+Bu dəfə Ayın səmadakı hərəkəti Venera ilə eyni istiqamətə düşüb.
+Nəticədə planet Ay diskinin arxasında gizlənib.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.045);
+background:rgba(59,130,246,0.04);
 border:1px solid rgba(96,165,250,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🪐 GÜNƏŞDƏN UZAQLAŞDIQCA</strong><br><br>
+<strong style="color:#60a5fa;">🔭 HADİSƏ NECƏ BAŞ VERİR?</strong><br><br>
 
-☀️ Günəş<br><br>
-
-⬇️<br><br>
-
-🌍 Daxili planetlər<br><br>
+🌍 Yer<br><br>
 
 ⬇️<br><br>
 
-🪐 Yupiter, Saturn, Uran və Neptun<br><br>
+🌙 Ay müşahidə xəttindən keçir<br><br>
 
 ⬇️<br><br>
 
-❄️ Transneptun obyektləri<br><br>
+✨ Venera Ayın arxasında qalır<br><br>
 
 ⬇️<br><br>
 
-🌌 Günəş sisteminin çox uzaq xarici bölgələri
+🌑 Planet müvəqqəti görünmür<br><br>
+
+⬇️<br><br>
+
+✨ Venera Ayın digər tərəfindən yenidən görünür
 
 </div>
 
-<h3 style="color:#facc15;">🔭 Webb və Hubble birlikdə işləyib</h3>
+<h3 style="color:#facc15;">☀️ Hadisə gündüz müşahidə olunub</h3>
 
 <p>
-Tədqiqatın maraqlı tərəflərindən biri iki güclü kosmik teleskopun
-imkanlarının birləşdirilməsidir.
+Hadisəni daha maraqlı edən məqamlardan biri onun gündüz saatlarında
+müşahidə edilməsidir. NASA-nın paylaşdığı görüntü Fransanın Cessy
+kəndi yaxınlığında çəkilib.
 </p>
 
 <p>
-“Hubble” uzun illər ərzində uzaq kosmik obyektlərin müşahidəsində
-mühüm rol oynayıb. “James Webb” isə infraqırmızı müşahidələr vasitəsilə
-çox zəif və uzaq obyektləri aşkar etmək imkanına malikdir.
+Buludların arasından əvvəlcə Ay seçilib, daha sonra isə Ayın kənarından
+Veneranın parlaq nöqtə şəklində yenidən görünməsi qeydə alınıb.
 </p>
 
 <div style="
-background:rgba(234,179,8,0.045);
+background:rgba(234,179,8,0.04);
 border:1px solid rgba(234,179,8,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">🔭 İKİ KOSMİK TELESKOP</strong><br><br>
+<strong style="color:#facc15;">✨ VENERA NİYƏ GÜNDÜZ GÖRÜNƏ BİLİR?</strong><br><br>
 
-🔵 <strong>Hubble</strong> → uzunmüddətli və yüksək dəqiqlikli kosmik müşahidələr<br><br>
+🪐 Venera Yerə yaxın planetlərdən biridir<br><br>
 
-🟠 <strong>James Webb</strong> → güclü infraqırmızı müşahidələr<br><br>
+☀️ Günəş işığını güclü şəkildə əks etdirir<br><br>
 
-🤝 Birlikdə → <strong>çox zəif və uzaq obyektlərin müəyyən edilməsi</strong>
+✨ Səmada Günəş və Aydan sonra ən parlaq təbii obyektlərdən biridir<br><br>
+
+🔭 Uyğun şəraitdə gündüz saatlarında da müşahidə edilə bilər
 
 </div>
 
-<h3 style="color:#f97316;">❓ Orbitlər alimləri təəccübləndirib</h3>
+<h3 style="color:#f97316;">🌙 Həm Ay, həm də Venera “oraq” formasında görünüb</h3>
 
 <p>
-Yeni aşkar edilmiş obyektlərin ən maraqlı xüsusiyyətlərindən biri onların
-Günəş ətrafındakı orbitləridir.
+NASA-nın təqdim etdiyi görüntünün başqa maraqlı xüsusiyyəti Ay və
+Veneranın fazalarının görünməsidir.
 </p>
 
 <p>
-Astronomların araşdırması göstərir ki, bu kiçik cisimlərin orbital
-quruluşu kifayət qədər müxtəlifdir. Bu isə Günəş sisteminin xarici
-hissəsində milyardlarla il ərzində baş vermiş proseslərin daha mürəkkəb
-ola biləcəyini göstərir.
+Foto çəkilən zaman həm Ayın işıqlanan hissəsi, həm də Veneranın
+Günəş tərəfindən işıqlandırılan hissəsi nazik oraq formasında görünür.
 </p>
 
 <div style="
-background:rgba(249,115,22,0.045);
+background:rgba(249,115,22,0.04);
 border:1px solid rgba(249,115,22,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">❓ ALİMLƏR NƏYİ ARAŞDIRIR?</strong><br><br>
+<strong style="color:#fb923c;">🌙✨ MARAQLI MƏQAM</strong><br><br>
 
-🌀 Obyektlərin orbitləri necə formalaşıb?<br><br>
+🌙 Ay → <strong>oraq fazasında</strong><br><br>
 
-🪐 Nəhəng planetlər onların hərəkətinə necə təsir edib?<br><br>
+✨ Venera → <strong>oraq fazasında</strong><br><br>
 
-💫 Kiçik cisimlər keçmişdə bir-biri ilə toqquşubmu?<br><br>
-
-🌌 Xarici Günəş sistemi əvvəllər necə görünürdü?
+☀️ Hər iki cismin görünüşü → <strong>Günəş işığının düşmə bucağı ilə əlaqədardır</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🕰️ Günəş sisteminin milyardlarla illik tarixini qoruyurlar</h3>
+<h3 style="color:#22c55e;">🔭 Belə hadisələr astronomiya üçün də əhəmiyyətlidir</h3>
 
 <p>
-Transneptun obyektlərinin böyük hissəsi çox aşağı temperaturda yerləşən
-buzlu cisimlərdir. Onların bəzilərində Günəş sisteminin formalaşdığı
-təxminən 4,6 milyard il əvvəlki dövrdən qalan materiallar qoruna bilər.
+Ayın planetləri və ulduzları örtməsi yalnız maraqlı səma hadisəsi deyil.
+Okkultasiyaların dəqiq vaxtının müşahidəsi göy cisimlərinin səmadakı
+mövqelərinin və hərəkətlərinin öyrənilməsində istifadə oluna bilər.
 </p>
 
 <p>
-Buna görə belə kiçik və uzaq obyektlərin araşdırılması planetlərin necə
-formalaşdığını və erkən Günəş sisteminin necə dəyişdiyini anlamaq üçün
-xüsusi əhəmiyyət daşıyır.
+Müasir astronomiyada planetlərin orbitləri çox yüksək dəqiqliklə məlum
+olduğundan belə hadisələrin harada və nə zaman görünəcəyini əvvəlcədən
+hesablamaq mümkündür.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.045);
+background:rgba(34,197,94,0.04);
 border:1px solid rgba(34,197,94,0.27);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🔬 KƏŞF NƏYİ ÖYRƏNMƏYƏ KÖMƏK EDİR?</strong><br><br>
+<strong style="color:#4ade80;">🔬 OKKULTASİYA MÜŞAHİDƏLƏRİ</strong><br><br>
 
-☀️ Günəş sisteminin yaranmasını<br><br>
+🪐 Göy cisimlərinin mövqelərini izləməyə kömək edir<br><br>
 
-🪐 Planetlərin ilkin miqrasiyasını<br><br>
+🌀 Orbital hərəkətlərin dəqiq hesablanmasını göstərir<br><br>
 
-❄️ Xarici Günəş sisteminin quruluşunu<br><br>
+🔭 Astronomik müşahidələr üçün maraqlı imkan yaradır<br><br>
 
-🌀 Kiçik cisimlərin orbital təkamülünü<br><br>
-
-🕰️ Təxminən 4,6 milyard illik kosmik tarixi
+📷 Astrofotoqraflar üçün nadir görüntülər təqdim edir
 
 </div>
 
-<h3 style="color:#a78bfa;">🌌 Orada daha minlərlə naməlum obyekt ola bilər</h3>
-
-<p>
-Günəş sisteminin xarici hissəsinin çox böyük və zəif işıqlandırılmış
-olması onun tam şəkildə araşdırılmasını çətinləşdirir.
-</p>
-
-<p>
-Yeni nəsil teleskopların imkanları artdıqca astronomlar bu regionda
-indiyədək müşahidə olunmamış daha çox kiçik obyekt aşkar edə bilərlər.
-Bu isə Günəş sisteminin sərhədləri haqqında təsəvvürlərimizi
-dəqiqləşdirməyə imkan verəcək.
-</p>
-
 <div style="
-background:rgba(139,92,246,0.045);
+background:rgba(139,92,246,0.04);
 border:1px solid rgba(167,139,250,0.27);
 padding:18px;
 border-radius:10px;
@@ -203,21 +187,20 @@ font-size:18px;
 margin-top:20px;">
 
 🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
-Neptunun arxasında 27 kiçik obyektin müəyyən edilməsi Günəş sisteminin
-xarici hissəsinin nə qədər az öyrənildiyini bir daha göstərir.
-Onların orbitlərinin gələcək tədqiqatları planetlərin və kiçik
-kosmik cisimlərin milyardlarla illik təkamülü haqqında yeni məlumatlar
-verə bilər.
+Ayın Veneranı örtməsi Günəş sistemindəki cisimlərin hərəkətinin Yerdən
+baxıldıqda yaratdığı ən maraqlı astronomik hadisələrdən biridir.
+15 sentyabrda NASA bu nadir gündüz müşahidəsinin görüntüsünü
+Astronomy Picture of the Day olaraq təqdim edib.
 
 </div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
-və yeni elmi kəşflərlə bağlı məlumatları izləməyə davam edir.
+🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya və Günəş aktivliyi
+ilə bağlı yenilikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos, astronomiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
