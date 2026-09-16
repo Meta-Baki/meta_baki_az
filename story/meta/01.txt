@@ -1,180 +1,164 @@
-<h2 style="color:#22c55e;">
-🌳 Bakıda təhlükə yarada biləcək ağaclar müəyyən edilərək götürülür
+<h2 style="color:#38bdf8;">
+🌍 16 sentyabr — Beynəlxalq Ozon Təbəqəsinin Mühafizəsi Günüdür
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 14 sentyabr 2026, 16:44 — Bakı vaxtı
+🕐 Əlavə olunub: 16 sentyabr 2026, 12:43 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bakının müxtəlif ərazilərində yaşıllıqlara mövsümi qulluq və
-təhlükəsizlik tədbirləri çərçivəsində quru, zədələnmiş və güclü külək
-zamanı təhlükə yarada biləcək ağacların müəyyənləşdirilməsi istiqamətində
-monitorinqlər aparılır.</strong>
+<strong>Bu gün, 16 sentyabr dünyada Beynəlxalq Ozon Təbəqəsinin
+Mühafizəsi Günü kimi qeyd olunur. Ozon təbəqəsinin qorunması Yer kürəsində
+həyatın Günəşdən gələn zərərli ultrabənövşəyi şüalanmadan müdafiəsi
+baxımından böyük əhəmiyyət daşıyır.</strong>
 </p>
 
 <p>
-Bakı Şəhər Yaşıllaşdırma Təsərrüfatı Birliyinin məlumatına görə,
-mütəxəssislər paytaxtın müxtəlif ərazilərində ağacların vəziyyətini
-yoxlayırlar. Monitorinq zamanı qurumuş, zədələnmiş, aşmaq və ya budaqları
-qırılmaq riski olan ağaclara xüsusi diqqət yetirilir.
+Ozon təbəqəsinin qorunması üzrə beynəlxalq əməkdaşlığın əsaslarından biri
+1985-ci ildə qəbul edilmiş Vyana Konvensiyasıdır. 1987-ci ildə isə ozon
+təbəqəsini dağıdan maddələrin istifadəsinin məhdudlaşdırılmasını nəzərdə
+tutan Monreal Protokolu qəbul edilib.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🌳 HANSI AĞACLAR YOXLANILIR?</strong><br><br>
-
-🍂 Qurumuş ağaclar<br><br>
-
-🌳 Gövdəsi zədələnmiş ağaclar<br><br>
-
-🪵 Qırılmaq təhlükəsi olan budaqlar<br><br>
-
-💨 Güclü külək zamanı aşa biləcək ağaclar<br><br>
-
-⚠️ İnsanlar və nəqliyyat üçün təhlükə yarada biləcək yaşıllıqlar
-
-</div>
-
-<h3 style="color:#f97316;">💨 Külək zamanı təhlükə yarada bilərlər</h3>
-
-<p>
-Zəifləmiş və qurumuş ağaclar güclü külək zamanı daha böyük təhlükə
-yaradır. Küləyin təsiri nəticəsində iri budaqların qırılması və ya ağacın
-tamamilə aşması mümkündür.
-</p>
-
-<p>
-Belə hallar piyadalar, avtomobillər, elektrik xətləri və şəhər
-infrastrukturu üçün təhlükə yarada bilər.
-</p>
-
-<div style="
-background:rgba(249,115,22,0.045);
-border:1px solid rgba(249,115,22,0.27);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#fb923c;">💨 GÜCLÜ KÜLƏK ZAMANI RİSK</strong><br><br>
-
-🌳 Zəifləmiş ağac<br><br>
-
-⬇️<br><br>
-
-💨 Güclü külək yükü<br><br>
-
-⬇️<br><br>
-
-🪵 Budaqların qırılması və ya ağacın aşması<br><br>
-
-⬇️<br><br>
-
-🚶🚗 İnsanlar, avtomobillər və infrastruktura təhlükə
-
-</div>
-
-<h3 style="color:#38bdf8;">🔎 Təhlükəli ağaclar monitorinq zamanı müəyyən edilir</h3>
-
-<p>
-Mütəxəssislər ağacların gövdəsini, budaqlarını və ümumi vəziyyətini
-qiymətləndirirlər. Təhlükəli hesab edilən quru ağaclar müvafiq rəy
-əsasında kökündən çıxarılır.
-</p>
-
-<p>
-Tam götürülməsinə ehtiyac olmayan ağaclarda isə quru, zədələnmiş və
-potensial təhlükəli budaqlar budanır.
-</p>
-
-<div style="
-background:rgba(59,130,246,0.045);
+background:rgba(59,130,246,0.04);
 border:1px solid rgba(96,165,250,0.27);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
+padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#60a5fa;">🔎 İŞLƏR NECƏ APARILIR?</strong><br><br>
+<strong style="color:#60a5fa;">🌍 16 SENTYABR</strong><br><br>
 
-1️⃣ Ağacların vəziyyəti yoxlanılır<br><br>
+🌐 Gün: <strong>Beynəlxalq Ozon Təbəqəsinin Mühafizəsi Günü</strong><br><br>
 
-2️⃣ Quru və təhlükəli hissələr müəyyən edilir<br><br>
+📅 Vyana Konvensiyası: <strong>1985</strong><br><br>
 
-3️⃣ Risk səviyyəsi qiymətləndirilir<br><br>
+📜 Monreal Protokolu: <strong>1987</strong><br><br>
 
-4️⃣ Təhlükəli budaqlar budanır<br><br>
+🛡️ Əsas məqsəd: <strong>ozon təbəqəsinin qorunması</strong><br><br>
 
-5️⃣ Zəruri hallarda quru ağac kökündən çıxarılır
+☀️ Əhəmiyyəti: <strong>zərərli ultrabənövşəyi şüalanmanın qarşısının alınması</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🌿 Məqsəd yaşıl fondu sağlam saxlamaqdır</h3>
+<h3 style="color:#a78bfa;">🛡️ Ozon təbəqəsi Yer kürəsinin təbii qalxanıdır</h3>
 
 <p>
-Görülən tədbirlərin məqsədi yalnız güclü külək zamanı mümkün hadisələrin
-qarşısını almaq deyil. İşlər eyni zamanda Bakının yaşıl fondunun sağlam
-və davamlı vəziyyətdə saxlanılmasına xidmət edir.
+Atmosferin stratosfer hissəsində yerləşən ozon təbəqəsi Günəşdən gələn
+ultrabənövşəyi şüaların böyük hissəsini udaraq onların Yer səthinə
+çatmasını məhdudlaşdırır.
 </p>
 
 <p>
-Qurumuş və ciddi zədələnmiş hissələrin vaxtında müəyyən edilməsi sağlam
-ağacların qorunması və şəhər yaşıllıqlarına düzgün qulluq baxımından
+Bu səbəbdən ozon qatında baş verən dəyişikliklər yalnız atmosfer üçün
+deyil, insanlar, heyvanlar, bitkilər və bütövlükdə ekosistemlər üçün
 əhəmiyyətlidir.
 </p>
 
 <div style="
-background:rgba(34,197,94,0.045);
-border:1px solid rgba(34,197,94,0.27);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
+background:rgba(139,92,246,0.04);
+border:1px solid rgba(167,139,250,0.27);
+padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#4ade80;">🌿 ƏSAS MƏQSƏD</strong><br><br>
+<strong style="color:#c4b5fd;">🛡️ OZON TƏBƏQƏSİ NƏ EDİR?</strong><br><br>
 
-👥 Vətəndaşların təhlükəsizliyi<br><br>
+☀️ Günəşdən ultrabənövşəyi şüalanma gəlir<br><br>
 
-🚗 Nəqliyyat vasitələrinin qorunması<br><br>
+⬇️<br><br>
 
-🏙️ Şəhər infrastrukturuna zərərin qarşısının alınması<br><br>
+🌍 Ozon təbəqəsi şüaların mühüm hissəsini udur<br><br>
 
-🌳 Sağlam ağacların qorunması<br><br>
+⬇️<br><br>
 
-🌱 Bakının yaşıl fondunun davamlı saxlanılması
+🌱 Yer səthindəki canlılar əlavə qorunma əldə edir
 
 </div>
 
-<p style="
-background:rgba(34,197,94,0.045);
+<h3 style="color:#f97316;">⚠️ Ozon təbəqəsini nə zəiflədib?</h3>
+
+<p>
+Keçmişdə soyuducu sistemlərdə, aerozollarda və müxtəlif sənaye
+proseslərində geniş istifadə edilən bəzi kimyəvi maddələrin atmosferə
+buraxılması stratosferdə ozonun parçalanmasını sürətləndirib.
+</p>
+
+<p>
+Bu problemin qlobal xarakter daşıması ölkələrin birgə fəaliyyətini
+zəruri edib və nəticədə ozon dağıdıcı maddələrin istifadəsinin
+mərhələli şəkildə azaldılması istiqamətində beynəlxalq tədbirlər görülüb.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.04);
+border:1px solid rgba(249,115,22,0.27);
+padding:18px;border-radius:10px;margin:18px 0;">
+
+<strong style="color:#fb923c;">⚠️ ƏSAS RİSK</strong><br><br>
+
+🏭 Ozon dağıdıcı maddələrin atmosferə buraxılması<br><br>
+
+⬇️<br><br>
+
+🧪 Stratosferdə ozon molekullarının parçalanması<br><br>
+
+⬇️<br><br>
+
+☀️ Yer səthinə daha çox ultrabənövşəyi şüanın çatması<br><br>
+
+⬇️<br><br>
+
+🌿 Ekosistemlər üçün əlavə risk
+
+</div>
+
+<h3 style="color:#22c55e;">🌱 Qlobal tədbirlər nəticə verir</h3>
+
+<p>
+Ozon dağıdıcı maddələrin istifadəsinin beynəlxalq səviyyədə
+məhdudlaşdırılması ozon təbəqəsinin bərpası istiqamətində ən mühüm
+ekoloji nailiyyətlərdən biri hesab olunur.
+</p>
+
+<p>
+Bununla belə, ozon təbəqəsinin tam bərpası uzunmüddətli prosesdir və
+atmosferin vəziyyətinin davamlı monitorinqi vacib olaraq qalır.
+</p>
+
+<div style="
+background:rgba(34,197,94,0.04);
 border:1px solid rgba(34,197,94,0.27);
-padding:18px;
-border-radius:10px;
-font-size:18px;
-margin-top:20px;">
+padding:18px;border-radius:10px;margin:18px 0;">
 
-🌿 <strong style="color:#4ade80;">META Ekologiya:</strong>
-Şəhər ağaclarının mütəmadi monitorinqi həm yaşıllıqların qorunması,
-həm də küləkli hava şəraitində yarana biləcək risklərin əvvəlcədən
-müəyyən edilməsi baxımından mühüm əhəmiyyət daşıyır.
+<strong style="color:#4ade80;">🌿 NİYƏ DAVAM ETMƏK VACİBDİR?</strong><br><br>
 
-</p>
+🌍 Atmosferin qorunması<br><br>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌿📡 META Meteorologiya Mərkəzi Azərbaycan və Bakıda təbiət, ekologiya
-və hava şəraiti ilə bağlı yenilikləri izləməyə davam edir.
-</p>
+🌱 Bitki örtüyünün mühafizəsi<br><br>
+
+🌊 Dəniz ekosistemlərinin qorunması<br><br>
+
+🐾 Biomüxtəlifliyə təsirin azaldılması<br><br>
+
+☀️ Zərərli UV şüalanmanın məhdudlaşdırılması
+
+</div>
+
+<div style="
+background:rgba(59,130,246,0.04);
+border:1px solid rgba(96,165,250,0.27);
+padding:18px;border-radius:10px;font-size:18px;margin:18px 0;">
+
+🌍 <strong style="color:#60a5fa;">META Ekologiya:</strong>
+Ozon təbəqəsinin qorunması qlobal ekoloji əməkdaşlığın ən mühüm
+istiqamətlərindən biridir. Atmosferdə baş verən dəyişikliklərin
+uzunmüddətli müşahidəsi Yer kürəsinin təbii müdafiə sisteminin
+vəziyyətini qiymətləndirməyə imkan verir.
+
+</div>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank" style="color:#25D366;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
