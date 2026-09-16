@@ -1,22 +1,23 @@
 <h2 style="color:#a78bfa;">
-🌙✨ Ay gündüz səmasında Veneranı gizlətdi — nadir astronomik hadisə müşahidə olunub
+🌌 “James Webb” məşhur “Qara Göz” qalaktikasının gizli quruluşunu üzə çıxardı
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 15 sentyabr 2026, 15:05 — Bakı vaxtı
+🕐 Əlavə olunub: 16 sentyabr 2026, 12:43 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Səmada maraqlı astronomik hadisə baş verib — Ay Venera planetinin
-qarşısından keçərək onu müvəqqəti olaraq gizlədib. NASA sentyabrın 15-də
-bu hadisənin Fransada çəkilmiş görüntüsünü günün astronomik fotosu kimi
-təqdim edib.</strong>
+<strong>“James Webb” kosmik teleskopunun yeni infraqırmızı müşahidələri
+Messier 64 (M64) qalaktikasının toz buludlarının arxasında gizlənən
+quruluşunu daha ətraflı göstərib. NASA sentyabrın 16-da qalaktikanın
+Webb və Hubble məlumatları əsasında hazırlanmış yeni görüntüsünü təqdim edib.</strong>
 </p>
 
 <p>
-Hadisə zamanı Venera Yerdən baxıldıqda Ayın arxasında qalıb və bir müddət
-görünməyib. Daha sonra parlaq planet Ayın digər kənarından yenidən
-görünməyə başlayıb.
+“Qara Göz qalaktikası” kimi tanınan M64-ün mərkəzi hissəsinin qarşısından
+keçən nəhəng qaranlıq toz zolağı onun ən fərqləndirici xüsusiyyətidir.
+Lakin “James Webb”in infraqırmızı imkanları bu tozun daxilində və
+arxasında gedən prosesləri daha yaxşı müşahidə etməyə imkan verir.
 </p>
 
 <div style="
@@ -26,33 +27,32 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌙 NADİR ASTRONOMİK HADİSƏ</strong><br><br>
+<strong style="color:#c4b5fd;">🌌 YENİ KOSMİK MÜŞAHİDƏ</strong><br><br>
 
-🌙 Obyekt: <strong>Ay</strong><br><br>
+🔭 Teleskop: <strong>James Webb Space Telescope</strong><br><br>
 
-✨ Planet: <strong>Venera</strong><br><br>
+🌌 Obyekt: <strong>Messier 64 — M64</strong><br><br>
 
-🔭 Hadisə: <strong>Ayın Veneranı örtməsi</strong><br><br>
+👁️ Digər adı: <strong>“Qara Göz qalaktikası”</strong><br><br>
 
-☀️ Müşahidə vaxtı: <strong>gündüz</strong><br><br>
+🔬 Alət: <strong>MIRI — orta infraqırmızı diapazon</strong><br><br>
 
-📍 NASA görüntüsünün çəkildiyi yer: <strong>Cessy, Fransa</strong><br><br>
-
-📅 NASA paylaşımı: <strong>15 sentyabr 2026</strong>
+✨ Əsas nəticə: <strong>tozun quruluşu və ulduz yaranma bölgələri daha detallı müşahidə olunub</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🌙 Ay Veneranı necə gizlədir?</h3>
+<h3 style="color:#38bdf8;">👁️ Niyə ona “Qara Göz” deyilir?</h3>
 
 <p>
-Bu hadisə astronomiyada <strong>okkultasiya</strong> adlanır. Yerdən
-müşahidə zamanı bizə daha yaxın olan göy cismi daha uzaqdakı obyektin
-qarşısından keçir və onu müəyyən müddət ərzində örtür.
+M64 spiral qalaktikadır. Onun parlaq mərkəzi hissəsinin qarşısında
+geniş və qaranlıq kosmik toz zolağı yerləşir.
 </p>
 
 <p>
-Bu dəfə Ayın səmadakı hərəkəti Venera ilə eyni istiqamətə düşüb.
-Nəticədə planet Ay diskinin arxasında gizlənib.
+Yerdən çəkilmiş və görünən işıq diapazonundakı görüntülərdə bu struktur
+qalaktikanın mərkəzinin qarşısında böyük qara ləkəni xatırladır.
+Məhz buna görə Messier 64 çox vaxt
+<strong>“Black Eye Galaxy” — “Qara Göz qalaktikası”</strong> adlandırılır.
 </p>
 
 <div style="
@@ -62,70 +62,30 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🔭 HADİSƏ NECƏ BAŞ VERİR?</strong><br><br>
+<strong style="color:#60a5fa;">👁️ MESSIER 64</strong><br><br>
 
-🌍 Yer<br><br>
+🌌 Tip: <strong>spiral qalaktika</strong><br><br>
 
-⬇️<br><br>
+✨ Mərkəz: <strong>parlaq ulduzlarla zəngin</strong><br><br>
 
-🌙 Ay müşahidə xəttindən keçir<br><br>
+🌑 Əsas xüsusiyyət: <strong>mərkəzi əhatə edən böyük toz zolağı</strong><br><br>
 
-⬇️<br><br>
-
-✨ Venera Ayın arxasında qalır<br><br>
-
-⬇️<br><br>
-
-🌑 Planet müvəqqəti görünmür<br><br>
-
-⬇️<br><br>
-
-✨ Venera Ayın digər tərəfindən yenidən görünür
+🔭 Webb → <strong>tozu infraqırmızı diapazonda müşahidə edir</strong>
 
 </div>
 
-<h3 style="color:#facc15;">☀️ Hadisə gündüz müşahidə olunub</h3>
+<h3 style="color:#f97316;">🔭 Hubble qaranlıq görür, Webb isə tozun içini göstərir</h3>
 
 <p>
-Hadisəni daha maraqlı edən məqamlardan biri onun gündüz saatlarında
-müşahidə edilməsidir. NASA-nın paylaşdığı görüntü Fransanın Cessy
-kəndi yaxınlığında çəkilib.
+NASA-nın yeni müqayisəsi “Hubble” və “James Webb” teleskoplarının
+eyni qalaktikanı müxtəlif dalğa uzunluqlarında necə fərqli gördüyünü
+aydın şəkildə nümayiş etdirir.
 </p>
 
 <p>
-Buludların arasından əvvəlcə Ay seçilib, daha sonra isə Ayın kənarından
-Veneranın parlaq nöqtə şəklində yenidən görünməsi qeydə alınıb.
-</p>
-
-<div style="
-background:rgba(234,179,8,0.04);
-border:1px solid rgba(234,179,8,0.27);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#facc15;">✨ VENERA NİYƏ GÜNDÜZ GÖRÜNƏ BİLİR?</strong><br><br>
-
-🪐 Venera Yerə yaxın planetlərdən biridir<br><br>
-
-☀️ Günəş işığını güclü şəkildə əks etdirir<br><br>
-
-✨ Səmada Günəş və Aydan sonra ən parlaq təbii obyektlərdən biridir<br><br>
-
-🔭 Uyğun şəraitdə gündüz saatlarında da müşahidə edilə bilər
-
-</div>
-
-<h3 style="color:#f97316;">🌙 Həm Ay, həm də Venera “oraq” formasında görünüb</h3>
-
-<p>
-NASA-nın təqdim etdiyi görüntünün başqa maraqlı xüsusiyyəti Ay və
-Veneranın fazalarının görünməsidir.
-</p>
-
-<p>
-Foto çəkilən zaman həm Ayın işıqlanan hissəsi, həm də Veneranın
-Günəş tərəfindən işıqlandırılan hissəsi nazik oraq formasında görünür.
+Hubble görüntülərində M64-ün qalın toz zolaqları bəzi bölgələri
+qaranlıq göstərir. Webb-in MIRI cihazı isə həmin tozun yaydığı
+infraqırmızı şüalanmanı müşahidə edə bilir.
 </p>
 
 <div style="
@@ -135,28 +95,155 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🌙✨ MARAQLI MƏQAM</strong><br><br>
+<strong style="color:#fb923c;">🔭 HUBBLE VƏ WEBB</strong><br><br>
 
-🌙 Ay → <strong>oraq fazasında</strong><br><br>
+🔵 <strong>Hubble</strong><br>
+Görünən işıqda ulduzları və ulduz yaranma bölgələrini müşahidə edir.<br><br>
 
-✨ Venera → <strong>oraq fazasında</strong><br><br>
+🟠 <strong>James Webb</strong><br>
+İnfraqırmızı diapazonda kosmik tozu və onun daxilində gizlənən strukturları öyrənir.<br><br>
 
-☀️ Hər iki cismin görünüşü → <strong>Günəş işığının düşmə bucağı ilə əlaqədardır</strong>
+🤝 <strong>Birlikdə</strong><br>
+Qalaktikanın quruluşu və təkamülü haqqında daha dolğun məlumat əldə etməyə imkan verir.
 
 </div>
 
-<h3 style="color:#22c55e;">🔭 Belə hadisələr astronomiya üçün də əhəmiyyətlidir</h3>
+<h3 style="color:#facc15;">✨ Yeni ulduzların yarandığı bölgələr görünür</h3>
 
 <p>
-Ayın planetləri və ulduzları örtməsi yalnız maraqlı səma hadisəsi deyil.
-Okkultasiyaların dəqiq vaxtının müşahidəsi göy cisimlərinin səmadakı
-mövqelərinin və hərəkətlərinin öyrənilməsində istifadə oluna bilər.
+M64-dəki kosmik toz yalnız qaranlıq material deyil. O, ətrafındakı
+gənc ulduzlardan gələn enerjini udur və sonra həmin enerjinin bir
+hissəsini infraqırmızı diapazonda yenidən yayır.
 </p>
 
 <p>
-Müasir astronomiyada planetlərin orbitləri çox yüksək dəqiqliklə məlum
-olduğundan belə hadisələrin harada və nə zaman görünəcəyini əvvəlcədən
-hesablamaq mümkündür.
+Webb-in MIRI cihazı məhz bu şüalanmanı qeydə alaraq astronomlara
+qalaktikanın toz strukturunu və ulduzların yarandığı aktiv bölgələri
+araşdırmağa imkan verir.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.04);
+border:1px solid rgba(234,179,8,0.27);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#facc15;">⭐ ULDUZLAR NECƏ YARANIR?</strong><br><br>
+
+☁️ Qaz və kosmik toz toplanır<br><br>
+
+⬇️<br><br>
+
+🌀 Maddə sıxlaşır<br><br>
+
+⬇️<br><br>
+
+🔥 Temperatur və təzyiq artır<br><br>
+
+⬇️<br><br>
+
+⭐ Yeni ulduz formalaşır
+
+</div>
+
+<h3 style="color:#ef4444;">🌀 Qalaktikanın qazı iki fərqli istiqamətdə fırlanır</h3>
+
+<p>
+Messier 64-ün ən qeyri-adi xüsusiyyətlərindən biri onun qazının
+hərəkətidir.
+</p>
+
+<p>
+NASA-nın məlumatına görə, qalaktikanın daxili və xarici qaz bölgələri
+<strong>bir-birinə əks istiqamətlərdə fırlanır.</strong>
+</p>
+
+<p>
+Bu iki qaz axınının qarşılaşdığı ərazilərdə maddə sıxılır və nəticədə
+yeni ulduzların yaranması üçün əlverişli şərait formalaşır.
+</p>
+
+<div style="
+background:rgba(239,68,68,0.035);
+border:1px solid rgba(239,68,68,0.26);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#f87171;">🌀 QEYRİ-ADİ HƏRƏKƏT</strong><br><br>
+
+🔄 Daxili qaz → <strong>bir istiqamətdə fırlanır</strong><br><br>
+
+🔃 Xarici qaz → <strong>əks istiqamətdə fırlanır</strong><br><br>
+
+💥 Qarşılaşma bölgələri → <strong>qaz sıxılır</strong><br><br>
+
+⭐ Nəticə → <strong>ulduz yaranması güclənə bilər</strong>
+
+</div>
+
+<h3 style="color:#a78bfa;">💥 Keçmişdə başqa qalaktika ilə toqquşmuş ola bilər</h3>
+
+<p>
+Astronomlar M64-ün xarici qazının əks istiqamətdə hərəkət etməsinin
+qalaktikanın keçmişində baş vermiş böyük kosmik hadisə ilə əlaqəli
+olduğunu düşünürlər.
+</p>
+
+<p>
+Əsas izahlardan biri M64-ün daha kiçik qalaktika ilə
+<strong>birləşməsi</strong>dir. Kiçik qalaktikadan gələn qaz fərqli
+istiqamətdə hərəkət edərək indiki qeyri-adi quruluşun yaranmasına
+səbəb olmuş ola bilər.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.04);
+border:1px solid rgba(167,139,250,0.27);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">💥 M64-ÜN KEÇMİŞİ</strong><br><br>
+
+🌌 M64 spiral qalaktikası<br><br>
+
+➕<br><br>
+
+🌌 Daha kiçik qalaktika<br><br>
+
+⬇️<br><br>
+
+💥 Qalaktikaların qarşılıqlı təsiri və birləşməsi<br><br>
+
+⬇️<br><br>
+
+🌀 Əks istiqamətdə hərəkət edən qaz<br><br>
+
+⬇️<br><br>
+
+⭐ Güclənmiş ulduz yaranma bölgələri
+
+</div>
+
+<h3 style="color:#22c55e;">🌌 Süd Yolunun keçmişini anlamağa da kömək edir</h3>
+
+<p>
+Astronomlar əvvəllər spiral qalaktikaların nisbətən sakit inkişaf
+tarixinə malik olduğunu düşünürdülər.
+</p>
+
+<p>
+M64 kimi obyektlərin tədqiqi isə spiral qalaktikaların da digər
+qalaktikalarla toqquşa və birləşə bildiyini göstərən mühüm
+dəlillər təqdim edib.
+</p>
+
+<p>
+Bu proseslərin öyrənilməsi bizim öz qalaktikamız —
+<strong>Süd Yolunun</strong> milyardlarla illik təkamülünü anlamağa
+da kömək edə bilər.
 </p>
 
 <div style="
@@ -166,15 +253,17 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#4ade80;">🔬 OKKULTASİYA MÜŞAHİDƏLƏRİ</strong><br><br>
+<strong style="color:#4ade80;">🔬 WEBB NƏYİ ÖYRƏNMƏYƏ KÖMƏK EDƏCƏK?</strong><br><br>
 
-🪐 Göy cisimlərinin mövqelərini izləməyə kömək edir<br><br>
+🌑 Kosmik tozun quruluşunu<br><br>
 
-🌀 Orbital hərəkətlərin dəqiq hesablanmasını göstərir<br><br>
+🌀 Qazın hərəkətini<br><br>
 
-🔭 Astronomik müşahidələr üçün maraqlı imkan yaradır<br><br>
+⭐ Ulduz yaranma proseslərini<br><br>
 
-📷 Astrofotoqraflar üçün nadir görüntülər təqdim edir
+💥 Qalaktikaların birləşmə tarixini<br><br>
+
+🌌 Spiral qalaktikaların təkamülünü
 
 </div>
 
@@ -187,16 +276,16 @@ font-size:18px;
 margin-top:20px;">
 
 🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
-Ayın Veneranı örtməsi Günəş sistemindəki cisimlərin hərəkətinin Yerdən
-baxıldıqda yaratdığı ən maraqlı astronomik hadisələrdən biridir.
-15 sentyabrda NASA bu nadir gündüz müşahidəsinin görüntüsünü
-Astronomy Picture of the Day olaraq təqdim edib.
+“James Webb”in Messier 64 qalaktikasına yeni baxışı kosmik tozun
+arxasında gizlənən strukturları üzə çıxarır. M64-də qazın əks
+istiqamətlərdə hərəkət etməsi və aktiv ulduz yaranması onun keçmişdə
+başqa qalaktika ilə birləşməsinin izlərini daşıya biləcəyini göstərir.
 
 </div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya və Günəş aktivliyi
-ilə bağlı yenilikləri izləməyə davam edir.
+🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
+və yeni elmi kəşflərlə bağlı məlumatları izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
