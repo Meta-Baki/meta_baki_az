@@ -1442,20 +1442,22 @@ html.phone-menu .forecast-toolbar button {min-height:44px;padding:8px 5px}
 
 /* Phone-only forecast corrections: leave the desktop and the rest of the site unchanged. */
 html.phone-menu .daily-forecast-panel {
-    zoom:2.1;
+    zoom:1.8;
     font-family:Arial,Helvetica,sans-serif;
     max-width:100%;
     min-width:0;
 }
 html.phone-menu .daily-forecast-panel .daily-forecast-scroll {
-    max-height:none !important;
+    max-height:440px !important;
     overflow-x:auto;
-    overflow-y:hidden;
+    overflow-y:auto;
     -webkit-overflow-scrolling:touch;
     isolation:isolate;
 }
 html.phone-menu .daily-forecast-panel .daily-forecast-table thead {
-    position:static;
+    position:sticky;
+    top:0;
+    background:#22364f;
 }
 html.phone-menu .daily-forecast-panel .daily-forecast-table tbody th {
     background:#0e1b2c !important;
@@ -1482,9 +1484,29 @@ html.phone-menu .daily-forecast-panel .forecast-scroll-hint {
     line-height:1.4;
 }
 html.phone-menu .daily-forecast-panel .forecast-headings th {
-    height:70px;
-    padding:10px 8px !important;
+    height:58px;
+    padding:7px 6px !important;
 }
+html.phone-menu .daily-forecast-panel .daily-forecast-table {width:1640px;min-width:1640px !important}
+html.phone-menu .daily-forecast-panel .daily-forecast-table col {width:120px !important}
+html.phone-menu .daily-forecast-panel .daily-forecast-table col:nth-child(1),
+html.phone-menu .daily-forecast-panel .daily-forecast-table col:nth-child(2) {width:90px !important}
+html.phone-menu .daily-forecast-panel .daily-forecast-table col:nth-child(5),
+html.phone-menu .daily-forecast-panel .daily-forecast-table col:nth-child(13) {width:100px !important}
+html.phone-menu .daily-forecast-panel .daily-forecast-table tbody td,
+html.phone-menu .daily-forecast-panel .daily-forecast-table tbody th {height:auto;padding:8px 6px !important;line-height:1.25}
+html.phone-menu .daily-forecast-panel .daily-forecast-table .hourly-data-row > th,
+html.phone-menu .daily-forecast-panel .daily-forecast-table .hourly-data-row > td {height:78px}
+html.phone-menu .daily-forecast-panel .daily-forecast-table thead th {background:#22364f}
+html.phone-menu .daily-forecast-panel .daily-forecast-table .forecast-groups th {background:#16283e;padding:6px !important}
+html.phone-menu .daily-forecast-panel .forecast-weather {gap:3px;font-size:14px;line-height:1.2}
+html.phone-menu .daily-forecast-panel .forecast-weather-symbol {font-size:24px}
+html.phone-menu .daily-forecast-panel .forecast-weather-symbol svg {width:28px;height:28px}
+html.phone-menu .daily-forecast-panel .forecast-pair {gap:4px}
+html.phone-menu .daily-forecast-panel .forecast-pair > span {gap:4px}
+html.phone-menu .daily-forecast-panel .forecast-pair small {font-size:14px}
+html.phone-menu .daily-forecast-panel time strong {font-size:15px}
+html.phone-menu .daily-forecast-panel time span {font-size:12px;line-height:1.2}
 
 </style>
 </head>
