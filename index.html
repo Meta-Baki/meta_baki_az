@@ -801,32 +801,6 @@ body.app-page.app-mode .top-area {
     padding-top: 70px;
 }
 
-@media (hover: none) and (pointer: coarse) {
-
-    /* 7 дней */
-    #forecast7 #forecast .forecast-table-wrap td {
-        padding-top: 25px !important;
-        padding-bottom: 25px !important;
-    }
-
-    #forecast7 #forecast .forecast-table-wrap th {
-        padding-top: 14px !important;
-        padding-bottom: 14px !important;
-    }
-
-    /* 14 дней */
-    #forecast14Section #forecast14Content .forecast-table-wrap td {
-        padding-top: 25px !important;
-        padding-bottom: 25px !important;
-    }
-
-    #forecast14Section #forecast14Content .forecast-table-wrap th {
-        padding-top: 14px !important;
-        padding-bottom: 14px !important;
-    }
-}
-
-
 /* ========================= */
 /* FORECAST TABLE */
 /* ========================= */
@@ -1394,6 +1368,77 @@ html.phone-menu .top-area #topMenu {
         margin-top: 5px;
     }
 }
+
+
+/* Shared, accessible layout for all daily forecast tables. */
+.daily-forecast-panel {margin-top:20px;text-align:left;color:#e8eef7;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+.forecast-toolbar {display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:12px 14px;background:rgba(23,38,58,.86);border:1px solid #41516a;border-bottom:0;border-radius:12px 12px 0 0}
+.forecast-scroll-hint {font-size:13px;color:#c5d3e4}
+.forecast-toolbar nav {display:flex;gap:6px;flex-wrap:wrap}
+.forecast-toolbar button {min-height:40px;padding:8px 15px;color:#f1f5f9;background:#263c56;border:1px solid #5c7290;border-radius:7px;font:inherit;font-size:14px;cursor:pointer}
+@media (hover:hover) and (pointer:fine) {
+    .forecast-toolbar button:hover {border-color:#a9c0dc}
+}
+.forecast-toolbar button:focus-visible,.daily-forecast-scroll:focus-visible {outline:3px solid #7dd3fc;outline-offset:2px}
+.forecast-table-wrap.daily-forecast-scroll {box-sizing:border-box;margin-top:0;max-height:720px;overflow:auto;border:1px solid #41516a;background:transparent !important;scrollbar-width:auto;scrollbar-color:#7185a0 #152235}
+.daily-forecast-scroll::-webkit-scrollbar {height:12px;width:12px}
+.daily-forecast-scroll::-webkit-scrollbar-thumb {background:#7185a0;border:2px solid #152235;border-radius:8px}
+.forecast-table.daily-forecast-table {width:var(--forecast-width);min-width:var(--forecast-width) !important;table-layout:fixed;border-collapse:separate;border-spacing:0;padding:0;background:transparent !important;border:0}
+.forecast-table.daily-forecast-table tbody,.forecast-table.daily-forecast-table tr {background:transparent !important;border:0;padding:0}
+.forecast-table.daily-forecast-table th,.forecast-table.daily-forecast-table td {box-sizing:border-box;padding:14px 10px !important;text-align:center;vertical-align:middle;font-size:16px !important;line-height:1.4;font-variant-numeric:tabular-nums;border-right:1px solid #304158;border-bottom:1px solid #304158;white-space:normal;overflow-wrap:anywhere}
+.forecast-table.daily-forecast-table thead {position:sticky;top:0;z-index:3}
+.forecast-table.daily-forecast-table thead th {background:rgba(34,54,79,.92);color:#f8fafc}
+.forecast-table.daily-forecast-table .forecast-groups th {font-size:12px !important;letter-spacing:.04em;padding:9px 10px !important;background:rgba(22,40,62,.92);color:#c2d9f3}
+.forecast-table.daily-forecast-table .forecast-groups th:nth-child(3) {background:rgba(22,52,61,.92);color:#b6e7ed}
+.forecast-table.daily-forecast-table .forecast-groups th:nth-child(4) {background:rgba(40,48,75,.92);color:#d4d7fa}
+.forecast-table.daily-forecast-table .forecast-groups th:nth-child(5) {background:rgba(57,51,38,.92);color:#f3e2b7}
+.forecast-table.daily-forecast-table .forecast-headings th {height:82px}
+.forecast-table.daily-forecast-table tbody td,.forecast-table.daily-forecast-table tbody th {background:rgba(14,27,44,.82) !important;font-weight:600}
+.forecast-table.daily-forecast-table tbody tr:nth-child(even) td,.forecast-table.daily-forecast-table tbody tr:nth-child(even) th {background:#162438 !important}
+.forecast-table.daily-forecast-table tbody th,.forecast-table.daily-forecast-table .forecast-groups th:first-child {position:sticky;left:0;z-index:2;box-shadow:3px 0 7px rgba(0,0,0,.2)}
+.forecast-table.daily-forecast-table .forecast-groups th:first-child {font-size:16px !important;z-index:4}
+.daily-forecast-table time strong {display:block;font-size:17px}
+.daily-forecast-table time span {display:block;margin-top:4px;color:#d6e2f1;font-size:14px}
+.daily-forecast-table .forecast-unit {display:block;margin-top:4px;color:#b6c6da;font-size:12px;font-weight:400}
+.forecast-weather {display:grid;justify-items:center;gap:5px;font-size:16px;color:#d6e2f1}
+.forecast-weather-symbol {font-size:30px;line-height:1.2}
+.forecast-table.daily-forecast-table .forecast-weather img {width:34px !important;height:34px !important}
+.forecast-pair {display:grid;gap:6px}
+.forecast-pair > span {display:flex;align-items:baseline;justify-content:space-between;gap:8px;white-space:nowrap}
+.forecast-pair small {font-size:16px;color:#e2eaf5;font-weight:600}
+.forecast-pair strong {font-weight:600}
+.forecast-pair > span:first-child strong {color:#ffdaac}
+.forecast-pair > span:last-child strong {color:#b7ddff}
+.forecast-degrees {display:block;font-size:12px;color:#b8c8dc;margin-top:4px}
+.forecast-missing {color:#b8c8dc}
+.forecast-table-note {margin:0;padding:12px 14px;background:rgba(23,38,58,.86);border:1px solid #41516a;border-top:0;border-radius:0 0 12px 12px;font-size:12px;line-height:1.6;color:#c5d3e4}
+.forecast-sr-only {position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:600px) {
+    .forecast-toolbar {padding:12px;gap:10px}
+    .forecast-toolbar nav {width:100%;display:grid;grid-template-columns:repeat(4,1fr)}
+    .forecast-toolbar button {min-height:44px;padding:8px 5px}
+    .daily-forecast-scroll {max-height:75vh !important}
+}
+html.phone-menu .daily-forecast-panel {zoom:2.3}
+html.phone-menu .forecast-toolbar nav {width:100%;display:grid;grid-template-columns:repeat(4,1fr)}
+html.phone-menu .forecast-toolbar button {min-height:44px;padding:8px 5px}
+.hourly-forecast-table .hourly-clock {display:block;font-size:17px;font-weight:600;margin-bottom:5px;color:#f8fafc}
+.hourly-forecast-table time strong {font-size:17px;color:#cbd5e1}
+.hourly-forecast-table time span {font-size:14px;font-weight:500}
+.daily-forecast-panel {-webkit-tap-highlight-color:transparent}
+
+/* Keep scrolled values from showing through the pinned date/time column. */
+.forecast-table.daily-forecast-table tbody th {background:rgba(14,27,44,.96) !important}
+.forecast-table.daily-forecast-table tbody tr:nth-child(even) th {background:rgba(22,36,56,.96) !important}
+.forecast-table.hourly-forecast-table {width:100%}
+.forecast-table.hourly-forecast-table .hourly-data-row > th,
+.forecast-table.hourly-forecast-table .hourly-data-row > td {height:112px;padding:10px !important}
+.hourly-forecast-table .hourly-clock {margin:0}
+.forecast-table.hourly-forecast-table .hourly-day-divider > th {position:static;box-shadow:none;text-align:left;padding:10px 14px !important;background:rgba(30,49,70,.92) !important}
+.hourly-day-label {position:sticky;left:14px;display:inline-block}
+.hourly-forecast-table .hourly-day-label time {display:flex;align-items:center;gap:14px}
+.hourly-forecast-table .hourly-day-label time strong {font-size:16px;color:#f1f5f9}
+.hourly-forecast-table .hourly-day-label time span {margin:0}
 
 </style>
 </head>
@@ -2448,31 +2493,31 @@ html.phone-menu .top-area #topMenu {
         <strong>4.</strong> Hiss edilən — gündüz və gecə hiss olunan temperatur. [°C]
         <br>
 
-        <strong>5.</strong> Yağış % — yağış və ya qar yağma ehtimalı. [%]
+        <strong>5.</strong> Bulud % — göy üzündəki bulud örtüyü. [%]
         <br>
 
-        <strong>6.</strong> Bulud % — göy üzündəki bulud örtüyü. [%]
+        <strong>6.</strong> Yağış % — yağış və ya qar yağma ehtimalı. [%]
         <br>
 
-        <strong>7.</strong> UV — UV günəş aktivliyi indeksi.
+        <strong>7.</strong> Yağıntı — yağıntı miqdarı. [mm]
         <br>
 
-        <strong>8.</strong> Yağıntı — yağıntı miqdarı. [mm]
+        <strong>8.</strong> Orta külək — orta külək sürəti. [km/h]
         <br>
 
-        <strong>9.</strong> Külək — orta davamlı külək sürəti. [km/h]
+        <strong>9.</strong> Maks. külək — maksimum külək sürəti. [km/h]
         <br>
 
-        <strong>10.</strong> Orta külək — orta külək sürəti. [km/h]
+        <strong>10.</strong> Külək zərbələri — küləyin maksimum zərbələri. [km/h]
         <br>
 
         <strong>11.</strong> İstiqamət — külək istiqaməti. [°]
         <br>
 
-        <strong>12.</strong> Külək zərbələri — küləyin maksimum zərbələri. [km/h]
+        <strong>12.</strong> Təzyiq — hava təzyiqi. [hPa]
         <br>
 
-        <strong>13.</strong> Təzyiq — hava təzyiqi. [hPa]
+        <strong>13.</strong> UV — UV günəş aktivliyi indeksi.
         <br>
 
         <strong>14.</strong> Günəş — gün doğumu və gün batımı.
@@ -2901,6 +2946,130 @@ async function refreshStationNow() {
     }
 }
 
+function forecastValue(value, formatter = f) {
+    return value === null || value === undefined || value === '' || !Number.isFinite(Number(value))
+        ? '<span class="forecast-missing" aria-label="Məlumat yoxdur">—</span>' : formatter(value);
+}
+
+function forecastWeather(code, isDay = true) {
+    if (code === null || code === undefined) return forecastValue(null);
+    const label = code >= 95 ? 'Tufan' : code >= 85 ? 'Qar leysanları' : code >= 80 ? 'Leysan'
+        : code >= 71 ? 'Qar' : code >= 61 ? 'Yağış' : code >= 51 ? 'Çiskin'
+        : code >= 45 ? 'Duman' : code === 3 ? 'Buludlu' : code === 2 ? 'Qismən buludlu'
+        : code === 1 ? 'Əsasən açıq' : code === 0 ? 'Açıq' : 'Məlumat yoxdur';
+    let symbol = code >= 95 ? '⛈️' : code >= 85 ? '🌨️' : code >= 80 ? '🌧️'
+        : code >= 71 ? '❄️' : code >= 51 ? '🌧️' : code >= 45 ? '🌫️'
+        : code === 3 ? '☁️' : code === 2 ? '⛅' : code === 1 ? '🌤️' : '☀️';
+    if (!isDay && code === 0) symbol = '🌙';
+    if (!isDay && (code === 1 || code === 2)) {
+        symbol = `<svg viewBox="0 0 48 40" width="36" height="36" focusable="false"><path d="M26 3a14 14 0 1 0 12 20A15 15 0 0 1 26 3Z" fill="#ffe6a1"/><path d="M14 35a7 7 0 0 1-1-14 10 10 0 0 1 19-2 8 8 0 0 1 3 16Z" fill="${code === 2 ? '#b9cbe0' : '#e3edf7'}" stroke="#829bb8" stroke-width="1"/></svg>`;
+    }
+    return `<div class="forecast-weather" data-period="${isDay ? 'day' : 'night'}"><span class="forecast-weather-symbol" aria-hidden="true">${symbol}</span><span>${label}</span></div>`;
+}
+
+function forecastTemperature(max, min) {
+    return `<div class="forecast-pair"><span><small>Maks.</small><strong>${forecastValue(max, tempText)}</strong></span><span><small>Min.</small><strong>${forecastValue(min, tempText)}</strong></span></div>`;
+}
+
+function forecastDate(date) {
+    const parsed = new Date(date + 'T12:00:00Z');
+    if (Number.isNaN(parsed.getTime())) return forecastValue(null);
+    const months = ['yanvar','fevral','mart','aprel','may','iyun','iyul','avqust','sentyabr','oktyabr','noyabr','dekabr'];
+    const label = `${parsed.getUTCDate()} ${months[parsed.getUTCMonth()]}`;
+    const weekdays = ['Bazar', 'Bazar ertəsi', 'Çərşənbə axşamı', 'Çərşənbə', 'Cümə axşamı', 'Cümə', 'Şənbə'];
+    const weekday = weekdays[parsed.getUTCDay()];
+    const today = new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Baku',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+    return `<time datetime="${date}" title="${date}" lang="az" translate="no" class="notranslate"><strong>${label}</strong><span>${weekday}${date === today ? '<br>Bu gün' : ''}</span></time>`;
+}
+
+function forecastSun(sunrise, sunset) {
+    const clock = value => typeof value === 'string' && /T\d{2}:\d{2}/.test(value) ? value.split('T')[1].slice(0,5) : '—';
+    return `<div class="forecast-pair"><span><small>Doğuş</small><strong>${clock(sunrise)}</strong></span><span><small>Batış</small><strong>${clock(sunset)}</strong></span></div>`;
+}
+
+function renderDailyForecastTable(daily, start = 0, end = 7) {
+    const value = (key, i, alias) => daily[key]?.[i] ?? (alias ? daily[alias]?.[i] : undefined);
+    const columns = [
+        {key:'date',label:'📅 Tarix',width:104,render:i=>forecastDate(daily.time[i])},
+        {key:'weather',label:'🌤 Hava',width:100,render:i=>forecastWeather(value('weathercode',i,'weather_code'))},
+        {key:'temperature',label:'🌡 Temperatur',unit:'°'+unitSettings.temperature,width:146,render:i=>forecastTemperature(value('temperature_2m_max',i),value('temperature_2m_min',i))},
+        {key:'feels',label:'🥵 Hiss edilən',unit:'°'+unitSettings.temperature,width:146,render:i=>forecastTemperature(value('apparent_temperature_max',i),value('apparent_temperature_min',i))},
+        {key:'cloud',label:'☁️ Bulud',unit:'%',width:110,group:'rain',render:i=>forecastValue(value('cloud_cover_mean',i),n=>f(n)+'%')},
+        {key:'chance',label:'🌧 Yağış ehtimalı',unit:'%',width:145,render:i=>forecastValue(value('precipitation_probability_max',i),n=>f(n)+'%')},
+        {key:'rain',label:'💧 Yağıntı',unit:unitSettings.precipitation,width:125,render:i=>forecastValue(value('precipitation_sum',i),precipitationText)},
+        {key:'meanwind',label:'🌬 Orta külək',unit:unitSettings.wind,width:145,group:'wind',render:i=>forecastValue(value('wind_speed_10m_mean',i),windText)},
+        {key:'maxwind',label:'💨 Maks. külək',unit:unitSettings.wind,width:145,render:i=>forecastValue(value('wind_speed_10m_max',i,'windspeed_10m_max'),windText)},
+        {key:'gust',label:'💨 Maks. zərbə',unit:unitSettings.wind,width:145,render:i=>forecastValue(value('wind_gusts_10m_max',i,'windgusts_10m_max'),windText)},
+        {key:'direction',label:'🧭 İstiqamət',width:125,render:i=>forecastValue(value('wind_direction_10m_dominant',i,'winddirection_10m_dominant'),n=>windDir(n)+`<small class="forecast-degrees">${Math.round(n)}°</small>`)},
+        {key:'pressure',label:'📊 Təzyiq',unit:unitSettings.pressure,width:145,group:'other',render:i=>forecastValue(value('surface_pressure_mean',i),pressureText)},
+        {key:'uv',label:'☀️ UV indeks',width:110,render:i=>forecastValue(value('uv_index_max',i))},
+        {key:'sun',label:'🌅 Günəş',width:140,render:i=>forecastSun(value('sunrise',i),value('sunset',i))}
+    ];
+    const heads = columns.map((col,i)=>`<th scope="col" data-metric="${col.key}" ${col.group ? `data-group="${col.group}"` : i===1 ? 'data-group="weather"' : ''}>${col.label}${col.unit ? `<span class="forecast-unit">${col.unit}</span>` : ''}</th>`).join('');
+    const rows = (daily.time || []).slice(start,end).map((date,offset)=>{
+        const i = start+offset;
+        return '<tr>'+columns.map((col,index)=>index===0
+            ? `<th scope="row">${col.render(i)}</th>` : `<td data-metric="${col.key}">${col.render(i)}</td>`).join('')+'</tr>';
+    }).join('');
+    return `<section class="daily-forecast-panel" aria-label="Günlük hava proqnozu">
+        <div class="forecast-toolbar"><span class="forecast-scroll-hint">↔ Bütün göstəricilər üçün sağa sürüşdürün</span><nav aria-label="Proqnoz göstəriciləri"><button type="button" onclick="scrollDailyForecast(this,'weather')">Hava</button><button type="button" onclick="scrollDailyForecast(this,'rain')">Yağıntı</button><button type="button" onclick="scrollDailyForecast(this,'wind')">Külək</button><button type="button" onclick="scrollDailyForecast(this,'other')">Digər</button></nav></div>
+        <div class="forecast-table-wrap daily-forecast-scroll" tabindex="0" role="region" aria-label="Günlük proqnoz cədvəli — üfüqi sürüşdürün">
+        <table class="forecast-table daily-forecast-table" style="--forecast-width:${columns.reduce((sum,col)=>sum+col.width,0)}px"><caption class="forecast-sr-only">Günlük hava proqnozu. Temperatur maksimum və minimum qiymətlərlə göstərilir.</caption><colgroup>${columns.map(col=>`<col style="width:${col.width}px">`).join('')}</colgroup>
+        <thead><tr class="forecast-groups"><th rowspan="2" scope="col">📅 Tarix</th><th colspan="3" scope="colgroup">Hava və temperatur</th><th colspan="3" scope="colgroup">Bulud və yağıntı</th><th colspan="4" scope="colgroup">Külək</th><th colspan="3" scope="colgroup">Təzyiq və günəş</th></tr><tr class="forecast-headings">${heads.replace(/^<th[\s\S]*?<\/th>/,'')}</tr></thead>
+        <tbody>${rows || '<tr><td colspan="14">Proqnoz məlumatı yoxdur.</td></tr>'}</tbody></table></div>
+        <p class="forecast-table-note">Maks. / Min. — gün ərzində ən yüksək / ən aşağı temperatur. Zərbə — ani külək güclənməsi. — Məlumat yoxdur.</p></section>`;
+}
+
+function scrollDailyForecast(button, group) {
+    const panel = button.closest('.daily-forecast-panel');
+    const scroll = panel.querySelector('.daily-forecast-scroll');
+    const target = panel.querySelector(`[data-group="${group}"]`);
+    if (!target) return;
+    const dateWidth = panel.querySelector('col').getBoundingClientRect().width;
+    const left = group === 'weather' ? 0 : scroll.scrollLeft + target.getBoundingClientRect().left - scroll.getBoundingClientRect().left - dateWidth - 2;
+    scroll.scrollTo({left,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth'});
+}
+
+function renderHourlyForecastTable(hourly, start = 0, daily = {}) {
+    const value = (key, i) => hourly[key]?.[i];
+    const sun = i => {
+        const dayIndex = (daily.time || []).indexOf(hourly.time[i].slice(0,10));
+        return forecastSun(daily.sunrise?.[dayIndex], daily.sunset?.[dayIndex]);
+    };
+    const columns = [
+        {key:'time',label:'🕒 Saat',width:104,render:i=>`<strong class="hourly-clock">${hourly.time[i].split('T')[1].slice(0,5)}</strong>`},
+        {key:'weather',label:'🌤 Hava',width:100,group:'weather',render:i=>forecastWeather(value('weather_code',i),value('is_day',i) !== 0)},
+        {key:'temperature',label:'🌡 Temperatur',unit:'°'+unitSettings.temperature,width:146,render:i=>forecastValue(value('temperature_2m',i),tempText)},
+        {key:'feels',label:'🥵 Hiss edilən',unit:'°'+unitSettings.temperature,width:146,render:i=>forecastValue(value('apparent_temperature',i),tempText)},
+        {key:'cloud',label:'☁️ Bulud',unit:'%',width:110,group:'rain',render:i=>forecastValue(value('cloud_cover',i),n=>f(n)+'%')},
+        {key:'chance',label:'🌧 Yağış ehtimalı',unit:'%',width:145,render:i=>forecastValue(value('precipitation_probability',i),n=>f(n)+'%')},
+        {key:'rain',label:'💧 Yağıntı',unit:unitSettings.precipitation,width:125,render:i=>forecastValue(value('precipitation',i),precipitationText)},
+        {key:'wind',label:'🌬 Saatlıq külək',unit:unitSettings.wind,width:145,group:'wind',render:i=>forecastValue(value('wind_speed_10m',i),windText)},
+        {key:'maxwind',label:'💨 Maks. külək',unit:unitSettings.wind,width:145,render:()=>'<span class="forecast-missing" title="Saatlıq maksimum külək məlumatı təqdim edilmir" aria-label="Saatlıq maksimum külək məlumatı təqdim edilmir">—</span>'},
+        {key:'gust',label:'💨 Maks. zərbə',unit:unitSettings.wind,width:145,render:i=>forecastValue(value('wind_gusts_10m',i),windText)},
+        {key:'direction',label:'🧭 İstiqamət',width:125,render:i=>forecastValue(value('wind_direction_10m',i),n=>windDir(n)+`<small class="forecast-degrees">${Math.round(n)}°</small>`)},
+        {key:'pressure',label:'📊 Təzyiq',unit:unitSettings.pressure,width:145,group:'other',render:i=>forecastValue(value('surface_pressure',i),pressureText)},
+        {key:'uv',label:'☀️ UV indeks',width:110,render:i=>forecastValue(value('uv_index',i))},
+        {key:'sun',label:'🌅 Günəş',width:140,render:sun}
+    ];
+    const rows = (hourly.time || []).slice(start,start+24).map((time,offset)=>{
+        const i = start + offset;
+        const day = time.slice(0,10);
+        const newDay = offset === 0 || day !== hourly.time[i-1].slice(0,10);
+        const separator = newDay ? `${offset ? '</tbody>' : ''}<tbody><tr class="hourly-day-divider"><th scope="rowgroup" colspan="14"><span class="hourly-day-label">${forecastDate(day).replace('<br>Bu gün','')}</span></th></tr>` : '';
+        return separator+'<tr class="hourly-data-row">'+columns.map((col,index)=>index===0
+            ? `<th scope="row">${col.render(i)}</th>` : `<td data-metric="${col.key}">${col.render(i)}</td>`).join('')+'</tr>';
+    }).join('');
+    return `<section class="daily-forecast-panel hourly-forecast-panel" aria-label="24 saatlıq hava proqnozu">
+    <div class="forecast-toolbar"><span class="forecast-scroll-hint">↔ Bütün göstəricilər üçün sağa sürüşdürün</span><nav aria-label="Proqnoz göstəriciləri"><button type="button" onclick="scrollDailyForecast(this,'weather')">Hava</button><button type="button" onclick="scrollDailyForecast(this,'rain')">Yağıntı</button><button type="button" onclick="scrollDailyForecast(this,'wind')">Külək</button><button type="button" onclick="scrollDailyForecast(this,'other')">Digər</button></nav></div>
+    <div class="forecast-table-wrap daily-forecast-scroll" tabindex="0" role="region" aria-label="Saatlıq proqnoz cədvəli — üfüqi sürüşdürün">
+    <table class="forecast-table daily-forecast-table hourly-forecast-table" style="--forecast-width:${columns.reduce((sum,col)=>sum+col.width,0)}px"><caption class="forecast-sr-only">Növbəti 24 saat üçün hava proqnozu. Saatlar Bakı vaxtı ilə göstərilir.</caption><colgroup>${columns.map(col=>`<col style="width:${col.width}px">`).join('')}</colgroup>
+    <thead><tr class="forecast-groups"><th rowspan="2" scope="col">🕒 Saat</th><th colspan="3" scope="colgroup">Hava və temperatur</th><th colspan="3" scope="colgroup">Bulud və yağıntı</th><th colspan="4" scope="colgroup">Külək</th><th colspan="3" scope="colgroup">Təzyiq və günəş</th></tr><tr class="forecast-headings">${columns.slice(1).map(col=>`<th scope="col" data-metric="${col.key}" ${col.group ? `data-group="${col.group}"` : ''}>${col.label}${col.unit ? `<span class="forecast-unit">${col.unit}</span>` : ''}</th>`).join('')}</tr></thead>
+    ${rows ? rows+'</tbody>' : '<tbody><tr><td colspan="14">Saatlıq proqnoz məlumatı yoxdur.</td></tr></tbody>'}</table></div>
+    <p class="forecast-table-note">Saatlar Bakı vaxtı ilə göstərilir (UTC+4). Temperatur və külək həmin saatın qiymətləridir. Maks. zərbə — əvvəlki saatın ən güclü külək zərbəsi. Saatlıq maksimum külək ayrıca təqdim edilmir (—). Doğuş / Batış həmin günə aiddir. — Məlumat yoxdur.</p></section>`;
+}
+
+
 async function loadForecast(){
     let r = await fetch(
         "https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&current=weather_code,precipitation,wind_speed_10m&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,windspeed_10m_max,winddirection_10m_dominant,windgusts_10m_max,surface_pressure_mean,precipitation_sum&wind_speed_unit=kmh&timezone=Asia/Baku&forecast_days=7"
@@ -3000,112 +3169,7 @@ if (dailyExtra) {
         `   •   💧 ${precipitationText(d.daily.precipitation_sum[1])}`;
 }
 
-let html = `
-<div class="forecast-table-wrap">
-<table class="forecast-table">
-
-<thead>
-<tr>
-    <th>📅 Tarix</th>
-    <th>🌤 Hava</th>
-    <th>🌡 Temperatur [°${unitSettings.temperature}]</th>
-    <th>🥵 Hiss edilən [°${unitSettings.temperature}]</th>
-    <th>🌧 Yağış ehtimalı [%]</th>
-    <th>☁️ Bulud [%]</th>
-    <th>☀️ UV indeks</th>
-    <th>💧 Yağıntı [${unitSettings.precipitation}]</th>
-    <th>💨 Maks. külək [${unitSettings.wind}]</th>
-    <th>🌬 Orta külək [${unitSettings.wind}]</th>
-    <th>🧭 İstiqamət</th>
-    <th>💨 Maks. zərbə [${unitSettings.wind}]</th>
-    <th>📊 Təzyiq [${unitSettings.pressure}]</th>
-    <th>🌅 Günəş</th>
-</tr>
-</thead>
-
-<tbody>
-`;
-
-for(let i=0;i<7;i++){
-
-    html += `
-    <tr>
-
-        <td>
-            <strong>${d.daily.time[i]}</strong>
-        </td>
-
-        <td>
-            ${icon(d.daily.weathercode[i])}
-        </td>
-
-        <td>
-            <strong>
-                ${tempText(d.daily.temperature_2m_max[i])}
-            </strong>
-            /
-            ${tempText(d.daily.temperature_2m_min[i])}
-        </td>
-
-        <td>
-            ${tempText(d.daily.apparent_temperature_max[i])}
-            /
-            ${tempText(d.daily.apparent_temperature_min[i])}
-        </td>
-
-        <td>
-            ${f(d.daily.precipitation_probability_max[i])}%
-        </td>
-
-        <td>
-            ${f(d.daily.cloud_cover_mean[i])}%
-        </td>
-
-        <td>
-            <strong>${f(d.daily.uv_index_max[i])}</strong>
-        </td>
-
-        <td>
-            ${precipitationText(d.daily.precipitation_sum[i])}
-        </td>
-
-        <td>
-            ${windText(d.daily.windspeed_10m_max[i])}
-        </td>
-
-        <td>
-            ${windText(d.daily.wind_speed_10m_mean[i])}
-        </td>
-
-        <td>
-            ${windDir(d.daily.winddirection_10m_dominant[i])}
-        </td>
-
-        <td>
-            ${windText(d.daily.windgusts_10m_max[i])}
-        </td>
-
-        <td>
-            ${pressureText(d.daily.surface_pressure_mean[i])}
-        </td>
-
-        <td>
-            🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
-            <br>
-            🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
-        </td>
-
-    </tr>
-    `;
-}
-
-html += `
-</tbody>
-</table>
-</div>
-`;
-
-document.getElementById("forecast").innerHTML = html;
+document.getElementById("forecast").innerHTML = renderDailyForecastTable(d.daily, 0, 7);
 }
   
 async function loadForecast14(){
@@ -3114,112 +3178,7 @@ async function loadForecast14(){
 );
     let d = await r.json();
 
-let html = `
-<div class="forecast-table-wrap">
-<table class="forecast-table">
-
-<thead>
-<tr>
-    <th>📅 Tarix</th>
-    <th>🌤 Hava</th>
-    <th>🌡 Temperatur [°${unitSettings.temperature}]</th>
-    <th>🥵 Hiss edilən [°${unitSettings.temperature}]</th>
-    <th>🌧 Yağış ehtimalı [%]</th>
-    <th>☁️ Bulud [%]</th>
-    <th>☀️ UV indeks</th>
-    <th>💧 Yağıntı [${unitSettings.precipitation}]</th>
-    <th>💨 Maks. külək [${unitSettings.wind}]</th>
-    <th>🌬 Orta külək [${unitSettings.wind}]</th>
-    <th>🧭 İstiqamət</th>
-    <th>💨 Maks. zərbə [${unitSettings.wind}]</th>
-    <th>📊 Təzyiq [${unitSettings.pressure}]</th>
-    <th>🌅 Günəş</th>
-</tr>
-</thead>
-
-<tbody>
-`;
-
-for(let i=7;i<14;i++){
-
-    html += `
-    <tr>
-
-        <td>
-            <strong>${d.daily.time[i]}</strong>
-        </td>
-
-        <td>
-            ${icon(d.daily.weathercode[i])}
-        </td>
-
-        <td>
-            <strong>
-                ${tempText(d.daily.temperature_2m_max[i])}
-            </strong>
-            /
-            ${tempText(d.daily.temperature_2m_min[i])}
-        </td>
-
-        <td>
-            ${tempText(d.daily.apparent_temperature_max[i])}
-            /
-            ${tempText(d.daily.apparent_temperature_min[i])}
-        </td>
-
-        <td>
-            ${f(d.daily.precipitation_probability_max[i])}%
-        </td>
-
-        <td>
-            ${f(d.daily.cloud_cover_mean[i])}%
-        </td>
-
-        <td>
-            <strong>${f(d.daily.uv_index_max[i])}</strong>
-        </td>
-
-        <td>
-            ${precipitationText(d.daily.precipitation_sum[i])}
-        </td>
-
-        <td>
-            ${windText(d.daily.wind_speed_10m_max[i])}
-        </td>
-
-        <td>
-            ${windText(d.daily.wind_speed_10m_mean[i])}
-        </td>
-
-        <td>
-            ${windDir(d.daily.wind_direction_10m_dominant[i])}
-        </td>
-
-        <td>
-            ${windText(d.daily.wind_gusts_10m_max[i])}
-        </td>
-
-        <td>
-            ${pressureText(d.daily.surface_pressure_mean[i])}
-        </td>
-
-        <td>
-            🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
-            <br>
-            🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
-        </td>
-
-    </tr>
-    `;
-}
-
-html += `
-</tbody>
-</table>
-</div>
-`;
-
-document.getElementById("forecast14Content").innerHTML = html;
+document.getElementById("forecast14Content").innerHTML = renderDailyForecastTable(d.daily, 7, 14);
 }
   
 async function getTemp(lat, lon){
@@ -4342,11 +4301,8 @@ async function showCityForecast(lat, lon, name) {
         const response = await fetch(url);
         if (!response.ok) throw new Error('Forecast HTTP ' + response.status);
         const d = await response.json();
-        let html = `<div class="forecast-table-wrap"><table class="forecast-table"><thead><tr><th>📅 Tarix</th><th>🌤 Hava</th><th>🌡 Temperatur [°${unitSettings.temperature}]</th><th>🥵 Hiss edilən [°${unitSettings.temperature}]</th><th>🌧 Yağış ehtimalı [%]</th><th>☁️ Bulud [%]</th><th>☀️ UV indeks</th><th>💧 Yağıntı [${unitSettings.precipitation}]</th><th>💨 Maks. külək [${unitSettings.wind}]</th><th>🌬 Orta külək [${unitSettings.wind}]</th><th>🧭 İstiqamət</th><th>💨 Maks. zərbə [${unitSettings.wind}]</th><th>📊 Təzyiq [${unitSettings.pressure}]</th><th>🌅 Günəş</th></tr></thead><tbody>`;
-        for (let i = 0; i < 7; i++) {
-            html += `<tr><td><strong>${d.daily.time[i]}</strong></td><td>${icon(d.daily.weathercode[i])}</td><td><strong>${tempText(d.daily.temperature_2m_max[i])}</strong> / ${tempText(d.daily.temperature_2m_min[i])}</td><td>${tempText(d.daily.apparent_temperature_max[i])} / ${tempText(d.daily.apparent_temperature_min[i])}</td><td>${f(d.daily.precipitation_probability_max[i])}%</td><td>${f(d.daily.cloud_cover_mean[i])}%</td><td><strong>${f(d.daily.uv_index_max[i])}</strong></td><td>${precipitationText(d.daily.precipitation_sum[i])}</td><td>${windText(d.daily.wind_speed_10m_max[i])}</td><td>${windText(d.daily.wind_speed_10m_mean[i])}</td><td>${windDir(d.daily.wind_direction_10m_dominant[i])}</td><td>${windText(d.daily.wind_gusts_10m_max[i])}</td><td>${pressureText(d.daily.surface_pressure_mean[i])}</td><td>🌅 ${d.daily.sunrise[i].split('T')[1].slice(0,5)}<br>🌇 ${d.daily.sunset[i].split('T')[1].slice(0,5)}</td></tr>`;
-        }
-        container.innerHTML = html + `</tbody></table></div><button type="button" class="hourly-open" onclick="showHourlyForecast(${lat},${lon},'${name}')">🕒 24 saatlıq proqnoz</button>`;
+        const html = renderDailyForecastTable(d.daily, 0, 7);
+        container.innerHTML = html + `<button type="button" class="hourly-open" onclick="showHourlyForecast(${lat},${lon},'${name}')">🕒 24 saatlıq proqnoz</button>`;
     } catch (error) {
         console.error('City forecast error:', error);
         container.innerHTML = '<div style="padding:25px;">❌ Proqnoz məlumatı yüklənmədi.</div>';
@@ -4361,18 +4317,15 @@ async function showHourlyForecast(lat, lon, name) {
     title.innerHTML = `<h2>🕒 ${name} üçün 24 saatlıq hava proqnozu</h2>`;
     container.innerHTML = '<div style="padding:25px;">Yüklənir...</div>';
     try {
-        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=temperature_2m,apparent_temperature,precipitation_probability,precipitation,weather_code,wind_speed_10m,surface_pressure&timezone=Asia%2FBaku&forecast_days=2`;
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=is_day,temperature_2m,apparent_temperature,precipitation_probability,precipitation,weather_code,wind_speed_10m,wind_gusts_10m,wind_direction_10m,cloud_cover,uv_index,surface_pressure&daily=sunrise,sunset&timezone=Asia%2FBaku&forecast_days=2`;
         const response = await fetch(url);
         if (!response.ok) throw new Error('Hourly forecast HTTP ' + response.status);
         const d = await response.json();
         const now = Date.now();
-        const first = d.hourly.time.findIndex(time => new Date(time).getTime() >= now - 30 * 60 * 1000);
-        const start = Math.max(0, first);
-        let html = `<div class="forecast-table-wrap"><table class="forecast-table"><thead><tr><th>🕒 Saat</th><th>🌤 Hava</th><th>🌡 Temperatur</th><th>🥵 Hiss edilən</th><th>🌧 Ehtimal</th><th>💧 Yağıntı</th><th>💨 Külək</th><th>📊 Təzyiq</th></tr></thead><tbody>`;
-        for (let i = start; i < Math.min(start + 24, d.hourly.time.length); i++) {
-            html += `<tr><td><strong>${d.hourly.time[i].replace('T',' ')}</strong></td><td>${icon(d.hourly.weather_code[i])}</td><td>${tempText(d.hourly.temperature_2m[i])}</td><td>${tempText(d.hourly.apparent_temperature[i])}</td><td>${f(d.hourly.precipitation_probability[i])}%</td><td>${precipitationText(d.hourly.precipitation[i])}</td><td>${windText(d.hourly.wind_speed_10m[i])}</td><td>${pressureText(d.hourly.surface_pressure[i])}</td></tr>`;
-        }
-        container.innerHTML = html + '</tbody></table></div>';
+        const offsetSeconds = d.utc_offset_seconds ?? 14400;
+        const first = d.hourly.time.findIndex(time => Date.parse(time + 'Z') - offsetSeconds * 1000 >= now - 30 * 60 * 1000);
+        const start = first < 0 ? d.hourly.time.length : first;
+        container.innerHTML = renderHourlyForecastTable(d.hourly, start, d.daily);
     } catch (error) {
         console.error('Hourly forecast error:', error);
         container.innerHTML = '<div style="padding:25px;">❌ Saatlıq proqnoz yüklənmədi.</div>';
