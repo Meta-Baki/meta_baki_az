@@ -1440,6 +1440,52 @@ html.phone-menu .forecast-toolbar button {min-height:44px;padding:8px 5px}
 .hourly-forecast-table .hourly-day-label time strong {font-size:16px;color:#f1f5f9}
 .hourly-forecast-table .hourly-day-label time span {margin:0}
 
+/* Phone-only forecast corrections: leave the desktop and the rest of the site unchanged. */
+html.phone-menu .daily-forecast-panel {
+    zoom:2.1;
+    font-family:Arial,Helvetica,sans-serif;
+    max-width:100%;
+    min-width:0;
+}
+html.phone-menu .daily-forecast-panel .daily-forecast-scroll {
+    max-height:none !important;
+    overflow-x:auto;
+    overflow-y:hidden;
+    -webkit-overflow-scrolling:touch;
+    isolation:isolate;
+}
+html.phone-menu .daily-forecast-panel .daily-forecast-table thead {
+    position:static;
+}
+html.phone-menu .daily-forecast-panel .daily-forecast-table tbody th {
+    background:#0e1b2c !important;
+}
+html.phone-menu .daily-forecast-panel .daily-forecast-table tbody tr:nth-child(even) th {
+    background:#162438 !important;
+}
+html.phone-menu .daily-forecast-panel .daily-forecast-table .forecast-groups th:first-child {
+    background:#16283e !important;
+}
+html.phone-menu .daily-forecast-panel .daily-forecast-table .hourly-day-divider > th {
+    background:#1e3146 !important;
+}
+html.phone-menu .daily-forecast-panel .forecast-toolbar {
+    padding:10px;
+    gap:8px;
+}
+html.phone-menu .daily-forecast-panel .forecast-toolbar button {
+    min-height:50px;
+    padding:8px 5px;
+}
+html.phone-menu .daily-forecast-panel .forecast-scroll-hint {
+    font-size:14px;
+    line-height:1.4;
+}
+html.phone-menu .daily-forecast-panel .forecast-headings th {
+    height:70px;
+    padding:10px 8px !important;
+}
+
 </style>
 </head>
 
@@ -3026,7 +3072,8 @@ function scrollDailyForecast(button, group) {
     const target = panel.querySelector(`[data-group="${group}"]`);
     if (!target) return;
     const dateWidth = panel.querySelector('col').getBoundingClientRect().width;
-    const left = group === 'weather' ? 0 : scroll.scrollLeft + target.getBoundingClientRect().left - scroll.getBoundingClientRect().left - dateWidth - 2;
+    const phoneScale = document.documentElement.classList.contains('phone-menu') ? scroll.getBoundingClientRect().width / scroll.offsetWidth : 1;
+    const left = group === 'weather' ? 0 : scroll.scrollLeft + (target.getBoundingClientRect().left - scroll.getBoundingClientRect().left - dateWidth - 2) / phoneScale;
     scroll.scrollTo({left,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth'});
 }
 
