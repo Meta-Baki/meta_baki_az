@@ -1,302 +1,154 @@
 <h2 style="color:#a78bfa;">
-🌌 “James Webb” məşhur “Qara Göz” qalaktikasının gizli quruluşunu üzə çıxardı
+🌌 James Webb Kainatın “ulduz xəzinəsini” göstərdi — NASA yeni görüntü yayımladı
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 16 sentyabr 2026, 12:43 — Bakı vaxtı
+🕐 Əlavə olunub: 17 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>“James Webb” kosmik teleskopunun yeni infraqırmızı müşahidələri
-Messier 64 (M64) qalaktikasının toz buludlarının arxasında gizlənən
-quruluşunu daha ətraflı göstərib. NASA sentyabrın 16-da qalaktikanın
-Webb və Hubble məlumatları əsasında hazırlanmış yeni görüntüsünü təqdim edib.</strong>
+<strong>NASA sentyabrın 17-də James Webb Kosmik Teleskopunun çəkdiyi möhtəşəm kosmik görüntünü təqdim edib. Kadrda Süd Yolu qalaktikasında yerləşən Karina dumanlığının qaz və tozla zəngin nəhəng bölgəsi görünür.</strong>
 </p>
 
 <p>
-“Qara Göz qalaktikası” kimi tanınan M64-ün mərkəzi hissəsinin qarşısından
-keçən nəhəng qaranlıq toz zolağı onun ən fərqləndirici xüsusiyyətidir.
-Lakin “James Webb”in infraqırmızı imkanları bu tozun daxilində və
-arxasında gedən prosesləri daha yaxşı müşahidə etməyə imkan verir.
+Təxminən <strong>7500 işıq ili</strong> uzaqlıqda yerləşən bu kosmik bölgədə yeni ulduzların yaranması prosesi gedir. İnfraqırmızı diapazonda müşahidə aparan James Webb qalın kosmik tozun arxasında gizlənən strukturları və ulduzları daha ətraflı göstərməyə imkan verir.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.04);
-border:1px solid rgba(167,139,250,0.27);
+background:rgba(139,92,246,0.06);
+border:1px solid rgba(167,139,250,0.30);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌌 YENİ KOSMİK MÜŞAHİDƏ</strong><br><br>
+<strong style="color:#c4b5fd;">🌌 ƏSAS MƏLUMAT</strong><br><br>
 
 🔭 Teleskop: <strong>James Webb Space Telescope</strong><br><br>
 
-🌌 Obyekt: <strong>Messier 64 — M64</strong><br><br>
+🌌 Obyekt: <strong>Karina dumanlığı</strong><br><br>
 
-👁️ Digər adı: <strong>“Qara Göz qalaktikası”</strong><br><br>
+📍 Məsafə: <strong>təxminən 7500 işıq ili</strong><br><br>
 
-🔬 Alət: <strong>MIRI — orta infraqırmızı diapazon</strong><br><br>
+⭐ Əsas proses: <strong>yeni ulduzların formalaşması</strong><br><br>
 
-✨ Əsas nəticə: <strong>tozun quruluşu və ulduz yaranma bölgələri daha detallı müşahidə olunub</strong>
+📅 NASA tərəfindən təqdim edilib: <strong>17 sentyabr 2026</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">👁️ Niyə ona “Qara Göz” deyilir?</h3>
+<h3 style="color:#38bdf8;">🔭 Kosmik “xəzinə sandığı”</h3>
 
 <p>
-M64 spiral qalaktikadır. Onun parlaq mərkəzi hissəsinin qarşısında
-geniş və qaranlıq kosmik toz zolağı yerləşir.
+NASA bu görüntünü ulduzlarla dolu bir <strong>“xəzinə sandığı”</strong> kimi təsvir edir.
 </p>
 
 <p>
-Yerdən çəkilmiş və görünən işıq diapazonundakı görüntülərdə bu struktur
-qalaktikanın mərkəzinin qarşısında böyük qara ləkəni xatırladır.
-Məhz buna görə Messier 64 çox vaxt
-<strong>“Black Eye Galaxy” — “Qara Göz qalaktikası”</strong> adlandırılır.
+James Webb-in müşahidəsində Karina dumanlığındakı nəhəng toz sütunu, onun ətrafında parlayan ulduzlar və müxtəlif rənglərdə görünən qaz strukturları seçilir.
+</p>
+
+<p>
+Bu mürəkkəb kosmik mühit sadəcə gözəl mənzərə deyil. Belə bölgələr astronomlara ulduzların sıx qaz və toz buludlarının daxilində necə yarandığını araşdırmağa imkan verir.
 </p>
 
 <div style="
-background:rgba(59,130,246,0.04);
-border:1px solid rgba(96,165,250,0.27);
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.30);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">👁️ MESSIER 64</strong><br><br>
+<strong style="color:#60a5fa;">✨ NƏYİ GÖRÜRÜK?</strong><br><br>
 
-🌌 Tip: <strong>spiral qalaktika</strong><br><br>
+⭐ Yeni və gənc ulduzlar<br><br>
 
-✨ Mərkəz: <strong>parlaq ulduzlarla zəngin</strong><br><br>
+☁️ Nəhəng qaz və toz strukturları<br><br>
 
-🌑 Əsas xüsusiyyət: <strong>mərkəzi əhatə edən böyük toz zolağı</strong><br><br>
+🌌 Aktiv ulduz yaranma bölgəsi<br><br>
 
-🔭 Webb → <strong>tozu infraqırmızı diapazonda müşahidə edir</strong>
+🔭 İnfraqırmızı diapazonda James Webb müşahidələri
 
 </div>
 
-<h3 style="color:#f97316;">🔭 Hubble qaranlıq görür, Webb isə tozun içini göstərir</h3>
+<h3 style="color:#facc15;">⭐ Burada yeni ulduzlar yaranır</h3>
 
 <p>
-NASA-nın yeni müqayisəsi “Hubble” və “James Webb” teleskoplarının
-eyni qalaktikanı müxtəlif dalğa uzunluqlarında necə fərqli gördüyünü
-aydın şəkildə nümayiş etdirir.
+Karina dumanlığı Süd Yolunun ən maraqlı ulduz yaranma bölgələrindən biridir. Nəhəng qaz və toz buludları daxilində maddə cazibə qüvvəsinin təsiri altında sıxlaşaraq gələcək ulduzların formalaşması üçün şərait yaradır.
 </p>
 
 <p>
-Hubble görüntülərində M64-ün qalın toz zolaqları bəzi bölgələri
-qaranlıq göstərir. Webb-in MIRI cihazı isə həmin tozun yaydığı
-infraqırmızı şüalanmanı müşahidə edə bilir.
+Yeni yaranmış ulduzlardan gələn güclü radiasiya və ulduz küləkləri isə onların ətrafındakı qaz və tozu dəyişdirərək mürəkkəb kosmik strukturlar formalaşdırır.
 </p>
 
 <div style="
-background:rgba(249,115,22,0.04);
-border:1px solid rgba(249,115,22,0.27);
+background:rgba(234,179,8,0.05);
+border:1px solid rgba(234,179,8,0.30);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🔭 HUBBLE VƏ WEBB</strong><br><br>
+<strong style="color:#facc15;">💫 7500 İŞIQ İLİ NƏ DEMƏKDİR?</strong><br><br>
 
-🔵 <strong>Hubble</strong><br>
-Görünən işıqda ulduzları və ulduz yaranma bölgələrini müşahidə edir.<br><br>
+Karina dumanlığından gələn işığın Yerə çatması üçün təxminən <strong>7500 il</strong> tələb olunur.<br><br>
 
-🟠 <strong>James Webb</strong><br>
-İnfraqırmızı diapazonda kosmik tozu və onun daxilində gizlənən strukturları öyrənir.<br><br>
-
-🤝 <strong>Birlikdə</strong><br>
-Qalaktikanın quruluşu və təkamülü haqqında daha dolğun məlumat əldə etməyə imkan verir.
+Başqa sözlə, James Webb-in müşahidə etdiyi mənzərə həmin bölgənin indiki vəziyyətini deyil, onun <strong>təxminən 7500 il əvvəl necə göründüyünü</strong> göstərir.
 
 </div>
 
-<h3 style="color:#facc15;">✨ Yeni ulduzların yarandığı bölgələr görünür</h3>
+<h3 style="color:#22c55e;">🔬 James Webb niyə bu qədər çox detal görə bilir?</h3>
 
 <p>
-M64-dəki kosmik toz yalnız qaranlıq material deyil. O, ətrafındakı
-gənc ulduzlardan gələn enerjini udur və sonra həmin enerjinin bir
-hissəsini infraqırmızı diapazonda yenidən yayır.
+James Webb əsasən infraqırmızı diapazonda müşahidələr aparır. İnfraqırmızı şüalanma görünən işıqla müqayisədə kosmik tozun içərisindən daha yaxşı keçə bilir.
 </p>
 
 <p>
-Webb-in MIRI cihazı məhz bu şüalanmanı qeydə alaraq astronomlara
-qalaktikanın toz strukturunu və ulduzların yarandığı aktiv bölgələri
-araşdırmağa imkan verir.
+Bu xüsusiyyət teleskopa adi optik müşahidələrdə tozun arxasında gizlənən gənc ulduzları və onların formalaşdığı bölgələri araşdırmağa imkan verir.
 </p>
 
 <div style="
-background:rgba(234,179,8,0.04);
-border:1px solid rgba(234,179,8,0.27);
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
 padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">⭐ ULDUZLAR NECƏ YARANIR?</strong><br><br>
+<strong style="color:#4ade80;">🔭 NİYƏ BU MÜŞAHİDƏ VACİBDİR?</strong><br><br>
 
-☁️ Qaz və kosmik toz toplanır<br><br>
+Bu cür müşahidələr alimlərə:<br><br>
 
-⬇️<br><br>
+⭐ ulduzların necə yarandığını;<br><br>
 
-🌀 Maddə sıxlaşır<br><br>
+☁️ qaz və toz buludlarının necə dəyişdiyini;<br><br>
 
-⬇️<br><br>
+💫 gənc ulduzların ətraf mühitə necə təsir etdiyini;<br><br>
 
-🔥 Temperatur və təzyiq artır<br><br>
-
-⬇️<br><br>
-
-⭐ Yeni ulduz formalaşır
-
-</div>
-
-<h3 style="color:#ef4444;">🌀 Qalaktikanın qazı iki fərqli istiqamətdə fırlanır</h3>
-
-<p>
-Messier 64-ün ən qeyri-adi xüsusiyyətlərindən biri onun qazının
-hərəkətidir.
-</p>
-
-<p>
-NASA-nın məlumatına görə, qalaktikanın daxili və xarici qaz bölgələri
-<strong>bir-birinə əks istiqamətlərdə fırlanır.</strong>
-</p>
-
-<p>
-Bu iki qaz axınının qarşılaşdığı ərazilərdə maddə sıxılır və nəticədə
-yeni ulduzların yaranması üçün əlverişli şərait formalaşır.
-</p>
-
-<div style="
-background:rgba(239,68,68,0.035);
-border:1px solid rgba(239,68,68,0.26);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#f87171;">🌀 QEYRİ-ADİ HƏRƏKƏT</strong><br><br>
-
-🔄 Daxili qaz → <strong>bir istiqamətdə fırlanır</strong><br><br>
-
-🔃 Xarici qaz → <strong>əks istiqamətdə fırlanır</strong><br><br>
-
-💥 Qarşılaşma bölgələri → <strong>qaz sıxılır</strong><br><br>
-
-⭐ Nəticə → <strong>ulduz yaranması güclənə bilər</strong>
-
-</div>
-
-<h3 style="color:#a78bfa;">💥 Keçmişdə başqa qalaktika ilə toqquşmuş ola bilər</h3>
-
-<p>
-Astronomlar M64-ün xarici qazının əks istiqamətdə hərəkət etməsinin
-qalaktikanın keçmişində baş vermiş böyük kosmik hadisə ilə əlaqəli
-olduğunu düşünürlər.
-</p>
-
-<p>
-Əsas izahlardan biri M64-ün daha kiçik qalaktika ilə
-<strong>birləşməsi</strong>dir. Kiçik qalaktikadan gələn qaz fərqli
-istiqamətdə hərəkət edərək indiki qeyri-adi quruluşun yaranmasına
-səbəb olmuş ola bilər.
-</p>
-
-<div style="
-background:rgba(139,92,246,0.04);
-border:1px solid rgba(167,139,250,0.27);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#c4b5fd;">💥 M64-ÜN KEÇMİŞİ</strong><br><br>
-
-🌌 M64 spiral qalaktikası<br><br>
-
-➕<br><br>
-
-🌌 Daha kiçik qalaktika<br><br>
-
-⬇️<br><br>
-
-💥 Qalaktikaların qarşılıqlı təsiri və birləşməsi<br><br>
-
-⬇️<br><br>
-
-🌀 Əks istiqamətdə hərəkət edən qaz<br><br>
-
-⬇️<br><br>
-
-⭐ Güclənmiş ulduz yaranma bölgələri
-
-</div>
-
-<h3 style="color:#22c55e;">🌌 Süd Yolunun keçmişini anlamağa da kömək edir</h3>
-
-<p>
-Astronomlar əvvəllər spiral qalaktikaların nisbətən sakit inkişaf
-tarixinə malik olduğunu düşünürdülər.
-</p>
-
-<p>
-M64 kimi obyektlərin tədqiqi isə spiral qalaktikaların da digər
-qalaktikalarla toqquşa və birləşə bildiyini göstərən mühüm
-dəlillər təqdim edib.
-</p>
-
-<p>
-Bu proseslərin öyrənilməsi bizim öz qalaktikamız —
-<strong>Süd Yolunun</strong> milyardlarla illik təkamülünü anlamağa
-da kömək edə bilər.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.04);
-border:1px solid rgba(34,197,94,0.27);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🔬 WEBB NƏYİ ÖYRƏNMƏYƏ KÖMƏK EDƏCƏK?</strong><br><br>
-
-🌑 Kosmik tozun quruluşunu<br><br>
-
-🌀 Qazın hərəkətini<br><br>
-
-⭐ Ulduz yaranma proseslərini<br><br>
-
-💥 Qalaktikaların birləşmə tarixini<br><br>
-
-🌌 Spiral qalaktikaların təkamülünü
+🌌 qalaktikamızdakı ulduz yaranma proseslərinin necə inkişaf etdiyini daha ətraflı öyrənməyə kömək edir.
 
 </div>
 
 <div style="
-background:rgba(139,92,246,0.04);
-border:1px solid rgba(167,139,250,0.27);
+background:rgba(139,92,246,0.06);
+border:1px solid rgba(167,139,250,0.30);
 padding:18px;
 border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-🌌 <strong style="color:#c4b5fd;">META Kosmos:</strong>
-“James Webb”in Messier 64 qalaktikasına yeni baxışı kosmik tozun
-arxasında gizlənən strukturları üzə çıxarır. M64-də qazın əks
-istiqamətlərdə hərəkət etməsi və aktiv ulduz yaranması onun keçmişdə
-başqa qalaktika ilə birləşməsinin izlərini daşıya biləcəyini göstərir.
+📌 <strong style="color:#c4b5fd;">META Kosmos:</strong><br><br>
+
+James Webb-in Karina dumanlığına baxışı bizə təxminən <strong>7500 il əvvəlin kosmik mənzərəsini</strong> göstərir.
+
+Bu nəhəng qaz və toz strukturlarının daxilində yeni ulduzların formalaşması davam edir və müasir infraqırmızı teleskoplar həmin proseslərin əvvəllər görünməyən detallarını üzə çıxarır.
 
 </div>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
-və yeni elmi kəşflərlə bağlı məlumatları izləməyə davam edir.
-</p>
-
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, astronomiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos, hava və təbiətlə bağlı yeni məlumatları izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
+➡️ META WhatsApp Kanalı </a>
+
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
@@ -306,7 +158,7 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 <hr>
 
 <p style="color:#94a3b8;font-size:14px;">
-META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
 Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
 atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
 Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
