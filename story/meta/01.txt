@@ -1,164 +1,85 @@
 <h2 style="color:#38bdf8;">
-🌍 16 sentyabr — Beynəlxalq Ozon Təbəqəsinin Mühafizəsi Günüdür
+🌫️ Azərbaycanın bəzi rayonlarında sıx duman — görünüş 500 metrədək azalıb
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 16 sentyabr 2026, 12:43 — Bakı vaxtı
+🕐 Əlavə olunub: 17 sentyabr 2026, 16:26 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bu gün, 16 sentyabr dünyada Beynəlxalq Ozon Təbəqəsinin
-Mühafizəsi Günü kimi qeyd olunur. Ozon təbəqəsinin qorunması Yer kürəsində
-həyatın Günəşdən gələn zərərli ultrabənövşəyi şüalanmadan müdafiəsi
-baxımından böyük əhəmiyyət daşıyır.</strong>
+<strong>Sentyabrın 17-si səhər saatlarında Azərbaycanın bir sıra ərazilərində duman müşahidə olunub. Ayrı-ayrı yerlərdə görünüş məsafəsi 500 metrədək məhdudlaşıb.</strong>
 </p>
 
 <p>
-Ozon təbəqəsinin qorunması üzrə beynəlxalq əməkdaşlığın əsaslarından biri
-1985-ci ildə qəbul edilmiş Vyana Konvensiyasıdır. 1987-ci ildə isə ozon
-təbəqəsini dağıdan maddələrin istifadəsinin məhdudlaşdırılmasını nəzərdə
-tutan Monreal Protokolu qəbul edilib.
+Duman <strong>Şəmkir, Xızı, Şahdağ, Sabirabad və Lerikdə</strong> qeydə alınıb. Ölkənin əksər rayonlarında hava əsasən yağmursuz olsa da, ötən axşam və gecə bəzi dağlıq və dağətəyi ərazilərdə qısamüddətli leysan yağışları və şimşək müşahidə edilib.
 </p>
 
-<div style="
-background:rgba(59,130,246,0.04);
-border:1px solid rgba(96,165,250,0.27);
-padding:18px;border-radius:10px;margin:18px 0;">
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌍 16 SENTYABR</strong><br><br>
+<strong style="color:#60a5fa;">🌫️ SƏHƏRİN FAKTİKİ HAVA ŞƏRAİTİ</strong><br><br>
 
-🌐 Gün: <strong>Beynəlxalq Ozon Təbəqəsinin Mühafizəsi Günü</strong><br><br>
+📍 Şəmkir — <strong>duman</strong><br><br>
 
-📅 Vyana Konvensiyası: <strong>1985</strong><br><br>
+📍 Xızı — <strong>duman</strong><br><br>
 
-📜 Monreal Protokolu: <strong>1987</strong><br><br>
+📍 Şahdağ — <strong>duman</strong><br><br>
 
-🛡️ Əsas məqsəd: <strong>ozon təbəqəsinin qorunması</strong><br><br>
+📍 Sabirabad — <strong>duman</strong><br><br>
 
-☀️ Əhəmiyyəti: <strong>zərərli ultrabənövşəyi şüalanmanın qarşısının alınması</strong>
+📍 Lerik — <strong>duman</strong><br><br>
+
+👁️ Minimum görünüş məsafəsi: <strong>500 metrədək</strong>
 
 </div>
 
-<h3 style="color:#a78bfa;">🛡️ Ozon təbəqəsi Yer kürəsinin təbii qalxanıdır</h3>
+<h3 style="color:#f97316;">⛈️ Dağlıq ərazilərdə leysan və şimşək qeydə alınıb</h3>
 
 <p>
-Atmosferin stratosfer hissəsində yerləşən ozon təbəqəsi Günəşdən gələn
-ultrabənövşəyi şüaların böyük hissəsini udaraq onların Yer səthinə
-çatmasını məhdudlaşdırır.
+Axşam və gecə saatlarında bəzi dağlıq və dağətəyi rayonlarda atmosfer qeyri-sabit olub. Ayrı-ayrı ərazilərdə qısamüddətli leysan xarakterli yağış yağıb və şimşək çaxıb.
 </p>
 
 <p>
-Bu səbəbdən ozon qatında baş verən dəyişikliklər yalnız atmosfer üçün
-deyil, insanlar, heyvanlar, bitkilər və bütövlükdə ekosistemlər üçün
-əhəmiyyətlidir.
+Ən çox yağıntı <strong>Balakəndə — 15 mm</strong> qeydə alınıb. Sarıbaşda (Qax) 12 mm, Zaqatalada 8 mm, Quba və Qusarda isə 3 mm-dək yağıntı düşüb.
 </p>
 
-<div style="
-background:rgba(139,92,246,0.04);
-border:1px solid rgba(167,139,250,0.27);
-padding:18px;border-radius:10px;margin:18px 0;">
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🛡️ OZON TƏBƏQƏSİ NƏ EDİR?</strong><br><br>
+<strong style="color:#60a5fa;">🌧️ QEYDƏ ALINAN YAĞINTI</strong><br><br>
 
-☀️ Günəşdən ultrabənövşəyi şüalanma gəlir<br><br>
+🌧️ Balakən — <strong>15 mm</strong><br><br>
 
-⬇️<br><br>
+🌧️ Sarıbaş (Qax) — <strong>12 mm</strong><br><br>
 
-🌍 Ozon təbəqəsi şüaların mühüm hissəsini udur<br><br>
+🌧️ Zaqatala — <strong>8 mm</strong><br><br>
 
-⬇️<br><br>
+🌧️ Quba və Qusar — <strong>3 mm-dək</strong><br><br>
 
-🌱 Yer səthindəki canlılar əlavə qorunma əldə edir
+🌧️ Naftalan və İsmayıllı — <strong>1 mm-dək</strong>
 
 </div>
 
-<h3 style="color:#f97316;">⚠️ Ozon təbəqəsini nə zəiflədib?</h3>
+<h3 style="color:#22c55e;">🌿 Dağlıq relyef hava şəraitinə təsir edir</h3>
 
 <p>
-Keçmişdə soyuducu sistemlərdə, aerozollarda və müxtəlif sənaye
-proseslərində geniş istifadə edilən bəzi kimyəvi maddələrin atmosferə
-buraxılması stratosferdə ozonun parçalanmasını sürətləndirib.
+Azərbaycanın dağlıq və dağətəyi ərazilərində relyef hava kütlələrinin hərəkətinə və buludların formalaşmasına ciddi təsir göstərə bilir. Rütubətli hava dağ yamacları boyunca yüksəldikdə soyuyur və nəticədə bulud, duman və lokal yağıntıların yaranması üçün əlverişli şərait formalaşa bilər.
 </p>
 
 <p>
-Bu problemin qlobal xarakter daşıması ölkələrin birgə fəaliyyətini
-zəruri edib və nəticədə ozon dağıdıcı maddələrin istifadəsinin
-mərhələli şəkildə azaldılması istiqamətində beynəlxalq tədbirlər görülüb.
+Bu səbəbdən ölkənin bir hissəsində tamamilə quru hava müşahidə olunduğu halda, yaxınlıqdakı dağlıq ərazidə qısamüddətli leysan və ya sıx duman qeydə alına bilər.
 </p>
 
-<div style="
-background:rgba(249,115,22,0.04);
-border:1px solid rgba(249,115,22,0.27);
-padding:18px;border-radius:10px;margin:18px 0;">
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#fb923c;">⚠️ ƏSAS RİSK</strong><br><br>
+📌 <strong style="color:#facc15;">META Təbiət:</strong><br><br>
 
-🏭 Ozon dağıdıcı maddələrin atmosferə buraxılması<br><br>
-
-⬇️<br><br>
-
-🧪 Stratosferdə ozon molekullarının parçalanması<br><br>
-
-⬇️<br><br>
-
-☀️ Yer səthinə daha çox ultrabənövşəyi şüanın çatması<br><br>
-
-⬇️<br><br>
-
-🌿 Ekosistemlər üçün əlavə risk
-
-</div>
-
-<h3 style="color:#22c55e;">🌱 Qlobal tədbirlər nəticə verir</h3>
-
-<p>
-Ozon dağıdıcı maddələrin istifadəsinin beynəlxalq səviyyədə
-məhdudlaşdırılması ozon təbəqəsinin bərpası istiqamətində ən mühüm
-ekoloji nailiyyətlərdən biri hesab olunur.
-</p>
-
-<p>
-Bununla belə, ozon təbəqəsinin tam bərpası uzunmüddətli prosesdir və
-atmosferin vəziyyətinin davamlı monitorinqi vacib olaraq qalır.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.04);
-border:1px solid rgba(34,197,94,0.27);
-padding:18px;border-radius:10px;margin:18px 0;">
-
-<strong style="color:#4ade80;">🌿 NİYƏ DAVAM ETMƏK VACİBDİR?</strong><br><br>
-
-🌍 Atmosferin qorunması<br><br>
-
-🌱 Bitki örtüyünün mühafizəsi<br><br>
-
-🌊 Dəniz ekosistemlərinin qorunması<br><br>
-
-🐾 Biomüxtəlifliyə təsirin azaldılması<br><br>
-
-☀️ Zərərli UV şüalanmanın məhdudlaşdırılması
-
-</div>
-
-<div style="
-background:rgba(59,130,246,0.04);
-border:1px solid rgba(96,165,250,0.27);
-padding:18px;border-radius:10px;font-size:18px;margin:18px 0;">
-
-🌍 <strong style="color:#60a5fa;">META Ekologiya:</strong>
-Ozon təbəqəsinin qorunması qlobal ekoloji əməkdaşlığın ən mühüm
-istiqamətlərindən biridir. Atmosferdə baş verən dəyişikliklərin
-uzunmüddətli müşahidəsi Yer kürəsinin təbii müdafiə sisteminin
-vəziyyətini qiymətləndirməyə imkan verir.
+17 sentyabr səhərinin əsas təbiət hadisəsi bəzi rayonlarda müşahidə edilən duman olub. Bundan əvvəl isə ölkənin şimal-qərb və bəzi dağlıq ərazilərində lokal leysanlar qeydə alınıb. Yağıntıların paylanması kəskin lokal xarakter daşıyıb.
 
 </div>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Təbiət, ekologiya və hava ilə bağlı yeni məlumatlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;text-decoration:none;">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
@@ -170,11 +91,9 @@ target="_blank" style="color:#25D366;text-decoration:none;">
 <hr>
 
 <p style="color:#94a3b8;font-size:14px;">
-META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
-əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
