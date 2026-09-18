@@ -1,77 +1,83 @@
 <h2 style="color:#38bdf8;">
-🐟 Xəzər dənizində balıqçılığın vahid məlumat bazası və “rəqəmsal əkizi” yaradıla bilər
+🌊 Xəzər üçün yeni ekoloji təşəbbüs — balıqçılığın “rəqəmsal əkizi” yaradıla bilər
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 17 sentyabr 2026, 16:26 — Bakı vaxtı
+🕐 Əlavə olunub: 18 sentyabr 2026, 16:46 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Xəzər dənizində balıq ehtiyatlarının və balıqçılıq təsərrüfatının daha müasir üsullarla izlənilməsi üçün vahid məlumat bazasının və sektorun “rəqəmsal əkizi”nin yaradılması təklif olunur.</strong>
+<strong>Xəzər dənizinin su bioresurslarının daha sistemli şəkildə izlənilməsi istiqamətində yeni təşəbbüs irəli sürülüb.</strong>
 </p>
 
 <p>
-Belə bir sistem müxtəlif məlumatların vahid rəqəmsal mühitdə birləşdirilməsinə, balıq ehtiyatlarının vəziyyətinin daha sistemli qiymətləndirilməsinə və Xəzərin bioloji resurslarının idarə olunmasında məlumat əsaslı yanaşmanın gücləndirilməsinə imkan verə bilər.
+Beş Xəzəryanı ölkənin iştirakı ilə su bioresursları üzrə vahid məlumat bazasının və balıqçılıq təsərrüfatının <strong>“rəqəmsal əkizinin”</strong> yaradılması təklif olunur.
 </p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌊 NƏ TƏKLİF OLUNUR?</strong><br><br>
+<strong style="color:#60a5fa;">🌊 ƏSAS TƏKLİF</strong><br><br>
 
-🗃️ Balıqçılıq sektoru üzrə <strong>vahid məlumat bazasının yaradılması</strong><br><br>
+🐟 Xəzərin su bioresursları üzrə məlumatların birləşdirilməsi<br><br>
 
-💻 Balıqçılıq təsərrüfatının <strong>rəqəmsal əkizinin formalaşdırılması</strong><br><br>
+💻 Vahid rəqəmsal məlumat bazasının yaradılması<br><br>
 
-🐟 Balıq ehtiyatları ilə bağlı məlumatların sistemləşdirilməsi<br><br>
+🛰️ Balıqçılıq sektorunun “rəqəmsal əkizinin” formalaşdırılması<br><br>
 
-📊 Monitorinq və idarəetmədə rəqəmsal texnologiyalardan daha geniş istifadə
+🤝 Beş Xəzəryanı dövlət arasında məlumat mübadiləsinin genişləndirilməsi
 
 </div>
 
-<h3 style="color:#22c55e;">🌿 Xəzərin ekosistemi üçün niyə vacibdir?</h3>
+<h3 style="color:#22c55e;">🐟 Xəzərin bioresurslarının monitorinqi</h3>
 
 <p>
-Xəzər dənizi yalnız iqtisadi resurs deyil, eyni zamanda unikal ekosistem və çoxsaylı canlı növlərinin yaşayış mühitidir.
+Xəzər dənizi unikal ekosistemə və zəngin su bioresurslarına malikdir. Balıq ehtiyatlarının vəziyyəti, onların yayılması və ov həcmləri barədə məlumatların sistemli şəkildə toplanması ekosistemin qorunması baxımından mühüm əhəmiyyət daşıyır.
 </p>
 
 <p>
-Balıq ehtiyatları haqqında daha dəqiq və sistemli məlumatların toplanması onların vəziyyətində baş verən dəyişiklikləri izləməyə, riskləri daha erkən müəyyən etməyə və bioloji resursların qorunması üzrə qərarların məlumat bazasını gücləndirməyə kömək edə bilər.
+Vahid rəqəmsal sistem müxtəlif ölkələr tərəfindən toplanan məlumatların müqayisəsini və Xəzərin su bioresurslarının vəziyyətinin daha kompleks qiymətləndirilməsini asanlaşdıra bilər.
 </p>
 
 <div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#4ade80;">🌱 EKOLOJİ ƏHƏMİYYƏT</strong><br><br>
+<strong style="color:#4ade80;">🐠 EKOLOJİ ƏHƏMİYYƏT</strong><br><br>
 
-🐠 Balıq populyasiyalarının vəziyyətinin izlənilməsi<br><br>
+📊 Bioresurslar haqqında məlumatların sistemləşdirilməsi<br><br>
 
-🌊 Xəzərin bioloji müxtəlifliyinin qorunmasına dəstək<br><br>
+🐟 Balıq ehtiyatlarının vəziyyətinin izlənilməsi<br><br>
 
-📈 Uzunmüddətli dəyişikliklərin müqayisəsi<br><br>
+🌊 Xəzər ekosistemində dəyişikliklərin müqayisəsi<br><br>
 
-🔎 Ekoloji risklərin daha sistemli qiymətləndirilməsi
+🤝 Regional əməkdaşlığın gücləndirilməsi
 
 </div>
 
-<h3 style="color:#a78bfa;">💻 “Rəqəmsal əkiz” nədir?</h3>
+<h3 style="color:#facc15;">💻 “Rəqəmsal əkiz” nə deməkdir?</h3>
 
 <p>
-Rəqəmsal əkiz real sistem haqqında toplanan məlumatlar əsasında yaradılan virtual modeldir. Balıqçılıq sahəsində belə yanaşma müxtəlif göstəricilərin bir platformada birləşdirilməsi və real proseslərin rəqəmsal mühitdə təhlil edilməsi üçün istifadə oluna bilər.
+Rəqəmsal əkiz real sistem haqqında müxtəlif məlumatları vahid rəqəmsal modeldə birləşdirməyə imkan verən yanaşmadır.
 </p>
 
 <p>
-Bu yanaşmanın tətbiqi Xəzərdə baş verən dəyişikliklərin daha yaxşı anlaşılması və gələcək qərarların məlumatlara əsaslanaraq verilməsi baxımından əhəmiyyətli ola bilər.
+Belə bir model Xəzərin balıqçılıq sektoru üçün tətbiq edilərsə, müxtəlif mənbələrdən daxil olan məlumatların bir sistem daxilində təhlilinə və proseslərin daha aydın izlənilməsinə imkan yarada bilər.
+</p>
+
+<h3 style="color:#38bdf8;">🌊 Xəzər bütün region üçün ortaq ekosistemdir</h3>
+
+<p>
+Xəzər dənizində baş verən ekoloji dəyişikliklər yalnız bir ölkənin sərhədləri ilə məhdudlaşmır. Buna görə su bioresurslarının qorunması Azərbaycan, Rusiya, Qazaxıstan, Türkmənistan və İran arasında əməkdaşlıq tələb edən məsələlərdəndir.
 </p>
 
 <div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:10px;margin:20px 0;">
 
 📌 <strong style="color:#c4b5fd;">META Ekologiya:</strong><br><br>
 
-Xəzər dənizində bioloji ehtiyatların qorunması üçün yalnız mövcud vəziyyətin deyil, uzunmüddətli dəyişikliklərin də izlənilməsi vacibdir. Rəqəmsal məlumat bazalarının inkişafı gələcəkdə dənizin ekoloji vəziyyətinin qiymətləndirilməsində əlavə imkanlar yarada bilər.
+Vahid məlumat sisteminin yaradılması Xəzər dənizində su bioresurslarının vəziyyətini daha sistemli izləmək üçün əlavə imkan yarada bilər. Təşəbbüsün real nəticəsi isə sistemə hansı məlumatların daxil ediləcəyindən və Xəzəryanı ölkələr arasında məlumat mübadiləsinin necə təşkil olunacağından asılı olacaq.
 
 </div>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət, ekologiya və hava ilə bağlı yeni materiallar üçün WhatsApp kanalımıza qoşulun:
+📲 Xəzər dənizi, ekologiya və təbiətlə bağlı yeni məlumatları izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
