@@ -1,83 +1,77 @@
-<h2 style="color:#38bdf8;">
-🌫️ Azərbaycanın bəzi rayonlarında sıx duman — görünüş 500 metrədək azalıb
+<h2 style="color:#22c55e;">
+🌍 Azərbaycanda iqlim dəyişmələrinə uyğunlaşma məsələləri diqqət mərkəzindədir
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 17 sentyabr 2026, 16:26 — Bakı vaxtı
+🕐 Əlavə olunub: 18 sentyabr 2026, 16:46 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 17-si səhər saatlarında Azərbaycanın bir sıra ərazilərində duman müşahidə olunub. Ayrı-ayrı yerlərdə görünüş məsafəsi 500 metrədək məhdudlaşıb.</strong>
+Azərbaycanda iqlim dəyişmələrinin təsirlərinin izlənilməsi və bu dəyişikliklərə uyğunlaşma istiqamətində aparılan işlər beynəlxalq müzakirələrin diqqət mərkəzində olub.
 </p>
 
 <p>
-Duman <strong>Şəmkir, Xızı, Şahdağ, Sabirabad və Lerikdə</strong> qeydə alınıb. Ölkənin əksər rayonlarında hava əsasən yağmursuz olsa da, ötən axşam və gecə bəzi dağlıq və dağətəyi ərazilərdə qısamüddətli leysan yağışları və şimşək müşahidə edilib.
+BMT-nin İqlim Dəyişmələri üzrə Çərçivə Konvensiyasının Adaptasiya Komitəsinin 30-cu iclasının — <strong>AC30-un iştirakçıları Milli Hidrometeorologiya Xidmətində olublar.</strong>
+</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:10px;margin:18px 0;">
+
+<strong style="color:#4ade80;">🌱 ƏSAS MƏQAM</strong><br><br>
+
+🌍 Mövzu: <strong>iqlim dəyişmələrinə uyğunlaşma</strong><br><br>
+
+🌦️ İstiqamət: <strong>hidrometeoroloji müşahidələr və iqlim monitorinqi</strong><br><br>
+
+🌐 Tədbir: <strong>UNFCCC Adaptasiya Komitəsinin 30-cu iclası — AC30</strong>
+
+</div>
+
+<h3 style="color:#38bdf8;">🌦️ Meteoroloji müşahidələrin rolu artır</h3>
+
+<p>
+İqlim dəyişmələrinin təsirlərinin qiymətləndirilməsi üçün uzunmüddətli meteoroloji və hidroloji müşahidələr xüsusi əhəmiyyət daşıyır.
+</p>
+
+<p>
+Temperatur, yağıntı, külək, quraqlıq, çayların su rejimi və digər göstəricilərin davamlı izlənilməsi gələcək risklərin qiymətləndirilməsi və uyğunlaşma tədbirlərinin planlaşdırılması üçün məlumat bazası yaradır.
 </p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#60a5fa;">🌫️ SƏHƏRİN FAKTİKİ HAVA ŞƏRAİTİ</strong><br><br>
+<strong style="color:#60a5fa;">📊 NİYƏ VACİBDİR?</strong><br><br>
 
-📍 Şəmkir — <strong>duman</strong><br><br>
+🌡️ Temperatur dəyişikliklərinin izlənilməsi<br><br>
 
-📍 Xızı — <strong>duman</strong><br><br>
+🌧️ Yağıntı rejimində dəyişikliklərin müəyyən edilməsi<br><br>
 
-📍 Şahdağ — <strong>duman</strong><br><br>
+💧 Su ehtiyatlarının vəziyyətinin qiymətləndirilməsi<br><br>
 
-📍 Sabirabad — <strong>duman</strong><br><br>
+🌊 Hidroloji proseslərin monitorinqi<br><br>
 
-📍 Lerik — <strong>duman</strong><br><br>
-
-👁️ Minimum görünüş məsafəsi: <strong>500 metrədək</strong>
+⚠️ Təhlükəli hava hadisələri ilə bağlı risklərin öyrənilməsi
 
 </div>
 
-<h3 style="color:#f97316;">⛈️ Dağlıq ərazilərdə leysan və şimşək qeydə alınıb</h3>
+<h3 style="color:#facc15;">🌍 İqlimə uyğunlaşma uzunmüddətli prosesdir</h3>
 
 <p>
-Axşam və gecə saatlarında bəzi dağlıq və dağətəyi rayonlarda atmosfer qeyri-sabit olub. Ayrı-ayrı ərazilərdə qısamüddətli leysan xarakterli yağış yağıb və şimşək çaxıb.
+İqlim dəyişmələrinə uyğunlaşma yalnız temperaturun yüksəlməsi ilə bağlı deyil. Su ehtiyatları, kənd təsərrüfatı, biomüxtəliflik, şəhər infrastrukturu və sahilyanı ərazilər də dəyişən iqlim şəraitindən təsirlənə bilər.
 </p>
 
 <p>
-Ən çox yağıntı <strong>Balakəndə — 15 mm</strong> qeydə alınıb. Sarıbaşda (Qax) 12 mm, Zaqatalada 8 mm, Quba və Qusarda isə 3 mm-dək yağıntı düşüb.
+Bu səbəbdən meteoroloji müşahidələrin genişləndirilməsi və əldə edilən məlumatların təhlili ölkənin gələcək iqlim risklərinə hazırlığında mühüm rol oynayır.
 </p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:10px;margin:20px 0;">
 
-<strong style="color:#60a5fa;">🌧️ QEYDƏ ALINAN YAĞINTI</strong><br><br>
+📌 <strong style="color:#c4b5fd;">META Ekologiya:</strong><br><br>
 
-🌧️ Balakən — <strong>15 mm</strong><br><br>
-
-🌧️ Sarıbaş (Qax) — <strong>12 mm</strong><br><br>
-
-🌧️ Zaqatala — <strong>8 mm</strong><br><br>
-
-🌧️ Quba və Qusar — <strong>3 mm-dək</strong><br><br>
-
-🌧️ Naftalan və İsmayıllı — <strong>1 mm-dək</strong>
-
-</div>
-
-<h3 style="color:#22c55e;">🌿 Dağlıq relyef hava şəraitinə təsir edir</h3>
-
-<p>
-Azərbaycanın dağlıq və dağətəyi ərazilərində relyef hava kütlələrinin hərəkətinə və buludların formalaşmasına ciddi təsir göstərə bilir. Rütubətli hava dağ yamacları boyunca yüksəldikdə soyuyur və nəticədə bulud, duman və lokal yağıntıların yaranması üçün əlverişli şərait formalaşa bilər.
-</p>
-
-<p>
-Bu səbəbdən ölkənin bir hissəsində tamamilə quru hava müşahidə olunduğu halda, yaxınlıqdakı dağlıq ərazidə qısamüddətli leysan və ya sıx duman qeydə alına bilər.
-</p>
-
-<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:10px;margin:18px 0;">
-
-📌 <strong style="color:#facc15;">META Təbiət:</strong><br><br>
-
-17 sentyabr səhərinin əsas təbiət hadisəsi bəzi rayonlarda müşahidə edilən duman olub. Bundan əvvəl isə ölkənin şimal-qərb və bəzi dağlıq ərazilərində lokal leysanlar qeydə alınıb. Yağıntıların paylanması kəskin lokal xarakter daşıyıb.
+İqlim dəyişmələrinin təsirlərini vaxtında müəyyən etmək üçün etibarlı meteoroloji müşahidələr əsas vasitələrdən biridir. Uzunmüddətli məlumatlar təbiətdə baş verən dəyişiklikləri müqayisə etməyə və gələcək riskləri daha düzgün qiymətləndirməyə imkan verir.
 
 </div>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət, ekologiya və hava ilə bağlı yeni məlumatlar üçün WhatsApp kanalımıza qoşulun:
+📲 Təbiət, ekologiya və hava ilə bağlı yeni məlumatları izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
