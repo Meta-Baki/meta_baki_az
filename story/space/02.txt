@@ -1,17 +1,17 @@
 <h2 style="color:#a78bfa;">
-🌌 James Webb Kainatın “ulduz xəzinəsini” göstərdi — NASA yeni görüntü yayımladı
+🌌 NASA kainatın ən güclü partlayışlarını araşdıracaq — StarBurst missiyasını SpaceX kosmosa göndərəcək
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 17 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 18 sentyabr 2026, 16:44 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA sentyabrın 17-də James Webb Kosmik Teleskopunun çəkdiyi möhtəşəm kosmik görüntünü təqdim edib. Kadrda Süd Yolu qalaktikasında yerləşən Karina dumanlığının qaz və tozla zəngin nəhəng bölgəsi görünür.</strong>
+<strong>NASA kainatda baş verən ən güclü hadisələrdən biri — neytron ulduzlarının toqquşması nəticəsində yaranan qısamüddətli qamma şüa partlayışlarını araşdırmaq üçün nəzərdə tutulan StarBurst kosmik missiyasının buraxılışı ilə bağlı yeni qərar açıqlayıb.</strong>
 </p>
 
 <p>
-Təxminən <strong>7500 işıq ili</strong> uzaqlıqda yerləşən bu kosmik bölgədə yeni ulduzların yaranması prosesi gedir. İnfraqırmızı diapazonda müşahidə aparan James Webb qalın kosmik tozun arxasında gizlənən strukturları və ulduzları daha ətraflı göstərməyə imkan verir.
+NASA StarBurst peykinin kosmosa çıxarılması üçün <strong>SpaceX şirkətini seçib</strong>. Aparat Falcon 9 raketi ilə Floridadakı Cape Canaveral Kosmik Qüvvələr Stansiyasından buraxılacaq.
 </p>
 
 <div style="
@@ -21,32 +21,67 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌌 ƏSAS MƏLUMAT</strong><br><br>
+<strong style="color:#c4b5fd;">🚀 ƏSAS MƏLUMAT</strong><br><br>
 
-🔭 Teleskop: <strong>James Webb Space Telescope</strong><br><br>
+🛰️ Missiya: <strong>StarBurst</strong><br><br>
 
-🌌 Obyekt: <strong>Karina dumanlığı</strong><br><br>
+🚀 Daşıyıcı raket: <strong>SpaceX Falcon 9</strong><br><br>
 
-📍 Məsafə: <strong>təxminən 7500 işıq ili</strong><br><br>
+📍 Buraxılış yeri: <strong>Cape Canaveral, Florida</strong><br><br>
 
-⭐ Əsas proses: <strong>yeni ulduzların formalaşması</strong><br><br>
+📅 Buraxılış: <strong>2028-ci ildən tez olmayaraq</strong><br><br>
 
-📅 NASA tərəfindən təqdim edilib: <strong>17 sentyabr 2026</strong>
+🌌 Məqsəd: <strong>neytron ulduzlarının birləşməsini və qısamüddətli qamma şüa partlayışlarını araşdırmaq</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🔭 Kosmik “xəzinə sandığı”</h3>
+<h3 style="color:#60a5fa;">💥 Kainatdakı nəhəng partlayışları axtaracaq</h3>
 
 <p>
-NASA bu görüntünü ulduzlarla dolu bir <strong>“xəzinə sandığı”</strong> kimi təsvir edir.
+Qamma şüa partlayışları kainatda müşahidə edilən ən güclü yüksək enerjili hadisələr sırasındadır.
 </p>
 
 <p>
-James Webb-in müşahidəsində Karina dumanlığındakı nəhəng toz sütunu, onun ətrafında parlayan ulduzlar və müxtəlif rənglərdə görünən qaz strukturları seçilir.
+StarBurst xüsusilə <strong>qısamüddətli qamma şüa partlayışlarının ilkin yüksək enerjili şüalanmasını</strong> aşkar etmək üçün hazırlanıb.
 </p>
 
 <p>
-Bu mürəkkəb kosmik mühit sadəcə gözəl mənzərə deyil. Belə bölgələr astronomlara ulduzların sıx qaz və toz buludlarının daxilində necə yarandığını araşdırmağa imkan verir.
+Belə hadisələrin bir hissəsi iki neytron ulduzunun bir-birinə yaxınlaşaraq toqquşması və birləşməsi zamanı baş verir.
+</p>
+
+<div style="
+background:rgba(239,68,68,0.06);
+border:1px solid rgba(239,68,68,0.32);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#f87171;">💥 NEYTRON ULDUZLARI TOQQUŞANDA NƏ BAŞ VERİR?</strong><br><br>
+
+⭐ İki son dərəcə sıx neytron ulduzu bir-birinə yaxınlaşır.<br><br>
+
+🌀 Sistem güclü qravitasiya dalğaları yaradır.<br><br>
+
+💥 Ulduzların birləşməsi zamanı çox böyük enerji ayrılır.<br><br>
+
+☢️ Qısa, lakin son dərəcə güclü qamma şüa partlayışı yarana bilər.<br><br>
+
+🔭 Yer və kosmosdakı teleskoplar hadisənin müxtəlif siqnallarını müşahidə edə bilər.
+
+</div>
+
+<h3 style="color:#38bdf8;">🌌 Demək olar ki, bütün görünən səmanı izləyəcək</h3>
+
+<p>
+StarBurst geniş müşahidə sahəsinə malik qamma şüa observatoriyası kimi hazırlanır.
+</p>
+
+<p>
+Peykin əsas məqsədlərindən biri Yer tərəfindən örtülməyən səmanın böyük hissəsini müşahidə edərək qəfil baş verən qamma partlayışlarını mümkün qədər tez aşkar etməkdir.
+</p>
+
+<p>
+Bu, alimlərə neytron ulduzlarının birləşməsi kimi hadisələrin ilk anlarını araşdırmaq üçün əlavə imkan yaradacaq.
 </p>
 
 <div style="
@@ -56,26 +91,30 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">✨ NƏYİ GÖRÜRÜK?</strong><br><br>
+<strong style="color:#60a5fa;">🔭 STARBURST NƏYİ MÜŞAHİDƏ EDƏCƏK?</strong><br><br>
 
-⭐ Yeni və gənc ulduzlar<br><br>
+☢️ Qamma şüalarını<br><br>
 
-☁️ Nəhəng qaz və toz strukturları<br><br>
+💥 Qısamüddətli qamma partlayışlarını<br><br>
 
-🌌 Aktiv ulduz yaranma bölgəsi<br><br>
+⭐ Neytron ulduzlarının birləşməsini<br><br>
 
-🔭 İnfraqırmızı diapazonda James Webb müşahidələri
+🌌 Yüksək enerjili kosmik hadisələri
 
 </div>
 
-<h3 style="color:#facc15;">⭐ Burada yeni ulduzlar yaranır</h3>
+<h3 style="color:#facc15;">〰️ Qravitasiya dalğaları ilə birlikdə araşdırılacaq</h3>
 
 <p>
-Karina dumanlığı Süd Yolunun ən maraqlı ulduz yaranma bölgələrindən biridir. Nəhəng qaz və toz buludları daxilində maddə cazibə qüvvəsinin təsiri altında sıxlaşaraq gələcək ulduzların formalaşması üçün şərait yaradır.
+Missiyanın ən maraqlı tərəflərindən biri StarBurst məlumatlarının <strong>qravitasiya dalğası detektorlarının müşahidələri ilə birləşdirilməsi</strong> olacaq.
 </p>
 
 <p>
-Yeni yaranmış ulduzlardan gələn güclü radiasiya və ulduz küləkləri isə onların ətrafındakı qaz və tozu dəyişdirərək mürəkkəb kosmik strukturlar formalaşdırır.
+Neytron ulduzları toqquşduqda təkcə elektromaqnit şüalanması deyil, eyni zamanda məkan-zamanda yayılan qravitasiya dalğaları da meydana gəlir.
+</p>
+
+<p>
+Eyni hadisənin həm qamma şüaları, həm də qravitasiya dalğaları vasitəsilə müşahidə edilməsi alimlərə kosmik hadisəni müxtəlif üsullarla araşdırmağa imkan verir. Bu yanaşma <strong>multimessenger astronomiyası</strong> adlanır.
 </p>
 
 <div style="
@@ -85,22 +124,32 @@ padding:18px;
 border-radius:10px;
 margin:18px 0;">
 
-<strong style="color:#facc15;">💫 7500 İŞIQ İLİ NƏ DEMƏKDİR?</strong><br><br>
+<strong style="color:#facc15;">🔬 NİYƏ BU VACİBDİR?</strong><br><br>
 
-Karina dumanlığından gələn işığın Yerə çatması üçün təxminən <strong>7500 il</strong> tələb olunur.<br><br>
+StarBurst müşahidələri alimlərə:<br><br>
 
-Başqa sözlə, James Webb-in müşahidə etdiyi mənzərə həmin bölgənin indiki vəziyyətini deyil, onun <strong>təxminən 7500 il əvvəl necə göründüyünü</strong> göstərir.
+⭐ neytron ulduzlarının birləşməsini daha yaxşı anlamağa;<br><br>
+
+☢️ qısa qamma partlayışlarının necə yarandığını araşdırmağa;<br><br>
+
+〰️ qravitasiya dalğaları ilə elektromaqnit şüalanmasını müqayisə etməyə;<br><br>
+
+🌌 kainatdakı ekstremal fiziki prosesləri öyrənməyə kömək edə bilər.
 
 </div>
 
-<h3 style="color:#22c55e;">🔬 James Webb niyə bu qədər çox detal görə bilir?</h3>
+<h3 style="color:#22c55e;">🚀 Falcon 9 ilə buraxılacaq</h3>
 
 <p>
-James Webb əsasən infraqırmızı diapazonda müşahidələr aparır. İnfraqırmızı şüalanma görünən işıqla müqayisədə kosmik tozun içərisindən daha yaxşı keçə bilir.
+NASA-nın açıqlamasına görə, StarBurst <strong>SpaceX-in Falcon 9 raketi</strong> ilə Bandwagon birgə buraxılış missiyalarından biri çərçivəsində kosmosa göndəriləcək.
 </p>
 
 <p>
-Bu xüsusiyyət teleskopa adi optik müşahidələrdə tozun arxasında gizlənən gənc ulduzları və onların formalaşdığı bölgələri araşdırmağa imkan verir.
+Buraxılış Floridadakı <strong>Cape Canaveral Space Force Station</strong> ərazisində yerləşən Space Launch Complex 40-dan həyata keçiriləcək.
+</p>
+
+<p>
+Hazırkı plana əsasən, missiyanın buraxılışı <strong>2028-ci ildən tez baş tutmayacaq</strong>.
 </p>
 
 <div style="
@@ -108,37 +157,20 @@ background:rgba(34,197,94,0.05);
 border:1px solid rgba(34,197,94,0.28);
 padding:18px;
 border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#4ade80;">🔭 NİYƏ BU MÜŞAHİDƏ VACİBDİR?</strong><br><br>
-
-Bu cür müşahidələr alimlərə:<br><br>
-
-⭐ ulduzların necə yarandığını;<br><br>
-
-☁️ qaz və toz buludlarının necə dəyişdiyini;<br><br>
-
-💫 gənc ulduzların ətraf mühitə necə təsir etdiyini;<br><br>
-
-🌌 qalaktikamızdakı ulduz yaranma proseslərinin necə inkişaf etdiyini daha ətraflı öyrənməyə kömək edir.
-
-</div>
-
-<div style="
-background:rgba(139,92,246,0.06);
-border:1px solid rgba(167,139,250,0.30);
-padding:18px;
-border-radius:10px;
 font-size:18px;
 margin-top:20px;">
 
-📌 <strong style="color:#c4b5fd;">META Kosmos:</strong><br><br>
+📌 <strong style="color:#4ade80;">META Kosmos:</strong><br><br>
 
-James Webb-in Karina dumanlığına baxışı bizə təxminən <strong>7500 il əvvəlin kosmik mənzərəsini</strong> göstərir.
+StarBurst kiçik ölçülü peyk olsa da, onun qarşısında böyük elmi məqsəd dayanır: kainatın ən ekstremal hadisələrindən olan <strong>neytron ulduzlarının birləşməsinin ilk anlarını</strong> qeydə almaq.<br><br>
 
-Bu nəhəng qaz və toz strukturlarının daxilində yeni ulduzların formalaşması davam edir və müasir infraqırmızı teleskoplar həmin proseslərin əvvəllər görünməyən detallarını üzə çıxarır.
+Qamma şüaları, qravitasiya dalğaları və digər teleskopların müşahidələrinin birlikdə təhlili bu nəhəng kosmik partlayışların necə baş verdiyini daha dəqiq anlamağa imkan verə bilər.
 
 </div>
+
+<p style="color:#a78bfa;font-size:20px;font-weight:bold;">
+🌌🔭 META Kosmos — kainatda baş verən mühüm hadisələri izləyirik.
+</p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Kosmos, hava və təbiətlə bağlı yeni məlumatları izləmək üçün WhatsApp kanalımıza qoşulun:
@@ -159,10 +191,8 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#94a3b8;font-size:14px;">
 <strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları
-əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
+Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
