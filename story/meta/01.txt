@@ -1,95 +1,57 @@
-<h2 style="color:#22c55e;">
-🌍 Azərbaycanda iqlim dəyişmələrinə uyğunlaşma məsələləri diqqət mərkəzindədir
-</h2>
+<h2 style="color:#22c55e;">🌳 Bakıda və Sumqayıtda ağacların qanunsuz kəsilməsi aşkarlandı — təbiətə 39 min manatdan çox ziyan dəyib</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 18 sentyabr 2026, 16:46 — Bakı vaxtı
-</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 19 sentyabr 2026, 14:40 — Bakı vaxtı</p>
 
-<p>
-Azərbaycanda iqlim dəyişmələrinin təsirlərinin izlənilməsi və bu dəyişikliklərə uyğunlaşma istiqamətində aparılan işlər beynəlxalq müzakirələrin diqqət mərkəzində olub.
-</p>
+<p><strong>Azərbaycanda yaşıllıqların mühafizəsi ilə bağlı aparılan nəzarət tədbirləri zamanı Bakı və Sumqayıt şəhərlərində ağacların qanunsuz kəsilməsi faktları müəyyən edilib.</strong></p>
 
-<p>
-BMT-nin İqlim Dəyişmələri üzrə Çərçivə Konvensiyasının Adaptasiya Komitəsinin 30-cu iclasının — <strong>AC30-un iştirakçıları Milli Hidrometeorologiya Xidmətində olublar.</strong>
-</p>
+<p>META Meteorologiya Mərkəzinin rəsmi ekoloji məlumatların təhlili əsasında hazırladığı xəbərə görə, son bir həftə ərzində keçirilən yoxlamalar zamanı şəhər yaşıllıqlarına ciddi ziyan vurulduğu aşkarlanıb.</p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:10px;margin:18px 0;">
-
-<strong style="color:#4ade80;">🌱 ƏSAS MƏQAM</strong><br><br>
-
-🌍 Mövzu: <strong>iqlim dəyişmələrinə uyğunlaşma</strong><br><br>
-
-🌦️ İstiqamət: <strong>hidrometeoroloji müşahidələr və iqlim monitorinqi</strong><br><br>
-
-🌐 Tədbir: <strong>UNFCCC Adaptasiya Komitəsinin 30-cu iclası — AC30</strong>
-
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#f87171;">🚨 ƏSAS MƏLUMAT</strong><br><br>
+📍 Ərazilər: Bakı və Sumqayıt<br><br>
+🌳 Hadisə: ağacların qanunsuz kəsilməsi<br><br>
+💰 Müəyyən edilmiş ziyan: <strong>39 480 manat</strong><br><br>
+⚖️ Toplanmış materiallar hüquq-mühafizə orqanlarına göndərilib.
 </div>
 
-<h3 style="color:#38bdf8;">🌦️ Meteoroloji müşahidələrin rolu artır</h3>
+<h3 style="color:#38bdf8;">📍 Ağaclar hansı ərazilərdə kəsilib?</h3>
 
-<p>
-İqlim dəyişmələrinin təsirlərinin qiymətləndirilməsi üçün uzunmüddətli meteoroloji və hidroloji müşahidələr xüsusi əhəmiyyət daşıyır.
-</p>
+<p>Araşdırmalar zamanı Bakı şəhərinin Nizami rayonunda Kamil Balakişiyev, Mehdi Abbasov və Nəsimi küçələrinin kəsişməsində, eləcə də Sumqayıt şəhərinin 4-cü məhəlləsində ağacların qanunsuz kəsildiyi müəyyən olunub.</p>
 
-<p>
-Temperatur, yağıntı, külək, quraqlıq, çayların su rejimi və digər göstəricilərin davamlı izlənilməsi gələcək risklərin qiymətləndirilməsi və uyğunlaşma tədbirlərinin planlaşdırılması üçün məlumat bazası yaradır.
-</p>
+<p>Hər iki şəhərdə qeydə alınan faktlar üzrə yaşıllıqlara dəymiş ümumi ziyan <strong>39 480 manat</strong> qiymətləndirilib.</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
+<h3 style="color:#f97316;">⚖️ Faktlarla bağlı hüquqi araşdırma aparılacaq</h3>
 
-<strong style="color:#60a5fa;">📊 NİYƏ VACİBDİR?</strong><br><br>
+<p>Ekoloji nəzarət zamanı müəyyən edilmiş ziyanın məbləği cinayət tərkibi yaratdığı üçün toplanmış materiallar hüquqi qiymət verilməsi məqsədilə hüquq-mühafizə orqanlarına təqdim edilib.</p>
 
-🌡️ Temperatur dəyişikliklərinin izlənilməsi<br><br>
+<p>Bu mərhələdə söhbət aşkar edilmiş faktlardan və araşdırma üçün göndərilmiş materiallardan gedir. Yekun hüquqi qərar aidiyyəti qurumlar tərəfindən veriləcək.</p>
 
-🌧️ Yağıntı rejimində dəyişikliklərin müəyyən edilməsi<br><br>
-
-💧 Su ehtiyatlarının vəziyyətinin qiymətləndirilməsi<br><br>
-
-🌊 Hidroloji proseslərin monitorinqi<br><br>
-
-⚠️ Təhlükəli hava hadisələri ilə bağlı risklərin öyrənilməsi
-
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#4ade80;">🌱 ŞƏHƏR YAŞILLIQLARI NİYƏ VACİBDİR?</strong><br><br>
+🌳 Ağaclar şəhər mühitində kölgə yaradır.<br><br>
+🌡️ Yay aylarında səthlərin həddindən artıq isinməsini azaltmağa kömək edir.<br><br>
+🌬️ Tozun tutulmasına və havanın keyfiyyətinin yaxşılaşmasına töhfə verir.<br><br>
+🐦 Quşlar və digər canlılar üçün yaşayış mühiti yaradır.<br><br>
+🌿 Şəhərlərin ekoloji tarazlığının qorunmasında mühüm rol oynayır.
 </div>
 
-<h3 style="color:#facc15;">🌍 İqlimə uyğunlaşma uzunmüddətli prosesdir</h3>
+<h3 style="color:#22c55e;">🌍 META Ekologiya: Yaşıllıqların qorunması şəhərin gələcəyinə sərmayədir</h3>
 
-<p>
-İqlim dəyişmələrinə uyğunlaşma yalnız temperaturun yüksəlməsi ilə bağlı deyil. Su ehtiyatları, kənd təsərrüfatı, biomüxtəliflik, şəhər infrastrukturu və sahilyanı ərazilər də dəyişən iqlim şəraitindən təsirlənə bilər.
-</p>
+<p>Şəhər ərazilərində ağacların azalması yalnız yaşıllıq sahələrinin kiçilməsi demək deyil. Bu proses isti havalarda şəhər istilik adası effektini gücləndirə, kölgəli məkanların azalmasına və yerli ekosistemlərin zəifləməsinə səbəb ola bilər.</p>
 
-<p>
-Bu səbəbdən meteoroloji müşahidələrin genişləndirilməsi və əldə edilən məlumatların təhlili ölkənin gələcək iqlim risklərinə hazırlığında mühüm rol oynayır.
-</p>
+<p>Yaşıllıqların qorunması, mövcud ağaclara düzgün qulluq edilməsi və yeni əkilən ağacların yaşadılması davamlı şəhər mühitinin əsas şərtlərindəndir.</p>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:10px;margin:20px 0;">
-
-📌 <strong style="color:#c4b5fd;">META Ekologiya:</strong><br><br>
-
-İqlim dəyişmələrinin təsirlərini vaxtında müəyyən etmək üçün etibarlı meteoroloji müşahidələr əsas vasitələrdən biridir. Uzunmüddətli məlumatlar təbiətdə baş verən dəyişiklikləri müqayisə etməyə və gələcək riskləri daha düzgün qiymətləndirməyə imkan verir.
-
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<strong style="color:#60a5fa;">📌 META YEKUN</strong><br><br>
+Bakı və Sumqayıtda aşkar edilmiş qanunsuz ağac kəsilməsi faktları şəhər yaşıllıqlarının mühafizəsinin aktuallığını bir daha gündəmə gətirir. Müəyyən edilmiş ziyan 39 480 manatdır və materiallar hüquq-mühafizə orqanlarına göndərilib.
 </div>
 
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət, ekologiya və hava ilə bağlı yeni məlumatları izləmək üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
-</p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Təbiət, ekologiya və hava haqqında yenilikləri WhatsApp kanalımızdan izləyin:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
-</p>
+<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
 
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
-</p>
+<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
