@@ -1,88 +1,119 @@
+```html
 <h2 style="color:#38bdf8;">
-🌤️ Bakıda +29°C-dək isti olacaq — 19 sentyabrın hava proqnozu
+🌤️ Bakıda +29°C-dək isti olacaq — 20 sentyabrın hava proqnozu
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 18 sentyabr 2026, 16:43 — Bakı vaxtı
+🕐 Əlavə olunub: 19 sentyabr 2026, 14:31 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 19-da Bakı və Abşeron yarımadasında hava dəyişkən buludlu olacaq, əsasən yağmursuz keçəcək.</strong>
+<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 20-də Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən yağmursuz keçəcək.</strong>
 </p>
 
 <p>
-Gün ərzində mülayim <strong>şimal-qərb küləyi</strong> əsəcək. Havanın temperaturu gecə <strong>+20…+23°C</strong>, gündüz isə <strong>+25…+29°C</strong> təşkil edəcək.
+Gün ərzində mülayim şimal-qərb küləyi əsəcək. Havanın temperaturu gündüz +25…+29°C-yə yüksələcək.
 </p>
 
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#60a5fa;">📌 ƏSAS MƏLUMAT — BAKI VƏ ABŞERON</strong><br><br>
+<strong style="color:#60a5fa;">🌤️ BAKI VƏ ABŞERON — 20 SENTYABR</strong><br><br>
 
 🌤️ Hava: <strong>dəyişkən buludlu</strong><br><br>
 🌧️ Yağıntı: <strong>əsasən gözlənilmir</strong><br><br>
 🌡️ Gecə: <strong>+20…+23°C</strong><br><br>
 ☀️ Gündüz: <strong>+25…+29°C</strong><br><br>
 💨 Külək: <strong>mülayim şimal-qərb</strong><br><br>
-📊 Atmosfer təzyiqi: <strong>761 mmHg / ≈1015 hPa</strong><br><br>
-💧 Nisbi rütubət: <strong>65–75%</strong>
+📊 Təzyiq: <strong>763 mmHg / ≈1017 hPa</strong><br><br>
+💧 Rütubət gecə: <strong>70–75%</strong><br><br>
+💧 Rütubət gündüz: <strong>50–55%</strong>
 
 </div>
 
-<h3 style="color:#facc15;">☀️ Gün ərzində əsasən yağmursuz hava</h3>
+<h3 style="color:#facc15;">☀️ Gün ərzində hava necə olacaq?</h3>
 
 <p>
-Sentyabrın 19-da Bakı və Abşeron yarımadasında atmosfer şəraitinin əsasən sabit qalacağı gözlənilir. Dəyişkən buludluluq müşahidə olunsa da, gün ərzində əhəmiyyətli yağıntı proqnozlaşdırılmır.
+Bakı və Abşeron yarımadasında günün böyük hissəsində əsasən sabit hava şəraiti gözlənilir. Dəyişkən buludluluğa baxmayaraq, yağıntı ehtimalı aşağıdır.
 </p>
 
 <p>
-Gecə saatlarında temperatur <strong>+20…+23°C</strong> arasında dəyişəcək. Səhər saatlarından etibarən temperatur tədricən yüksələcək və günorta saatlarında <strong>+25…+29°C</strong>-yə çatacaq.
+Gecə saatlarında temperatur +20…+23°C arasında dəyişəcək. Gündüz isə hava +25…+29°C-dək isinəcək.
 </p>
 
-<div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
+<p>
+Mülayim şimal-qərb küləyi xüsusilə sahilyanı ərazilərdə havanın bir qədər sərin hiss olunmasına səbəb ola bilər.
+</p>
 
-<strong style="color:#facc15;">🌤️ GÜN ƏRZİNDƏ</strong><br><br>
+<h3 style="color:#22c55e;">🇦🇿 Azərbaycan rayonlarında hava</h3>
 
-🌅 Səhər → <strong>mülayim, dəyişkən buludlu</strong><br><br>
-☀️ Günorta → <strong>+25…+29°C</strong><br><br>
-🌧️ Yağıntı → <strong>əsasən gözlənilmir</strong><br><br>
-💨 Külək → <strong>mülayim şimal-qərb</strong><br><br>
-🌇 Axşam → <strong>temperatur tədricən azalacaq</strong>
+<p>
+Ölkənin əksər rayonlarında hava əsasən yağmursuz keçəcək. Lakin bəzi dağlıq və dağətəyi ərazilərdə arabir yağış gözlənilir.
+</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:10px;margin:18px 0;">
+
+<strong style="color:#4ade80;">🇦🇿 RAYONLAR ÜZRƏ TEMPERATUR</strong><br><br>
+
+🌡️ Gecə: <strong>+17…+22°C</strong><br><br>
+☀️ Gündüz: <strong>+28…+32°C</strong><br><br>
+🏔️ Dağlarda gecə: <strong>+10…+15°C</strong><br><br>
+🏔️ Dağlarda gündüz: <strong>+17…+20°C</strong><br><br>
+💨 Külək: <strong>şərq</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">💨 Şimal-qərb küləyi üstünlük təşkil edəcək</h3>
+<h3 style="color:#f97316;">⛈️ Dağlıq rayonlarda leysan və dolu ehtimalı</h3>
 
 <p>
-Bakı və Abşeron yarımadasında gün ərzində <strong>mülayim şimal-qərb küləyi</strong> əsəcək. Xüsusilə sahilyanı ərazilərdə küləyin təsiri havanın bir qədər sərin hiss olunmasına səbəb ola bilər.
+Sentyabrın 20-də bəzi dağlıq və dağətəyi rayonlarda yağıntılar ayrı-ayrı yerlərdə qısamüddətli intensiv leysan xarakteri ala bilər.
 </p>
 
 <p>
-Atmosfer təzyiqinin təxminən <strong>761 mm civə sütunu</strong> təşkil edəcəyi gözlənilir. Bu göstərici təxminən <strong>1015 hPa</strong>-ya bərabərdir.
+Şimşək çaxması və dolu düşməsi ehtimalı var. Gecə və səhər saatlarında dağlarda duman müşahidə olunacaq.
+</p>
+
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:10px;margin:18px 0;">
+
+<strong style="color:#f87171;">⚠️ DİQQƏT — DAĞLIQ ƏRAZİLƏR</strong><br><br>
+
+🌧️ Qısamüddətli intensiv leysan mümkündür.<br><br>
+⚡ Şimşək ehtimalı var.<br><br>
+🧊 Ayrı-ayrı yerlərdə dolu düşə bilər.<br><br>
+🌫️ Gecə və səhər duman gözlənilir.
+
+</div>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:10px;margin:20px 0;">
+
+<strong style="color:#c4b5fd;">📌 META PROQNOZU</strong><br><br>
+
+20 sentyabrda Bakı və Abşeronda əsasən yağmursuz, dəyişkən buludlu və mülayim isti hava gözlənilir. Gündüz temperatur +29°C-dək yüksələcək.
+
+Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında isə leysan, şimşək və dolu ehtimalı nəzərə alınmalıdır.
+
+</div>
+
+<p style="color:#25D366;font-size:19px;font-weight:bold;">
+📲 Operativ hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 </p>
 
 <p>
-Nisbi rütubət gün ərzində <strong>65–75%</strong> arasında dəyişəcək.
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;">
+➡️ META WhatsApp Kanalı
+</a>
 </p>
 
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
 
-<strong style="color:#60a5fa;">💨 ATMOSFER ŞƏRAİTİ</strong><br><br>
+<hr>
 
-💨 Külək → <strong>şimal-qərb</strong><br><br>
-📊 Təzyiq → <strong>761 mmHg / ≈1015 hPa</strong><br><br>
-💧 Rütubət → <strong>65–75%</s
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>
+```
