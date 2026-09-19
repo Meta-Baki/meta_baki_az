@@ -1,4 +1,3 @@
-```html
 <h2 style="color:#38bdf8;">
 🌤️ Bakıda +29°C-dək isti olacaq — 20 sentyabrın hava proqnozu
 </h2>
@@ -116,4 +115,3 @@ Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında isə leysan, şimş�
 <p style="color:#94a3b8;font-size:14px;">
 © 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
-```
