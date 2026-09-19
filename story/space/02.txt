@@ -1,200 +1,63 @@
-<h2 style="color:#a78bfa;">
-🌌 NASA kainatın ən güclü partlayışlarını araşdıracaq — StarBurst missiyasını SpaceX kosmosa göndərəcək
-</h2>
+<h2 style="color:#a78bfa;">🌌 NASA gecə səmasında nadir görünən “yalançı sübh” hadisəsinin fotosunu yayımladı</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 18 sentyabr 2026, 16:44 — Bakı vaxtı
-</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 19 sentyabr 2026, 14:38 — Bakı vaxtı</p>
 
-<p>
-<strong>NASA kainatda baş verən ən güclü hadisələrdən biri — neytron ulduzlarının toqquşması nəticəsində yaranan qısamüddətli qamma şüa partlayışlarını araşdırmaq üçün nəzərdə tutulan StarBurst kosmik missiyasının buraxılışı ilə bağlı yeni qərar açıqlayıb.</strong>
-</p>
+<p><strong>NASA sentyabrın 19-da “Astronomy Picture of the Day” layihəsi çərçivəsində gecə səmasında müşahidə edilən zodiakal işığın möhtəşəm fotosunu yayımlayıb.</strong> “Yalançı sübh” kimi də tanınan bu hadisə Günəş işığının planetlərarası toz hissəciklərindən səpilməsi nəticəsində yaranır.</p>
 
-<p>
-NASA StarBurst peykinin kosmosa çıxarılması üçün <strong>SpaceX şirkətini seçib</strong>. Aparat Falcon 9 raketi ilə Floridadakı Cape Canaveral Kosmik Qüvvələr Stansiyasından buraxılacaq.
-</p>
+<p>Foto Hindistanın Ladax bölgəsində, təxminən 4500 metr yüksəklikdə yerləşən Hanle Qaranlıq Səma Qoruğunda keçirilən astronomiya tədbiri zamanı çəkilib.</p>
 
-<div style="
-background:rgba(139,92,246,0.06);
-border:1px solid rgba(167,139,250,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#c4b5fd;">🚀 ƏSAS MƏLUMAT</strong><br><br>
-
-🛰️ Missiya: <strong>StarBurst</strong><br><br>
-
-🚀 Daşıyıcı raket: <strong>SpaceX Falcon 9</strong><br><br>
-
-📍 Buraxılış yeri: <strong>Cape Canaveral, Florida</strong><br><br>
-
-📅 Buraxılış: <strong>2028-ci ildən tez olmayaraq</strong><br><br>
-
-🌌 Məqsəd: <strong>neytron ulduzlarının birləşməsini və qısamüddətli qamma şüa partlayışlarını araşdırmaq</strong>
-
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
+<strong style="color:#c4b5fd;">🌌 ƏSAS MƏLUMATLAR</strong><br><br>
+📅 NASA-nın paylaşım tarixi: <strong>19 sentyabr 2026</strong><br><br>
+📍 Məkan: <strong>Hanle, Ladax, Hindistan</strong><br><br>
+🏔️ Hündürlük: <strong>təxminən 4500 metr</strong><br><br>
+✨ Hadisə: <strong>zodiakal işıq — “yalançı sübh”</strong><br><br>
+🪐 Fotoda görünən planetlər: <strong>Yupiter və Mars</strong><br><br>
+📸 Foto müəllifləri: <strong>Neelam və Ajay Talwar (TWAN)</strong>
 </div>
 
-<h3 style="color:#60a5fa;">💥 Kainatdakı nəhəng partlayışları axtaracaq</h3>
+<h3 style="color:#38bdf8;">✨ Zodiakal işıq nədir?</h3>
 
-<p>
-Qamma şüa partlayışları kainatda müşahidə edilən ən güclü yüksək enerjili hadisələr sırasındadır.
-</p>
+<p>Zodiakal işıq Günəş sistemindəki planetlərarası toz hissəciklərinin Günəş işığını səpməsi nəticəsində yaranan zəif, yayılmış parıltıdır.</p>
 
-<p>
-StarBurst xüsusilə <strong>qısamüddətli qamma şüa partlayışlarının ilkin yüksək enerjili şüalanmasını</strong> aşkar etmək üçün hazırlanıb.
-</p>
+<p>Bu işıq adətən üfüqdən yuxarıya doğru uzanan solğun konus və ya işıq zolağı şəklində görünür. Səma kifayət qədər qaranlıq olduqda onu günəş doğmazdan əvvəl şərqdə, bəzi mövsümlərdə isə günəş batdıqdan sonra qərbdə müşahidə etmək mümkündür.</p>
 
-<p>
-Belə hadisələrin bir hissəsi iki neytron ulduzunun bir-birinə yaxınlaşaraq toqquşması və birləşməsi zamanı baş verir.
-</p>
+<p>Hadisə əsl sübhə bənzədiyi üçün ona bəzən <strong>“yalançı sübh”</strong> deyilir. Lakin bu parıltı atmosferdə Günəşin doğması nəticəsində yaranan adi sübh işığı deyil.</p>
 
-<div style="
-background:rgba(239,68,68,0.06);
-border:1px solid rgba(239,68,68,0.32);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#f87171;">💥 NEYTRON ULDUZLARI TOQQUŞANDA NƏ BAŞ VERİR?</strong><br><br>
-
-⭐ İki son dərəcə sıx neytron ulduzu bir-birinə yaxınlaşır.<br><br>
-
-🌀 Sistem güclü qravitasiya dalğaları yaradır.<br><br>
-
-💥 Ulduzların birləşməsi zamanı çox böyük enerji ayrılır.<br><br>
-
-☢️ Qısa, lakin son dərəcə güclü qamma şüa partlayışı yarana bilər.<br><br>
-
-🔭 Yer və kosmosdakı teleskoplar hadisənin müxtəlif siqnallarını müşahidə edə bilər.
-
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
+<strong style="color:#60a5fa;">🔭 MARAQLI FAKT</strong><br><br>
+Zodiakal işıq ulduzlardan və ya planetlərin özündən yayılan işıq deyil. Onun görünməsinə Günəş sistemindəki çox kiçik toz hissəcikləri səbəb olur.<br><br>
+Bu hissəciklərdən səpilən Günəş işığı qaranlıq səma fonunda zəif parıltı yaradır.
 </div>
 
-<h3 style="color:#38bdf8;">🌌 Demək olar ki, bütün görünən səmanı izləyəcək</h3>
+<h3 style="color:#facc15;">🪐 NASA-nın fotosunda Yupiter və Mars da görünür</h3>
 
-<p>
-StarBurst geniş müşahidə sahəsinə malik qamma şüa observatoriyası kimi hazırlanır.
-</p>
+<p>NASA-nın yayımladığı görüntüdə zodiakal işıqla yanaşı, Günəş sisteminin iki planeti də seçilir.</p>
 
-<p>
-Peykin əsas məqsədlərindən biri Yer tərəfindən örtülməyən səmanın böyük hissəsini müşahidə edərək qəfil baş verən qamma partlayışlarını mümkün qədər tez aşkar etməkdir.
-</p>
+<p><strong>Yupiter</strong> şərq üfüqünə yaxın hissədə parlaq nöqtə kimi görünür. <strong>Mars</strong> isə səmanın daha yuxarı hissəsində sarımtıl çaları ilə seçilir.</p>
 
-<p>
-Bu, alimlərə neytron ulduzlarının birləşməsi kimi hadisələrin ilk anlarını araşdırmaq üçün əlavə imkan yaradacaq.
-</p>
+<p>Fotoda həmçinin M44 açıq ulduz topası və gecə səmasından keçən meteor izləri də yer alır.</p>
 
-<div style="
-background:rgba(59,130,246,0.05);
-border:1px solid rgba(96,165,250,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
+<h3 style="color:#22c55e;">🔴 Mars bu kosmik tozun mənbələrindən biri ola bilər</h3>
 
-<strong style="color:#60a5fa;">🔭 STARBURST NƏYİ MÜŞAHİDƏ EDƏCƏK?</strong><br><br>
+<p>NASA-nın Juno kosmik aparatının planetlərarası tozla bağlı müşahidələri zodiakal işığı yaradan tozun bir hissəsinin Marsla əlaqəli ola biləcəyini göstərir.</p>
 
-☢️ Qamma şüalarını<br><br>
+<p>Bu, Günəş sistemində planetlərarası maddənin necə yayıldığını və onun Yer səmasında müşahidə etdiyimiz hadisələrə necə təsir etdiyini öyrənmək baxımından maraqlı elmi istiqamətdir.</p>
 
-💥 Qısamüddətli qamma partlayışlarını<br><br>
-
-⭐ Neytron ulduzlarının birləşməsini<br><br>
-
-🌌 Yüksək enerjili kosmik hadisələri
-
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:10px;margin:18px 0;">
+<strong style="color:#4ade80;">📌 META KOSMOS — YEKUN</strong><br><br>
+NASA-nın 19 sentyabrda yayımladığı foto gecə səmasında zodiakal işığın necə göründüyünü nümayiş etdirir.<br><br>
+Bu hadisə Günəş sistemindəki planetlərarası tozun Yer səmasında yaratdığı təbii işıq effektidir. Fotoda Yupiter, Mars, M44 ulduz topası və meteor izləri də müşahidə olunur.
 </div>
 
-<h3 style="color:#facc15;">〰️ Qravitasiya dalğaları ilə birlikdə araşdırılacaq</h3>
+<p style="color:#a78bfa;font-size:19px;font-weight:bold;">🌌 META Kosmos — kainatda baş verən maraqlı hadisələri izləməyə davam edirik!</p>
 
-<p>
-Missiyanın ən maraqlı tərəflərindən biri StarBurst məlumatlarının <strong>qravitasiya dalğası detektorlarının müşahidələri ilə birləşdirilməsi</strong> olacaq.
-</p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və hava xəbərlərini WhatsApp kanalımızda izləyin:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
-<p>
-Neytron ulduzları toqquşduqda təkcə elektromaqnit şüalanması deyil, eyni zamanda məkan-zamanda yayılan qravitasiya dalğaları da meydana gəlir.
-</p>
-
-<p>
-Eyni hadisənin həm qamma şüaları, həm də qravitasiya dalğaları vasitəsilə müşahidə edilməsi alimlərə kosmik hadisəni müxtəlif üsullarla araşdırmağa imkan verir. Bu yanaşma <strong>multimessenger astronomiyası</strong> adlanır.
-</p>
-
-<div style="
-background:rgba(234,179,8,0.05);
-border:1px solid rgba(234,179,8,0.30);
-padding:18px;
-border-radius:10px;
-margin:18px 0;">
-
-<strong style="color:#facc15;">🔬 NİYƏ BU VACİBDİR?</strong><br><br>
-
-StarBurst müşahidələri alimlərə:<br><br>
-
-⭐ neytron ulduzlarının birləşməsini daha yaxşı anlamağa;<br><br>
-
-☢️ qısa qamma partlayışlarının necə yarandığını araşdırmağa;<br><br>
-
-〰️ qravitasiya dalğaları ilə elektromaqnit şüalanmasını müqayisə etməyə;<br><br>
-
-🌌 kainatdakı ekstremal fiziki prosesləri öyrənməyə kömək edə bilər.
-
-</div>
-
-<h3 style="color:#22c55e;">🚀 Falcon 9 ilə buraxılacaq</h3>
-
-<p>
-NASA-nın açıqlamasına görə, StarBurst <strong>SpaceX-in Falcon 9 raketi</strong> ilə Bandwagon birgə buraxılış missiyalarından biri çərçivəsində kosmosa göndəriləcək.
-</p>
-
-<p>
-Buraxılış Floridadakı <strong>Cape Canaveral Space Force Station</strong> ərazisində yerləşən Space Launch Complex 40-dan həyata keçiriləcək.
-</p>
-
-<p>
-Hazırkı plana əsasən, missiyanın buraxılışı <strong>2028-ci ildən tez baş tutmayacaq</strong>.
-</p>
-
-<div style="
-background:rgba(34,197,94,0.05);
-border:1px solid rgba(34,197,94,0.28);
-padding:18px;
-border-radius:10px;
-font-size:18px;
-margin-top:20px;">
-
-📌 <strong style="color:#4ade80;">META Kosmos:</strong><br><br>
-
-StarBurst kiçik ölçülü peyk olsa da, onun qarşısında böyük elmi məqsəd dayanır: kainatın ən ekstremal hadisələrindən olan <strong>neytron ulduzlarının birləşməsinin ilk anlarını</strong> qeydə almaq.<br><br>
-
-Qamma şüaları, qravitasiya dalğaları və digər teleskopların müşahidələrinin birlikdə təhlili bu nəhəng kosmik partlayışların necə baş verdiyini daha dəqiq anlamağa imkan verə bilər.
-
-</div>
-
-<p style="color:#a78bfa;font-size:20px;font-weight:bold;">
-🌌🔭 META Kosmos — kainatda baş verən mühüm hadisələri izləyirik.
-</p>
-
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, hava və təbiətlə bağlı yeni məlumatları izləmək üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı </a>
-
-</p>
-
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər.
-Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
-</p>
+<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
 
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
-</p>
+<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
