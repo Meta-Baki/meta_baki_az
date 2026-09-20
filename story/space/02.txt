@@ -1,58 +1,58 @@
-<h2 style="color:#a78bfa;">🌌 NASA gecə səmasında nadir görünən “yalançı sübh” hadisəsinin fotosunu yayımladı</h2>
+<h2 style="color:#facc15;">☀️ NASA Günəşin səmada nəhəng “8” rəqəmi yaratdığını göstərən qeyri-adi foto yayımlayıb</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 19 sentyabr 2026, 14:38 — Bakı vaxtı</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 20 sentyabr 2026, 15:21 — Bakı vaxtı</p>
 
-<p><strong>NASA sentyabrın 19-da “Astronomy Picture of the Day” layihəsi çərçivəsində gecə səmasında müşahidə edilən zodiakal işığın möhtəşəm fotosunu yayımlayıb.</strong> “Yalançı sübh” kimi də tanınan bu hadisə Günəş işığının planetlərarası toz hissəciklərindən səpilməsi nəticəsində yaranır.</p>
+<p><strong>NASA sentyabrın 20-də “Astronomy Picture of the Day” layihəsi çərçivəsində Günəşin il ərzində səmadakı mövqeyini əks etdirən qeyri-adi astronomik foto təqdim edib. Şəkildə Günəşin yaratdığı nəhəng səkkiz rəqəminə bənzər fiqur görünür.</strong></p>
 
-<p>Foto Hindistanın Ladax bölgəsində, təxminən 4500 metr yüksəklikdə yerləşən Hanle Qaranlıq Səma Qoruğunda keçirilən astronomiya tədbiri zamanı çəkilib.</p>
+<p>Bu astronomik fiqur <strong>analemma</strong> adlanır və Günəşin hər gün eyni saatda müşahidə edildikdə səmada tutduğu mövqelərin birləşməsindən yaranır.</p>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
-<strong style="color:#c4b5fd;">🌌 ƏSAS MƏLUMATLAR</strong><br><br>
-📅 NASA-nın paylaşım tarixi: <strong>19 sentyabr 2026</strong><br><br>
-📍 Məkan: <strong>Hanle, Ladax, Hindistan</strong><br><br>
-🏔️ Hündürlük: <strong>təxminən 4500 metr</strong><br><br>
-✨ Hadisə: <strong>zodiakal işıq — “yalançı sübh”</strong><br><br>
-🪐 Fotoda görünən planetlər: <strong>Yupiter və Mars</strong><br><br>
-📸 Foto müəllifləri: <strong>Neelam və Ajay Talwar (TWAN)</strong>
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<strong style="color:#facc15;">📌 ƏSAS MƏLUMAT</strong><br><br>
+📅 NASA-nın paylaşım tarixi: <strong>20 sentyabr 2026</strong><br><br>
+☀️ Astronomik hadisə: <strong>Günəş analemması</strong><br><br>
+📍 Çəkiliş yeri: <strong>Callanish, Şotlandiya</strong><br><br>
+📸 Fotoqraf: <strong>Giuseppe Petricca</strong><br><br>
+🌍 Hadisənin səbəbi: <strong>Yerin oxunun meyilliliyi və Günəş ətrafında elliptik orbit üzrə hərəkəti</strong>
 </div>
 
-<h3 style="color:#38bdf8;">✨ Zodiakal işıq nədir?</h3>
+<h3 style="color:#38bdf8;">🔭 Günəş niyə səmada səkkiz rəqəmi yaradır?</h3>
 
-<p>Zodiakal işıq Günəş sistemindəki planetlərarası toz hissəciklərinin Günəş işığını səpməsi nəticəsində yaranan zəif, yayılmış parıltıdır.</p>
+<p>Günəşin səmadakı mövqeyi il ərzində sabit qalmır. Əgər bir müşahidəçi eyni yerdən, hər gün eyni saatda Günəşin şəklini çəksə, onun tədricən yerini dəyişdiyini görər.</p>
 
-<p>Bu işıq adətən üfüqdən yuxarıya doğru uzanan solğun konus və ya işıq zolağı şəklində görünür. Səma kifayət qədər qaranlıq olduqda onu günəş doğmazdan əvvəl şərqdə, bəzi mövsümlərdə isə günəş batdıqdan sonra qərbdə müşahidə etmək mümkündür.</p>
+<p>Bu mövqelər bir foto üzərində birləşdirildikdə səkkiz rəqəminə bənzər fiqur yaranır. Astronomiyada həmin fiqur <strong>analemma</strong> adlandırılır.</p>
 
-<p>Hadisə əsl sübhə bənzədiyi üçün ona bəzən <strong>“yalançı sübh”</strong> deyilir. Lakin bu parıltı atmosferdə Günəşin doğması nəticəsində yaranan adi sübh işığı deyil.</p>
+<p>Analemmanın formalaşmasının iki əsas səbəbi var:</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
-<strong style="color:#60a5fa;">🔭 MARAQLI FAKT</strong><br><br>
-Zodiakal işıq ulduzlardan və ya planetlərin özündən yayılan işıq deyil. Onun görünməsinə Günəş sistemindəki çox kiçik toz hissəcikləri səbəb olur.<br><br>
-Bu hissəciklərdən səpilən Günəş işığı qaranlıq səma fonunda zəif parıltı yaradır.
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<strong style="color:#60a5fa;">🌍 ANALEMMA NECƏ YARANIR?</strong><br><br>
+🔹 <strong>Yerin oxunun meyilliliyi:</strong> Günəşin il ərzində üfüqdən hündürlüyünün dəyişməsinə səbəb olur.<br><br>
+🔹 <strong>Yerin elliptik orbiti:</strong> Planetimizin Günəş ətrafında hərəkət sürəti il ərzində bir qədər dəyişir.<br><br>
+🔹 <strong>Nəticə:</strong> Günəş eyni saatda çəkilən fotolarda fərqli mövqelərdə görünür və bu mövqelər səkkizşəkilli fiqur yaradır.
 </div>
 
-<h3 style="color:#facc15;">🪐 NASA-nın fotosunda Yupiter və Mars da görünür</h3>
+<h3 style="color:#a78bfa;">📸 Bir foto üçün birillik müşahidə</h3>
 
-<p>NASA-nın yayımladığı görüntüdə zodiakal işıqla yanaşı, Günəş sisteminin iki planeti də seçilir.</p>
+<p>NASA-nın təqdim etdiyi kompozisiya Şotlandiyanın Xarici Hebrid adalarında, Callanish kəndi yaxınlığında hazırlanıb.</p>
 
-<p><strong>Yupiter</strong> şərq üfüqünə yaxın hissədə parlaq nöqtə kimi görünür. <strong>Mars</strong> isə səmanın daha yuxarı hissəsində sarımtıl çaları ilə seçilir.</p>
+<p>Fotoqraf il ərzində bir neçə gündən bir, günorta saatlarında eyni nöqtədən Günəşin mövqeyini qeydə alıb. Sonradan həmin görüntülər birləşdirilərək analemma təsviri yaradılıb.</p>
 
-<p>Fotoda həmçinin M44 açıq ulduz topası və gecə səmasından keçən meteor izləri də yer alır.</p>
+<p>Şəklin ön hissəsində təxminən eramızdan əvvəl 2700-cü ildə qurulmuş qədim <strong>Callanish daşları</strong> görünür. Bu daşların yerləşdirilməsinin astronomik məqsəd daşıyıb-daşımadığı dəqiq məlum deyil.</p>
 
-<h3 style="color:#22c55e;">🔴 Mars bu kosmik tozun mənbələrindən biri ola bilər</h3>
+<h3 style="color:#facc15;">🍂 Payız bərabərliyi yaxınlaşır</h3>
 
-<p>NASA-nın Juno kosmik aparatının planetlərarası tozla bağlı müşahidələri zodiakal işığı yaradan tozun bir hissəsinin Marsla əlaqəli ola biləcəyini göstərir.</p>
+<p>NASA-nın bu fotoşəkli paylaşması payız bərabərliyinin yaxınlaşdığı dövrə təsadüf edir.</p>
 
-<p>Bu, Günəş sistemində planetlərarası maddənin necə yayıldığını və onun Yer səmasında müşahidə etdiyimiz hadisələrə necə təsir etdiyini öyrənmək baxımından maraqlı elmi istiqamətdir.</p>
+<p><strong>22 sentyabrda</strong> sentyabr bərabərliyi baş verəcək. Bu zaman Günəş səma ekvatorunu keçəcək və Şimal yarımkürəsində astronomik payız başlayacaq.</p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:10px;margin:18px 0;">
+<p>Bərabərlik dövründə gecə ilə gündüzün uzunluğu bir-birinə yaxın olur. Lakin atmosfer refraksiyası və Günəş diskinin ölçüsü səbəbindən onların müddəti hər yerdə tam olaraq 12 saat olmur.</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
 <strong style="color:#4ade80;">📌 META KOSMOS — YEKUN</strong><br><br>
-NASA-nın 19 sentyabrda yayımladığı foto gecə səmasında zodiakal işığın necə göründüyünü nümayiş etdirir.<br><br>
-Bu hadisə Günəş sistemindəki planetlərarası tozun Yer səmasında yaratdığı təbii işıq effektidir. Fotoda Yupiter, Mars, M44 ulduz topası və meteor izləri də müşahidə olunur.
+NASA-nın sentyabrın 20-də yayımladığı foto Günəşin səmadakı görünən hərəkətinin il ərzində necə dəyişdiyini nümayiş etdirir.<br><br>
+Günəşin səkkizşəkilli analemması Yerin oxunun meyilliliyini və elliptik orbit üzrə hərəkətini vizual şəkildə göstərən astronomik hadisədir.
 </div>
 
-<p style="color:#a78bfa;font-size:19px;font-weight:bold;">🌌 META Kosmos — kainatda baş verən maraqlı hadisələri izləməyə davam edirik!</p>
-
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və hava xəbərlərini WhatsApp kanalımızda izləyin:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və hava proqnozları haqqında yeni məlumatları WhatsApp kanalımızda izləyin:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
