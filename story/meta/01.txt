@@ -1,52 +1,43 @@
-<h2 style="color:#22c55e;">🌳 Bakıda və Sumqayıtda ağacların qanunsuz kəsilməsi aşkarlandı — təbiətə 39 min manatdan çox ziyan dəyib</h2>
+<h2 style="color:#38bdf8;">🌧️ Azərbaycanın dağlıq rayonlarına leysan yağıb — Göygöldə 24 mm yağıntı qeydə alınıb</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 19 sentyabr 2026, 14:40 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 20 sentyabr 2026, 15:22 — Bakı vaxtı</p>
 
-<p><strong>Azərbaycanda yaşıllıqların mühafizəsi ilə bağlı aparılan nəzarət tədbirləri zamanı Bakı və Sumqayıt şəhərlərində ağacların qanunsuz kəsilməsi faktları müəyyən edilib.</strong></p>
+<p><strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlilinə əsasən, sentyabrın 20-də Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında yağıntılı hava şəraiti müşahidə olunub. Ayrı-ayrı ərazilərdə yağışlar leysan xarakterli intensiv olub.</strong></p>
 
-<p>META Meteorologiya Mərkəzinin rəsmi ekoloji məlumatların təhlili əsasında hazırladığı xəbərə görə, son bir həftə ərzində keçirilən yoxlamalar zamanı şəhər yaşıllıqlarına ciddi ziyan vurulduğu aşkarlanıb.</p>
+<p>Bu gün saat 10:00-a olan müşahidə məlumatları ölkənin müxtəlif bölgələrində yağıntının qeyri-bərabər paylandığını göstərir. Ən çox yağıntı Göygöl və Daşkəsən rayonlarında qeydə alınıb.</p>
 
-<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#f87171;">🚨 ƏSAS MƏLUMAT</strong><br><br>
-📍 Ərazilər: Bakı və Sumqayıt<br><br>
-🌳 Hadisə: ağacların qanunsuz kəsilməsi<br><br>
-💰 Müəyyən edilmiş ziyan: <strong>39 480 manat</strong><br><br>
-⚖️ Toplanmış materiallar hüquq-mühafizə orqanlarına göndərilib.
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<h3 style="color:#60a5fa;">📊 Yağıntının miqdarı</h3>
+<p>🌧️ Göygöl — <strong>24 mm</strong></p>
+<p>🌧️ Daşkəsən — <strong>18 mm</strong></p>
+<p>🌧️ Gəncə — <strong>10 mm</strong></p>
+<p>🌧️ Gədəbəy — <strong>4 mm</strong></p>
+<p>🌧️ Sarıbaş və Goranboy — <strong>2 mm</strong></p>
+<p>🌧️ Balakən, Bərdə, Tovuz, Oğuz, Altıağac, İsmayıllı, Ağdam, Ceyrançöl və Quba — <strong>1 mm-dək</strong></p>
 </div>
 
-<h3 style="color:#38bdf8;">📍 Ağaclar hansı ərazilərdə kəsilib?</h3>
+<h3 style="color:#facc15;">🌫️ Dağlıq ərazilərdə görünüş 50 metrədək azalıb</h3>
 
-<p>Araşdırmalar zamanı Bakı şəhərinin Nizami rayonunda Kamil Balakişiyev, Mehdi Abbasov və Nəsimi küçələrinin kəsişməsində, eləcə də Sumqayıt şəhərinin 4-cü məhəlləsində ağacların qanunsuz kəsildiyi müəyyən olunub.</p>
+<p>Yağıntılarla yanaşı, bəzi dağlıq ərazilərdə duman da müşahidə edilib. Daşkəsən, Şahdağ, Şahbuz və Lerikdə görünüş məsafəsi bəzi yerlərdə <strong>50 metrədək məhdudlaşıb.</strong></p>
 
-<p>Hər iki şəhərdə qeydə alınan faktlar üzrə yaşıllıqlara dəymiş ümumi ziyan <strong>39 480 manat</strong> qiymətləndirilib.</p>
+<p>Belə şərait xüsusilə dağ yollarında hərəkət edən sürücülər üçün əlavə çətinlik yarada bilər. Duman zamanı sürətin azaldılması və təhlükəsiz ara məsafəsinin saxlanılması tövsiyə olunur.</p>
 
-<h3 style="color:#f97316;">⚖️ Faktlarla bağlı hüquqi araşdırma aparılacaq</h3>
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<h3 style="color:#fb923c;">⚠️ Dağ çaylarında sululuq arta bilər</h3>
+<p>İntensiv yağıntılar dağ çaylarının su rejiminə təsir göstərə bilər. Xüsusilə güclü leysan müşahidə olunan hövzələrdə suyun səviyyəsinin qısamüddətli yüksəlməsi mümkündür.</p>
+<p>Dağlıq və dağətəyi ərazilərdə çay yataqlarına və sel keçə bilən dərələrə yaxın yerlərdə ehtiyatlı olmaq vacibdir.</p>
+</div>
 
-<p>Ekoloji nəzarət zamanı müəyyən edilmiş ziyanın məbləği cinayət tərkibi yaratdığı üçün toplanmış materiallar hüquqi qiymət verilməsi məqsədilə hüquq-mühafizə orqanlarına təqdim edilib.</p>
+<h3 style="color:#22c55e;">🌡️ Ölkə üzrə temperatur necə olub?</h3>
 
-<p>Bu mərhələdə söhbət aşkar edilmiş faktlardan və araşdırma üçün göndərilmiş materiallardan gedir. Yekun hüquqi qərar aidiyyəti qurumlar tərəfindən veriləcək.</p>
+<p>Müşahidə məlumatlarına əsasən, havanın maksimal temperaturu Bakı və Abşeron yarımadasında <strong>+27°C</strong>, Naxçıvan Muxtar Respublikasında <strong>+33°C</strong>, Aran rayonlarında <strong>+32°C</strong>, dağlıq rayonlarda isə <strong>+21°C</strong>-dək yüksəlib.</p>
 
 <div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#4ade80;">🌱 ŞƏHƏR YAŞILLIQLARI NİYƏ VACİBDİR?</strong><br><br>
-🌳 Ağaclar şəhər mühitində kölgə yaradır.<br><br>
-🌡️ Yay aylarında səthlərin həddindən artıq isinməsini azaltmağa kömək edir.<br><br>
-🌬️ Tozun tutulmasına və havanın keyfiyyətinin yaxşılaşmasına töhfə verir.<br><br>
-🐦 Quşlar və digər canlılar üçün yaşayış mühiti yaradır.<br><br>
-🌿 Şəhərlərin ekoloji tarazlığının qorunmasında mühüm rol oynayır.
+<strong style="color:#4ade80;">📌 YEKUN</strong>
+<p>20 sentyabrda Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında intensiv yağıntılar qeydə alınıb. Ən çox yağıntı Göygöldə — 24 mm, Daşkəsəndə isə 18 mm olub. Bir sıra dağlıq ərazilərdə duman səbəbindən görünüş 50 metrədək azalıb.</p>
 </div>
 
-<h3 style="color:#22c55e;">🌍 META Ekologiya: Yaşıllıqların qorunması şəhərin gələcəyinə sərmayədir</h3>
-
-<p>Şəhər ərazilərində ağacların azalması yalnız yaşıllıq sahələrinin kiçilməsi demək deyil. Bu proses isti havalarda şəhər istilik adası effektini gücləndirə, kölgəli məkanların azalmasına və yerli ekosistemlərin zəifləməsinə səbəb ola bilər.</p>
-
-<p>Yaşıllıqların qorunması, mövcud ağaclara düzgün qulluq edilməsi və yeni əkilən ağacların yaşadılması davamlı şəhər mühitinin əsas şərtlərindəndir.</p>
-
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#60a5fa;">📌 META YEKUN</strong><br><br>
-Bakı və Sumqayıtda aşkar edilmiş qanunsuz ağac kəsilməsi faktları şəhər yaşıllıqlarının mühafizəsinin aktuallığını bir daha gündəmə gətirir. Müəyyən edilmiş ziyan 39 480 manatdır və materiallar hüquq-mühafizə orqanlarına göndərilib.
-</div>
-
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Təbiət, ekologiya və hava haqqında yenilikləri WhatsApp kanalımızdan izləyin:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Ekologiya, təbiət və hava hadisələri ilə bağlı operativ xəbərlər üçün <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">META WhatsApp kanalımıza qoşulun →</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
