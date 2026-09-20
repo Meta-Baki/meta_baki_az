@@ -1,70 +1,43 @@
-<h2 style="color:#f97316;">🌧️ Azərbaycanın dağlıq rayonlarında sel və daşqın təhlükəsi — 19–20 sentyabr üçün xəbərdarlıq</h2>
+<h2 style="color:#38bdf8;">🌧️ Azərbaycanın dağlıq rayonlarına leysan yağıb — Göygöldə 24 mm yağıntı qeydə alınıb</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 19 sentyabr 2026, 14:40 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 20 sentyabr 2026, 15:22 — Bakı vaxtı</p>
 
-<p><strong>Sentyabrın 19–20-də Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında qeyri-sabit hava şəraiti gözlənilir. Ayrı-ayrı ərazilərdə intensiv leysan, şimşək və dolu ehtimalı var.</strong></p>
+<p><strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlilinə əsasən, sentyabrın 20-də Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında yağıntılı hava şəraiti müşahidə olunub. Ayrı-ayrı ərazilərdə yağışlar leysan xarakterli intensiv olub.</strong></p>
 
-<p>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı məlumata görə, yağıntılar nəticəsində bəzi dağ çaylarında sululuq arta, qısamüddətli daşqın və sel hadisələri baş verə bilər.</p>
-
-<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#f87171;">⚠️ ƏSAS XƏBƏRDARLIQ</strong><br><br>
-📅 Tarix: <strong>19–20 sentyabr 2026</strong><br><br>
-📍 Ərazilər: bəzi dağlıq və dağətəyi rayonlar<br><br>
-🌧️ Yağıntı: arabir yağış, bəzi yerlərdə intensiv leysan<br><br>
-⚡ Şimşək ehtimalı var<br><br>
-🧊 Ayrı-ayrı ərazilərdə dolu mümkündür<br><br>
-🌊 Böyük və Kiçik Qafqazın bəzi çaylarında qısamüddətli daşqın və sel riski
-</div>
-
-<h3 style="color:#38bdf8;">🌧️ Yağıntılar hansı ərazilərdə gözlənilir?</h3>
-
-<p>Hava şəraitinin əsasən Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında qeyri-sabit olacağı proqnozlaşdırılır.</p>
-
-<p>Yağışların hər yerdə eyni intensivlikdə olacağı gözlənilmir. Ayrı-ayrı ərazilərdə yağıntılar qısamüddətli, lakin güclü leysan xarakteri ala bilər.</p>
-
-<p>Atmosfer qeyri-sabitliyi ilə əlaqədar şimşək çaxması və lokal dolu hadisələri də mümkündür.</p>
-
-<h3 style="color:#f97316;">🌊 Dağ çaylarında suyun səviyyəsi arta bilər</h3>
-
-<p>İntensiv yağıntılar dağlıq ərazilərdə çayların sululuğunun qısa müddətdə artmasına səbəb ola bilər.</p>
-
-<p>Xüsusilə Böyük və Kiçik Qafqazın bəzi çaylarında qısamüddətli daşqın və sel hadisələrinin baş verməsi ehtimalı nəzərə alınmalıdır.</p>
+<p>Bu gün saat 10:00-a olan müşahidə məlumatları ölkənin müxtəlif bölgələrində yağıntının qeyri-bərabər paylandığını göstərir. Ən çox yağıntı Göygöl və Daşkəsən rayonlarında qeydə alınıb.</p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#60a5fa;">🌊 SEL NECƏ YARANIR?</strong><br><br>
-Güclü leysan zamanı qısa müddətdə çoxlu miqdarda su dağ yamaclarından aşağı axır.<br><br>
-Torpağın suyu udma qabiliyyəti kifayət etmədikdə səth axını güclənir.<br><br>
-Su özü ilə daş, palçıq və digər materialları daşıyaraq sel axını yarada bilər.<br><br>
-Bu hadisələr dağ çaylarının dar vadilərində daha sürətli inkişaf edə bilər.
+<h3 style="color:#60a5fa;">📊 Yağıntının miqdarı</h3>
+<p>🌧️ Göygöl — <strong>24 mm</strong></p>
+<p>🌧️ Daşkəsən — <strong>18 mm</strong></p>
+<p>🌧️ Gəncə — <strong>10 mm</strong></p>
+<p>🌧️ Gədəbəy — <strong>4 mm</strong></p>
+<p>🌧️ Sarıbaş və Goranboy — <strong>2 mm</strong></p>
+<p>🌧️ Balakən, Bərdə, Tovuz, Oğuz, Altıağac, İsmayıllı, Ağdam, Ceyrançöl və Quba — <strong>1 mm-dək</strong></p>
 </div>
 
-<h3 style="color:#22c55e;">🌿 Güclü yağışlar təbiətə necə təsir edir?</h3>
+<h3 style="color:#facc15;">🌫️ Dağlıq ərazilərdə görünüş 50 metrədək azalıb</h3>
 
-<p>Yağıntılar su ehtiyatlarının yenilənməsi və bitki örtüyünün inkişafı üçün mühüm əhəmiyyət daşıyır. Lakin qısa müddətdə düşən intensiv yağışlar torpaq eroziyasını gücləndirə və çaylara böyük həcmdə çöküntü daşıya bilər.</p>
+<p>Yağıntılarla yanaşı, bəzi dağlıq ərazilərdə duman da müşahidə edilib. Daşkəsən, Şahdağ, Şahbuz və Lerikdə görünüş məsafəsi bəzi yerlərdə <strong>50 metrədək məhdudlaşıb.</strong></p>
 
-<p>Dağlıq ərazilərdə torpaq və bitki örtüyünün qorunması səth axınının tənzimlənməsinə kömək edir. Buna görə meşələrin və təbii landşaftların mühafizəsi uzunmüddətli ekoloji dayanıqlılıq baxımından əhəmiyyətlidir.</p>
+<p>Belə şərait xüsusilə dağ yollarında hərəkət edən sürücülər üçün əlavə çətinlik yarada bilər. Duman zamanı sürətin azaldılması və təhlükəsiz ara məsafəsinin saxlanılması tövsiyə olunur.</p>
 
 <div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#fb923c;">🚨 TƏHLÜKƏSİZLİK ÜÇÜN</strong><br><br>
-🏞️ Güclü yağış zamanı dağ çaylarının yataqlarında və dərələrdə dayanmayın.<br><br>
-🚗 Su basmış yollardan avtomobillə keçməyə çalışmayın.<br><br>
-🥾 Dağ yürüşlərində hava şəraitini və çayların vəziyyətini nəzərə alın.<br><br>
-🌊 Çay suyunun qəfil bulanması və sürətlə yüksəlməsi zamanı sahildən uzaqlaşın.
+<h3 style="color:#fb923c;">⚠️ Dağ çaylarında sululuq arta bilər</h3>
+<p>İntensiv yağıntılar dağ çaylarının su rejiminə təsir göstərə bilər. Xüsusilə güclü leysan müşahidə olunan hövzələrdə suyun səviyyəsinin qısamüddətli yüksəlməsi mümkündür.</p>
+<p>Dağlıq və dağətəyi ərazilərdə çay yataqlarına və sel keçə bilən dərələrə yaxın yerlərdə ehtiyatlı olmaq vacibdir.</p>
 </div>
 
-<h3 style="color:#a78bfa;">📡 META Meteorologiya Mərkəzinin təhlili</h3>
+<h3 style="color:#22c55e;">🌡️ Ölkə üzrə temperatur necə olub?</h3>
 
-<p>Sentyabrın 19–20-də əsas diqqət bəzi dağlıq və dağətəyi ərazilərdə gözlənilən intensiv yağıntılara və onların çayların sululuğuna mümkün təsirinə yönəlir.</p>
+<p>Müşahidə məlumatlarına əsasən, havanın maksimal temperaturu Bakı və Abşeron yarımadasında <strong>+27°C</strong>, Naxçıvan Muxtar Respublikasında <strong>+33°C</strong>, Aran rayonlarında <strong>+32°C</strong>, dağlıq rayonlarda isə <strong>+21°C</strong>-dək yüksəlib.</p>
 
-<p>Proqnoz bütün dağ çaylarında sel baş verəcəyi anlamına gəlmir. Risk ayrı-ayrı ərazilərə aiddir və faktiki yağıntının intensivliyindən, müddətindən və yerli relyef şəraitindən asılı olaraq dəyişə bilər.</p>
-
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#c4b5fd;">📌 META YEKUN</strong><br><br>
-19–20 sentyabrda Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında leysan, şimşək və dolu ehtimalı var. Böyük və Kiçik Qafqazın bəzi çaylarında sululuğun artması, qısamüddətli daşqın və sel hadisələri mümkündür.<br><br>
-<strong>Dağlıq ərazilərə səfər edən şəxslərin hava və çay şəraitindəki dəyişiklikləri izləməsi tövsiyə olunur.</strong>
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#4ade80;">📌 YEKUN</strong>
+<p>20 sentyabrda Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında intensiv yağıntılar qeydə alınıb. Ən çox yağıntı Göygöldə — 24 mm, Daşkəsəndə isə 18 mm olub. Bir sıra dağlıq ərazilərdə duman səbəbindən görünüş 50 metrədək azalıb.</p>
 </div>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Hava xəbərdarlıqları və ekoloji yeniliklər üçün WhatsApp kanalımıza qoşulun:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Ekologiya, təbiət və hava hadisələri ilə bağlı operativ xəbərlər üçün <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">META WhatsApp kanalımıza qoşulun →</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
