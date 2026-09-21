@@ -1,214 +1,208 @@
 <h2 style="color:#38bdf8;">
-🌤️ Bakıda +30°C-dək isti olacaq — 21 sentyabrın hava proqnozu
+🌤️ Bakıda +30°C-dək isti olacaq — 22 sentyabrın hava proqnozu
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 20 sentyabr 2026, 15:19 — Bakı vaxtı
+🕐 Əlavə olunub: 21 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 21-də Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən yağmursuz olacaq. Lakin axşam saatlarında bəzi şəhərətrafı ərazilərdə qısamüddətli yağış ehtimalı var.</strong>
+<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 22-də Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən yağmursuz keçəcək.</strong>
 </p>
 
 <p>
-Gün ərzində şimal-qərb küləyi şimal-şərq küləyi ilə əvəz olunacaq. Havanın temperaturu gecə +20…+23°C, gündüz isə +26…+30°C təşkil edəcək.
+Lakin səhər saatlarında bəzi şəhərətrafı ərazilərdə qısamüddətli zəif yağış və yüngül duman müşahidə oluna bilər. Şimal-qərb küləyi gündüz cənub-şərq küləyi ilə əvəz olunacaq.
 </p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<h3 style="color:#60a5fa;">📌 ƏSAS MƏLUMAT — BAKI VƏ ABŞERON</h3>
+<strong style="color:#60a5fa;font-size:19px;">📌 ƏSAS MƏLUMAT — BAKI VƏ ABŞERON</strong><br><br>
 
-🌤️ Hava: <strong>Dəyişkən buludlu</strong><br><br>
+📅 Tarix: <strong>22 sentyabr 2026</strong><br><br>
 
-🌧️ Yağıntı: <strong>Əsasən gözlənilmir</strong><br><br>
+🌤️ Hava: <strong>dəyişkən buludlu</strong><br><br>
 
-🌦️ Axşam: <strong>Bəzi şəhərətrafı ərazilərdə qısamüddətli yağış mümkündür</strong><br><br>
+🌧️ Yağıntı: <strong>əsasən gözlənilmir</strong><br><br>
 
-🌡️ Gecə: <strong>+20…+23°C</strong><br><br>
+🌦️ Səhər: <strong>bəzi şəhərətrafı ərazilərdə qısamüddətli zəif yağış mümkündür</strong><br><br>
 
-☀️ Gündüz: <strong>+26…+30°C</strong><br><br>
+🌫️ Duman: <strong>səhər bəzi yerlərdə zəif</strong><br><br>
 
-💨 Külək: <strong>Şimal-qərbdən şimal-şərqə dəyişəcək</strong><br><br>
+🌡️ Gecə: <strong>+20…+22°C</strong><br><br>
 
-📊 Təzyiq: <strong>763 → 760 mmHg / təxminən 1017 → 1013 hPa</strong><br><br>
+☀️ Gündüz: <strong>+27…+30°C</strong><br><br>
+
+💨 Külək: <strong>şimal-qərb, gündüz cənub-şərq istiqamətinə dəyişəcək</strong><br><br>
+
+📊 Atmosfer təzyiqi: <strong>759 mmHg / təxminən 1012 hPa</strong><br><br>
 
 💧 Rütubət gecə: <strong>70–75%</strong><br><br>
 
-💧 Rütubət gündüz: <strong>50–60%</strong>
+💧 Rütubət gündüz: <strong>55–60%</strong>
 
 </div>
 
-<h3 style="color:#facc15;">☀️ Bakı və Abşeronda gün ərzində hava necə olacaq?</h3>
+<h3 style="color:#facc15;">☀️ Gün ərzində əsasən yağmursuz hava gözlənilir</h3>
 
 <p>
-Sentyabrın 21-də paytaxtda və Abşeron yarımadasında günün böyük hissəsində əsasən yağmursuz hava şəraiti üstünlük təşkil edəcək.
+Sentyabrın 22-də Bakı və Abşeron yarımadasında dəyişkən buludluluq müşahidə olunacaq. Günün böyük hissəsində yağmursuz hava şəraitinin üstünlük təşkil edəcəyi gözlənilir.
 </p>
 
 <p>
-Səhər saatlarında dəyişkən buludluluq müşahidə olunacaq. Günorta saatlarına doğru havanın temperaturu yüksələrək +26…+30°C-yə çatacaq.
+Gecə saatlarında havanın temperaturu <strong>+20…+22°C</strong> arasında dəyişəcək. Gündüz isə temperatur yüksələrək <strong>+27…+30°C</strong> təşkil edəcək.
 </p>
 
 <p>
-Gün ərzində şimal-qərb küləyinin şimal-şərq küləyi ilə əvəz olunması gözlənilir.
+Günün ikinci yarısında hava şəraitinin əsasən sabit qalacağı, axşam saatlarında isə temperaturun tədricən aşağı düşəcəyi gözlənilir.
 </p>
 
-<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#facc15;">☀️ GÜN ƏRZİNDƏ</strong><br><br>
+<strong style="color:#facc15;">🌤️ GÜN ƏRZİNDƏ HAVA NECƏ OLACAQ?</strong><br><br>
 
-🌅 Səhər — Dəyişkən buludlu hava<br><br>
+🌙 Gecə — <strong>+20…+22°C</strong><br><br>
 
-☀️ Günorta — Temperatur +26…+30°C<br><br>
+🌅 Səhər — <strong>dəyişkən buludlu, bəzi yerlərdə zəif yağış və duman mümkündür</strong><br><br>
 
-💨 Külək — Şimal-qərbdən şimal-şərqə dəyişəcək<br><br>
+☀️ Gündüz — <strong>əsasən yağmursuz, +27…+30°C</strong><br><br>
 
-🌧️ Yağıntı — Günün böyük hissəsində gözlənilmir<br><br>
-
-🌇 Axşam — Bəzi şəhərətrafı ərazilərdə qısamüddətli yağış mümkündür
+🌇 Axşam — <strong>temperatur tədricən azalacaq</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🌦️ Axşam saatlarında lokal yağış ehtimalı</h3>
+<h3 style="color:#38bdf8;">🌦️ Səhər bəzi şəhərətrafı ərazilərdə yağış və duman mümkündür</h3>
 
 <p>
-Günün ikinci yarısında və axşam saatlarında Bakı və Abşeronun bəzi şəhərətrafı ərazilərində buludluluğun artması mümkündür.
+Səhər saatlarında Bakı və Abşeronun bəzi şəhərətrafı ərazilərində qısamüddətli zəif yağış ehtimalı var.
 </p>
 
 <p>
-Ayrı-ayrı yerlərdə qısamüddətli yağış ehtimalı olsa da, yağıntının bütün yarımadanı əhatə edəcəyi proqnozlaşdırılmır.
+Havanın nisbi rütubətinin yüksək olması fonunda ayrı-ayrı yerlərdə zəif duman da yarana bilər.
 </p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<p>
+Yağıntının lokal və qısamüddətli xarakter daşıyacağı, gün ərzində isə əsasən yağmursuz hava şəraitinin üstünlük təşkil edəcəyi gözlənilir.
+</p>
 
-<strong style="color:#60a5fa;">🌧️ YAĞINTI EHTİMALI</strong><br><br>
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-📅 Tarix: <strong>21 sentyabr</strong><br><br>
+<strong style="color:#fb923c;">⚠️ SƏHƏR SAATLARI ÜÇÜN MƏLUMAT</strong><br><br>
 
-🕒 Vaxt: <strong>Axşam saatları</strong><br><br>
+📍 Ərazi: <strong>Bakı və Abşeronun bəzi şəhərətrafı hissələri</strong><br><br>
 
-📍 Ərazi: <strong>Bəzi şəhərətrafı ərazilər</strong><br><br>
+🌦️ Yağıntı: <strong>qısamüddətli zəif yağış</strong><br><br>
 
-🌦️ Xarakter: <strong>Qısamüddətli yağış</strong>
+🌫️ Duman: <strong>zəif, lokal</strong><br><br>
+
+💧 Rütubət: <strong>70–75%</strong><br><br>
+
+🚗 Sürücülərə tövsiyə: <strong>duman müşahidə olunan ərazilərdə görünüş məsafəsini nəzərə almaq</strong>
 
 </div>
 
-<h3 style="color:#a78bfa;">📉 Atmosfer təzyiqi azalacaq</h3>
+<h3 style="color:#60a5fa;">💨 Küləyin istiqaməti dəyişəcək</h3>
 
 <p>
-Sentyabrın 21-də atmosfer təzyiqinin gün ərzində 763 mm civə sütunundan 760 mm civə sütununa enəcəyi gözlənilir.
+Bakı və Abşeron yarımadasında əvvəlcə şimal-qərb küləyi əsəcək. Gündüz saatlarında küləyin cənub-şərq istiqamətinə dəyişməsi gözlənilir.
 </p>
 
 <p>
-Bu göstəricilər təxminən <strong>1017 hPa-dan 1013 hPa-ya</strong> enməyə uyğundur.
+Atmosfer təzyiqi <strong>759 mm civə sütunu</strong> təşkil edəcək. Bu göstərici təxminən <strong>1012 hPa</strong>-ya bərabərdir.
 </p>
 
 <p>
-Nisbi rütubət gecə saatlarında 70–75%, gündüz isə 50–60% təşkil edəcək.
+Nisbi rütubət gecə saatlarında <strong>70–75%</strong>, gündüz isə <strong>55–60%</strong> olacaq.
 </p>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#c4b5fd;">📊 ATMOSFER GÖSTƏRİCİLƏRİ</strong><br><br>
+<strong style="color:#60a5fa;">📊 ATMOSFER GÖSTƏRİCİLƏRİ</strong><br><br>
 
-📉 Təzyiq: <strong>763 → 760 mmHg</strong><br><br>
+💨 Külək — <strong>şimal-qərbdən cənub-şərqə dəyişəcək</strong><br><br>
 
-📊 Hektopaskalla: <strong>≈1017 → 1013 hPa</strong><br><br>
+📊 Təzyiq — <strong>759 mmHg / ≈1012 hPa</strong><br><br>
 
-💧 Gecə rütubəti: <strong>70–75%</strong><br><br>
+💧 Gecə rütubəti — <strong>70–75%</strong><br><br>
 
-💧 Gündüz rütubəti: <strong>50–60%</strong>
+💧 Gündüz rütubəti — <strong>55–60%</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🇦🇿 Azərbaycan rayonlarında hava necə olacaq?</h3>
+<h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında +34°C-dək isti olacaq</h3>
 
 <p>
-Sentyabrın 21-də Azərbaycanın əksər rayonlarında hava əsasən yağmursuz keçəcək.
+Sentyabrın 22-də Azərbaycanın əksər rayonlarında hava əsasən yağmursuz keçəcək.
 </p>
 
 <p>
-Havanın temperaturu gecə +18…+22°C, gündüz +29…+33°C təşkil edəcək.
+Havanın temperaturu gecə <strong>+17…+21°C</strong>, gündüz isə <strong>+29…+34°C</strong> təşkil edəcək.
 </p>
 
 <p>
-Dağlıq ərazilərdə isə gecə +10…+15°C, gündüz +18…+23°C isti gözlənilir.
+Dağlıq ərazilərdə gecə temperatur <strong>+8…+13°C</strong>, gündüz isə <strong>+20…+25°C</strong> olacaq.
 </p>
 
 <p>
-Rayonlarda şərq küləyi əsəcək.
+Rayonlarda əsasən şərq küləyi əsəcək.
 </p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:10px;margin:18px 0;">
 
-<strong style="color:#4ade80;">🇦🇿 AZƏRBAYCAN ÜZRƏ TEMPERATUR</strong><br><br>
+<strong style="color:#4ade80;">🇦🇿 AZƏRBAYCAN ÜZRƏ HAVA PROQNOZU</strong><br><br>
 
-🌡️ Gecə: <strong>+18…+22°C</strong><br><br>
+☀️ Əksər rayonlar — <strong>əsasən yağmursuz</strong><br><br>
 
-☀️ Gündüz: <strong>+29…+33°C</strong><br><br>
+🌡️ Gecə — <strong>+17…+21°C</strong><br><br>
 
-🏔️ Dağlarda gecə: <strong>+10…+15°C</strong><br><br>
+🌡️ Gündüz — <strong>+29…+34°C</strong><br><br>
 
-🏔️ Dağlarda gündüz: <strong>+18…+23°C</strong><br><br>
+🏔️ Dağlarda gecə — <strong>+8…+13°C</strong><br><br>
 
-💨 Külək: <strong>Şərq</strong>
+🏔️ Dağlarda gündüz — <strong>+20…+25°C</strong><br><br>
+
+💨 Külək — <strong>şərq</strong>
 
 </div>
 
-<h3 style="color:#f97316;">⛈️ Dağlıq və dağətəyi rayonlarda leysan, şimşək və dolu mümkündür</h3>
+<h3 style="color:#f97316;">⛈️ Bəzi dağlıq rayonlarda yağış və şimşək ehtimalı var</h3>
 
 <p>
-Ölkənin əksər ərazilərində yağmursuz hava şəraiti gözlənilsə də, bəzi dağlıq və dağətəyi rayonlarda atmosfer qeyri-sabitliyi müşahidə oluna bilər.
+Ölkənin böyük hissəsində quru hava şəraiti üstünlük təşkil etsə də, gündüz saatlarında bəzi dağlıq rayonlarda atmosfer qeyri-sabitliyi müşahidə oluna bilər.
 </p>
 
 <p>
-Gecə və səhər saatlarında bəzi ərazilərdə fasilələrlə yağış yağacağı gözlənilir. Ayrı-ayrı yerlərdə yağıntılar qısamüddətli intensiv leysan xarakteri ala bilər.
+Ayrı-ayrı dağlıq ərazilərdə qısamüddətli yağış yağacağı və şimşək çaxacağı ehtimal olunur.
 </p>
 
 <p>
-Həmçinin şimşək çaxması və dolu düşməsi ehtimalı var.
+Gecə və səhər saatlarında bəzi dağlıq rayonlarda duman müşahidə edilə bilər.
 </p>
 
-<p>
-Gecə və səhər saatlarında bəzi dağlıq ərazilərdə duman müşahidə oluna bilər.
-</p>
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:10px;margin:18px 0;">
 
-<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#fb923c;">⛈️ DAĞLIQ ƏRAZİLƏRDƏ HAVA</strong><br><br>
 
-<strong style="color:#f87171;">⚠️ DAĞLIQ ƏRAZİLƏR ÜÇÜN DİQQƏT</strong><br><br>
+🌦️ Gündüz — <strong>lokal qısamüddətli yağış mümkündür</strong><br><br>
 
-📍 Ərazi: <strong>Bəzi dağlıq və dağətəyi rayonlar</strong><br><br>
+⚡ Şimşək — <strong>bəzi ərazilərdə ehtimal olunur</strong><br><br>
 
-🕒 Vaxt: <strong>Gecə və səhər</strong><br><br>
+🌫️ Gecə və səhər — <strong>duman mümkündür</strong><br><br>
 
-🌧️ Fasilələrlə yağış<br><br>
-
-⛈️ Lokal intensiv leysan<br><br>
-
-⚡ Şimşək ehtimalı<br><br>
-
-🧊 Dolu ehtimalı<br><br>
-
-🌫️ Dağlıq ərazilərdə duman
+🌡️ Gündüz temperaturu — <strong>+20…+25°C</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">📌 META-nın yekun proqnozu</h3>
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:10px;margin:20px 0;font-size:18px;">
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:20px;border-radius:12px;margin:20px 0;">
+<strong style="color:#c4b5fd;">📌 YEKUN — META PROQNOZU</strong><br><br>
 
-<strong style="color:#60a5fa;">🌤️ 21 SENTYABR — YEKUN</strong>
+Sentyabrın 22-də Bakı və Abşeron yarımadasında <strong>dəyişkən buludlu, əsasən yağmursuz və isti hava</strong> gözlənilir.<br><br>
 
-<p>
-Bakı və Abşeron yarımadasında hava əsasən yağmursuz, dəyişkən buludlu olacaq. Gündüz temperatur +30°C-dək yüksələcək.
-</p>
+Gündüz temperatur <strong>+30°C-dək</strong> yüksələcək. Səhər bəzi şəhərətrafı ərazilərdə qısamüddətli zəif yağış və duman mümkündür.<br><br>
 
-<p>
-Axşam saatlarında bəzi şəhərətrafı ərazilərdə qısamüddətli yağış ehtimalı var.
-</p>
+Şimal-qərb küləyi gündüz cənub-şərq küləyi ilə əvəz olunacaq.<br><br>
 
-<p>
-Azərbaycanın əksər rayonlarında hava əsasən quru keçəcək. Bəzi dağlıq və dağətəyi rayonlarda isə gecə və səhər lokal leysan, şimşək və dolu ehtimalı nəzərə alınmalıdır.
-</p>
+Azərbaycanın əksər rayonlarında da yağmursuz hava üstünlük təşkil edəcək. Lakin bəzi dağlıq rayonlarda gündüz lokal yağış və şimşək ehtimalı qalır.
 
 </div>
 
@@ -217,11 +211,11 @@ Azərbaycanın əksər rayonlarında hava əsasən quru keçəcək. Bəzi dağl�
 </p>
 
 <p style="color:#25D366;font-size:19px;font-weight:bold;">
-📲 Operativ hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava məlumatları, proqnozlar və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 </p>
 
 <p>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-size:18px;font-weight:bold;">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-size:18px;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
