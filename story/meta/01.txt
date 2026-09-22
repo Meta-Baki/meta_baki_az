@@ -1,50 +1,124 @@
+<h2 style="color:#f97316;">🌫️ Bakıda havada tozun miqdarı normanı keçib — tozlu hava nə vaxta qədər davam edəcək?</h2>
 
-<article style="color:#e2e8f0;line-height:1.8;">
+<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 22 sentyabr 2026, 20:45 — Bakı vaxtı</p>
 
-<h2 style="color:#4ade80;">🌱 Azərbaycanda “Yaşıl Top” ekoloji layihəsinə start verilib — məktəblilər təbiətin qorunmasına cəlb olunur</h2>
+<p><strong>META Meteorologiya Mərkəzinin ekoloji məlumatların təhlili əsasında hazırladığı məlumata görə, sentyabrın 22-də Bakı və Abşeron yarımadasında atmosfer havasında tozun konsentrasiyasının artması qeydə alınıb.</strong></p>
 
-<p style="color:#94a3b8;font-size:14px;">
-🕐 Hadisə tarixi: 16 sentyabr 2026
-</p>
+<p>Avtomatik monitorinq stansiyalarının məlumatlarına əsasən, havada tozun miqdarı normadan <strong>1,2–1,3 dəfə artıq</strong> olub. Tozlu hava şəraitinin meteoroloji vəziyyətdən asılı olaraq təxminən iki gün davam edəcəyi gözlənilir.</p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#4ade80;">📌 ƏSAS MƏLUMAT</strong>
-<p>Azərbaycanda uşaqlar və gənclər arasında ekoloji məsuliyyətin artırılmasına yönəlmiş “Yaşıl Top” sosial layihəsinə start verilib. Layihə futbolun birləşdirici gücündən istifadə edərək məktəblilərə ətraf mühitin qorunması, tullantıların düzgün idarə edilməsi və dayanıqlı həyat tərzi haqqında məlumat verməyi hədəfləyir.</p>
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
+<h3 style="color:#fb923c;">📌 ƏSAS MƏLUMAT</h3>
+
+<p>📍 <strong>Ərazi:</strong> Bakı və Abşeron yarımadası</p>
+
+<p>🌫️ <strong>Hadisə:</strong> Atmosfer havasında tozun artması</p>
+
+<p>📊 <strong>Göstərici:</strong> Normadan 1,2–1,3 dəfə yüksək</p>
+
+<p>💨 <strong>Tozun daxilolma istiqaməti:</strong> Cənub-şərq</p>
+
+<p>🌍 <strong>Mənşə:</strong> Transsərhəd toz daşınması</p>
+
+<p>⏳ <strong>Gözlənilən davametmə müddəti:</strong> Meteoroloji şəraitdən asılı olaraq təxminən iki gün</p>
+
 </div>
 
-<h3 style="color:#38bdf8;">⚽ İdman və ekologiya bir araya gəlir</h3>
+<h3 style="color:#38bdf8;">🌍 Toz kütlələri Azərbaycana haradan daxil olub?</h3>
 
-<p>Layihə AFFA-nın təşkilatçılığı və Ekologiya və Təbii Sərvətlər Nazirliyinin tərəfdaşlığı ilə həyata keçirilir. İlk tədbir “SABIS SUN” beynəlxalq məktəbində təşkil olunub.</p>
+<p>Ətraf Mühitin Çirklənməsinin Monitorinq Qrupunun məlumatına əsasən, müşahidə olunan tozlanma transsərhəd xarakter daşıyır.</p>
 
-<p>Tədbirdə müxtəlif qurumların nümayəndələri iştirak ediblər. Şagirdlərlə ekoloji problemlər, təbiətin mühafizəsi və gündəlik həyatda daha məsuliyyətli davranışın əhəmiyyəti müzakirə olunub.</p>
+<p>Bu o deməkdir ki, toz hissəcikləri yalnız Bakı daxilindəki yerli mənbələrdən yaranmayıb. Onlar atmosferdəki hava axınları vasitəsilə başqa ərazilərdən ölkəmizə daşınıb.</p>
 
-<h3 style="color:#4ade80;">♻️ Tullantıların idarə olunması və meşələrin bərpası</h3>
+<p>Mövcud meteoroloji şərait nəticəsində toz kütlələri <strong>cənub-şərq istiqamətli hava axınları</strong> ilə Azərbaycan ərazisinə daxil olub.</p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#60a5fa;">🌍 Maarifləndirmənin əsas istiqamətləri</strong>
-<p>♻️ Tullantıların düzgün çeşidlənməsi və idarə edilməsi</p>
-<p>🌳 Meşələrin bərpası və yaşıllıqların qorunması</p>
-<p>💚 Dayanıqlı həyat tərzinin təşviqi</p>
-<p>⚽ İdman vasitəsilə ekoloji dəyərlərin yayılması</p>
+
+<strong style="color:#60a5fa;">💨 TOZUN ATMOSFERDƏ DAŞINMASI</strong>
+
+<p>Atmosferdə külək axınları torpaq və mineral mənşəli xırda hissəcikləri uzaq məsafələrə daşıya bilər.</p>
+
+<p>Belə hallarda toz kütlələri hava axınlarının istiqamətindən, sürətindən və atmosferin şaquli qarışmasından asılı olaraq geniş ərazilərə yayıla bilər.</p>
+
+<p>Toz hissəciklərinin havada qalma müddəti isə meteoroloji şəraitdən və hissəciklərin ölçüsündən asılıdır.</p>
+
 </div>
 
-<p>Tədbirin sonunda məktəbə təkrar emal edilmiş materiallardan hazırlanmış simvolik “Yaşıl Top” təqdim edilib. Şagirdlərin iştirakı ilə ağacəkmə aksiyası da keçirilib.</p>
+<h3 style="color:#facc15;">📊 Havada tozun miqdarı nə qədər artıb?</h3>
 
-<h3 style="color:#facc15;">🏫 Layihə digər məktəblərdə də davam edəcək</h3>
+<p>22 sentyabrda yayılan monitorinq məlumatlarına əsasən, Bakı və Abşeron yarımadasında havada tozun miqdarı müəyyən edilmiş normadan <strong>20–30% yüksək</strong> olub.</p>
 
-<p>Layihə çərçivəsində ümumilikdə 10 məktəbdə maarifləndirici tədbirlərin keçirilməsi planlaşdırılır. Tədris ilinin sonunda məktəblər arasında ekoloji futbol turnirinin təşkili də nəzərdə tutulur.</p>
+<p>Bu göstərici atmosfer havasında tozlanmanın artdığını göstərir. Lakin dəqiq PM2.5 və PM10 konsentrasiyaları ayrıca təqdim edilmədiyindən, bu məlumat əsasında həmin hissəciklərin konkret miqdarını müəyyən etmək mümkün deyil.</p>
 
-<p>Bu təşəbbüs uşaqların həm idmana, həm də ətraf mühitin qorunmasına marağını artırmaq məqsədi daşıyır.</p>
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#4ade80;">📌 META YEKUN</strong>
-<p>“Yaşıl Top” layihəsi ekoloji maarifləndirmənin yalnız nəzəri məlumatlarla məhdudlaşmadığını göstərir. Ağacəkmə, təkrar emal və məktəblilər arasında ekoloji məsuliyyətin təşviqi gələcəkdə təbiətə daha həssas münasibətin formalaşmasına kömək edə bilər.</p>
+<strong style="color:#facc15;">📊 MONİTORİNQ NƏTİCƏSİ</strong>
+
+<p>Normal səviyyə: <strong>1,0</strong></p>
+
+<p>Qeydə alınan səviyyə: <strong>1,2–1,3</strong></p>
+
+<p>Artım: <strong>20–30%</strong></p>
+
+<p>Bu rəqəmlər 22 sentyabrda açıqlanmış monitorinq məlumatlarına aiddir və gün ərzində dəyişə bilər.</p>
+
 </div>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">
-📲 Təbiət, ekologiya və hava haqqında yenilikləri WhatsApp kanalımızda izləyin:<br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a>
-</p>
+<h3 style="color:#a78bfa;">⏳ Tozlu hava nə vaxta qədər davam edəcək?</h3>
+
+<p>Sentyabrın 22-də açıqlanan proqnoza əsasən, tozlu hava şəraitinin meteoroloji vəziyyətdən asılı olaraq <strong>təxminən iki gün</strong> davam edəcəyi gözlənilir.</p>
+
+<p>Bu müddət ərzində küləyin istiqamətinin dəyişməsi, atmosferdə hava mübadiləsinin güclənməsi və mümkün yağıntılar tozun konsentrasiyasına təsir göstərə bilər.</p>
+
+<p>Proqnoz dəyişməz qalarsa, tozlanmanın sentyabrın 23-də də müşahidə olunması, sentyabrın 24-nə doğru isə meteoroloji şəraitdən asılı olaraq azalması mümkündür. Bununla belə, tozun tam çəkiləcəyi dəqiq saat açıqlanmayıb.</p>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#c4b5fd;">📅 GÖZLƏNİLƏN VƏZİYYƏT</strong>
+
+<p>🌫️ <strong>22 sentyabr:</strong> Tozlanma qeydə alınıb.</p>
+
+<p>🌫️ <strong>23 sentyabr:</strong> Tozlu hava şəraitinin davam etməsi mümkündür.</p>
+
+<p>🌤️ <strong>24 sentyabr:</strong> Meteoroloji şərait əlverişli olarsa, tozlanmanın azalması mümkündür.</p>
+
+<p><em>Qeyd: Bu, 22 sentyabrda açıqlanan təxminən iki günlük proqnozun təqvim üzrə izahıdır; ayrıca saatlıq proqnoz deyil.</em></p>
+
+</div>
+
+<h3 style="color:#22c55e;">🌿 Tozlu hava zamanı nələrə diqqət etmək lazımdır?</h3>
+
+<p>Atmosferdə toz hissəciklərinin artması havanın keyfiyyətinə təsir göstərə bilər. Xüsusilə tənəffüs yolları xəstəlikləri olan şəxslər, uşaqlar və yaşlılar havanın keyfiyyətindəki dəyişikliklərə daha həssas ola bilərlər.</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#4ade80;">🌿 PRAKTİK TÖVSİYƏLƏR</strong>
+
+<p>🔹 Tozlanmanın yüksək olduğu vaxtlarda açıq havada uzunmüddətli və intensiv fiziki fəaliyyəti azaltmaq məqsədəuyğundur.</p>
+
+<p>🔹 Həssas şəxslər havanın keyfiyyətinə dair yenilənən məlumatları izləyə bilərlər.</p>
+
+<p>🔹 Evdə tozun yığılmasını azaltmaq üçün nəm təmizləmədən istifadə etmək olar.</p>
+
+<p>🔹 Açıq havada görünüş məsafəsi zəifləyərsə, sürücülər yol şəraitini nəzərə almalıdırlar.</p>
+
+</div>
+
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:20px;border-radius:12px;margin-top:22px;">
+
+<h3 style="color:#fb923c;">📌 META YEKUN</h3>
+
+<p>Bakı və Abşeron yarımadasında sentyabrın 22-də atmosfer havasında tozun miqdarı normadan <strong>1,2–1,3 dəfə yüksək</strong> qeydə alınıb.</p>
+
+<p>Tozlanma transsərhəd xarakter daşıyır və cənub-şərq istiqamətli hava axınları ilə əlaqələndirilir.</p>
+
+<p>Hazırkı proqnoza əsasən, tozlu hava şəraitinin <strong>təxminən iki gün</strong> davam etməsi gözlənilir. Atmosfer şəraiti dəyişərsə, tozun miqdarı və davametmə müddəti də dəyişə bilər.</p>
+
+</div>
+
+<p style="color:#60a5fa;font-size:19px;font-weight:bold;">🌍📡 META Meteorologiya Mərkəzi atmosfer və ekoloji vəziyyətlə bağlı məlumatları izləməyə davam edir.</p>
+
+<p style="color:#25D366;font-size:19px;font-weight:bold;">📲 Hava proqnozları və ekoloji xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
@@ -53,5 +127,3 @@
 <p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
 
 <p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
-
-</article>
