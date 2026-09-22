@@ -1,53 +1,51 @@
-<h2 style="color:#a78bfa;">🌌 NASA ulduzların doğulduğu kosmik “Barama”nın möhtəşəm görüntüsünü yayımladı</h2>
+<h2 style="color:#facc15;">☀️ NASA Günəşin qarşısından eyni anda keçən kosmik stansiya və təyyarənin nadir görüntüsünü yayımlayıb</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 21 sentyabr 2026 — Bakı vaxtı</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 22 sentyabr 2026, 20:46 — Bakı vaxtı</p>
 
-<p><strong>NASA sentyabrın 21-də “Astronomy Picture of the Day” layihəsi çərçivəsində Kəpənək deyil, məhz “Barama” adı ilə tanınan Cocoon Nebula — IC 5146 dumanlığının geniş sahəli görüntüsünü təqdim edib.</strong></p>
+<p><strong>NASA sentyabrın 22-də “Astronomy Picture of the Day” layihəsi çərçivəsində Günəş, Beynəlxalq Kosmik Stansiya və təyyarənin eyni kadrda göründüyü qeyri-adi astronomik fotoşəkli təqdim edib.</strong></p>
 
-<p>Fotoşəkildə yeni ulduzların formalaşdığı parlaq kosmik bölgə və onun arxasında uzanan nəhəng qaranlıq toz buludları əks olunub. Bu quruluş uzaqdan baxıldıqda uzun quyruğu olan kometanı xatırladır.</p>
-
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#c4b5fd;">📌 ƏSAS MƏLUMAT</strong><br><br>
-🌌 Obyekt: <strong>Barama dumanlığı — IC 5146</strong><br><br>
-📍 Bürc: <strong>Qu quşu (Cygnus)</strong><br><br>
-📏 Yerdən məsafə: <strong>təxminən 2500 işıq ili</strong><br><br>
-✨ Parlaq mərkəzi hissə: <strong>təxminən 10 işıq ili</strong><br><br>
-🌑 Qaranlıq toz zolağı: <strong>təxminən 100 işıq ili</strong><br><br>
-📅 Görüntünün NASA tərəfindən təqdim edildiyi tarix: <strong>21 sentyabr 2026</strong>
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#facc15;">📌 ƏSAS MƏLUMAT</strong><br><br>
+☀️ Obyekt: Günəş<br><br>
+🛰️ Kosmik obyekt: Beynəlxalq Kosmik Stansiya — ISS<br><br>
+✈️ Əlavə obyekt: təyyarə<br><br>
+📍 Çəkiliş yeri: Çexiya, Prasek<br><br>
+📅 Fotoşəklin çəkildiyi vaxt: iyun 2026<br><br>
+📰 NASA tərəfindən yayımlanma tarixi: 22 sentyabr 2026
 </div>
 
-<h3 style="color:#60a5fa;">🔭 Kosmosda nəhəng ulduz beşiyi</h3>
+<h3 style="color:#38bdf8;">🛰️ Kosmik stansiyanın Günəş qarşısından keçidi əvvəlcədən planlaşdırılmışdı</h3>
 
-<p>Barama dumanlığı Süd Yolu qalaktikasında yerləşən ulduzəmələgəlmə bölgəsidir. Burada qaz və toz buludları cazibə qüvvəsinin təsiri altında sıxlaşaraq gələcək ulduzların yaranmasına şərait yaradır.</p>
+<p>Fotoqraf Petr Horálek Beynəlxalq Kosmik Stansiyanın Günəş diski qarşısından keçəcəyi anı əvvəlcədən hesablayaraq çəkilişə hazırlaşıb.</p>
 
-<p>Dumanlığın mərkəzində yerləşən parlaq ulduz ətrafındakı qazı işıqlandırır və onun daxilində boşluğun formalaşmasına kömək edir.</p>
+<p>Belə keçidlər çox qısa müddət davam etdiyi üçün fotoaparatın düzgün istiqamətə yönəldilməsi və çəkiliş vaxtının dəqiq seçilməsi xüsusi əhəmiyyət daşıyır.</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#60a5fa;">✨ NİYƏ BU GÖRÜNTÜ MARAQLIDIR?</strong><br><br>
-🔹 Parlaq qaz və qaranlıq toz eyni görüntüdə müşahidə olunur.<br><br>
-🔹 Toz buludlarının daxilində yeni ulduzlar formalaşır.<br><br>
-🔹 Dumanlığın quruluşu kometaya bənzəyir.<br><br>
-🔹 Görüntü ulduzların yaranma mühitini daha geniş miqyasda göstərir.
+<p>Lakin bu dəfə kadrda yalnız kosmik stansiya görünməyib. Çəkiliş zamanı gözlənilmədən Günəşin qarşısından təyyarə də keçib.</p>
+
+<h3 style="color:#a78bfa;">✈️ Təsadüfi hadisə nadir astronomik görüntü yaradıb</h3>
+
+<p>Nəticədə bir fotoşəkildə üç fərqli obyekt — Günəş, Beynəlxalq Kosmik Stansiya və təyyarə eyni anda qeydə alınıb.</p>
+
+<p>Şəkildə Günəş ləkələrini də müşahidə etmək mümkündür. Bu ləkələr Günəşin maqnit sahəsi ilə əlaqədar yaranan, ətraf səthlə müqayisədə daha soyuq görünən sahələrdir.</p>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#c4b5fd;">🔭 MARAQLI FAKT</strong><br><br>
+Fotoqrafın hesablamasına görə, həmin müşahidə yerindən təsadüfi çəkilmiş bir Günəş fotoşəklində həm kosmik stansiyanın, həm də təyyarənin siluetinin görünməsi ehtimalı təxminən 30 milyonda 1-dir.<br><br>
+Bu rəqəm fotoqrafın qiymətləndirməsidir və bütün müşahidə şəraitləri üçün universal ehtimal kimi qəbul edilməməlidir.
 </div>
 
-<h3 style="color:#facc15;">🌑 Qaranlıq kosmik quyruğun sirri</h3>
+<h3 style="color:#22c55e;">🌍 Bu görüntü niyə maraqlıdır?</h3>
 
-<p>Şəkildə dumanlığın sol tərəfində uzanan qaranlıq zolaq işığın zəif olduğu boş məkan deyil. Əksinə, həmin bölgədə görünən işığı udan və arxa plandakı ulduzları gizlədən sıx ulduzlararası toz yerləşir.</p>
+<p>Fotoşəkil Yer atmosferində hərəkət edən təyyarə ilə planetimiz ətrafında orbitdə dövr edən kosmik stansiyanın eyni müşahidə xəttinə necə düşə bildiyini nümayiş etdirir.</p>
 
-<p>NASA-nın izahına görə, təxminən 100 işıq ili boyunca uzanan bu toz filamentləri daxilində də yeni ulduzların formalaşması prosesi gedir.</p>
+<p>Günəş isə bu qeyri-adi uyğunluğun nəhəng işıqlı fonunu təşkil edir.</p>
 
-<h3 style="color:#22c55e;">📸 Foto harada çəkilib?</h3>
-
-<p>NASA-nın sentyabrın 21-də təqdim etdiyi görüntü 2026-cı ilin iyulunda ABŞ-ın Kaliforniya ştatındakı Ölüm Vadisindən (Death Valley) astrofotoqraf Piotr Czerski tərəfindən çəkilib.</p>
-
-<p>Beləliklə, söhbət sentyabrın 21-də baş vermiş yeni astronomik hadisədən deyil, həmin gün ictimaiyyətə təqdim edilmiş geniş sahəli astrofotoqrafiyadan gedir.</p>
-
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
 <strong style="color:#4ade80;">📌 YEKUN</strong><br><br>
-Barama dumanlığının yeni təqdim olunan görüntüsü kosmosun yalnız ulduzlarla deyil, həm də onların yarandığı nəhəng qaz və toz strukturları ilə zəngin olduğunu nümayiş etdirir. Təxminən 2500 işıq ili uzaqlıqda yerləşən IC 5146 astronomlara ulduzların formalaşdığı mühiti öyrənmək üçün maraqlı imkan yaradır.
+NASA-nın 22 sentyabrda təqdim etdiyi görüntü əvvəlcədən planlaşdırılmış kosmik müşahidə ilə təsadüfi hadisənin birləşməsindən yaranıb. Fotoşəkil astronomik müşahidələrdə dəqiq hesablamaların və bəzən gözlənilməz uyğunluqların necə maraqlı nəticələr verdiyini göstərir.
 </div>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və hava xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p style="color:#25D366;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və meteorologiya xəbərlərini izləmək üçün <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">META WhatsApp kanalına qoşulun.</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
