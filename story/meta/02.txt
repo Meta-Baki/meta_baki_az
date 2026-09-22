@@ -1,43 +1,75 @@
-<h2 style="color:#38bdf8;">🌧️ Azərbaycanın dağlıq rayonlarına leysan yağıb — Göygöldə 24 mm yağıntı qeydə alınıb</h2>
+<h2 style="color:#22c55e;">🌊 Xəzər sahillərindən 5 ton tullantı toplanıb — genişmiqyaslı ekoloji aksiya başa çatıb</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 20 sentyabr 2026, 15:22 — Bakı vaxtı</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 22 sentyabr 2026, 20:46 — Bakı vaxtı</p>
 
-<p><strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlilinə əsasən, sentyabrın 20-də Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında yağıntılı hava şəraiti müşahidə olunub. Ayrı-ayrı ərazilərdə yağışlar leysan xarakterli intensiv olub.</strong></p>
-
-<p>Bu gün saat 10:00-a olan müşahidə məlumatları ölkənin müxtəlif bölgələrində yağıntının qeyri-bərabər paylandığını göstərir. Ən çox yağıntı Göygöl və Daşkəsən rayonlarında qeydə alınıb.</p>
-
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<h3 style="color:#60a5fa;">📊 Yağıntının miqdarı</h3>
-<p>🌧️ Göygöl — <strong>24 mm</strong></p>
-<p>🌧️ Daşkəsən — <strong>18 mm</strong></p>
-<p>🌧️ Gəncə — <strong>10 mm</strong></p>
-<p>🌧️ Gədəbəy — <strong>4 mm</strong></p>
-<p>🌧️ Sarıbaş və Goranboy — <strong>2 mm</strong></p>
-<p>🌧️ Balakən, Bərdə, Tovuz, Oğuz, Altıağac, İsmayıllı, Ağdam, Ceyrançöl və Quba — <strong>1 mm-dək</strong></p>
-</div>
-
-<h3 style="color:#facc15;">🌫️ Dağlıq ərazilərdə görünüş 50 metrədək azalıb</h3>
-
-<p>Yağıntılarla yanaşı, bəzi dağlıq ərazilərdə duman da müşahidə edilib. Daşkəsən, Şahdağ, Şahbuz və Lerikdə görünüş məsafəsi bəzi yerlərdə <strong>50 metrədək məhdudlaşıb.</strong></p>
-
-<p>Belə şərait xüsusilə dağ yollarında hərəkət edən sürücülər üçün əlavə çətinlik yarada bilər. Duman zamanı sürətin azaldılması və təhlükəsiz ara məsafəsinin saxlanılması tövsiyə olunur.</p>
-
-<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<h3 style="color:#fb923c;">⚠️ Dağ çaylarında sululuq arta bilər</h3>
-<p>İntensiv yağıntılar dağ çaylarının su rejiminə təsir göstərə bilər. Xüsusilə güclü leysan müşahidə olunan hövzələrdə suyun səviyyəsinin qısamüddətli yüksəlməsi mümkündür.</p>
-<p>Dağlıq və dağətəyi ərazilərdə çay yataqlarına və sel keçə bilən dərələrə yaxın yerlərdə ehtiyatlı olmaq vacibdir.</p>
-</div>
-
-<h3 style="color:#22c55e;">🌡️ Ölkə üzrə temperatur necə olub?</h3>
-
-<p>Müşahidə məlumatlarına əsasən, havanın maksimal temperaturu Bakı və Abşeron yarımadasında <strong>+27°C</strong>, Naxçıvan Muxtar Respublikasında <strong>+33°C</strong>, Aran rayonlarında <strong>+32°C</strong>, dağlıq rayonlarda isə <strong>+21°C</strong>-dək yüksəlib.</p>
+<p><strong>Azərbaycanda “Xəzəri Qoruyaq!” şüarı altında keçirilən genişmiqyaslı sahil təmizliyi aksiyası yekunlaşıb. Sentyabrın 21-də açıqlanan nəticələrə əsasən, 1500-dən çox könüllü Xəzər dənizinin sahillərində 30 hektar ərazini 5 ton tullantıdan təmizləyib.</strong></p>
 
 <div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#4ade80;">📌 YEKUN</strong>
-<p>20 sentyabrda Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında intensiv yağıntılar qeydə alınıb. Ən çox yağıntı Göygöldə — 24 mm, Daşkəsəndə isə 18 mm olub. Bir sıra dağlıq ərazilərdə duman səbəbindən görünüş 50 metrədək azalıb.</p>
+<strong style="color:#4ade80;">📌 ƏSAS MƏLUMAT</strong><br><br>
+🌊 Aksiya: “Xəzəri Qoruyaq!”<br><br>
+👥 İştirakçılar: 1500-dən çox könüllü<br><br>
+🗑️ Toplanan tullantı: 5 ton<br><br>
+📍 Təmizlənən ərazi: 30 hektar<br><br>
+📅 Aksiyanın başlanğıcı: 1 sentyabr<br><br>
+🏖️ Son tədbirin keçirildiyi yer: Bilgəh sahili
 </div>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Ekologiya, təbiət və hava hadisələri ilə bağlı operativ xəbərlər üçün <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">META WhatsApp kanalımıza qoşulun →</a></p>
+<h3 style="color:#38bdf8;">🇦🇿 Təmizlik aksiyası Xəzərin müxtəlif sahillərini əhatə edib</h3>
+
+<p>Ekologiya və Təbii Sərvətlər Nazirliyinin dəstəyi, Azərbaycan Dövlət Neft Şirkətinin tərəfdaşlığı və “EcoHub” İctimai Birliyinin təşkilatçılığı ilə keçirilən aksiya sentyabrın 1-dən başlayıb.</p>
+
+<p>Təmizlik işləri ölkənin bir neçə sahilyanı ərazisində həyata keçirilib.</p>
+
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#60a5fa;">📍 AKSİYANIN ƏHATƏ ETDİYİ ƏRAZİLƏR</strong><br><br>
+🏖️ Lənkəran<br><br>
+🏖️ Astara<br><br>
+🏖️ Neftçala<br><br>
+🏖️ Xaçmaz<br><br>
+🏖️ Siyəzən<br><br>
+🏖️ Sumqayıt<br><br>
+🏖️ Bilgəh
+</div>
+
+<h3 style="color:#facc15;">♻️ 30 hektar sahil ərazisi təmizlənib</h3>
+
+<p>Aksiya çərçivəsində könüllülər sahilyanı ərazilərdə toplanmış müxtəlif tullantıları yığıb.</p>
+
+<p>Ümumilikdə 30 hektar ərazidən 5 ton tullantının çıxarılması Xəzər sahillərində çirklənmənin azaldılması istiqamətində görülən işlərin miqyasını göstərir.</p>
+
+<p>Sahil tullantıları külək və dalğalar vasitəsilə suya daşına bildiyi üçün onların vaxtında toplanması dəniz mühitinin qorunması baxımından əhəmiyyətlidir.</p>
+
+<h3 style="color:#a78bfa;">🐟 Xəzərin ekosistemi üçün əhəmiyyəti</h3>
+
+<p>Xəzər dənizi müxtəlif balıq növlərinin, su quşlarının və digər canlıların yaşadığı mühüm təbii ekosistemdir.</p>
+
+<p>Plastik və digər məişət tullantılarının sahillərdə toplanması zamanla dəniz mühitinə mənfi təsir göstərə bilər.</p>
+
+<p>Bu səbəbdən sahillərin təmiz saxlanılması yalnız istirahət zonalarının görünüşü üçün deyil, həm də biomüxtəlifliyin qorunması baxımından vacibdir.</p>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#c4b5fd;">🌍 EKOLOJİ ƏHƏMİYYƏT</strong><br><br>
+♻️ Sahillərdə tullantıların azalması<br><br>
+🐟 Dəniz canlılarının yaşayış mühitinin qorunmasına töhfə<br><br>
+🏖️ Sahilyanı ərazilərin təmiz saxlanılması<br><br>
+👥 Cəmiyyətdə ekoloji məsuliyyətin artırılması
+</div>
+
+<h3 style="color:#22c55e;">🤝 Könüllülər və təşkilatlar bir araya gəlib</h3>
+
+<p>“Xəzəri Qoruyaq!” aksiyası Ümumdünya Təmizlik Günü çərçivəsində təşkil edilib.</p>
+
+<p>Layihəyə müxtəlif dövlət qurumları, ictimai təşkilatlar və özəl şirkətlər dəstək göstərib.</p>
+
+<p>Sonuncu təmizlik tədbirinin Bilgəh sahilində keçirilməsi ilə sentyabr ayı boyunca davam edən genişmiqyaslı aksiya başa çatıb.</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#4ade80;">📌 YEKUN</strong><br><br>
+“Xəzəri Qoruyaq!” aksiyası çərçivəsində 1500-dən çox könüllünün iştirakı ilə 30 hektar sahil ərazisindən 5 ton tullantı toplanıb.<br><br>
+Bu cür təşəbbüslər Xəzər dənizinin təbii mühitinin qorunmasına və sahilyanı ərazilərdə ekoloji məsuliyyətin gücləndirilməsinə töhfə verir.
+</div>
+
+<p style="color:#25D366;font-weight:bold;">📲 Təbiət, ekologiya və meteorologiya xəbərlərini izləmək üçün <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">META WhatsApp kanalına qoşulun.</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
