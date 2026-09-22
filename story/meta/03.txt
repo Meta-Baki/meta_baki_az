@@ -1,1 +1,62 @@
+<h2 style="color:#fb923c;">🌫️ Bakı və Abşeronda tozun miqdarı normanı keçib — tozlu hava iki gün davam edə bilər</h2>
 
+<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 22 sentyabr 2026, 20:46 — Bakı vaxtı</p>
+
+<p><strong>Sentyabrın 22-də Bakı və Abşeron yarımadasında tozlu hava şəraiti müşahidə olunub. Avtomatik monitorinq stansiyalarının məlumatlarına əsasən, havada tozun miqdarı normadan 1,2–1,3 dəfə artıq olub.</strong></p>
+
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#fb923c;">📌 ƏSAS MƏLUMAT</strong><br><br>
+📍 Ərazi: Bakı və Abşeron yarımadası<br><br>
+🌫️ Hadisə: tozlu hava şəraiti<br><br>
+📊 Tozun miqdarı: normadan 1,2–1,3 dəfə artıq<br><br>
+💨 Tozun daxilolma istiqaməti: cənub-şərq<br><br>
+⏳ Gözlənilən davametmə müddəti: meteoroloji şəraitdən asılı olaraq təxminən iki gün
+</div>
+
+<h3 style="color:#38bdf8;">🌍 Toz kütlələri ölkə ərazisinə necə daxil olub?</h3>
+
+<p>Ətraf Mühitin Çirklənməsinin Monitorinq Qrupunun məlumatına əsasən, müşahidə olunan toz transsərhəd xarakterlidir.</p>
+
+<p>Bu o deməkdir ki, toz hissəcikləri hava axınları vasitəsilə başqa ərazilərdən daşınaraq Azərbaycan ərazisinə daxil olub.</p>
+
+<p>Hazırkı hadisədə əsas rol cənub-şərq istiqamətli hava axınlarına məxsusdur.</p>
+
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#60a5fa;">💨 METEOROLOJİ İZAH</strong><br><br>
+Quru ərazilərdən atmosferə qalxan toz hissəcikləri hava axınları ilə uzun məsafələrə daşına bilər.<br><br>
+Küləyin istiqaməti, sürəti, atmosferin sabitliyi və yağıntıların mövcudluğu tozun havada nə qədər qalmasına təsir göstərir.
+</div>
+
+<h3 style="color:#facc15;">📊 Hava keyfiyyətində dəyişiklik</h3>
+
+<p>Toz hissəciklərinin miqdarının artması atmosferin şəffaflığını azalda və uzaq obyektlərin görünüşünü zəiflədə bilər.</p>
+
+<p>Tozlu hava zamanı xüsusilə açıq ərazilərdə və nəqliyyatın intensiv olduğu yerlərdə havanın keyfiyyətindəki dəyişiklik daha nəzərəçarpan ola bilər.</p>
+
+<p>Normadan 1,2–1,3 dəfə artıq göstərici toz konsentrasiyasının yüksəldiyini göstərir. Bununla belə, həmin nisbət ayrıca ölçülmüş PM2.5 və ya PM10 konsentrasiyası kimi təqdim edilməməlidir.</p>
+
+<h3 style="color:#f97316;">⏳ Tozlu hava nə vaxt azalacaq?</h3>
+
+<p>Yayılan meteoroloji məlumata əsasən, tozlu hava şəraitinin təxminən iki gün davam etməsi mümkündür.</p>
+
+<p>Vəziyyət hava axınlarının istiqamətindən, atmosferin qarışmasından və digər meteoroloji amillərdən asılı olaraq dəyişə bilər.</p>
+
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#f87171;">⚠️ DİQQƏT</strong><br><br>
+Tozlu hava şəraiti davam etdiyi müddətdə açıq havada intensiv fiziki fəaliyyət zamanı ehtiyatlı olmaq, həssas şəxslərin isə hava keyfiyyətinə dair yenilənən məlumatları izləməsi məqsədəuyğundur.
+</div>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#4ade80;">📌 YEKUN</strong><br><br>
+22 sentyabrda Bakı və Abşeronda transsərhəd toz daşınması nəticəsində havada tozun miqdarı normanı keçib. Tozlu şəraitin meteoroloji vəziyyətdən asılı olaraq yaxın iki gün ərzində davam etməsi mümkündür.
+</div>
+
+<p style="color:#25D366;font-weight:bold;">📲 Hava şəraiti və ekologiya xəbərlərini izləmək üçün <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">META WhatsApp kanalına qoşulun.</a></p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
+
+<hr>
+
+<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
+
+<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
