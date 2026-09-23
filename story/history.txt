@@ -1,133 +1,247 @@
-<h2 style="color:#38bdf8;">🌤️ Bakıda 30°C-dək isti olacaq — 23 sentyabrın hava proqnozu</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 22 sentyabr 2026, 20:41 — Bakı vaxtı</p>
+<article style="color:#e2e8f0;line-height:1.8;">
 
-<p><strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 23-də Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən yağmursuz keçəcək.</strong></p>
+<h2 style="color:#38bdf8;">
+🌤️ Bakıda +32°C, rayonlarda +35°C-dək isti olacaq — 24 sentyabrın hava proqnozu
+</h2>
 
-<p>Gecə və səhər bəzi yerlərdə zəif duman müşahidə oluna bilər. Cənub-qərb küləyi səhər saatlarında mülayim cənub-şərq küləyi ilə əvəz olunacaq. Gündüz havanın temperaturu <strong>+27…+30°C</strong> təşkil edəcək.</p>
+<p style="color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 23 sentyabr 2026 — Bakı vaxtı
+</p>
+
+<p>
+<strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 24-də Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən yağmursuz keçəcək.</strong>
+</p>
+
+<p>
+Gecə və səhər bəzi ərazilərdə zəif duman mümkündür. Gün ərzində temperatur
+<strong>+27…+32°C</strong> təşkil edəcək. Cənub-şərq küləyi axşam saatlarında
+mülayim şimal-qərb küləyi ilə əvəz olunacaq.
+</p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
 
-<h3 style="color:#60a5fa;">📌 ƏSAS MƏLUMAT — BAKI VƏ ABŞERON</h3>
+<h3 style="color:#60a5fa;margin-top:0;">
+📌 ƏSAS MƏLUMAT — BAKI VƏ ABŞERON
+</h3>
 
-<p>📅 Tarix: <strong>23 sentyabr 2026</strong></p>
-<p>🌤️ Hava: <strong>dəyişkən buludlu, əsasən yağmursuz</strong></p>
-<p>🌫️ Duman: <strong>gecə və səhər bəzi yerlərdə zəif</strong></p>
-<p>🌡️ Gecə: <strong>+19…+21°C</strong></p>
-<p>☀️ Gündüz: <strong>+27…+30°C</strong></p>
-<p>💨 Külək: <strong>cənub-qərb, səhərdən mülayim cənub-şərq</strong></p>
-<p>📉 Atmosfer təzyiqi: <strong>761-dən 758 mmHg-yə / təxminən 1015-dən 1011 hPa-ya enəcək</strong></p>
-<p>💧 Rütubət gecə: <strong>70–80%</strong></p>
-<p>💧 Rütubət gündüz: <strong>60–65%</strong></p>
-
-</div>
-
-<h3 style="color:#facc15;">☀️ Gün ərzində isti və əsasən yağmursuz hava</h3>
-
-<p>Sentyabrın 23-də Bakı və Abşeron yarımadasında dəyişkən buludluluq üstünlük təşkil edəcək. Gün ərzində əhəmiyyətli yağıntı gözlənilmir.</p>
-
-<p>Gecə havanın temperaturu <strong>+19…+21°C</strong> arasında dəyişəcək. Gündüz isə temperatur yüksələrək <strong>+27…+30°C</strong>-yə çatacaq.</p>
-
-<p>Payız mövsümünün başlamasına baxmayaraq, Bakı və Abşeronda gündüz saatlarında isti hava şəraiti davam edəcək. Axşam saatlarında temperaturun tədricən azalması gözlənilir.</p>
-
-<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-
-<h3 style="color:#facc15;">🌡️ TEMPERATUR PROQNOZU</h3>
-
-<p>🌙 Gecə: <strong>+19…+21°C</strong></p>
-<p>🌅 Səhər: <strong>nisbətən mülayim və rütubətli</strong></p>
-<p>☀️ Gündüz: <strong>+27…+30°C</strong></p>
-<p>🌇 Axşam: <strong>temperatur tədricən azalacaq</strong></p>
+🌤️ Hava: <strong>dəyişkən buludlu</strong><br><br>
+🌧️ Yağıntı: <strong>əsasən gözlənilmir</strong><br><br>
+🌫️ Duman: <strong>gecə və səhər bəzi yerlərdə mümkündür</strong><br><br>
+🌡️ Gecə: <strong>+20…+23°C</strong><br><br>
+☀️ Gündüz: <strong>+27…+32°C</strong><br><br>
+💨 Külək: <strong>cənub-şərq, axşam mülayim şimal-qərb</strong><br><br>
+📊 Təzyiq: <strong>759 mmHg / təxminən 1012 hPa</strong><br><br>
+💧 Rütubət gecə: <strong>70–80%</strong><br><br>
+💧 Rütubət gündüz: <strong>60–65%</strong>
 
 </div>
 
-<h3 style="color:#60a5fa;">🌫️ Gecə və səhər zəif duman mümkündür</h3>
+<h3 style="color:#facc15;">
+☀️ Bakı və Abşeronda gün ərzində hava necə olacaq?
+</h3>
 
-<p>Gecə və səhər saatlarında Bakı və Abşeron yarımadasının bəzi ərazilərində zəif duman müşahidə oluna bilər.</p>
+<p>
+Sentyabrın 24-də paytaxt və Abşeron yarımadasında dəyişkən buludluluq müşahidə olunacaq.
+Günün böyük hissəsində yağmursuz hava şəraiti üstünlük təşkil edəcək.
+</p>
 
-<p>Nisbi rütubətin gecə <strong>70–80%</strong> səviyyəsinə yüksəlməsi dumanın formalaşması üçün əlverişli şərait yarada bilər. Gündüz rütubətin <strong>60–65%</strong> təşkil edəcəyi gözlənilir.</p>
+<p>
+Gecə saatlarında havanın temperaturu <strong>+20…+23°C</strong> arasında dəyişəcək.
+Səhər saatlarında bəzi ərazilərdə zəif dumanın yaranması mümkündür.
+</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<p>
+Günorta və günün ikinci yarısında temperatur yüksələrək
+<strong>+27…+32°C</strong>-yə çatacaq.
+</p>
 
-<h3 style="color:#60a5fa;">🌫️ DUMAN VƏ RÜTUBƏT</h3>
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:20px 0;">
 
-<p>🕐 Vaxt: <strong>gecə və səhər</strong></p>
-<p>📍 Ərazi: <strong>Bakı və Abşeronun bəzi hissələri</strong></p>
-<p>🌫️ Duman: <strong>zəif, lokal xarakterli</strong></p>
-<p>💧 Gecə rütubəti: <strong>70–80%</strong></p>
-<p>💧 Gündüz rütubəti: <strong>60–65%</strong></p>
+<h3 style="color:#facc15;margin-top:0;">
+🌤️ GÜNÜN HİSSƏLƏRİ ÜZRƏ
+</h3>
 
-</div>
+🌙 <strong>Gecə:</strong> +20…+23°C, bəzi yerlərdə zəif duman mümkündür.<br><br>
 
-<h3 style="color:#38bdf8;">💨 Küləyin istiqaməti dəyişəcək</h3>
+🌅 <strong>Səhər:</strong> dəyişkən buludlu, lokal zəif duman ehtimalı.<br><br>
 
-<p>Sentyabrın 23-nə keçən gecə cənub-qərb küləyi əsəcək. Səhər saatlarında küləyin istiqaməti dəyişərək cənub-şərqə keçəcək.</p>
+☀️ <strong>Gündüz:</strong> əsasən yağmursuz, +27…+32°C.<br><br>
 
-<p>Gün ərzində <strong>mülayim cənub-şərq küləyi</strong> üstünlük təşkil edəcək. Hazırkı proqnozda küləyin sürətinin konkret m/s və km/saat göstəriciləri açıqlanmayıb.</p>
-
-<h3 style="color:#a78bfa;">📉 Atmosfer təzyiqi azalacaq</h3>
-
-<p>Atmosfer təzyiqinin gün ərzində <strong>761 mm civə sütunundan 758 mm civə sütununa</strong> enəcəyi gözlənilir.</p>
-
-<p>Bu göstəricilər təxminən <strong>1015 hPa-dan 1011 hPa-ya</strong> qədər azalmaya uyğundur.</p>
-
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-
-<h3 style="color:#c4b5fd;">📊 ATMOSFER GÖSTƏRİCİLƏRİ</h3>
-
-<p>📉 Təzyiq: <strong>761 → 758 mmHg</strong></p>
-<p>📉 Hektopaskalla: <strong>≈1015 → 1011 hPa</strong></p>
-<p>💨 Külək: <strong>cənub-qərbdən cənub-şərqə dəyişəcək</strong></p>
-<p>💧 Rütubət: <strong>gecə 70–80%, gündüz 60–65%</strong></p>
+🌇 <strong>Axşam:</strong> külək şimal-qərb istiqamətinə dəyişəcək, temperatur tədricən azalacaq.
 
 </div>
 
-<h3 style="color:#22c55e;">🇦🇿 Azərbaycan rayonlarında hava necə olacaq?</h3>
+<h3 style="color:#38bdf8;">
+💨 Axşam küləyin istiqaməti dəyişəcək
+</h3>
 
-<p>Sentyabrın 23-də Azərbaycanın əksər rayonlarında hava əsasən yağmursuz keçəcək.</p>
+<p>
+Bakı və Abşeron yarımadasında günün əvvəlində
+<strong>cənub-şərq küləyi</strong> əsəcək.
+Axşam saatlarında isə küləyin istiqaməti dəyişərək
+<strong>mülayim şimal-qərb küləyi</strong> ilə əvəz olunacaq.
+</p>
 
-<p>Gecə və səhər saatlarında bəzi dağlıq ərazilərdə duman müşahidə oluna bilər. Gün ərzində şərq küləyi əsəcək.</p>
+<p>
+Atmosfer təzyiqi <strong>759 mm civə sütunu</strong> təşkil edəcək.
+Bu göstərici təxminən <strong>1012 hPa</strong>-ya bərabərdir.
+</p>
 
-<p>Rayonlarda havanın temperaturu gecə <strong>+18…+22°C</strong>, gündüz <strong>+29…+34°C</strong> təşkil edəcək.</p>
+<p>
+Nisbi rütubət gecə <strong>70–80%</strong>, gündüz isə
+<strong>60–65%</strong> olacaq.
+</p>
 
-<p>Dağlıq ərazilərdə isə gecə <strong>+10…+15°C</strong>, gündüz <strong>+20…+25°C</strong> isti gözlənilir.</p>
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+<h3 style="color:#60a5fa;margin-top:0;">
+📊 ATMOSFER ŞƏRAİTİ
+</h3>
 
-<h3 style="color:#4ade80;">🇦🇿 AZƏRBAYCAN ÜZRƏ PROQNOZ</h3>
+💨 Külək: <strong>cənub-şərqdən şimal-qərbə dəyişəcək</strong><br><br>
 
-<p>🌤️ Hava: <strong>əsasən yağmursuz</strong></p>
-<p>🌡️ Gecə: <strong>+18…+22°C</strong></p>
-<p>☀️ Gündüz: <strong>+29…+34°C</strong></p>
-<p>🏔️ Dağlarda gecə: <strong>+10…+15°C</strong></p>
-<p>🏔️ Dağlarda gündüz: <strong>+20…+25°C</strong></p>
-<p>🌫️ Dağlarda: <strong>gecə və səhər duman mümkündür</strong></p>
-<p>💨 Külək: <strong>şərq</strong></p>
+📊 Atmosfer təzyiqi: <strong>759 mmHg / ≈1012 hPa</strong><br><br>
+
+💧 Gecə rütubəti: <strong>70–80%</strong><br><br>
+
+💧 Gündüz rütubəti: <strong>60–65%</strong>
 
 </div>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:20px;border-radius:12px;margin:22px 0;">
+<h3 style="color:#22c55e;">
+🇦🇿 Azərbaycan rayonlarında hava proqnozu
+</h3>
 
-<h3 style="color:#4ade80;">📌 YEKUN — META PROQNOZU</h3>
+<p>
+Sentyabrın 24-də Azərbaycanın əksər rayonlarında hava
+<strong>əsasən yağmursuz</strong> keçəcək.
+</p>
 
-<p><strong>23 sentyabrda Bakı və Abşeronda əsasən yağmursuz və isti hava gözlənilir.</strong> Gündüz temperatur +30°C-dək yüksələcək. Gecə və səhər bəzi yerlərdə zəif duman mümkündür.</p>
+<p>
+Havanın temperaturu gecə <strong>+18…+22°C</strong>,
+gündüz isə <strong>+30…+35°C</strong> təşkil edəcək.
+</p>
 
-<p>Cənub-qərb küləyi səhər saatlarında mülayim cənub-şərq küləyi ilə əvəz olunacaq. Atmosfer təzyiqi gün ərzində azalacaq.</p>
+<p>
+Dağlıq ərazilərdə temperatur gecə <strong>+12…+17°C</strong>,
+gündüz <strong>+21…+26°C</strong> arasında dəyişəcək.
+Mülayim şərq küləyi əsəcək.
+</p>
 
-<p>Azərbaycanın əksər rayonlarında da hava yağmursuz keçəcək. Gündüz temperatur +34°C-dək yüksələcək, bəzi dağlıq ərazilərdə isə gecə və səhər duman müşahidə oluna bilər.</p>
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
+
+<h3 style="color:#4ade80;margin-top:0;">
+🇦🇿 RAYONLAR ÜZRƏ ƏSAS GÖSTƏRİCİLƏR
+</h3>
+
+☀️ Hava: <strong>əsasən yağmursuz</strong><br><br>
+
+🌡️ Gecə: <strong>+18…+22°C</strong><br><br>
+
+🌡️ Gündüz: <strong>+30…+35°C</strong><br><br>
+
+🏔️ Dağlarda gecə: <strong>+12…+17°C</strong><br><br>
+
+🏔️ Dağlarda gündüz: <strong>+21…+26°C</strong><br><br>
+
+💨 Külək: <strong>mülayim şərq</strong>
 
 </div>
 
-<p style="color:#60a5fa;font-size:19px;font-weight:bold;">🌦️📡 META Meteorologiya Mərkəzi hava şəraitində baş verən dəyişiklikləri izləməyə davam edir.</p>
+<h3 style="color:#fb923c;">
+⛈️ Quba-Qusar bölgəsində leysan, şimşək və dolu ehtimalı
+</h3>
 
-<p style="color:#25D366;font-size:19px;font-weight:bold;">📲 Operativ hava proqnozları və meteoroloji xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:</p>
+<p>
+Ölkənin böyük hissəsində quru hava şəraiti gözlənilsə də,
+<strong>axşam saatlarında Quba-Qusar bölgəsinin bəzi ərazilərində</strong>
+atmosfer qeyri-sabitliyi arta bilər.
+</p>
 
-<p><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;">➡️ META Abşeron — WhatsApp kanalı</a></p>
+<p>
+Ayrı-ayrı yerlərdə qısamüddətli yağış, bəzi ərazilərdə
+<strong>leysan, şimşək və dolu</strong> ehtimalı var.
+</p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:20px 0;">
 
-<hr>
+<h3 style="color:#f87171;margin-top:0;">
+⚠️ METEOROLOJİ DİQQƏT — QUBA-QUSAR
+</h3>
 
-<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
+📍 <strong>Ərazi:</strong> Quba-Qusar bölgəsinin bəzi hissələri<br><br>
 
-<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
+🕕 <strong>Vaxt:</strong> 24 sentyabr, axşam saatları<br><br>
+
+🌧️ <strong>Yağıntı:</strong> qısamüddətli yağış, lokal leysan<br><br>
+
+⚡ <strong>Əlavə hadisələr:</strong> şimşək və dolu ehtimalı<br><br>
+
+📌 <strong>Qeyd:</strong> Qeyri-sabit hava hadisələrinin bütün bölgəni eyni dərəcədə əhatə edəcəyi gözlənilmir.
+
+</div>
+
+<h3 style="color:#c4b5fd;">
+📌 META — YEKUN PROQNOZ
+</h3>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+
+<strong>
+24 sentyabrda Bakı və Abşeronda dəyişkən buludlu, əsasən yağmursuz hava gözlənilir.
+</strong>
+
+<p>
+Gündüz temperatur <strong>+32°C-dək</strong> yüksələcək.
+Gecə və səhər bəzi yerlərdə zəif duman mümkün olacaq.
+Axşam saatlarında cənub-şərq küləyi mülayim şimal-qərb küləyi ilə əvəz olunacaq.
+</p>
+
+<p>
+Azərbaycanın əksər rayonlarında da hava əsasən yağmursuz keçəcək.
+Gündüz temperatur <strong>+35°C-dək</strong> yüksələcək.
+Lakin axşam Quba-Qusar bölgəsinin bəzi yerlərində
+<strong>leysan, şimşək və dolu ehtimalı</strong> nəzərə alınmalıdır.
+</p>
+
+</div>
+
+<p style="color:#60a5fa;font-size:19px;font-weight:bold;">
+🌦️📡 META Meteorologiya Mərkəzi hava şəraitində baş verən dəyişiklikləri izləməyə davam edir.
+</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
+
+<strong style="color:#4ade80;">
+📲 Operativ hava proqnozları və meteoroloji xəbərdarlıqlar
+</strong>
+
+<p>
+Hava şəraitində baş verən dəyişiklikləri izləmək üçün META Abşeron WhatsApp kanalına qoşulun.
+</p>
+
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+rel="noopener noreferrer"
+style="color:#25D366;font-weight:bold;font-size:18px;">
+➡️ META WhatsApp kanalına qoşul
+</a>
+
+</div>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
+
+<hr style="border:0;border-top:1px solid rgba(148,163,184,0.25);">
+
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>
+
+</article>
