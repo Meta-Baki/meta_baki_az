@@ -1,124 +1,59 @@
-<h2 style="color:#f97316;">🌫️ Bakıda havada tozun miqdarı normanı keçib — tozlu hava nə vaxta qədər davam edəcək?</h2>
+ 
+<h2 style="color:#f59e0b;">🍂 Azərbaycana astronomik payız daxil oldu — yeni fəsil bu gün saat 04:05-də başladı</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 22 sentyabr 2026, 20:45 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 23 sentyabr 2026 — Bakı vaxtı</p>
 
-<p><strong>META Meteorologiya Mərkəzinin ekoloji məlumatların təhlili əsasında hazırladığı məlumata görə, sentyabrın 22-də Bakı və Abşeron yarımadasında atmosfer havasında tozun konsentrasiyasının artması qeydə alınıb.</strong></p>
+<p><strong>Sentyabrın 23-də Azərbaycanda astronomik payız fəsli başlayıb. Yeni fəsil Bakı vaxtı ilə saat 04:05:08-də daxil olub.</strong></p>
 
-<p>Avtomatik monitorinq stansiyalarının məlumatlarına əsasən, havada tozun miqdarı normadan <strong>1,2–1,3 dəfə artıq</strong> olub. Tozlu hava şəraitinin meteoroloji vəziyyətdən asılı olaraq təxminən iki gün davam edəcəyi gözlənilir.</p>
+<p>Bu hadisə təbiətdə mövsümi dəyişikliklərin yeni mərhələsini ifadə edir. Şimal yarımkürəsində payızın başlanması ilə günlər tədricən qısalır, gecələr isə uzanmağa davam edir.</p>
 
-<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:20px 0;">
 <h3 style="color:#fb923c;">📌 ƏSAS MƏLUMAT</h3>
-
-<p>📍 <strong>Ərazi:</strong> Bakı və Abşeron yarımadası</p>
-
-<p>🌫️ <strong>Hadisə:</strong> Atmosfer havasında tozun artması</p>
-
-<p>📊 <strong>Göstərici:</strong> Normadan 1,2–1,3 dəfə yüksək</p>
-
-<p>💨 <strong>Tozun daxilolma istiqaməti:</strong> Cənub-şərq</p>
-
-<p>🌍 <strong>Mənşə:</strong> Transsərhəd toz daşınması</p>
-
-<p>⏳ <strong>Gözlənilən davametmə müddəti:</strong> Meteoroloji şəraitdən asılı olaraq təxminən iki gün</p>
-
+<p>🍂 Fəsil: <strong>Astronomik payız</strong></p>
+<p>📅 Tarix: <strong>23 sentyabr 2026</strong></p>
+<p>🕓 Başlama vaxtı: <strong>04:05:08 — Bakı vaxtı</strong></p>
+<p>🌍 Ərazi: <strong>Şimal yarımkürəsi, o cümlədən Azərbaycan</strong></p>
+<p>⏳ Payızın davametmə müddəti: <strong>89 gün 21 saat 45 dəqiqə 1 saniyə</strong></p>
 </div>
 
-<h3 style="color:#38bdf8;">🌍 Toz kütlələri Azərbaycana haradan daxil olub?</h3>
+<h3 style="color:#38bdf8;">🌍 Astronomik payız necə başlayır?</h3>
 
-<p>Ətraf Mühitin Çirklənməsinin Monitorinq Qrupunun məlumatına əsasən, müşahidə olunan tozlanma transsərhəd xarakter daşıyır.</p>
+<p>Astronomik payız Günəşin göy sferasında ekvatoru keçərək cənub yarımkürəsinə doğru hərəkət etdiyi anla əlaqələndirilir.</p>
 
-<p>Bu o deməkdir ki, toz hissəcikləri yalnız Bakı daxilindəki yerli mənbələrdən yaranmayıb. Onlar atmosferdəki hava axınları vasitəsilə başqa ərazilərdən ölkəmizə daşınıb.</p>
+<p>Bu hadisə <strong>payız bərabərliyi</strong> adlanır. Həmin dövrdə gündüz və gecənin müddəti bir-birinə yaxın olur. Lakin atmosfer refraksiyası və Günəş diskinin ölçüsü səbəbindən onların faktiki müddəti tam eyni olmaya bilər.</p>
 
-<p>Mövcud meteoroloji şərait nəticəsində toz kütlələri <strong>cənub-şərq istiqamətli hava axınları</strong> ilə Azərbaycan ərazisinə daxil olub.</p>
-
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-
-<strong style="color:#60a5fa;">💨 TOZUN ATMOSFERDƏ DAŞINMASI</strong>
-
-<p>Atmosferdə külək axınları torpaq və mineral mənşəli xırda hissəcikləri uzaq məsafələrə daşıya bilər.</p>
-
-<p>Belə hallarda toz kütlələri hava axınlarının istiqamətindən, sürətindən və atmosferin şaquli qarışmasından asılı olaraq geniş ərazilərə yayıla bilər.</p>
-
-<p>Toz hissəciklərinin havada qalma müddəti isə meteoroloji şəraitdən və hissəciklərin ölçüsündən asılıdır.</p>
-
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<h3 style="color:#60a5fa;">☀️ GÜNƏŞİN MÖVQEYİNDƏ NƏ DƏYİŞİR?</h3>
+<p>🔹 Günəş səma ekvatorunu cənuba doğru keçir.</p>
+<p>🔹 Şimal yarımkürəsində astronomik payız başlayır.</p>
+<p>🔹 Cənub yarımkürəsində astronomik yaz başlayır.</p>
+<p>🔹 Azərbaycanda gündüzlərin müddəti azalmağa davam edir.</p>
+<p>🔹 Günəşin günorta vaxtı üfüqdən hündürlüyü tədricən azalır.</p>
 </div>
 
-<h3 style="color:#facc15;">📊 Havada tozun miqdarı nə qədər artıb?</h3>
+<h3 style="color:#22c55e;">🌳 Azərbaycanın təbiətində hansı dəyişikliklər gözlənilir?</h3>
 
-<p>22 sentyabrda yayılan monitorinq məlumatlarına əsasən, Bakı və Abşeron yarımadasında havada tozun miqdarı müəyyən edilmiş normadan <strong>20–30% yüksək</strong> olub.</p>
+<p>Payızın başlanması ilə Azərbaycanın müxtəlif təbii zonalarında mövsümi dəyişikliklər tədricən daha aydın görünəcək.</p>
 
-<p>Bu göstərici atmosfer havasında tozlanmanın artdığını göstərir. Lakin dəqiq PM2.5 və PM10 konsentrasiyaları ayrıca təqdim edilmədiyindən, bu məlumat əsasında həmin hissəciklərin konkret miqdarını müəyyən etmək mümkün deyil.</p>
+<p>Dağlıq və meşəlik ərazilərdə ağacların yarpaqları sarı, narıncı və qırmızı çalarlara keçməyə başlayır. Havanın temperaturu azaldıqca bitkilərin vegetasiya prosesləri də mövsümə uyğun dəyişir.</p>
 
-<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<p>Bakı və Abşeron yarımadasında isə payızın ilk günlərində isti hava şəraiti hələ davam edə bilər. Astronomik fəslin dəyişməsi havanın dərhal soyuması demək deyil.</p>
 
-<strong style="color:#facc15;">📊 MONİTORİNQ NƏTİCƏSİ</strong>
-
-<p>Normal səviyyə: <strong>1,0</strong></p>
-
-<p>Qeydə alınan səviyyə: <strong>1,2–1,3</strong></p>
-
-<p>Artım: <strong>20–30%</strong></p>
-
-<p>Bu rəqəmlər 22 sentyabrda açıqlanmış monitorinq məlumatlarına aiddir və gün ərzində dəyişə bilər.</p>
-
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
+<h3 style="color:#4ade80;">🍁 PAYIZDA TƏBİƏTDƏ BAŞ VERƏN PROSESLƏR</h3>
+<p>🌳 Yarpaqların rənginin dəyişməsi</p>
+<p>🌡️ Orta temperaturun tədricən azalması</p>
+<p>🌧️ Bəzi bölgələrdə yağıntılı günlərin artması</p>
+<p>🦅 Köçəri quşların mövsümi hərəkəti</p>
+<p>🏔️ Dağlıq ərazilərdə gecələrin daha sərin keçməsi</p>
 </div>
 
-<h3 style="color:#a78bfa;">⏳ Tozlu hava nə vaxta qədər davam edəcək?</h3>
+<h3 style="color:#facc15;">📌 YEKUN</h3>
 
-<p>Sentyabrın 22-də açıqlanan proqnoza əsasən, tozlu hava şəraitinin meteoroloji vəziyyətdən asılı olaraq <strong>təxminən iki gün</strong> davam edəcəyi gözlənilir.</p>
+<p>23 sentyabr 2026-cı il tarixində saat 04:05:08-də Azərbaycanda astronomik payız başlayıb. Qarşıdakı həftələrdə gündüzlərin qısalması və təbiətdə mövsümi dəyişikliklərin güclənməsi gözlənilir.</p>
 
-<p>Bu müddət ərzində küləyin istiqamətinin dəyişməsi, atmosferdə hava mübadiləsinin güclənməsi və mümkün yağıntılar tozun konsentrasiyasına təsir göstərə bilər.</p>
-
-<p>Proqnoz dəyişməz qalarsa, tozlanmanın sentyabrın 23-də də müşahidə olunması, sentyabrın 24-nə doğru isə meteoroloji şəraitdən asılı olaraq azalması mümkündür. Bununla belə, tozun tam çəkiləcəyi dəqiq saat açıqlanmayıb.</p>
-
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-
-<strong style="color:#c4b5fd;">📅 GÖZLƏNİLƏN VƏZİYYƏT</strong>
-
-<p>🌫️ <strong>22 sentyabr:</strong> Tozlanma qeydə alınıb.</p>
-
-<p>🌫️ <strong>23 sentyabr:</strong> Tozlu hava şəraitinin davam etməsi mümkündür.</p>
-
-<p>🌤️ <strong>24 sentyabr:</strong> Meteoroloji şərait əlverişli olarsa, tozlanmanın azalması mümkündür.</p>
-
-<p><em>Qeyd: Bu, 22 sentyabrda açıqlanan təxminən iki günlük proqnozun təqvim üzrə izahıdır; ayrıca saatlıq proqnoz deyil.</em></p>
-
-</div>
-
-<h3 style="color:#22c55e;">🌿 Tozlu hava zamanı nələrə diqqət etmək lazımdır?</h3>
-
-<p>Atmosferdə toz hissəciklərinin artması havanın keyfiyyətinə təsir göstərə bilər. Xüsusilə tənəffüs yolları xəstəlikləri olan şəxslər, uşaqlar və yaşlılar havanın keyfiyyətindəki dəyişikliklərə daha həssas ola bilərlər.</p>
-
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-
-<strong style="color:#4ade80;">🌿 PRAKTİK TÖVSİYƏLƏR</strong>
-
-<p>🔹 Tozlanmanın yüksək olduğu vaxtlarda açıq havada uzunmüddətli və intensiv fiziki fəaliyyəti azaltmaq məqsədəuyğundur.</p>
-
-<p>🔹 Həssas şəxslər havanın keyfiyyətinə dair yenilənən məlumatları izləyə bilərlər.</p>
-
-<p>🔹 Evdə tozun yığılmasını azaltmaq üçün nəm təmizləmədən istifadə etmək olar.</p>
-
-<p>🔹 Açıq havada görünüş məsafəsi zəifləyərsə, sürücülər yol şəraitini nəzərə almalıdırlar.</p>
-
-</div>
-
-<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:20px;border-radius:12px;margin-top:22px;">
-
-<h3 style="color:#fb923c;">📌 META YEKUN</h3>
-
-<p>Bakı və Abşeron yarımadasında sentyabrın 22-də atmosfer havasında tozun miqdarı normadan <strong>1,2–1,3 dəfə yüksək</strong> qeydə alınıb.</p>
-
-<p>Tozlanma transsərhəd xarakter daşıyır və cənub-şərq istiqamətli hava axınları ilə əlaqələndirilir.</p>
-
-<p>Hazırkı proqnoza əsasən, tozlu hava şəraitinin <strong>təxminən iki gün</strong> davam etməsi gözlənilir. Atmosfer şəraiti dəyişərsə, tozun miqdarı və davametmə müddəti də dəyişə bilər.</p>
-
-</div>
-
-<p style="color:#60a5fa;font-size:19px;font-weight:bold;">🌍📡 META Meteorologiya Mərkəzi atmosfer və ekoloji vəziyyətlə bağlı məlumatları izləməyə davam edir.</p>
-
-<p style="color:#25D366;font-size:19px;font-weight:bold;">📲 Hava proqnozları və ekoloji xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p style="color:#25D366;font-weight:bold;">📲 Təbiət, ekologiya və meteorologiya xəbərlərimizi WhatsApp kanalımızda izləyin:<br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
