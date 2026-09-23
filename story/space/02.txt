@@ -1,56 +1,118 @@
-<h2 style="color:#facc15;">☀️ NASA Günəşin qarşısından eyni anda keçən kosmik stansiya və təyyarənin nadir görüntüsünü yayımlayıb</h2>
+```html
+<h2 style="color:#a78bfa;">
+🌕 NASA Ayda nəhəng yeni kraterin görüntülərini yayımladı
+</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 22 sentyabr 2026, 20:46 — Bakı vaxtı</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 23 sentyabr 2026 — Bakı vaxtı
+</p>
 
-<p><strong>NASA sentyabrın 22-də “Astronomy Picture of the Day” layihəsi çərçivəsində Günəş, Beynəlxalq Kosmik Stansiya və təyyarənin eyni kadrda göründüyü qeyri-adi astronomik fotoşəkli təqdim edib.</strong></p>
+<p>
+<strong>NASA-nın Lunar Reconnaissance Orbiter (LRO) kosmik aparatı Ay səthində son illərdə yaranmış nəhəng zərbə kraterini qeydə alıb. McGetchin adlandırılan kraterin diametri təxminən 222 metr, dərinliyi isə 43 metrdir.</strong>
+</p>
 
-<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#facc15;">📌 ƏSAS MƏLUMAT</strong><br><br>
-☀️ Obyekt: Günəş<br><br>
-🛰️ Kosmik obyekt: Beynəlxalq Kosmik Stansiya — ISS<br><br>
-✈️ Əlavə obyekt: təyyarə<br><br>
-📍 Çəkiliş yeri: Çexiya, Prasek<br><br>
-📅 Fotoşəklin çəkildiyi vaxt: iyun 2026<br><br>
-📰 NASA tərəfindən yayımlanma tarixi: 22 sentyabr 2026
+<p>
+NASA sentyabrın 23-də bu qeyri-adi kosmik hadisəyə həsr olunmuş görüntüləri günün astronomik fotosu kimi təqdim edib.
+</p>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+
+<strong style="color:#c4b5fd;">📌 ƏSAS MƏLUMAT</strong><br><br>
+
+🌕 Obyekt: <strong>Ay</strong><br><br>
+
+☄️ Hadisə: <strong>asteroid və ya kometa parçasının səthə çırpılması</strong><br><br>
+
+📏 Kraterin diametri: <strong>təxminən 222 metr</strong><br><br>
+
+📐 Dərinliyi: <strong>təxminən 43 metr</strong><br><br>
+
+📅 Zərbənin baş verdiyi dövr: <strong>2024-cü ilin aprel–may ayları</strong><br><br>
+
+🛰️ Müşahidə aparatı: <strong>NASA Lunar Reconnaissance Orbiter</strong>
+
 </div>
 
-<h3 style="color:#38bdf8;">🛰️ Kosmik stansiyanın Günəş qarşısından keçidi əvvəlcədən planlaşdırılmışdı</h3>
+<h3 style="color:#38bdf8;">☄️ Ay səthində nə baş verib?</h3>
 
-<p>Fotoqraf Petr Horálek Beynəlxalq Kosmik Stansiyanın Günəş diski qarşısından keçəcəyi anı əvvəlcədən hesablayaraq çəkilişə hazırlaşıb.</p>
+<p>
+Alimlərin hesablamalarına görə, 2024-cü ilin aprel və may ayları arasında təxminən 10–20 metr ölçüsündə asteroid və ya kometa parçası Ay səthinə çırpılıb.
+</p>
 
-<p>Belə keçidlər çox qısa müddət davam etdiyi üçün fotoaparatın düzgün istiqamətə yönəldilməsi və çəkiliş vaxtının dəqiq seçilməsi xüsusi əhəmiyyət daşıyır.</p>
+<p>
+Zərbə nəticəsində böyük həcmdə Ay süxurları ətrafa səpələnib və səthdə nəhəng çökəklik yaranıb.
+</p>
 
-<p>Lakin bu dəfə kadrda yalnız kosmik stansiya görünməyib. Çəkiliş zamanı gözlənilmədən Günəşin qarşısından təyyarə də keçib.</p>
+<p>
+Maraqlıdır ki, hadisə baş verdiyi anda Yer üzərindəki teleskoplar tərəfindən qeydə alınmayıb. Krater sonradan kosmik aparatın çəkdiyi görüntülərin müqayisəsi zamanı müəyyən edilib.
+</p>
 
-<h3 style="color:#a78bfa;">✈️ Təsadüfi hadisə nadir astronomik görüntü yaradıb</h3>
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
 
-<p>Nəticədə bir fotoşəkildə üç fərqli obyekt — Günəş, Beynəlxalq Kosmik Stansiya və təyyarə eyni anda qeydə alınıb.</p>
+<strong style="color:#60a5fa;">🛰️ NASA BUNU NECƏ AŞKAR EDİB?</strong><br><br>
 
-<p>Şəkildə Günəş ləkələrini də müşahidə etmək mümkündür. Bu ləkələr Günəşin maqnit sahəsi ilə əlaqədar yaranan, ətraf səthlə müqayisədə daha soyuq görünən sahələrdir.</p>
+LRO aparatı Ay səthini müntəzəm olaraq fotoşəkillərlə müşahidə edir.<br><br>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#c4b5fd;">🔭 MARAQLI FAKT</strong><br><br>
-Fotoqrafın hesablamasına görə, həmin müşahidə yerindən təsadüfi çəkilmiş bir Günəş fotoşəklində həm kosmik stansiyanın, həm də təyyarənin siluetinin görünməsi ehtimalı təxminən 30 milyonda 1-dir.<br><br>
-Bu rəqəm fotoqrafın qiymətləndirməsidir və bütün müşahidə şəraitləri üçün universal ehtimal kimi qəbul edilməməlidir.
+Alimlər əvvəlki və sonrakı görüntüləri müqayisə edərək səthdə yeni yaranmış krateri müəyyənləşdiriblər.<br><br>
+
+Bu üsul Ayda baş verən dəyişiklikləri və yeni kosmik zərbələri öyrənməyə imkan verir.
+
 </div>
 
-<h3 style="color:#22c55e;">🌍 Bu görüntü niyə maraqlıdır?</h3>
+<h3 style="color:#facc15;">🔬 Bu kəşf niyə əhəmiyyətlidir?</h3>
 
-<p>Fotoşəkil Yer atmosferində hərəkət edən təyyarə ilə planetimiz ətrafında orbitdə dövr edən kosmik stansiyanın eyni müşahidə xəttinə necə düşə bildiyini nümayiş etdirir.</p>
+<p>
+Ayda belə böyük kraterlərin yaranmasını birbaşa müasir kosmik müşahidələr vasitəsilə öyrənmək nadir imkandır.
+</p>
 
-<p>Günəş isə bu qeyri-adi uyğunluğun nəhəng işıqlı fonunu təşkil edir.</p>
+<p>
+Yeni krater alimlərə asteroid və kometa zərbələrinin Ay səthini necə dəyişdirdiyini, süxurların hansı məsafəyə səpələndiyini və zərbədən sonra səthin necə formalaşdığını araşdırmağa kömək edəcək.
+</p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#4ade80;">📌 YEKUN</strong><br><br>
-NASA-nın 22 sentyabrda təqdim etdiyi görüntü əvvəlcədən planlaşdırılmış kosmik müşahidə ilə təsadüfi hadisənin birləşməsindən yaranıb. Fotoşəkil astronomik müşahidələrdə dəqiq hesablamaların və bəzən gözlənilməz uyğunluqların necə maraqlı nəticələr verdiyini göstərir.
+<p>
+Bu məlumatlar gələcək Ay missiyalarının planlaşdırılması baxımından da əhəmiyyət daşıyır. Xüsusilə uzunmüddətli Ay bazalarının yerləşdirilməsi zamanı kosmik zərbələrin yaratdığı risklərin öyrənilməsi vacibdir.
+</p>
+
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+
+<strong style="color:#fb923c;">⚠️ MARAQLI FAKT</strong><br><br>
+
+Kraterin diametri təxminən <strong>iki futbol meydançasının uzunluğuna</strong> bərabərdir.<br><br>
+
+Bu, müasir dövrdə Günəş sistemində yarandığı müəyyən edilmiş ən böyük yeni zərbə kraterlərindən biridir.
+
 </div>
 
-<p style="color:#25D366;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və meteorologiya xəbərlərini izləmək üçün <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">META WhatsApp kanalına qoşulun.</a></p>
+<h3 style="color:#22c55e;">🌕 META Kosmos — Yekun</h3>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
+<p>
+McGetchin krateri Ayın tamamilə dəyişməz səma cismi olmadığını bir daha göstərir. Onun səthi bu gün də asteroid və kometa parçalarının zərbələri nəticəsində dəyişməkdə davam edir.
+</p>
+
+<p>
+NASA-nın yeni görüntüləri alimlərə kosmik zərbələrin nəticələrini daha dəqiq öyrənmək üçün mühüm imkan yaradır.
+</p>
+
+<p style="color:#25D366;font-size:18px;font-weight:bold;">
+📲 Kosmos, Günəş aktivliyi və hava xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank" style="color:#25D366;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+</p>
 
-<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>
+```
