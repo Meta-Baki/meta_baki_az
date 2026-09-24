@@ -1,118 +1,72 @@
-```html
-<h2 style="color:#a78bfa;">
-🌕 NASA Ayda nəhəng yeni kraterin görüntülərini yayımladı
-</h2>
+<h2 style="color:#a78bfa;">🌌 NASA beş fövqəlnovanın izlərini eyni fotoda nümayiş etdirdi — kosmosdan möhtəşəm görüntü</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 23 sentyabr 2026 — Bakı vaxtı
-</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 24 sentyabr 2026 — Bakı vaxtı</p>
 
-<p>
-<strong>NASA-nın Lunar Reconnaissance Orbiter (LRO) kosmik aparatı Ay səthində son illərdə yaranmış nəhəng zərbə kraterini qeydə alıb. McGetchin adlandırılan kraterin diametri təxminən 222 metr, dərinliyi isə 43 metrdir.</strong>
-</p>
+<p><strong>NASA sentyabrın 24-də “Astronomy Picture of the Day” layihəsi çərçivəsində kosmosun qeyri-adi görüntüsünü yayımlayıb. Fotoda beş fərqli fövqəlnova partlayışının qalıqları eyni səma sahəsində görünür.</strong></p>
 
-<p>
-NASA sentyabrın 23-də bu qeyri-adi kosmik hadisəyə həsr olunmuş görüntüləri günün astronomik fotosu kimi təqdim edib.
-</p>
+<p>“Beş fövqəlnovanın kabusları” adlandırılan görüntü Mərakeşdə yerləşən Oukaimeden Rəsədxanasında əldə edilib. Astronomlar bu mənzərəni yaratmaq üçün təxminən <strong>200 saatlıq müşahidə</strong> aparıblar.</p>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 <strong style="color:#c4b5fd;">📌 ƏSAS MƏLUMAT</strong><br><br>
-
-🌕 Obyekt: <strong>Ay</strong><br><br>
-
-☄️ Hadisə: <strong>asteroid və ya kometa parçasının səthə çırpılması</strong><br><br>
-
-📏 Kraterin diametri: <strong>təxminən 222 metr</strong><br><br>
-
-📐 Dərinliyi: <strong>təxminən 43 metr</strong><br><br>
-
-📅 Zərbənin baş verdiyi dövr: <strong>2024-cü ilin aprel–may ayları</strong><br><br>
-
-🛰️ Müşahidə aparatı: <strong>NASA Lunar Reconnaissance Orbiter</strong>
-
+📅 NASA-nın paylaşım tarixi: <strong>24 sentyabr 2026</strong><br><br>
+🔭 Müşahidə yeri: <strong>Oukaimeden Rəsədxanası, Mərakeş</strong><br><br>
+⏱️ Müşahidə müddəti: <strong>təxminən 200 saat</strong><br><br>
+💥 Görüntüdəki fövqəlnova qalıqları: <strong>5</strong><br><br>
+🌌 Bürc: <strong>Arabaçı (Auriga)</strong>
 </div>
 
-<h3 style="color:#38bdf8;">☄️ Ay səthində nə baş verib?</h3>
+<h3 style="color:#38bdf8;">🔭 Foto nə qədər böyük səma sahəsini əhatə edir?</h3>
 
-<p>
-Alimlərin hesablamalarına görə, 2024-cü ilin aprel və may ayları arasında təxminən 10–20 metr ölçüsündə asteroid və ya kometa parçası Ay səthinə çırpılıb.
-</p>
+<p>Görüntü Arabaçı bürcündə yerləşən geniş səma sahəsini əhatə edir. NASA-nın məlumatına görə, fotoda görünən sahənin ölçüsü təxminən <strong>1000 tam Ay diskinin tutduğu sahəyə</strong> bərabərdir.</p>
 
-<p>
-Zərbə nəticəsində böyük həcmdə Ay süxurları ətrafa səpələnib və səthdə nəhəng çökəklik yaranıb.
-</p>
+<p>Bu qədər geniş sahənin və zəif işıqlanan kosmik strukturların eyni görüntüdə əks olunması astronomlara bir neçə qədim ulduz partlayışının qalıqlarını birlikdə müşahidə etmək imkanı verir.</p>
 
-<p>
-Maraqlıdır ki, hadisə baş verdiyi anda Yer üzərindəki teleskoplar tərəfindən qeydə alınmayıb. Krater sonradan kosmik aparatın çəkdiyi görüntülərin müqayisəsi zamanı müəyyən edilib.
-</p>
+<h3 style="color:#f97316;">💥 Fövqəlnova nədir?</h3>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<p>Fövqəlnova — ulduzun həyatının müəyyən mərhələsində baş verən son dərəcə güclü partlayış hadisəsidir. Belə partlayışlar nəticəsində ulduzun maddəsi kosmosa yayılır və ətraf mühitdə genişlənən qaz strukturları əmələ gəlir.</p>
 
-<strong style="color:#60a5fa;">🛰️ NASA BUNU NECƏ AŞKAR EDİB?</strong><br><br>
+<p>Bu qaz buludları minlərlə il ərzində genişlənməyə davam edə bilər. Onların daxilindəki hidrogen və oksigen kimi elementlərin şüalanması mürəkkəb, sapabənzər kosmik strukturlar yaradır.</p>
 
-LRO aparatı Ay səthini müntəzəm olaraq fotoşəkillərlə müşahidə edir.<br><br>
-
-Alimlər əvvəlki və sonrakı görüntüləri müqayisə edərək səthdə yeni yaranmış krateri müəyyənləşdiriblər.<br><br>
-
-Bu üsul Ayda baş verən dəyişiklikləri və yeni kosmik zərbələri öyrənməyə imkan verir.
-
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#60a5fa;">🌈 FOTODAKI RƏNGLƏR NƏYİ GÖSTƏRİR?</strong><br><br>
+🔴 Qırmızı — <strong>hidrogen qazının şüalanması</strong><br><br>
+🔵 Mavi — <strong>oksigen qazının şüalanması</strong><br><br>
+🌌 Sapabənzər strukturlar — <strong>partlayışlardan sonra genişlənən qazın izləri</strong>
 </div>
 
-<h3 style="color:#facc15;">🔬 Bu kəşf niyə əhəmiyyətlidir?</h3>
+<h3 style="color:#facc15;">🌠 Beş fərqli ulduz partlayışının izi</h3>
 
-<p>
-Ayda belə böyük kraterlərin yaranmasını birbaşa müasir kosmik müşahidələr vasitəsilə öyrənmək nadir imkandır.
-</p>
+<p>NASA-nın təqdim etdiyi görüntüdə aşağıdakı fövqəlnova qalıqları müşahidə olunur:</p>
 
-<p>
-Yeni krater alimlərə asteroid və kometa zərbələrinin Ay səthini necə dəyişdirdiyini, süxurların hansı məsafəyə səpələndiyini və zərbədən sonra səthin necə formalaşdığını araşdırmağa kömək edəcək.
-</p>
+<p>⭐ G181.1+9.5<br>
+⭐ G182.4+4.3<br>
+⭐ G179.0+2.6<br>
+⭐ G180.0−1.7 — Spagetti dumanlığı (Sh2-240)<br>
+⭐ G178.2−4.2</p>
 
-<p>
-Bu məlumatlar gələcək Ay missiyalarının planlaşdırılması baxımından da əhəmiyyət daşıyır. Xüsusilə uzunmüddətli Ay bazalarının yerləşdirilməsi zamanı kosmik zərbələrin yaratdığı risklərin öyrənilməsi vacibdir.
-</p>
+<p>Bu obyektlər eyni vaxtda partlamayıb və kosmosda müxtəlif məsafələrdə yerləşirlər. Onların bəziləri Yerdən bir neçə min işıq ili uzaqlıqdadır.</p>
 
-<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<p>Partlayışların təxmini yaşları on minlərlə ilə çata bilər. NASA qeyd edir ki, qədim dövrlərdə yaşayan insanlar bu hadisələrin bəzilərini səmada qəfil peyda olan və həftələr, yaxud aylar ərzində tədricən sönən parlaq ulduzlar kimi görmüş ola bilərdilər.</p>
 
-<strong style="color:#fb923c;">⚠️ MARAQLI FAKT</strong><br><br>
+<h3 style="color:#22c55e;">🧪 Bu görüntü astronomiya üçün niyə maraqlıdır?</h3>
 
-Kraterin diametri təxminən <strong>iki futbol meydançasının uzunluğuna</strong> bərabərdir.<br><br>
+<p>Fövqəlnova qalıqlarının öyrənilməsi ulduzların təkamülünü, ağır kimyəvi elementlərin kosmosa yayılmasını və ulduzlararası qazın necə dəyişdiyini anlamağa kömək edir.</p>
 
-Bu, müasir dövrdə Günəş sistemində yarandığı müəyyən edilmiş ən böyük yeni zərbə kraterlərindən biridir.
+<p>Belə müşahidələr həmçinin ulduz partlayışlarının ətraf kosmik mühitə təsirini araşdırmaq üçün mühüm məlumatlar təqdim edir.</p>
 
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
+<strong style="color:#4ade80;">📌 YEKUN</strong><br><br>
+NASA-nın 24 sentyabrda paylaşdığı görüntü kosmosun nə qədər mürəkkəb və dinamik olduğunu nümayiş etdirir. Beş qədim ulduz partlayışının izləri bir fotoda birləşərək minlərlə il davam edən kosmik proseslərin möhtəşəm mənzərəsini yaradır.
 </div>
 
-<h3 style="color:#22c55e;">🌕 META Kosmos — Yekun</h3>
+<p style="color:#60a5fa;font-size:18px;font-weight:bold;">🌌 META Meteorologiya Mərkəzi — Günəş və kosmos xəbərləri</p>
 
-<p>
-McGetchin krateri Ayın tamamilə dəyişməz səma cismi olmadığını bir daha göstərir. Onun səthi bu gün də asteroid və kometa parçalarının zərbələri nəticəsində dəyişməkdə davam edir.
-</p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
-<p>
-NASA-nın yeni görüntüləri alimlərə kosmik zərbələrin nəticələrini daha dəqiq öyrənmək üçün mühüm imkan yaradır.
-</p>
-
-<p style="color:#25D366;font-size:18px;font-weight:bold;">
-📲 Kosmos, Günəş aktivliyi və hava xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;">
-➡️ META WhatsApp Kanalı
-</a>
-</p>
-
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
-</p>
+<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
 
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
-</p>
-```
+<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
