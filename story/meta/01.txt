@@ -1,64 +1,104 @@
- 
-<h2 style="color:#f59e0b;">🍂 Azərbaycana astronomik payız daxil oldu — yeni fəsil bu gün saat 04:05-də başladı</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 23 sentyabr 2026 — Bakı vaxtı</p>
+<h2 style="color:#38bdf8;">🌊 Xəzər dənizinin Şüvəlan sahilindən 150 kiloqramdan artıq tullantı toplanıb — yeni ekoloji aksiya</h2>
 
-<p><strong>Sentyabrın 23-də Azərbaycanda astronomik payız fəsli başlayıb. Yeni fəsil Bakı vaxtı ilə saat 04:05:08-də daxil olub.</strong></p>
+<p style="color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 24 sentyabr 2026 — Bakı vaxtı
+</p>
 
-<p>Bu hadisə təbiətdə mövsümi dəyişikliklərin yeni mərhələsini ifadə edir. Şimal yarımkürəsində payızın başlanması ilə günlər tədricən qısalır, gecələr isə uzanmağa davam edir.</p>
+<p><strong>Azərbaycanın Xəzər dənizi sahillərində ekoloji mühafizə tədbirləri davam etdirilir. Sentyabrın 23-də Şüvəlan sahilində keçirilən növbəti təmizlik aksiyası zamanı 150 kiloqramdan artıq müxtəlif növ tullantı toplanıb.</strong></p>
 
-<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<h3 style="color:#fb923c;">📌 ƏSAS MƏLUMAT</h3>
-<p>🍂 Fəsil: <strong>Astronomik payız</strong></p>
-<p>📅 Tarix: <strong>23 sentyabr 2026</strong></p>
-<p>🕓 Başlama vaxtı: <strong>04:05:08 — Bakı vaxtı</strong></p>
-<p>🌍 Ərazi: <strong>Şimal yarımkürəsi, o cümlədən Azərbaycan</strong></p>
-<p>⏳ Payızın davametmə müddəti: <strong>89 gün 21 saat 45 dəqiqə 1 saniyə</strong></p>
+<p>Ekologiya və Təbii Sərvətlər Nazirliyinin təşkilatçılığı ilə “Təmiz ölkəm” devizi altında keçirilən aksiyaya bu dəfə “Rabitəbank” ASC-nin əməkdaşları qoşulublar.</p>
+
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#60a5fa;">📌 ƏSAS MƏLUMAT</strong><br><br>
+
+🌊 Məkan: Xəzər dənizi, Şüvəlan sahili<br><br>
+
+📅 Hadisə: 23 sentyabr 2026<br><br>
+
+♻️ Toplanan tullantı: 150 kiloqramdan artıq<br><br>
+
+🏛 Təşkilatçı: Ekologiya və Təbii Sərvətlər Nazirliyi<br><br>
+
+🤝 İştirakçı: Rabitəbank ASC-nin əməkdaşları<br><br>
+
+🌿 Məqsəd: Xəzər dənizinin ekosisteminin qorunması
+
 </div>
 
-<h3 style="color:#38bdf8;">🌍 Astronomik payız necə başlayır?</h3>
+<h3 style="color:#22c55e;">♻️ Sahilboyu ərazi tullantılardan təmizlənib</h3>
 
-<p>Astronomik payız Günəşin göy sferasında ekvatoru keçərək cənub yarımkürəsinə doğru hərəkət etdiyi anla əlaqələndirilir.</p>
+<p>Aksiya çərçivəsində Xəzər dənizinin Şüvəlan sahilindən 150 kiloqramdan artıq müxtəlif növ tullantı toplanaraq aidiyyəti üzrə təhvil verilib.</p>
 
-<p>Bu hadisə <strong>payız bərabərliyi</strong> adlanır. Həmin dövrdə gündüz və gecənin müddəti bir-birinə yaxın olur. Lakin atmosfer refraksiyası və Günəş diskinin ölçüsü səbəbindən onların faktiki müddəti tam eyni olmaya bilər.</p>
+<p>Bu cür tədbirlər sahil zolağında tullantıların toplanmasının qarşısının alınmasına, təbii landşaftların qorunmasına və dəniz ekosisteminə mənfi təsirlərin azaldılmasına yönəlib.</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<h3 style="color:#60a5fa;">☀️ GÜNƏŞİN MÖVQEYİNDƏ NƏ DƏYİŞİR?</h3>
-<p>🔹 Günəş səma ekvatorunu cənuba doğru keçir.</p>
-<p>🔹 Şimal yarımkürəsində astronomik payız başlayır.</p>
-<p>🔹 Cənub yarımkürəsində astronomik yaz başlayır.</p>
-<p>🔹 Azərbaycanda gündüzlərin müddəti azalmağa davam edir.</p>
-<p>🔹 Günəşin günorta vaxtı üfüqdən hündürlüyü tədricən azalır.</p>
+<h3 style="color:#38bdf8;">🐟 Xəzər dənizinin ekosistemi niyə qorunmalıdır?</h3>
+
+<p>Xəzər dənizi özünəməxsus ekosistemə və zəngin bioloji müxtəlifliyə malikdir. Dənizin Azərbaycan sahilləri müxtəlif balıq növləri, su quşları və digər canlıların yaşayış mühiti baxımından əhəmiyyət daşıyır.</p>
+
+<p>Sahilboyu ərazilərə atılan məişət tullantıları külək və dalğaların təsiri ilə dənizə daxil ola bilər.</p>
+
+<p>Xüsusilə plastik tullantılar uzun müddət təbii mühitdə qalaraq tədricən daha kiçik hissəciklərə parçalanır. Bu proses su mühitinin çirklənməsi və dəniz canlılarının yaşayış şəraitinin dəyişməsi ilə nəticələnə bilər.</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#4ade80;">🌿 SAHİL TƏMİZLİYİNİN EKOLOJİ ƏHƏMİYYƏTİ</strong><br><br>
+
+🐟 Dəniz canlılarının yaşayış mühitinin qorunması<br><br>
+
+♻️ Sahilboyu tullantıların azaldılması<br><br>
+
+🌊 Suyun çirklənməsi riskinin azaldılması<br><br>
+
+🐦 Sahil quşlarının mühafizəsinə töhfə<br><br>
+
+🌱 Cəmiyyətdə ekoloji məsuliyyətin artırılması
+
 </div>
 
-<h3 style="color:#22c55e;">🌳 Azərbaycanın təbiətində hansı dəyişikliklər gözlənilir?</h3>
+<h3 style="color:#facc15;">🌍 Təbiətin qorunmasında ictimai iştirak</h3>
 
-<p>Payızın başlanması ilə Azərbaycanın müxtəlif təbii zonalarında mövsümi dəyişikliklər tədricən daha aydın görünəcək.</p>
+<p>Ekoloji problemlərin qarşısının alınmasında dövlət qurumları ilə yanaşı, özəl sektorun və vətəndaşların iştirakı da mühüm əhəmiyyət daşıyır.</p>
 
-<p>Dağlıq və meşəlik ərazilərdə ağacların yarpaqları sarı, narıncı və qırmızı çalarlara keçməyə başlayır. Havanın temperaturu azaldıqca bitkilərin vegetasiya prosesləri də mövsümə uyğun dəyişir.</p>
+<p>Rabitəbank əməkdaşlarının təmizlik aksiyasına qoşulması ətraf mühitin mühafizəsində birgə fəaliyyət nümunəsidir.</p>
 
-<p>Bakı və Abşeron yarımadasında isə payızın ilk günlərində isti hava şəraiti hələ davam edə bilər. Astronomik fəslin dəyişməsi havanın dərhal soyuması demək deyil.</p>
+<p>Bu cür təşəbbüslər sahil ərazilərinin təmizliyinin qorunması ilə yanaşı, insanların təbiətə münasibətində ekoloji məsuliyyətin gücləndirilməsinə də xidmət edir.</p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
-<h3 style="color:#4ade80;">🍁 PAYIZDA TƏBİƏTDƏ BAŞ VERƏN PROSESLƏR</h3>
-<p>🌳 Yarpaqların rənginin dəyişməsi</p>
-<p>🌡️ Orta temperaturun tədricən azalması</p>
-<p>🌧️ Bəzi bölgələrdə yağıntılı günlərin artması</p>
-<p>🦅 Köçəri quşların mövsümi hərəkəti</p>
-<p>🏔️ Dağlıq ərazilərdə gecələrin daha sərin keçməsi</p>
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#c4b5fd;">🌍 META EKOLOGİYA — YEKUN</strong><br><br>
+
+Sentyabrın 23-də Xəzər dənizinin Şüvəlan sahilində keçirilən təmizlik aksiyası nəticəsində 150 kiloqramdan artıq tullantı toplanıb.<br><br>
+
+“Təmiz ölkəm” təşəbbüsü çərçivəsində həyata keçirilən tədbir Xəzərin ekosisteminin qorunmasına və ətraf mühitə məsuliyyətli münasibətin təşviqinə yönəlib.<br><br>
+
+🌊 Xəzərin təmizliyi və təbii sərvətlərinin qorunması hər birimizin ortaq məsuliyyətidir.
+
 </div>
 
-<h3 style="color:#facc15;">📌 YEKUN</h3>
+<p style="color:#94a3b8;font-size:13px;">
+Məlumat: Ekologiya və Təbii Sərvətlər Nazirliyinin 23 sentyabr 2026-cı il tarixli açıqlaması.
+</p>
 
-<p>23 sentyabr 2026-cı il tarixində saat 04:05:08-də Azərbaycanda astronomik payız başlayıb. Qarşıdakı həftələrdə gündüzlərin qısalması və təbiətdə mövsümi dəyişikliklərin güclənməsi gözlənilir.</p>
+<p style="color:#25D366;font-weight:bold;">
+📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:<br>
 
-<p style="color:#25D366;font-weight:bold;">📲 Təbiət, ekologiya və meteorologiya xəbərlərimizi WhatsApp kanalımızda izləyin:<br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#25D366;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+</p>
 
-<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>
