@@ -1,117 +1,228 @@
-<h2 style="color:#facc15;">☀️ 21–27 sentyabr: Günəş və geomaqnit aktivliyi proqnozu — həftənin ortasında maqnit qasırğası mümkündür</h2>
+<h2 style="color:#facc15;">
+☀️ 24–30 sentyabr: Günəş və geomaqnit aktivliyi proqnozu — G1 səviyyəli qasırğa mümkündür
+</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 21 sentyabr 2026 — Bakı vaxtı</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 24 sentyabr 2026 — Bakı vaxtı
+</p>
 
-<p><strong>META Meteorologiya Mərkəzinin kosmik hava məlumatlarının təhlilinə əsasən, 21–27 sentyabr tarixlərində geomaqnit şəraitin həftənin əvvəlində əsasən sakit, 24–25 sentyabrda isə daha aktiv olacağı gözlənilir.</strong></p>
+<p>
+<strong>META Meteorologiya Mərkəzinin kosmik hava məlumatlarının təhlili əsasında hazırladığı həftəlik proqnoza görə, 24–30 sentyabr tarixlərində Yer maqnit sahəsində dəyişkən aktivlik gözlənilir.</strong>
+</p>
 
-<p>Həftənin ortasında Günəş tacındakı koronal dəlikdən yayılan yüksək sürətli Günəş küləyinin Yer maqnit sahəsinə təsiri arta bilər. Nəticədə <strong>G1 səviyyəli zəif geomaqnit qasırğası</strong> ehtimal olunur.</p>
+<p>
+Həftənin əvvəlində Günəşdən gələn sürətli plazma axınının təsiri ilə geomaqnit aktivlik yüksələ bilər. Xüsusilə <strong>24 sentyabrda Kp indeksinin 5 səviyyəsinə çatması və G1 kateqoriyalı zəif geomaqnit qasırğasının yaranması mümkündür.</strong>
+</p>
 
 <div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#fb923c;font-size:19px;">📌 ƏSAS MƏLUMAT</strong><br><br>
-🟢 21–23 sentyabr: əsasən sakit geomaqnit şərait<br><br>
-🟠 24–25 sentyabr: G1 səviyyəli zəif geomaqnit qasırğası mümkündür<br><br>
-🟡 26–27 sentyabr: qeyri-sabit və aktiv dövrlər mümkündür<br><br>
-☀️ Günəş aktivliyi: əsasən aşağı səviyyədə, zaman-zaman artım ehtimalı ilə
+
+<h3 style="color:#fb923c;">📌 ƏSAS MƏLUMAT</h3>
+
+<p>⚠️ <strong>24 sentyabr:</strong> Kp 5 — G1 səviyyəli zəif geomaqnit qasırğası gözlənilir.</p>
+
+<p>🟡 <strong>25 sentyabr:</strong> aktivlik tədricən azalacaq.</p>
+
+<p>🟡 <strong>26–27 sentyabr:</strong> qeyri-sabit və bəzi vaxtlarda aktiv geomaqnit şərait mümkündür.</p>
+
+<p>🟢 <strong>28–30 sentyabr:</strong> əsasən sakit geomaqnit şərait gözlənilir.</p>
+
+<p>☀️ Günəş alışmaları baxımından aktivliyin əsasən aşağı səviyyədə qalacağı, ayrı-ayrı orta güclü alışmaların isə mümkün olduğu proqnozlaşdırılır.</p>
+
 </div>
 
-<h3 style="color:#38bdf8;">📅 21–27 sentyabr üçün həftəlik proqnoz cədvəli</h3>
+<h3 style="color:#38bdf8;">📊 24–30 sentyabr üçün həftəlik geomaqnit aktivlik cədvəli</h3>
 
 <div style="overflow-x:auto;margin:20px 0;">
-<table style="width:100%;border-collapse:collapse;text-align:center;font-size:14px;min-width:580px;">
+
+<table style="width:100%;border-collapse:collapse;text-align:center;font-size:14px;">
+
 <thead>
 <tr style="background:rgba(59,130,246,0.12);color:#7dd3fc;">
 <th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Tarix</th>
-<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Proqnoz Kp</th>
-<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Geomaqnit şərait</th>
-<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Qasırğa riski</th>
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Kp indeksi</th>
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Geomaqnit vəziyyət</th>
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Qasırğa ehtimalı</th>
 </tr>
 </thead>
+
 <tbody>
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">21 sentyabr</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">≈2</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);color:#4ade80;">🟢 Sakit</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Gözlənilmir</td>
+
+<tr style="background:rgba(239,68,68,0.07);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">24 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);"><strong>5</strong></td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🟠 Aktiv / G1</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Zəif qasırğa gözlənilir</td>
 </tr>
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">22 sentyabr</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">≈2</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);color:#4ade80;">🟢 Sakit</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Gözlənilmir</td>
+
+<tr style="background:rgba(234,179,8,0.05);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">25 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">3–4</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🟡 Qeyri-sabit / aktiv</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Ayrı-ayrı aktiv dövrlər</td>
 </tr>
-<tr>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">23 sentyabr</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">≈2</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);color:#4ade80;">🟢 Sakit</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Gözlənilmir</td>
-</tr>
-<tr style="background:rgba(249,115,22,0.05);">
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);"><strong>24 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);"><strong>4–5 mümkün</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);color:#fb923c;">🟠 Aktiv</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);"><strong>G1 mümkündür</strong></td>
-</tr>
-<tr style="background:rgba(249,115,22,0.05);">
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);"><strong>25 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);"><strong>4–5 mümkün</strong></td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);color:#fb923c;">🟠 Aktiv</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);"><strong>G1 mümkündür</strong></td>
-</tr>
-<tr>
+
+<tr style="background:rgba(234,179,8,0.05);">
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">26 sentyabr</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">3–4 mümkün</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);color:#facc15;">🟡 Qeyri-sabit / aktiv</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">G1 əsas ssenari deyil</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">2–4</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🟡 Sakit / aktiv</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Aşağı</td>
 </tr>
-<tr>
+
+<tr style="background:rgba(234,179,8,0.05);">
 <td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">27 sentyabr</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">3–4 mümkün</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);color:#facc15;">🟡 Qeyri-sabit / aktiv</td>
-<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">G1 əsas ssenari deyil</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">2–4*</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🟡 Qeyri-sabit / aktiv</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Aşağı</td>
 </tr>
+
+<tr style="background:rgba(34,197,94,0.05);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">28 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">1–3*</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🟢 Əsasən sakit</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Aşağı</td>
+</tr>
+
+<tr style="background:rgba(34,197,94,0.05);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">29 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">1–3*</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🟢 Əsasən sakit</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Aşağı</td>
+</tr>
+
+<tr style="background:rgba(34,197,94,0.05);">
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">30 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">1–3*</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🟢 Əsasən sakit</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.25);">Aşağı</td>
+</tr>
+
 </tbody>
 </table>
+
 </div>
 
-<p style="color:#94a3b8;font-size:13px;">Qeyd: 21–23 sentyabr üçün Kp ≈2 NOAA-nın üçgünlük proqnozuna əsaslanır. 24–27 sentyabr üçün göstərilən Kp intervalları uzunmüddətli geomaqnit aktivlik kateqoriyalarına uyğun təxmini qiymətləndirmədir; dəqiq üçsaatlıq proqnoz deyil.</p>
+<p style="color:#94a3b8;font-size:13px;">
+*27–30 sentyabr üçün Kp intervalları ilkin qiymətləndirmədir. Bu tarixlər üzrə dəqiq üçsaatlıq Kp proqnozu hələ mövcud deyil və göstəricilər yenilənə bilər.
+</p>
 
-<h3 style="color:#facc15;">☀️ Günəş aktivliyi necə dəyişəcək?</h3>
+<h3 style="color:#f97316;">⚠️ 24 sentyabr — həftənin əsas geomaqnit aktivlik günü</h3>
 
-<p>Həftə ərzində Günəş aktivliyinin əsasən aşağı səviyyədə qalacağı proqnozlaşdırılır. Bununla belə, ayrı-ayrı aktiv bölgələrdə alışmalar baş verərsə, vəziyyət dəyişə bilər.</p>
+<p>
+24 sentyabrda Günəşin koronal dəliyindən çıxan yüksək sürətli Günəş küləyi Yerə təsir göstərə bilər.
+</p>
 
-<p>21–23 sentyabrda Yer maqnit sahəsində ciddi pozulma gözlənilmir. Həftənin ortasında isə koronal dəlikdən gələn yüksək sürətli Günəş küləyinin təsiri ilə geomaqnit aktivliyin yüksəlməsi mümkündür.</p>
+<p>
+Belə axınlar Yer maqnit sahəsi ilə qarşılıqlı təsirə girərək geomaqnit aktivliyin yüksəlməsinə səbəb olur.
+</p>
 
-<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#f87171;font-size:19px;">⚠️ 24–25 SENTYABR — ƏSAS DİQQƏT GÜNLƏRİ</strong>
-<p>Bu tarixlərdə geomaqnit aktivliyin G1 səviyyəsinə çatması mümkündür.</p>
-<p><strong>G1</strong> NOAA şkalasında zəif geomaqnit qasırğası deməkdir və Kp indeksinin 5 səviyyəsinə çatması ilə əlaqələndirilir.</p>
-<p>Belə hadisələr yüksək enliklərdə qütb parıltılarının görünmə sahəsini genişləndirə, bəzi radio və peyk sistemlərində məhdud təsirlərə səbəb ola bilər.</p>
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#f87171;">🧲 24 SENTYABR ÜÇÜN XƏBƏRDARLIQ</strong>
+
+<p>📈 Maksimal proqnozlaşdırılan Kp: <strong>5</strong></p>
+
+<p>⚠️ Geomaqnit qasırğası: <strong>G1 — zəif</strong></p>
+
+<p>☀️ Əsas səbəb: <strong>koronal dəlikdən gələn sürətli Günəş küləyi</strong></p>
+
+<p>📡 Mümkün təsirlər: yüksək enliklərdə radioəlaqə və peyk naviqasiyası sistemlərində məhdud pozuntular, qütb parıltılarının daha geniş ərazilərdə müşahidəsi.</p>
+
 </div>
 
-<h3 style="color:#a78bfa;">🧲 Kp indeksi nəyi göstərir?</h3>
+<h3 style="color:#facc15;">☀️ Günəş alışmaları və kosmik radiasiya</h3>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<p>
+Günəşdə alışma aktivliyinin həftə ərzində əsasən aşağı səviyyədə qalacağı gözlənilir. Bununla belə, ayrı-ayrı M sinifli alışmaların baş verməsi istisna edilmir.
+</p>
+
+<p>
+NOAA-nın 24–26 sentyabr üçün proqnozuna əsasən, S1 və daha yüksək səviyyəli Günəş radiasiya qasırğası gözlənilmir.
+</p>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#c4b5fd;">📡 KOSMİK HAVA GÖSTƏRİCİLƏRİ</strong>
+
+<p>☀️ Günəş alışmaları: <strong>əsasən aşağı aktivlik</strong></p>
+
+<p>⚡ Orta güclü alışmalar: <strong>mümkündür</strong></p>
+
+<p>☢️ 24–26 sentyabrda S1+ radiasiya qasırğası: <strong>gözlənilmir</strong></p>
+
+<p>🧲 Əsas geomaqnit risk: <strong>24 sentyabr, G1</strong></p>
+
+</div>
+
+<h3 style="color:#38bdf8;">📚 Kp indeksi nə deməkdir?</h3>
+
+<p>
+Kp indeksi Yer maqnit sahəsindəki pozuntuların səviyyəsini göstərən planetar göstəricidir. Onun qiyməti 0-dan 9-a qədər dəyişir.
+</p>
+
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
 🟢 <strong>Kp 0–2:</strong> sakit geomaqnit şərait<br><br>
+
 🟡 <strong>Kp 3:</strong> zəif qeyri-sabitlik<br><br>
+
 🟠 <strong>Kp 4:</strong> aktiv geomaqnit şərait<br><br>
+
 🔴 <strong>Kp 5:</strong> G1 — zəif geomaqnit qasırğası<br><br>
-🔴 <strong>Kp 6 və yuxarı:</strong> daha güclü geomaqnit qasırğaları
+
+🔴 <strong>Kp 6:</strong> G2 — orta güclü qasırğa<br><br>
+
+🔴 <strong>Kp 7:</strong> G3 — güclü qasırğa<br><br>
+
+🔴 <strong>Kp 8:</strong> G4 — çox güclü qasırğa<br><br>
+
+🔴 <strong>Kp 9:</strong> G5 — ekstremal qasırğa
+
 </div>
 
-<h3 style="color:#22c55e;">📌 YEKUN</h3>
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:20px;border-radius:12px;margin:22px 0;">
 
-<p>21–27 sentyabr həftəsində geomaqnit aktivliyin əsas artımı <strong>24–25 sentyabr</strong> tarixlərində gözlənilir. Bu günlərdə zəif G1 qasırğası mümkündür.</p>
+<h3 style="color:#4ade80;">📌 YEKUN — META PROQNOZU</h3>
 
-<p>21–23 sentyabrda əsasən sakit şərait, 26–27 sentyabrda isə qeyri-sabit və zaman-zaman aktiv geomaqnit fon proqnozlaşdırılır.</p>
+<p>
+24–30 sentyabr həftəsində geomaqnit aktivliyin ən nəzərəçarpan yüksəlişi <strong>24 sentyabrda</strong> gözlənilir.
+</p>
 
-<p><strong>Uzunmüddətli kosmik hava proqnozları yeni Günəş alışmaları və koronal kütlə atılmaları nəticəsində dəyişə bilər.</strong></p>
+<p>
+Həmin gün Kp indeksinin 5-ə çatması və G1 səviyyəli zəif geomaqnit qasırğasının yaranması mümkündür.
+</p>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Günəş aktivliyi və hava proqnozları üçün WhatsApp kanalımıza qoşulun:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p>
+25–27 sentyabrda aktivliyin tədricən azalması, 28–30 sentyabrda isə əsasən sakit geomaqnit şəraitin üstünlük təşkil etməsi proqnozlaşdırılır.
+</p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
+<p>
+<strong>Qeyd:</strong> Günəşdə yeni alışmalar və Yer istiqamətində koronal kütlə atılmaları baş verərsə, həftəlik proqnoz dəyişə bilər.
+</p>
+
+</div>
+
+<p style="color:#60a5fa;font-size:19px;font-weight:bold;">
+☀️📡 META Meteorologiya Mərkəzi Günəş və kosmik hava şəraitini izləməyə davam edir.
+</p>
+
+<p style="color:#25D366;font-size:18px;font-weight:bold;">
+📲 Günəş aktivliyi, geomaqnit qasırğaları və hava proqnozları haqqında məlumatları WhatsApp kanalımızdan izləyin:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+</p>
 
-<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>
