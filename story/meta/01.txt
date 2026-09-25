@@ -1,104 +1,91 @@
+<h2 style="color:#f97316;">🌬️ Bakıda küləyin sürəti 79 km/saatı ötüb — Quba-Qusar bölgəsində yağış yağır</h2>
 
-<h2 style="color:#38bdf8;">🌊 Xəzər dənizinin Şüvəlan sahilindən 150 kiloqramdan artıq tullantı toplanıb — yeni ekoloji aksiya</h2>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 25 sentyabr 2026, 14:42 — Bakı vaxtı</p>
 
-<p style="color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 24 sentyabr 2026 — Bakı vaxtı
-</p>
+<p><strong>Sentyabrın 25-də Azərbaycanda hava şəraiti əsasən yağmursuz keçsə də, Bakı və Abşeron yarımadasında şimal-qərb küləyi güclənib. Quba-Qusar bölgəsinin bəzi ərazilərində isə yağış müşahidə olunur.</strong></p>
 
-<p><strong>Azərbaycanın Xəzər dənizi sahillərində ekoloji mühafizə tədbirləri davam etdirilir. Sentyabrın 23-də Şüvəlan sahilində keçirilən növbəti təmizlik aksiyası zamanı 150 kiloqramdan artıq müxtəlif növ tullantı toplanıb.</strong></p>
+<p>META Meteorologiya Mərkəzinin saat 09:00-a olan faktiki meteoroloji məlumatların təhlilinə əsasən hazırladığı məlumatda bildirilir ki, küləyin maksimal sürəti Bakı və Abşeron yarımadasında 22 m/s-yə, Neftçalada isə 20 m/s-yə çatıb.</p>
 
-<p>Ekologiya və Təbii Sərvətlər Nazirliyinin təşkilatçılığı ilə “Təmiz ölkəm” devizi altında keçirilən aksiyaya bu dəfə “Rabitəbank” ASC-nin əməkdaşları qoşulublar.</p>
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);border-radius:12px;padding:18px;margin:18px 0;">
+<h3 style="color:#f87171;">⚠️ ƏSAS MƏLUMAT — GÜCLÜ KÜLƏK</h3>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<p>📍 <strong>Bakı və Abşeron:</strong> 22 m/s — 79,2 km/saat</p>
 
-<strong style="color:#60a5fa;">📌 ƏSAS MƏLUMAT</strong><br><br>
+<p>📍 <strong>Neftçala:</strong> 20 m/s — 72 km/saat</p>
 
-🌊 Məkan: Xəzər dənizi, Şüvəlan sahili<br><br>
+<p>💨 <strong>Küləyin istiqaməti:</strong> şimal-qərb</p>
 
-📅 Hadisə: 23 sentyabr 2026<br><br>
-
-♻️ Toplanan tullantı: 150 kiloqramdan artıq<br><br>
-
-🏛 Təşkilatçı: Ekologiya və Təbii Sərvətlər Nazirliyi<br><br>
-
-🤝 İştirakçı: Rabitəbank ASC-nin əməkdaşları<br><br>
-
-🌿 Məqsəd: Xəzər dənizinin ekosisteminin qorunması
-
+<p>🕘 <strong>Məlumatın vaxtı:</strong> 25 sentyabr, saat 09:00</p>
 </div>
 
-<h3 style="color:#22c55e;">♻️ Sahilboyu ərazi tullantılardan təmizlənib</h3>
+<h3 style="color:#38bdf8;">🌊 Bakı və Abşeronda şimal-qərb küləyi güclənib</h3>
 
-<p>Aksiya çərçivəsində Xəzər dənizinin Şüvəlan sahilindən 150 kiloqramdan artıq müxtəlif növ tullantı toplanaraq aidiyyəti üzrə təhvil verilib.</p>
+<p>Paytaxtda və Abşeron yarımadasında şimal-qərb küləyinin maksimal sürəti 22 m/s-yə, yəni 79,2 km/saata çatıb.</p>
 
-<p>Bu cür tədbirlər sahil zolağında tullantıların toplanmasının qarşısının alınmasına, təbii landşaftların qorunmasına və dəniz ekosisteminə mənfi təsirlərin azaldılmasına yönəlib.</p>
+<p>Belə küləkli hava şəraitində açıq və sahilyanı ərazilərdə küləyin təsiri daha çox hiss oluna bilər. Xüsusilə Xəzər dənizi sahillərində güclü külək dalğalanmanı artıra bilər.</p>
 
-<h3 style="color:#38bdf8;">🐟 Xəzər dənizinin ekosistemi niyə qorunmalıdır?</h3>
+<p>Neftçala rayonunda isə küləyin maksimal sürəti 20 m/s və ya 72 km/saat qeydə alınıb.</p>
 
-<p>Xəzər dənizi özünəməxsus ekosistemə və zəngin bioloji müxtəlifliyə malikdir. Dənizin Azərbaycan sahilləri müxtəlif balıq növləri, su quşları və digər canlıların yaşayış mühiti baxımından əhəmiyyət daşıyır.</p>
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);border-radius:12px;padding:18px;margin:18px 0;">
+<h3 style="color:#60a5fa;">💨 KÜLƏYİN QEYDƏ ALINAN MAKSİMAL SÜRƏTİ</h3>
 
-<p>Sahilboyu ərazilərə atılan məişət tullantıları külək və dalğaların təsiri ilə dənizə daxil ola bilər.</p>
+<p>🏙️ Bakı — <strong>22 m/s | 79,2 km/saat</strong></p>
 
-<p>Xüsusilə plastik tullantılar uzun müddət təbii mühitdə qalaraq tədricən daha kiçik hissəciklərə parçalanır. Bu proses su mühitinin çirklənməsi və dəniz canlılarının yaşayış şəraitinin dəyişməsi ilə nəticələnə bilər.</p>
+<p>🌊 Abşeron yarımadası — <strong>22 m/s | 79,2 km/saat</strong></p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-
-<strong style="color:#4ade80;">🌿 SAHİL TƏMİZLİYİNİN EKOLOJİ ƏHƏMİYYƏTİ</strong><br><br>
-
-🐟 Dəniz canlılarının yaşayış mühitinin qorunması<br><br>
-
-♻️ Sahilboyu tullantıların azaldılması<br><br>
-
-🌊 Suyun çirklənməsi riskinin azaldılması<br><br>
-
-🐦 Sahil quşlarının mühafizəsinə töhfə<br><br>
-
-🌱 Cəmiyyətdə ekoloji məsuliyyətin artırılması
-
+<p>📍 Neftçala — <strong>20 m/s | 72 km/saat</strong></p>
 </div>
 
-<h3 style="color:#facc15;">🌍 Təbiətin qorunmasında ictimai iştirak</h3>
+<h3 style="color:#22c55e;">🌧️ Quba-Qusar bölgəsində yağış müşahidə olunur</h3>
 
-<p>Ekoloji problemlərin qarşısının alınmasında dövlət qurumları ilə yanaşı, özəl sektorun və vətəndaşların iştirakı da mühüm əhəmiyyət daşıyır.</p>
+<p>Azərbaycanın əksər ərazilərində hava əsasən yağmursuz keçib. Bununla belə, Quba-Qusar bölgəsinin bəzi yerlərində arabir yağış qeydə alınıb.</p>
 
-<p>Rabitəbank əməkdaşlarının təmizlik aksiyasına qoşulması ətraf mühitin mühafizəsində birgə fəaliyyət nümunəsidir.</p>
+<p>Ən çox yağıntı Qusar rayonunda müşahidə edilib. Burada düşən yağıntının miqdarı 7 mm təşkil edib.</p>
 
-<p>Bu cür təşəbbüslər sahil ərazilərinin təmizliyinin qorunması ilə yanaşı, insanların təbiətə münasibətində ekoloji məsuliyyətin gücləndirilməsinə də xidmət edir.</p>
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);border-radius:12px;padding:18px;margin:18px 0;">
+<h3 style="color:#4ade80;">🌧️ QEYDƏ ALINAN YAĞINTI</h3>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<p>📍 <strong>Qusar:</strong> 7 mm</p>
 
-<strong style="color:#c4b5fd;">🌍 META EKOLOGİYA — YEKUN</strong><br><br>
+<p>📍 <strong>Xaçmaz:</strong> 1 mm-dək</p>
 
-Sentyabrın 23-də Xəzər dənizinin Şüvəlan sahilində keçirilən təmizlik aksiyası nəticəsində 150 kiloqramdan artıq tullantı toplanıb.<br><br>
+<p>📍 <strong>Quba:</strong> 1 mm-dək</p>
 
-“Təmiz ölkəm” təşəbbüsü çərçivəsində həyata keçirilən tədbir Xəzərin ekosisteminin qorunmasına və ətraf mühitə məsuliyyətli münasibətin təşviqinə yönəlib.<br><br>
-
-🌊 Xəzərin təmizliyi və təbii sərvətlərinin qorunması hər birimizin ortaq məsuliyyətidir.
-
+<p>🇦🇿 <strong>Ölkənin digər əraziləri:</strong> əsasən yağmursuz</p>
 </div>
 
-<p style="color:#94a3b8;font-size:13px;">
-Məlumat: Ekologiya və Təbii Sərvətlər Nazirliyinin 23 sentyabr 2026-cı il tarixli açıqlaması.
-</p>
+<h3 style="color:#f97316;">⚠️ Güclü külək zamanı nələrə diqqət edilməlidir?</h3>
 
-<p style="color:#25D366;font-weight:bold;">
-📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:<br>
+<p>Küləyin güclü olduğu ərazilərdə sakinlərə ehtiyatlı olmaq tövsiyə edilir.</p>
 
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#25D366;">
-➡️ META WhatsApp Kanalı
-</a>
-</p>
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);border-radius:12px;padding:18px;margin:18px 0;">
+<p>🌳 Ağacların və iri budaqların altında uzun müddət dayanmamaq;</p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
+<p>🏗️ Tikinti sahələrinin və zəif bərkidilmiş konstruksiyaların yaxınlığında ehtiyatlı olmaq;</p>
+
+<p>🌊 Sahilyanı ərazilərdə külək və dalğalanmanı nəzərə almaq;</p>
+
+<p>🚗 Avtomobilləri aşma riski olan ağac və konstruksiyalardan uzaqda saxlamaq tövsiyə olunur.</p>
+</div>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);border-radius:12px;padding:18px;margin:20px 0;">
+<h3 style="color:#c4b5fd;">📌 YEKUN — META Meteorologiya Mərkəzi</h3>
+
+<p>25 sentyabr saat 09:00-a olan faktiki məlumatlara əsasən, Bakı və Abşeronda şimal-qərb küləyinin maksimal sürəti <strong>79,2 km/saata</strong>, Neftçalada isə <strong>72 km/saata</strong> çatıb.</p>
+
+<p>Quba-Qusar bölgəsinin bəzi yerlərində yağış müşahidə olunub. Ən çox yağıntı <strong>Qusarda — 7 mm</strong> qeydə alınıb.</p>
+
+<p><strong>Qeyd:</strong> Bunlar saat 09:00-a olan faktiki göstəricilərdir. Günün sonrakı saatlarında hava şəraiti dəyişə bilər.</p>
+</div>
+
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Operativ hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:</p>
+
+<p><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;">➡️ META Abşeron — WhatsApp kanalı</a></p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
-</p>
+<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
 
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
-</p>
+<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
