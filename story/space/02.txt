@@ -1,67 +1,58 @@
-<h2 style="color:#a78bfa;">🌌 NASA beş fövqəlnovanın izlərini eyni fotoda nümayiş etdirdi — kosmosdan möhtəşəm görüntü</h2>
+<h2 style="color:#a78bfa;">🌌 NASA 10 milyon ulduzdan ibarət nəhəng ulduz topasının görüntüsünü yayımlayıb</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 24 sentyabr 2026 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 25 sentyabr 2026, 14:47 — Bakı vaxtı</p>
 
-<p><strong>NASA sentyabrın 24-də “Astronomy Picture of the Day” layihəsi çərçivəsində kosmosun qeyri-adi görüntüsünü yayımlayıb. Fotoda beş fərqli fövqəlnova partlayışının qalıqları eyni səma sahəsində görünür.</strong></p>
+<p><strong>ABŞ Milli Aeronavtika və Kosmik Tədqiqatlar İdarəsi — NASA sentyabrın 25-də “Astronomy Picture of the Day” layihəsi çərçivəsində Süd Yolu qalaktikasının ən böyük və ən parlaq kürəvi ulduz topalarından biri olan Omega Centauri-nin möhtəşəm görüntüsünü təqdim edib.</strong></p>
 
-<p>“Beş fövqəlnovanın kabusları” adlandırılan görüntü Mərakeşdə yerləşən Oukaimeden Rəsədxanasında əldə edilib. Astronomlar bu mənzərəni yaratmaq üçün təxminən <strong>200 saatlıq müşahidə</strong> aparıblar.</p>
+<p>NGC 5139 adı ilə də tanınan bu nəhəng kosmik sistem təxminən 10 milyon ulduzu bir araya gətirir. Onların böyük hissəsi Günəşimizdən xeyli qədimdir.</p>
 
 <div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 <strong style="color:#c4b5fd;">📌 ƏSAS MƏLUMAT</strong><br><br>
-📅 NASA-nın paylaşım tarixi: <strong>24 sentyabr 2026</strong><br><br>
-🔭 Müşahidə yeri: <strong>Oukaimeden Rəsədxanası, Mərakeş</strong><br><br>
-⏱️ Müşahidə müddəti: <strong>təxminən 200 saat</strong><br><br>
-💥 Görüntüdəki fövqəlnova qalıqları: <strong>5</strong><br><br>
-🌌 Bürc: <strong>Arabaçı (Auriga)</strong>
+🌌 Obyekt: <strong>Omega Centauri — NGC 5139</strong><br><br>
+⭐ Ulduzların sayı: <strong>təxminən 10 milyon</strong><br><br>
+📏 Diametri: <strong>təxminən 150 işıq ili</strong><br><br>
+🚀 Yerdən məsafəsi: <strong>təxminən 15 000 işıq ili</strong><br><br>
+🔭 Növü: <strong>kürəvi ulduz topası</strong><br><br>
+📅 NASA-nın görüntünü təqdim etdiyi tarix: <strong>25 sentyabr 2026</strong>
 </div>
 
-<h3 style="color:#38bdf8;">🔭 Foto nə qədər böyük səma sahəsini əhatə edir?</h3>
+<h3 style="color:#38bdf8;">🔭 Omega Centauri nədir?</h3>
 
-<p>Görüntü Arabaçı bürcündə yerləşən geniş səma sahəsini əhatə edir. NASA-nın məlumatına görə, fotoda görünən sahənin ölçüsü təxminən <strong>1000 tam Ay diskinin tutduğu sahəyə</strong> bərabərdir.</p>
+<p>Omega Centauri Süd Yolu qalaktikasının ətrafında yerləşən nəhəng kürəvi ulduz topasıdır. Belə sistemlər cazibə qüvvəsinin təsiri altında bir-birinə bağlı olan çoxsaylı ulduzlardan ibarətdir.</p>
 
-<p>Bu qədər geniş sahənin və zəif işıqlanan kosmik strukturların eyni görüntüdə əks olunması astronomlara bir neçə qədim ulduz partlayışının qalıqlarını birlikdə müşahidə etmək imkanı verir.</p>
-
-<h3 style="color:#f97316;">💥 Fövqəlnova nədir?</h3>
-
-<p>Fövqəlnova — ulduzun həyatının müəyyən mərhələsində baş verən son dərəcə güclü partlayış hadisəsidir. Belə partlayışlar nəticəsində ulduzun maddəsi kosmosa yayılır və ətraf mühitdə genişlənən qaz strukturları əmələ gəlir.</p>
-
-<p>Bu qaz buludları minlərlə il ərzində genişlənməyə davam edə bilər. Onların daxilindəki hidrogen və oksigen kimi elementlərin şüalanması mürəkkəb, sapabənzər kosmik strukturlar yaradır.</p>
+<p>Bu ulduz topası təxminən 150 işıq ili diametrində olan sahədə 10 milyona yaxın ulduzu birləşdirir. Müqayisə üçün, Günəşimiz tək bir ulduzdur, Omega Centauri isə milyonlarla Günəşə bənzər və onlardan fərqli ulduzların bir araya gəldiyi böyük kosmik sistemdir.</p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#60a5fa;">🌈 FOTODAKI RƏNGLƏR NƏYİ GÖSTƏRİR?</strong><br><br>
-🔴 Qırmızı — <strong>hidrogen qazının şüalanması</strong><br><br>
-🔵 Mavi — <strong>oksigen qazının şüalanması</strong><br><br>
-🌌 Sapabənzər strukturlar — <strong>partlayışlardan sonra genişlənən qazın izləri</strong>
+<strong style="color:#60a5fa;">✨ MARAQLI FAKT</strong><br><br>
+Omega Centauri Yerdən təxminən 15 000 işıq ili uzaqlıqda yerləşir. Bu o deməkdir ki, onun bu gün müşahidə etdiyimiz işığı kosmosda təxminən 15 min il yol qət edib.
 </div>
 
-<h3 style="color:#facc15;">🌠 Beş fərqli ulduz partlayışının izi</h3>
+<h3 style="color:#facc15;">⭐ Niyə bu ulduz topası alimlərin diqqətini çəkir?</h3>
 
-<p>NASA-nın təqdim etdiyi görüntüdə aşağıdakı fövqəlnova qalıqları müşahidə olunur:</p>
+<p>Əksər ulduz topalarında ulduzlar təxminən eyni dövrdə yaranır və oxşar kimyəvi tərkibə malik olur. Omega Centauri isə bu baxımdan fərqlənir.</p>
 
-<p>⭐ G181.1+9.5<br>
-⭐ G182.4+4.3<br>
-⭐ G179.0+2.6<br>
-⭐ G180.0−1.7 — Spagetti dumanlığı (Sh2-240)<br>
-⭐ G178.2−4.2</p>
+<p>Burada müxtəlif yaşlara və kimyəvi tərkibə malik ulduz populyasiyaları müəyyən edilib. Bu xüsusiyyət onun mənşəyi ilə bağlı mühüm suallar yaradır.</p>
 
-<p>Bu obyektlər eyni vaxtda partlamayıb və kosmosda müxtəlif məsafələrdə yerləşirlər. Onların bəziləri Yerdən bir neçə min işıq ili uzaqlıqdadır.</p>
+<p>Astronomların araşdırdığı ehtimallardan birinə görə, Omega Centauri vaxtilə Süd Yolu ilə birləşmiş kiçik qalaktikanın qalıq nüvəsi ola bilər.</p>
 
-<p>Partlayışların təxmini yaşları on minlərlə ilə çata bilər. NASA qeyd edir ki, qədim dövrlərdə yaşayan insanlar bu hadisələrin bəzilərini səmada qəfil peyda olan və həftələr, yaxud aylar ərzində tədricən sönən parlaq ulduzlar kimi görmüş ola bilərdilər.</p>
-
-<h3 style="color:#22c55e;">🧪 Bu görüntü astronomiya üçün niyə maraqlıdır?</h3>
-
-<p>Fövqəlnova qalıqlarının öyrənilməsi ulduzların təkamülünü, ağır kimyəvi elementlərin kosmosa yayılmasını və ulduzlararası qazın necə dəyişdiyini anlamağa kömək edir.</p>
-
-<p>Belə müşahidələr həmçinin ulduz partlayışlarının ətraf kosmik mühitə təsirini araşdırmaq üçün mühüm məlumatlar təqdim edir.</p>
-
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
-<strong style="color:#4ade80;">📌 YEKUN</strong><br><br>
-NASA-nın 24 sentyabrda paylaşdığı görüntü kosmosun nə qədər mürəkkəb və dinamik olduğunu nümayiş etdirir. Beş qədim ulduz partlayışının izləri bir fotoda birləşərək minlərlə il davam edən kosmik proseslərin möhtəşəm mənzərəsini yaradır.
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#facc15;">🌠 KOSMİK TARİXİN İZLƏRİ</strong><br><br>
+Omega Centauri-də müxtəlif nəsillərə aid ulduzların mövcudluğu alimlərə qalaktikaların keçmişdə necə formalaşdığını və bir-biri ilə necə birləşdiyini araşdırmağa imkan verir.
 </div>
 
-<p style="color:#60a5fa;font-size:18px;font-weight:bold;">🌌 META Meteorologiya Mərkəzi — Günəş və kosmos xəbərləri</p>
+<h3 style="color:#a78bfa;">🕳️ Mərkəzində qara dəlik ola bilər</h3>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p>Hubble Kosmik Teleskopu ilə təxminən iyirmi il ərzində aparılan müşahidələr Omega Centauri-nin mərkəzinə yaxın ərazidə böyük kütləli qara dəliyin mövcudluğunu göstərən dəlillər ortaya qoyub.</p>
+
+<p>Belə bir obyektin öyrənilməsi ulduz topalarının və qalaktikaların təkamülünü daha yaxşı anlamağa kömək edə bilər.</p>
+
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#c4b5fd;">📌 YEKUN</strong><br><br>
+NASA-nın 25 sentyabrda təqdim etdiyi Omega Centauri görüntüsü kainatın nə qədər mürəkkəb və zəngin olduğunu bir daha nümayiş etdirir.<br><br>
+Təxminən 10 milyon ulduzu birləşdirən bu sistem təkcə möhtəşəm görünüşü ilə deyil, həm də Süd Yolunun keçmişi haqqında məlumat daşıması ilə astronomiya üçün böyük əhəmiyyət kəsb edir.
+</div>
+
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və meteorologiya haqqında yenilikləri WhatsApp kanalımızdan izləyin:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
