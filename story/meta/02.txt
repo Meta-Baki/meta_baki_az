@@ -1,52 +1,54 @@
-<h2 style="color:#38bdf8;">🌍 Azərbaycan və İran Xəzər dənizinin ekosisteminin qorunması üzrə əməkdaşlığı müzakirə ediblər</h2>
+<h2 style="color:#38bdf8;">🦌 Azərbaycanın üç milli parkında ekoloji maarifləndirici tədbirlər keçirilib</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 24 sentyabr 2026 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 25 sentyabr 2026, 14:48 — Bakı vaxtı<br>📅 Hadisə barədə məlumat: 24 sentyabr 2026</p>
 
-<p><strong>Azərbaycan və İran arasında Xəzər dənizinin ekoloji vəziyyəti, biomüxtəlifliyin qorunması və transsərhəd su ehtiyatları üzrə əməkdaşlıq məsələləri müzakirə olunub.</strong></p>
+<p><strong>Azərbaycanın Şahdağ, Hirkan və Samur-Yalama milli parklarında təbiətin mühafizəsi, biomüxtəlifliyin qorunması və ekoturizmin təşviqi məqsədilə ekoloji maarifləndirici tədbirlər təşkil olunub.</strong></p>
 
-<p>İranın Ətraf Mühit Departamentinin dəniz və bataqlıqlar üzrə rəhbər müavini Əhmədrza Lahicanzadə Xəzər dənizinin dəniz mühitinin mühafizəsinə dair Tehran Konvensiyasının yeddinci iclası çərçivəsində Azərbaycan nümayəndə heyəti ilə aparılan müzakirələr barədə məlumat verib.</p>
+<p>Tədbirlərin əsas məqsədi milli parkların zəngin təbiətini tanıtmaq və əhalinin ətraf mühitin qorunması ilə bağlı məlumatlılığını artırmaqdır.</p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 <strong style="color:#60a5fa;">📌 ƏSAS MƏLUMAT</strong><br><br>
-🌊 Əsas mövzu: Xəzər dənizinin mühafizəsi<br><br>
-🇦🇿🇮🇷 İştirakçılar: Azərbaycan və İran nümayəndələri<br><br>
-🐟 İstiqamət: biomüxtəlifliyin qorunması<br><br>
-🔬 Əlavə mövzular: birgə tədqiqatlar və transsərhəd su hövzələri
+🏔️ Şahdağ Milli Parkı<br><br>
+🌳 Hirkan Milli Parkı<br><br>
+🌿 Samur-Yalama Milli Parkı<br><br>
+🎯 Məqsəd: biomüxtəlifliyin qorunması və ekoloji maarifləndirmə<br><br>
+🌍 İstiqamət: təbiətin mühafizəsi və ekoturizm imkanlarının tanıdılması
 </div>
 
-<h3 style="color:#22c55e;">🐟 Biomüxtəlifliyin qorunması diqqət mərkəzindədir</h3>
+<h3 style="color:#22c55e;">🏔️ Şahdağ Milli Parkı — dağ ekosistemlərinin qorunması</h3>
 
-<p>Müzakirələr zamanı Xəzər dənizində biomüxtəlifliyin mühafizəsi, birgə elmi tədqiqatların aparılması və transsərhəd qorunan ərazilər üzrə əməkdaşlıq imkanları nəzərdən keçirilib.</p>
+<p>Şahdağ Milli Parkı Azərbaycanın dağlıq təbiətinin qorunması baxımından mühüm əhəmiyyətə malikdir. Burada müxtəlif yüksəklik qurşaqları, meşələr, dağ çəmənlikləri və vəhşi heyvanların yaşayış mühitləri mövcuddur.</p>
 
-<p>Xəzər dənizi bir neçə ölkənin sahillərini birləşdirən qapalı su hövzəsi olduğundan onun ekoloji vəziyyəti region dövlətləri üçün ortaq əhəmiyyət daşıyır.</p>
+<p>Belə ərazilərdə ekoloji maarifləndirmə ziyarətçilərin təbiətə daha məsuliyyətli yanaşmasına kömək edir.</p>
 
-<h3 style="color:#38bdf8;">💧 Araz çayı və transsərhəd su ehtiyatları</h3>
+<h3 style="color:#4ade80;">🌳 Hirkan Milli Parkı — nadir meşələrin təbii sərvəti</h3>
 
-<p>Görüşdə yalnız Xəzər dənizi deyil, həmçinin çaylar, göllər və digər transsərhəd su hövzələri üzrə əməkdaşlıq məsələləri də müzakirə olunub.</p>
+<p>Hirkan Milli Parkı Azərbaycanın cənubunda yerləşən unikal meşə ekosistemləri ilə tanınır. Hirkan meşələri qədim bitki örtüyü və zəngin biomüxtəlifliyi ilə xüsusi elmi və ekoloji əhəmiyyət daşıyır.</p>
 
-<p>Bu istiqamətdə Araz çayı da qeyd edilib. Transsərhəd su ehtiyatlarının birgə öyrənilməsi və mühafizəsi su ekosistemlərinin vəziyyətinin qiymətləndirilməsi baxımından əhəmiyyətlidir.</p>
+<p>Meşələrin qorunması yalnız ağacların saxlanılması deyil, həm də həmin ərazilərdə yaşayan canlıların, torpaq örtüyünün və təbii su dövranının mühafizəsi deməkdir.</p>
+
+<h3 style="color:#38bdf8;">🌿 Samur-Yalama Milli Parkı — meşə və sahilyanı təbiət</h3>
+
+<p>Samur-Yalama Milli Parkı Azərbaycanın şimal-şərqində yerləşir və müxtəlif təbii landşaftları birləşdirir. Burada meşə və sahilyanı ekosistemlərin qorunması xüsusi əhəmiyyət daşıyır.</p>
+
+<p>Ekoloji maarifləndirmə tədbirləri belə ərazilərin təbii sərvətlərinin gələcək nəsillər üçün saxlanılmasının vacibliyini diqqətə çatdırır.</p>
 
 <div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#4ade80;">🌿 ƏMƏKDAŞLIĞIN ƏSAS İSTİQAMƏTLƏRİ</strong><br><br>
-🐟 Xəzərin biomüxtəlifliyinin qorunması<br><br>
-🔬 Birgə ekoloji tədqiqatlar<br><br>
-🌳 Transsərhəd qorunan ərazilər<br><br>
-💧 Çay və göllərin ekoloji vəziyyəti<br><br>
-🌊 Xəzər dənizinin mühafizəsi
+<strong style="color:#4ade80;">🌍 MİLLİ PARKLAR NİYƏ VACİBDİR?</strong><br><br>
+🦌 Vəhşi heyvanların yaşayış mühitlərini qoruyur<br><br>
+🌳 Nadir və yerli bitki növlərinin mühafizəsinə kömək edir<br><br>
+💧 Təbii ekosistemlərin davamlılığını dəstəkləyir<br><br>
+🥾 Məsuliyyətli ekoturizm üçün imkan yaradır<br><br>
+📚 İnsanların təbiət haqqında biliklərini artırır
 </div>
 
-<h3 style="color:#facc15;">🌊 Xəzərin qorunması niyə ortaq məsələdir?</h3>
+<h3 style="color:#facc15;">📌 YEKUN</h3>
 
-<p>Dəniz ekosistemləri dövlət sərhədləri ilə məhdudlaşmır. Suyun çirklənməsi, yaşayış mühitinin dəyişməsi və biomüxtəlifliyə təsir edən proseslər bir ölkənin sahillərindən kənara yayıla bilər.</p>
+<p>Şahdağ, Hirkan və Samur-Yalama milli parklarında keçirilən ekoloji maarifləndirici tədbirlər Azərbaycanın təbii sərvətlərinin tanıdılması və qorunması baxımından əhəmiyyətlidir.</p>
 
-<p>Bu səbəbdən Xəzəryanı ölkələr arasında məlumat mübadiləsi, elmi tədqiqatlar və təbiətin mühafizəsi üzrə əlaqələndirilmiş fəaliyyət mühüm əhəmiyyət daşıyır.</p>
+<p>META Abşeron təbiətin mühafizəsi və ekoloji məlumatlılığın artırılması mövzularını işıqlandırmağa davam edir.</p>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#c4b5fd;">🌍 META EKOLOGİYA — YEKUN</strong><br><br>
-Azərbaycan və İran arasında aparılan müzakirələr Xəzər dənizinin ekoloji mühafizəsi, biomüxtəliflik və ortaq su ehtiyatları üzrə əməkdaşlığı əhatə edib. Görüşdə birgə tədqiqatlar və transsərhəd ekosistemlərin qorunması məsələləri də gündəmdə olub.
-</div>
-
-<p style="color:#25D366;font-weight:bold;">📲 Təbiət, ekologiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Azərbaycanın təbiəti və ekologiyası haqqında xəbərlər üçün:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
