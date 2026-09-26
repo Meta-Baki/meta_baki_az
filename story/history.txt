@@ -1,106 +1,119 @@
-<h2 style="color:#38bdf8;">🌤️ Bakıda 27°C-dək isti olacaq — 26 sentyabrın hava proqnozu</h2>
+ 
+<h2 style="color:#38bdf8;">🌤️ Bakıda +29°C, rayonlarda +33°C-dək isti olacaq — 27 sentyabrın hava proqnozu</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 25 sentyabr 2026, 14:51 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 26 sentyabr 2026 — Bakı vaxtı</p>
 
-<p><strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 26-da Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən yağmursuz keçəcək. Gündüz havanın temperaturu +24…+27°C təşkil edəcək.</strong></p>
+<p><strong>META Meteorologiya Mərkəzinin meteoroloji məlumatların təhlili əsasında hazırladığı proqnoza görə, sentyabrın 27-də Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən yağmursuz keçəcək. Şimal-qərb küləyi səhər saatlarında şimal-şərq küləyi ilə əvəz olunacaq.</strong></p>
 
-<p>Mülayim şimal-qərb küləyi səhər saatlarında şimal-şərq küləyi ilə əvəz olunacaq. Azərbaycanın əksər rayonlarında da əsasən yağmursuz hava gözlənilsə də, bəzi dağlıq və dağətəyi ərazilərdə qısamüddətli leysan, şimşək və dolu ehtimalı var.</p>
+<p>Havanın temperaturu gecə +18…+21°C, gündüz isə +26…+29°C təşkil edəcək. Azərbaycanın rayonlarında temperaturun +33°C-dək yüksələcəyi gözlənilir.</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
 <h3 style="color:#60a5fa;">📌 ƏSAS MƏLUMAT — BAKI VƏ ABŞERON</h3>
 
-<p>📅 Tarix: <strong>26 sentyabr, şənbə</strong></p>
+<p>📅 Tarix: <strong>27 sentyabr 2026, bazar günü</strong></p>
 <p>🌤️ Hava: <strong>Dəyişkən buludlu, əsasən yağmursuz</strong></p>
 <p>🌡️ Gecə: <strong>+18…+21°C</strong></p>
-<p>☀️ Gündüz: <strong>+24…+27°C</strong></p>
-<p>💨 Külək: <strong>Şimal-qərbdən şimal-şərqə keçəcək</strong></p>
+<p>☀️ Gündüz: <strong>+26…+29°C</strong></p>
+<p>💨 Külək: <strong>Şimal-qərb, səhər şimal-şərq istiqamətinə dəyişəcək</strong></p>
 <p>📊 Atmosfer təzyiqi: <strong>764 mmHg / təxminən 1019 hPa</strong></p>
 <p>💧 Rütubət gecə: <strong>70–75%</strong></p>
 <p>💧 Rütubət gündüz: <strong>50–60%</strong></p>
+
 </div>
 
 <h3 style="color:#facc15;">☀️ Bakı və Abşeronda hava necə olacaq?</h3>
 
-<p>Sentyabrın 26-da paytaxtda və Abşeron yarımadasında atmosfer şəraitinin əsasən sabit olacağı gözlənilir. Gün ərzində dəyişkən buludluluq müşahidə ediləcək, lakin əksər ərazilərdə yağıntı proqnozlaşdırılmır.</p>
+<p>Sentyabrın 27-də paytaxt və Abşeron yarımadasında atmosfer şəraitinin əsasən sabit olacağı gözlənilir. Gün ərzində dəyişkən buludluluq müşahidə edilsə də, əhəmiyyətli yağıntı proqnozlaşdırılmır.</p>
 
-<p>Gecə və səhər saatlarında havanın temperaturu +18…+21°C arasında dəyişəcək. Gündüz isə temperatur yüksələrək +24…+27°C-yə çatacaq.</p>
+<p>Gecə saatlarında temperatur +18…+21°C arasında dəyişəcək. Səhər saatlarında nisbi rütubətin 70–75% səviyyəsində olması gözlənilir.</p>
 
-<p>Yayın isti günləri ilə müqayisədə hava daha mülayim olacaq. Xüsusilə səhər və axşam saatlarında payız fəslinə xas sərinlik hiss edilə bilər.</p>
+<p>Günorta və günün ikinci yarısında temperatur tədricən yüksələrək +26…+29°C-yə çatacaq. Beləliklə, sentyabrın son günlərinə yaxınlaşmağımıza baxmayaraq, Bakı və Abşeronda mülayim isti hava şəraiti davam edəcək.</p>
 
-<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:16px;border-radius:12px;margin:18px 0;">
-<h3 style="color:#facc15;">🌤️ GÜNÜN ÜMUMİ MƏNZƏRƏSİ</h3>
-<p>🌅 Səhər — mülayim və nisbətən sərin hava</p>
-<p>☀️ Gündüz — dəyişkən buludlu, +24…+27°C</p>
-<p>🌧️ Yağıntı — əsasən gözlənilmir</p>
-<p>🌇 Axşam — temperatur tədricən azalacaq</p>
+<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
+<h3 style="color:#facc15;">🌤️ GÜN ƏRZİNDƏ GÖZLƏNİLƏN ŞƏRAİT</h3>
+
+<p>🌙 Gecə — +18…+21°C, nisbətən rütubətli hava.</p>
+<p>🌅 Səhər — dəyişkən buludluluq, küləyin istiqamətinin dəyişməsi.</p>
+<p>☀️ Günorta — +26…+29°C, əsasən yağmursuz.</p>
+<p>🌇 Axşam — temperaturun tədricən azalması.</p>
+
 </div>
 
 <h3 style="color:#38bdf8;">💨 Küləyin istiqaməti dəyişəcək</h3>
 
-<p>Bakı və Abşeron yarımadasında gecə və səhər saatlarında mülayim şimal-qərb küləyi əsəcək. Səhər saatlarında küləyin istiqaməti dəyişərək şimal-şərqə keçəcək.</p>
+<p>Gecə və səhərin ilk saatlarında şimal-qərb küləyi üstünlük təşkil edəcək. Səhər saatlarında küləyin istiqaməti dəyişərək şimal-şərqə keçəcək.</p>
 
-<p>Xəzər sahillərində küləyin təsiri ilə hava faktiki temperaturdan bir qədər sərin hiss oluna bilər.</p>
+<p>Bu dəyişiklik Xəzər dənizi sahillərində hava şəraitinin hiss olunmasına müəyyən təsir göstərə bilər.</p>
 
-<p>Atmosfer təzyiqi 764 mm civə sütunu, yəni təxminən 1019 hPa təşkil edəcək. Nisbi rütubət gecə 70–75%, gündüz isə 50–60% olacaq.</p>
+<p>Atmosfer təzyiqinin 764 mm civə sütunu, yəni təxminən 1019 hPa təşkil edəcəyi gözlənilir.</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:16px;border-radius:12px;margin:18px 0;">
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
 <h3 style="color:#60a5fa;">📊 ATMOSFER GÖSTƏRİCİLƏRİ</h3>
-<p>💨 Külək: Mülayim şimal-qərb, səhər şimal-şərq</p>
-<p>📊 Təzyiq: 764 mmHg / ≈1019 hPa</p>
-<p>💧 Gecə rütubəti: 70–75%</p>
-<p>💧 Gündüz rütubəti: 50–60%</p>
+
+<p>💨 Külək: Şimal-qərbdən şimal-şərqə dəyişəcək.</p>
+<p>📊 Təzyiq: <strong>764 mmHg / ≈1019 hPa</strong></p>
+<p>💧 Gecə rütubəti: <strong>70–75%</strong></p>
+<p>💧 Gündüz rütubəti: <strong>50–60%</strong></p>
+
 </div>
 
 <h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında hava proqnozu</h3>
 
-<p>Sentyabrın 26-da ölkənin əksər rayonlarında hava əsasən yağmursuz keçəcək. Mülayim şərq küləyi əsəcək.</p>
+<p>Sentyabrın 27-də ölkənin əksər rayonlarında hava əsasən yağmursuz keçəcək. Mülayim şərq küləyi əsəcək.</p>
 
-<p>Aran və digər düzənlik ərazilərdə havanın temperaturu gecə +18…+21°C, gündüz +27…+32°C təşkil edəcək.</p>
+<p>Havanın temperaturu gecə +14…+19°C, gündüz isə +28…+33°C arasında dəyişəcək.</p>
 
-<p>Dağlıq ərazilərdə gecə temperatur +10…+15°C, gündüz isə +19…+24°C arasında dəyişəcək.</p>
+<p>Dağlıq ərazilərdə daha sərin hava şəraiti gözlənilir. Burada temperatur gecə +8…+13°C, gündüz isə +18…+23°C təşkil edəcək.</p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:16px;border-radius:12px;margin:18px 0;">
-<h3 style="color:#4ade80;">🌡️ AZƏRBAYCAN ÜZRƏ TEMPERATUR</h3>
-<p>🌙 Rayonlarda gecə: <strong>+18…+21°C</strong></p>
-<p>☀️ Rayonlarda gündüz: <strong>+27…+32°C</strong></p>
-<p>🏔️ Dağlarda gecə: <strong>+10…+15°C</strong></p>
-<p>🏔️ Dağlarda gündüz: <strong>+19…+24°C</strong></p>
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
+
+<h3 style="color:#4ade80;">🇦🇿 AZƏRBAYCAN ÜZRƏ TEMPERATUR</h3>
+
+<p>🌤️ Hava: <strong>Əsasən yağmursuz</strong></p>
+<p>🌡️ Rayonlarda gecə: <strong>+14…+19°C</strong></p>
+<p>☀️ Rayonlarda gündüz: <strong>+28…+33°C</strong></p>
+<p>🏔️ Dağlarda gecə: <strong>+8…+13°C</strong></p>
+<p>🏔️ Dağlarda gündüz: <strong>+18…+23°C</strong></p>
 <p>💨 Külək: <strong>Mülayim şərq</strong></p>
+
 </div>
 
-<h3 style="color:#fb923c;">⛈️ Dağlıq rayonlarda leysan, şimşək və dolu ehtimalı</h3>
+<h3 style="color:#a78bfa;">🌫️ Gecə və səhər bəzi ərazilərdə duman gözlənilir</h3>
 
-<p>Ölkənin böyük hissəsində quru hava şəraiti üstünlük təşkil etsə də, gündüz bəzi dağlıq və dağətəyi rayonlarda atmosfer qeyri-sabitliyi arta bilər.</p>
+<p>Azərbaycanın bəzi rayonlarında gecə və səhər saatlarında duman müşahidə oluna bilər.</p>
 
-<p>Bu ərazilərdə arabir yağış yağacağı, ayrı-ayrı yerlərdə yağıntının qısamüddətli leysan xarakterli olacağı gözlənilir. Şimşək çaxması və dolu düşməsi də mümkündür.</p>
+<p>Dumanın yarandığı ərazilərdə görünüş məsafəsinin azalması ehtimalı nəzərə alınmalıdır. Xüsusilə səhər saatlarında dağlıq və dumanlı yollarda hərəkət edən sürücülərin diqqətli olması tövsiyə edilir.</p>
 
-<p>Gecə və səhər saatlarında dağlıq ərazilərdə duman müşahidə ediləcək.</p>
+<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 
-<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<h3 style="color:#fb923c;">⚠️ DİQQƏT — LOKAL QEYRİ-SABİTLİK</h3>
-<p>📍 Ərazi: Bəzi dağlıq və dağətəyi rayonlar</p>
-<p>🕐 Vaxt: Əsasən gündüz saatları</p>
-<p>🌧️ Qısamüddətli leysan mümkündür</p>
-<p>⚡ Şimşək ehtimalı var</p>
-<p>🧊 Ayrı-ayrı yerlərdə dolu düşə bilər</p>
-<p>🌫️ Gecə və səhər dağlarda duman gözlənilir</p>
+<h3 style="color:#c4b5fd;">🌫️ DUMAN EHTİMALI</h3>
+
+<p>📍 Ərazi: Azərbaycanın bəzi rayonları.</p>
+<p>🕐 Vaxt: Gecə və səhər saatları.</p>
+<p>⚠️ Mümkün təsir: Görünüş məsafəsinin azalması.</p>
+
 </div>
 
-<h3 style="color:#a78bfa;">📌 META proqnozu — yekun</h3>
+<h3 style="color:#f97316;">📌 META PROQNOZU — YEKUN</h3>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:20px 0;">
-<p><strong>26 sentyabrda Bakı və Abşeronda dəyişkən buludlu, əsasən yağmursuz və mülayim isti hava gözlənilir. Gündüz temperatur +27°C-dək yüksələcək.</strong></p>
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 
-<p>Şimal-qərb küləyi səhər saatlarında şimal-şərq küləyi ilə əvəz olunacaq.</p>
+<p><strong>27 sentyabrda Bakı və Abşeronda əsasən yağmursuz, dəyişkən buludlu və mülayim isti hava gözlənilir.</strong></p>
 
-<p>Azərbaycanın əksər rayonlarında da hava əsasən yağmursuz keçəcək. Lakin bəzi dağlıq və dağətəyi ərazilərdə lokal leysan, şimşək və dolu ehtimalı nəzərə alınmalıdır.</p>
+<p>Gündüz temperatur +29°C-dək yüksələcək. Səhər saatlarında şimal-qərb küləyi şimal-şərq küləyi ilə əvəz olunacaq.</p>
+
+<p>Azərbaycanın əksər rayonlarında da hava əsasən yağmursuz keçəcək. Gündüz temperatur +33°C-dək yüksələcək, gecə və səhər bəzi yerlərdə duman müşahidə oluna bilər.</p>
+
 </div>
 
 <p style="color:#60a5fa;font-size:19px;font-weight:bold;">🌦️ META Meteorologiya Mərkəzi hava şəraitində baş verən dəyişiklikləri izləməyə davam edir.</p>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Operativ hava proqnozları və meteoroloji xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:</p>
+<p style="color:#25D366;font-size:19px;font-weight:bold;">📲 Operativ hava proqnozları və meteoroloji məlumatlar üçün WhatsApp kanalımıza qoşulun:</p>
 
-<p><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;">➡️ META WhatsApp Kanalı</a></p>
+<p><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;">➡️ META Abşeron — WhatsApp kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
