@@ -1,58 +1,85 @@
-<h2 style="color:#a78bfa;">🌌 NASA 10 milyon ulduzdan ibarət nəhəng ulduz topasının görüntüsünü yayımlayıb</h2>
+ 
+<h2 style="color:#38bdf8;">🌠 NASA möhtəşəm görüntü yayımladı: Meteor Süd Yolu qalaktikasının fonunda görüntülənib!</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 25 sentyabr 2026, 14:47 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 26 sentyabr 2026 — Bakı vaxtı</p>
 
-<p><strong>ABŞ Milli Aeronavtika və Kosmik Tədqiqatlar İdarəsi — NASA sentyabrın 25-də “Astronomy Picture of the Day” layihəsi çərçivəsində Süd Yolu qalaktikasının ən böyük və ən parlaq kürəvi ulduz topalarından biri olan Omega Centauri-nin möhtəşəm görüntüsünü təqdim edib.</strong></p>
+<p><strong>NASA sentyabrın 26-da “Astronomy Picture of the Day” layihəsi çərçivəsində gecə səmasının heyrətamiz görüntüsünü yayımlayıb. Fotoda Perseid meteor axınına aid parlaq meteor Süd Yolu qalaktikasının fonunda əks olunub.</strong></p>
 
-<p>NGC 5139 adı ilə də tanınan bu nəhəng kosmik sistem təxminən 10 milyon ulduzu bir araya gətirir. Onların böyük hissəsi Günəşimizdən xeyli qədimdir.</p>
-
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#c4b5fd;">📌 ƏSAS MƏLUMAT</strong><br><br>
-🌌 Obyekt: <strong>Omega Centauri — NGC 5139</strong><br><br>
-⭐ Ulduzların sayı: <strong>təxminən 10 milyon</strong><br><br>
-📏 Diametri: <strong>təxminən 150 işıq ili</strong><br><br>
-🚀 Yerdən məsafəsi: <strong>təxminən 15 000 işıq ili</strong><br><br>
-🔭 Növü: <strong>kürəvi ulduz topası</strong><br><br>
-📅 NASA-nın görüntünü təqdim etdiyi tarix: <strong>25 sentyabr 2026</strong>
-</div>
-
-<h3 style="color:#38bdf8;">🔭 Omega Centauri nədir?</h3>
-
-<p>Omega Centauri Süd Yolu qalaktikasının ətrafında yerləşən nəhəng kürəvi ulduz topasıdır. Belə sistemlər cazibə qüvvəsinin təsiri altında bir-birinə bağlı olan çoxsaylı ulduzlardan ibarətdir.</p>
-
-<p>Bu ulduz topası təxminən 150 işıq ili diametrində olan sahədə 10 milyona yaxın ulduzu birləşdirir. Müqayisə üçün, Günəşimiz tək bir ulduzdur, Omega Centauri isə milyonlarla Günəşə bənzər və onlardan fərqli ulduzların bir araya gəldiyi böyük kosmik sistemdir.</p>
+<p>Görüntü İspaniyanın Kanar adalarına daxil olan La Palma adasında, Roque de los Muchachos Rəsədxanasında çəkilib. Foto astronomiya həvəskarlarına həm meteor hadisəsini, həm də qalaktikamızın möhtəşəm quruluşunu eyni kadrda görmək imkanı yaradır.</p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#60a5fa;">✨ MARAQLI FAKT</strong><br><br>
-Omega Centauri Yerdən təxminən 15 000 işıq ili uzaqlıqda yerləşir. Bu o deməkdir ki, onun bu gün müşahidə etdiyimiz işığı kosmosda təxminən 15 min il yol qət edib.
+
+<strong style="color:#60a5fa;">📌 ƏSAS MƏLUMAT</strong><br><br>
+
+📅 NASA-nın paylaşım tarixi: <strong>26 sentyabr 2026</strong><br><br>
+
+📸 Fotoşəklin çəkildiyi tarix: <strong>15 avqust 2026</strong><br><br>
+
+🌍 Məkan: <strong>La Palma, Kanar adaları, İspaniya</strong><br><br>
+
+🌠 Hadisə: <strong>Perseid meteor axını</strong><br><br>
+
+🌌 Arxa fon: <strong>Süd Yolu qalaktikası</strong><br><br>
+
+🔭 Rəsədxana: <strong>Roque de los Muchachos</strong>
+
 </div>
 
-<h3 style="color:#facc15;">⭐ Niyə bu ulduz topası alimlərin diqqətini çəkir?</h3>
+<h3 style="color:#facc15;">🌠 Meteor necə yaranır?</h3>
 
-<p>Əksər ulduz topalarında ulduzlar təxminən eyni dövrdə yaranır və oxşar kimyəvi tərkibə malik olur. Omega Centauri isə bu baxımdan fərqlənir.</p>
+<p>Meteorlar kosmik mənşəli kiçik hissəciklərin Yer atmosferinə böyük sürətlə daxil olması nəticəsində yaranan işıq hadisələridir.</p>
 
-<p>Burada müxtəlif yaşlara və kimyəvi tərkibə malik ulduz populyasiyaları müəyyən edilib. Bu xüsusiyyət onun mənşəyi ilə bağlı mühüm suallar yaradır.</p>
+<p>Atmosferə daxil olan meteoroid ətrafındakı havanı güclü şəkildə qızdırır. Nəticədə səma boyunca parlaq işıq izi görünür. Bu hadisə gündəlik dildə çox vaxt “ulduz axması” adlandırılır.</p>
 
-<p>Astronomların araşdırdığı ehtimallardan birinə görə, Omega Centauri vaxtilə Süd Yolu ilə birləşmiş kiçik qalaktikanın qalıq nüvəsi ola bilər.</p>
+<p>Lakin əslində meteor ulduz deyil. O, Yer atmosferində baş verən qısamüddətli işıq hadisəsidir.</p>
 
-<div style="background:rgba(234,179,8,0.05);border:1px solid rgba(234,179,8,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#facc15;">🌠 KOSMİK TARİXİN İZLƏRİ</strong><br><br>
-Omega Centauri-də müxtəlif nəsillərə aid ulduzların mövcudluğu alimlərə qalaktikaların keçmişdə necə formalaşdığını və bir-biri ilə necə birləşdiyini araşdırmağa imkan verir.
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#fb923c;">🔥 PERSEİD METEOR AXINI NƏDİR?</strong><br><br>
+
+Perseidlər hər il avqust ayında müşahidə olunan məşhur meteor axınlarından biridir.<br><br>
+
+Bu hadisə Yer planetinin Swift–Tuttle kometinin orbit boyunca buraxdığı toz və kiçik hissəciklərdən ibarət sahədən keçməsi nəticəsində yaranır.<br><br>
+
+Hissəciklər atmosferə daxil olduqda gecə səmasında parlaq meteor izləri görünür.
+
 </div>
 
-<h3 style="color:#a78bfa;">🕳️ Mərkəzində qara dəlik ola bilər</h3>
+<h3 style="color:#a78bfa;">🌌 Süd Yolu qalaktikası da eyni kadrda</h3>
 
-<p>Hubble Kosmik Teleskopu ilə təxminən iyirmi il ərzində aparılan müşahidələr Omega Centauri-nin mərkəzinə yaxın ərazidə böyük kütləli qara dəliyin mövcudluğunu göstərən dəlillər ortaya qoyub.</p>
+<p>NASA-nın yayımladığı görüntünün digər diqqətçəkən xüsusiyyəti meteorun Süd Yolu qalaktikasının mərkəzi hissəsinə yaxın görünməsidir.</p>
 
-<p>Belə bir obyektin öyrənilməsi ulduz topalarının və qalaktikaların təkamülünü daha yaxşı anlamağa kömək edə bilər.</p>
+<p>Fotoda qalaktikamızın ulduzlarla zəngin sahələri, işıqlı zolaqları və ulduzlararası toz buludlarının yaratdığı qaranlıq strukturlar seçilir.</p>
+
+<p>Bu görüntü kosmosda müxtəlif miqyaslı hadisələrin eyni müşahidə sahəsində necə birləşə bildiyini göstərir: Yer atmosferində baş verən meteor hadisəsi və bizdən minlərlə işıq ili uzaqda yerləşən qalaktik ulduz sahələri.</p>
+
+<h3 style="color:#38bdf8;">🔭 Fotoda nəhəng teleskop da görünür</h3>
+
+<p>Görüntünün ön hissəsində Roque de los Muchachos Rəsədxanasında yerləşən LST-1 teleskopunun təxminən <strong>23 metr diametrli güzgüsü</strong> görünür.</p>
+
+<p>Bu teleskop yüksək enerjili kosmik hadisələrin tədqiqi üçün nəzərdə tutulub. Onun əsas məqsədlərindən biri atmosferdə yaranan çox zəif və qısamüddətli işıq siqnallarını qeydə alaraq kosmik qamma-şüalanma mənbələrini araşdırmaqdır.</p>
 
 <div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#c4b5fd;">📌 YEKUN</strong><br><br>
-NASA-nın 25 sentyabrda təqdim etdiyi Omega Centauri görüntüsü kainatın nə qədər mürəkkəb və zəngin olduğunu bir daha nümayiş etdirir.<br><br>
-Təxminən 10 milyon ulduzu birləşdirən bu sistem təkcə möhtəşəm görünüşü ilə deyil, həm də Süd Yolunun keçmişi haqqında məlumat daşıması ilə astronomiya üçün böyük əhəmiyyət kəsb edir.
+
+<strong style="color:#c4b5fd;">🔭 MARAQLI FAKT</strong><br><br>
+
+LST-1 teleskopunun güzgüsünün diametri təxminən <strong>23 metrdir</strong>.<br><br>
+
+NASA-nın paylaşdığı fotoşəkildə meteorun parlaq izi, Süd Yolu və teleskopun güzgüsü eyni kompozisiyada əks olunub.
+
 </div>
 
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və meteorologiya haqqında yenilikləri WhatsApp kanalımızdan izləyin:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<h3 style="color:#22c55e;">📌 YEKUN</h3>
+
+<p>NASA-nın 26 sentyabrda yayımladığı fotoşəkil meteor axınlarının nə qədər möhtəşəm görünə biləcəyini nümayiş etdirir.</p>
+
+<p>La Palma adasında çəkilmiş görüntüdə Perseid meteoru, Süd Yolu qalaktikası və müasir astronomik teleskop eyni kadrda birləşib.</p>
+
+<p>Bu cür müşahidələr həm astronomiya elminə marağı artırır, həm də gecə səmasının insan gözündən gizli qalan zənginliyini nümayiş etdirir.</p>
+
+<p style="color:#60a5fa;font-size:18px;font-weight:bold;">🌌 META Kosmos — Kainatı birlikdə kəşf edirik!</p>
+
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Kosmos, Günəş aktivliyi və meteoroloji xəbərləri izləmək üçün WhatsApp kanalımıza qoşulun:<br><br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
