@@ -1,91 +1,162 @@
-<h2 style="color:#f97316;">🌬️ Bakıda küləyin sürəti 79 km/saatı ötüb — Quba-Qusar bölgəsində yağış yağır</h2>
+ 
+<h2 style="color:#fb923c;">
+🌋🔥 Lökbatan palçıq vulkanından niyə alov çıxır? — Təbiətin heyrətamiz hadisəsinin elmi izahı
+</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 25 sentyabr 2026, 14:42 — Bakı vaxtı</p>
+<p style="color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 26 sentyabr 2026 — Bakı vaxtı
+</p>
 
-<p><strong>Sentyabrın 25-də Azərbaycanda hava şəraiti əsasən yağmursuz keçsə də, Bakı və Abşeron yarımadasında şimal-qərb küləyi güclənib. Quba-Qusar bölgəsinin bəzi ərazilərində isə yağış müşahidə olunur.</strong></p>
+<p>
+<strong>Bakının Qaradağ rayonu ərazisində yerləşən Lökbatan palçıq vulkanı Azərbaycanın ən məşhur və geoloji baxımdan maraqlı təbiət obyektlərindən biridir.</strong> Bu vulkanın püskürməsi zamanı bəzən güclü alov sütunları yaranır. Görüntülər adi vulkan püskürməsini xatırlatsa da, hadisənin arxasında tamamilə fərqli geoloji proses dayanır.
+</p>
 
-<p>META Meteorologiya Mərkəzinin saat 09:00-a olan faktiki meteoroloji məlumatların təhlilinə əsasən hazırladığı məlumatda bildirilir ki, küləyin maksimal sürəti Bakı və Abşeron yarımadasında 22 m/s-yə, Neftçalada isə 20 m/s-yə çatıb.</p>
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 
-<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);border-radius:12px;padding:18px;margin:18px 0;">
-<h3 style="color:#f87171;">⚠️ ƏSAS MƏLUMAT — GÜCLÜ KÜLƏK</h3>
+<strong style="color:#fb923c;font-size:19px;">📌 ƏSAS MƏLUMAT</strong>
 
-<p>📍 <strong>Bakı və Abşeron:</strong> 22 m/s — 79,2 km/saat</p>
+<p>🔥 Lökbatandan yüksələn alovun əsas səbəbi yerin dərin qatlarından ayrılan təbii qazın alışmasıdır.</p>
 
-<p>📍 <strong>Neftçala:</strong> 20 m/s — 72 km/saat</p>
+<p>🌍 Vulkanın püskürməsi zamanı palçıq, su və qaz səthə çıxır.</p>
 
-<p>💨 <strong>Küləyin istiqaməti:</strong> şimal-qərb</p>
+<p>💨 Ayrılan qazın əsas yanıcı komponentlərindən biri metandır.</p>
 
-<p>🕘 <strong>Məlumatın vaxtı:</strong> 25 sentyabr, saat 09:00</p>
+<p>🌋 Lökbatan maqmatik deyil, palçıq vulkanıdır.</p>
+
+<p>⚠️ Güclü püskürmələr alov, partlayış səsləri və palçıq parçalarının ətrafa atılması ilə müşayiət oluna bilər.</p>
+
 </div>
 
-<h3 style="color:#38bdf8;">🌊 Bakı və Abşeronda şimal-qərb küləyi güclənib</h3>
+<h3 style="color:#38bdf8;">🌍 Palçıq vulkanı necə yaranır?</h3>
 
-<p>Paytaxtda və Abşeron yarımadasında şimal-qərb küləyinin maksimal sürəti 22 m/s-yə, yəni 79,2 km/saata çatıb.</p>
+<p>
+Yer qabığının dərinliklərində yerləşən çöküntü süxurlarında su, palçıq və təbii qazlar toplana bilər. Bu maddələr yüksək təzyiq altında olduqda süxurlardakı çatlar və geoloji qırılmalar vasitəsilə yuxarıya doğru hərəkət edir.
+</p>
 
-<p>Belə küləkli hava şəraitində açıq və sahilyanı ərazilərdə küləyin təsiri daha çox hiss oluna bilər. Xüsusilə Xəzər dənizi sahillərində güclü külək dalğalanmanı artıra bilər.</p>
+<p>
+Təzyiq kifayət qədər artdıqda qaz, su və palçıq vulkanın kanalı vasitəsilə yer səthinə çıxır. Nəticədə palçıq vulkanının püskürməsi baş verir.
+</p>
 
-<p>Neftçala rayonunda isə küləyin maksimal sürəti 20 m/s və ya 72 km/saat qeydə alınıb.</p>
+<p>
+Azərbaycanın Abşeron və Qobustan ərazilərində palçıq vulkanlarının geniş yayılması regionun geoloji quruluşu və karbohidrogenlərlə zəngin çöküntü hövzələri ilə əlaqədardır.
+</p>
 
-<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);border-radius:12px;padding:18px;margin:18px 0;">
-<h3 style="color:#60a5fa;">💨 KÜLƏYİN QEYDƏ ALINAN MAKSİMAL SÜRƏTİ</h3>
+<h3 style="color:#fb923c;">🔥 Bəs vulkandan yüksələn alov haradan gəlir?</h3>
 
-<p>🏙️ Bakı — <strong>22 m/s | 79,2 km/saat</strong></p>
+<p>
+Palçıq vulkanının püskürməsi zamanı yerin dərin qatlarından böyük miqdarda qaz ayrıla bilər. Bu qazın tərkibində yanıcı metan mövcud olur.
+</p>
 
-<p>🌊 Abşeron yarımadası — <strong>22 m/s | 79,2 km/saat</strong></p>
+<p>
+Qaz atmosferə çıxdıqdan sonra alışma mənbəyi ilə qarşılaşarsa, yanmağa başlayır. Güclü püskürmələr zamanı qazın sürətlə və böyük həcmdə ayrılması nəticəsində hündür alov sütunu əmələ gələ bilər.
+</p>
 
-<p>📍 Neftçala — <strong>20 m/s | 72 km/saat</strong></p>
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
+
+<strong style="color:#f87171;font-size:19px;">🔥 ALОVUN YARANMA MEXANİZMİ</strong>
+
+<p>1️⃣ Yerin dərinliklərində qaz və palçıq toplanır.</p>
+
+<p>2️⃣ Yeraltı təzyiq artır.</p>
+
+<p>3️⃣ Qaz, su və palçıq səthə doğru hərəkət edir.</p>
+
+<p>4️⃣ Püskürmə zamanı metanla zəngin qaz atmosferə ayrılır.</p>
+
+<p>5️⃣ Qaz alışdıqda vulkan üzərində alov sütunu yaranır.</p>
+
 </div>
 
-<h3 style="color:#22c55e;">🌧️ Quba-Qusar bölgəsində yağış müşahidə olunur</h3>
+<h3 style="color:#facc15;">🌋 Lökbatan vulkanından lava çıxırmı?</h3>
 
-<p>Azərbaycanın əksər ərazilərində hava əsasən yağmursuz keçib. Bununla belə, Quba-Qusar bölgəsinin bəzi yerlərində arabir yağış qeydə alınıb.</p>
+<p>
+<strong>Xeyr. Lökbatan adi maqmatik vulkan deyil.</strong>
+</p>
 
-<p>Ən çox yağıntı Qusar rayonunda müşahidə edilib. Burada düşən yağıntının miqdarı 7 mm təşkil edib.</p>
+<p>
+Maqmatik vulkanların püskürməsi zamanı yerin dərinliklərindən ərimiş süxur — maqma səthə çıxır və lava adlanır.
+</p>
 
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);border-radius:12px;padding:18px;margin:18px 0;">
-<h3 style="color:#4ade80;">🌧️ QEYDƏ ALINAN YAĞINTI</h3>
+<p>
+Palçıq vulkanlarında isə əsasən palçıq, su, qaz və süxur parçaları xaric olur. Buna görə Lökbatanda müşahidə edilən alovun lava ilə əlaqəsi yoxdur.
+</p>
 
-<p>📍 <strong>Qusar:</strong> 7 mm</p>
+<div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
 
-<p>📍 <strong>Xaçmaz:</strong> 1 mm-dək</p>
+<strong style="color:#60a5fa;font-size:19px;">🔬 PALÇIQ VULKANI VƏ MAQMATİK VULKAN</strong>
 
-<p>📍 <strong>Quba:</strong> 1 mm-dək</p>
+<p>🌋 <strong>Maqmatik vulkan:</strong> ərimiş süxur, lava, qaz və vulkan külü püskürə bilər.</p>
 
-<p>🇦🇿 <strong>Ölkənin digər əraziləri:</strong> əsasən yağmursuz</p>
+<p>🌍 <strong>Palçıq vulkanı:</strong> palçıq, su, qaz və süxur parçaları xaric edir.</p>
+
+<p>🔥 <strong>Lökbatandakı alov:</strong> ayrılan yanıcı təbii qazın alışmasının nəticəsidir.</p>
+
 </div>
 
-<h3 style="color:#f97316;">⚠️ Güclü külək zamanı nələrə diqqət edilməlidir?</h3>
+<h3 style="color:#a78bfa;">📚 Lökbatanın tarixində güclü alovlu püskürmələr</h3>
 
-<p>Küləyin güclü olduğu ərazilərdə sakinlərə ehtiyatlı olmaq tövsiyə edilir.</p>
+<p>
+Lökbatan palçıq vulkanı uzun illərdir geoloqların tədqiqat obyektidir. Onun tarixində güclü qaz ayrılması və alovla müşayiət olunan püskürmələr qeydə alınıb.
+</p>
 
-<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);border-radius:12px;padding:18px;margin:18px 0;">
-<p>🌳 Ağacların və iri budaqların altında uzun müddət dayanmamaq;</p>
+<p>
+Elmi tədqiqatlarda 2001-ci ilin oktyabrında baş vermiş püskürmə xüsusilə diqqət çəkir. Həmin hadisə zamanı böyük həcmdə qaz və palçıq xaric olmuş, güclü alov müşahidə edilmişdir.
+</p>
 
-<p>🏗️ Tikinti sahələrinin və zəif bərkidilmiş konstruksiyaların yaxınlığında ehtiyatlı olmaq;</p>
+<p>
+Bu cür hadisələr palçıq vulkanlarının yalnız sakit şəkildə palçıq axıdan geoloji obyektlər olmadığını, bəzi hallarda partlayış xarakterli püskürmələr də yarada bildiyini göstərir.
+</p>
 
-<p>🌊 Sahilyanı ərazilərdə külək və dalğalanmanı nəzərə almaq;</p>
+<h3 style="color:#f87171;">⚠️ Palçıq vulkanına yaxınlaşmaq təhlükəlidirmi?</h3>
 
-<p>🚗 Avtomobilləri aşma riski olan ağac və konstruksiyalardan uzaqda saxlamaq tövsiyə olunur.</p>
+<p>
+Aktiv püskürmə zamanı vulkana yaxınlaşmaq təhlükəli ola bilər. Qəfil qaz ayrılması, alov, palçıq və süxur parçalarının ətrafa atılması insan həyatı üçün risk yaradır.
+</p>
+
+<p>
+Buna görə aktiv vulkan püskürməsini təhlükəsiz məsafədən müşahidə etmək və təhlükəli əraziyə daxil olmamaq vacibdir.
+</p>
+
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
+
+<strong style="color:#4ade80;font-size:19px;">📌 YEKUN</strong>
+
+<p>
+Lökbatan palçıq vulkanından yüksələn alov yerin dərinliklərindən xaric olan təbii qazın yanması nəticəsində yaranır.
+</p>
+
+<p>
+Bu hadisə maqmatik vulkanlardakı lava püskürməsindən fərqlənir. Lökbatanın əsas püskürmə məhsulları palçıq, su və qazdır.
+</p>
+
+<p>
+<strong>🔥 Görüntülərdə müşahidə edilən alovun elmi izahı — metanla zəngin təbii qazın alışmasıdır.</strong>
+</p>
+
 </div>
 
-<div style="background:rgba(139,92,246,0.06);border:1px solid rgba(167,139,250,0.30);border-radius:12px;padding:18px;margin:20px 0;">
-<h3 style="color:#c4b5fd;">📌 YEKUN — META Meteorologiya Mərkəzi</h3>
+<p style="color:#38bdf8;font-size:19px;font-weight:bold;">
+🌍 META Meteorologiya Mərkəzi — təbiəti elmlə izah edirik!
+</p>
 
-<p>25 sentyabr saat 09:00-a olan faktiki məlumatlara əsasən, Bakı və Abşeronda şimal-qərb küləyinin maksimal sürəti <strong>79,2 km/saata</strong>, Neftçalada isə <strong>72 km/saata</strong> çatıb.</p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">
+📲 Təbiət, ekologiya, meteorologiya və kosmos haqqında maraqlı məlumatlar üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
 
-<p>Quba-Qusar bölgəsinin bəzi yerlərində yağış müşahidə olunub. Ən çox yağıntı <strong>Qusarda — 7 mm</strong> qeydə alınıb.</p>
-
-<p><strong>Qeyd:</strong> Bunlar saat 09:00-a olan faktiki göstəricilərdir. Günün sonrakı saatlarında hava şəraiti dəyişə bilər.</p>
-</div>
-
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Operativ hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:</p>
-
-<p><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;">➡️ META Abşeron — WhatsApp kanalı</a></p>
-
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
 
 <hr>
 
-<p style="color:#94a3b8;font-size:14px;"><strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.</p>
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir. Saytda təqdim olunan avtomatlaşdırılmış hava məlumatları və proqnozlar atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya təhlükəli hava hadisələri zamanı məlumat və təlimatları əldə etmək üçün veb-saytımızı izləməyinizi tövsiyə edirik.
+</p>
 
-<p style="color:#94a3b8;font-size:14px;">© 2026 META Abşeron. Bütün hüquqlar qorunur.</p>
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>
