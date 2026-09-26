@@ -1,54 +1,57 @@
-<h2 style="color:#38bdf8;">🦌 Azərbaycanın üç milli parkında ekoloji maarifləndirici tədbirlər keçirilib</h2>
+ 
+<h2 style="color:#f97316;">🌋 Abşeronda palçıq vulkanı püskürüb: Otman Bozdağda güclü alovlanma qeydə alınıb</h2>
 
-<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 25 sentyabr 2026, 14:48 — Bakı vaxtı<br>📅 Hadisə barədə məlumat: 24 sentyabr 2026</p>
+<p style="color:#94a3b8;font-size:14px;">🕐 Əlavə olunub: 26 sentyabr 2026 — Bakı vaxtı</p>
 
-<p><strong>Azərbaycanın Şahdağ, Hirkan və Samur-Yalama milli parklarında təbiətin mühafizəsi, biomüxtəlifliyin qorunması və ekoturizmin təşviqi məqsədilə ekoloji maarifləndirici tədbirlər təşkil olunub.</strong></p>
+<p><strong>Azərbaycanın təbiətində diqqətçəkən geoloji hadisə baş verib. Sentyabrın 26-da səhər saatlarında Bakı şəhərinin Qaradağ rayonu ərazisində yerləşən Otman Bozdağ palçıq vulkanında püskürmə qeydə alınıb.</strong></p>
 
-<p>Tədbirlərin əsas məqsədi milli parkların zəngin təbiətini tanıtmaq və əhalinin ətraf mühitin qorunması ilə bağlı məlumatlılığını artırmaqdır.</p>
+<div style="background:rgba(239,68,68,0.06);border:1px solid rgba(239,68,68,0.32);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#f87171;">📌 ƏSAS MƏLUMAT</strong><br><br>
+📅 Tarix: <strong>26 sentyabr 2026</strong><br><br>
+🕢 Vaxt: <strong>07:32 radələri</strong><br><br>
+📍 Ərazi: <strong>Bakı, Qaradağ rayonu</strong><br><br>
+🌋 Vulkan: <strong>Otman Bozdağ</strong><br><br>
+🔥 Hadisə: <strong>Güclü alovlanma ilə müşayiət olunan palçıq vulkanı püskürməsi</strong>
+</div>
+
+<h3 style="color:#fb923c;">🔥 Püskürmə güclü alovlanma ilə müşayiət olunub</h3>
+
+<p>Ekologiya və Təbii Sərvətlər Nazirliyinin yaydığı məlumata əsasən, Otman Bozdağ palçıq vulkanında səhər saatlarında püskürmə baş verib. Hadisə zamanı güclü alovlanma müşahidə olunub.</p>
+
+<p>Vulkan Bakı və Abşeron yarımadasının palçıq vulkanları qrupu Dövlət Təbiət Qoruğunun ərazisinə daxildir.</p>
+
+<div style="background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.30);padding:18px;border-radius:12px;margin:18px 0;">
+<strong style="color:#fb923c;">🔬 ƏRAZİDƏ MÜŞAHİDƏLƏR APARILIR</strong><br><br>
+Dövlət Təbiət Qoruğunun direktoru Ceyhun Paşayevin məlumatına görə, hazırda vulkanın aktivliyi və püskürmədən sonra ərazidə yaranmış geoloji dəyişikliklər ilkin olaraq müşahidə və qiymətləndirmə mərhələsindədir.
+</div>
+
+<h3 style="color:#38bdf8;">🌍 Palçıq vulkanları niyə püskürür?</h3>
+
+<p>Palçıq vulkanları yerin dərin qatlarında toplanan qazların, suyun və palçıqlı süxur materiallarının təzyiq altında səthə çıxması nəticəsində yaranan geoloji hadisələrdir.</p>
+
+<p>Bəzi püskürmələr zamanı yerin altından çıxan yanıcı qazlar alovlana bilər. Buna görə də palçıq vulkanlarının fəaliyyəti bəzən alov sütunları ilə müşayiət olunur.</p>
+
+<p>Bu hadisələr maqmanın səthə çıxdığı adi vulkan püskürmələrindən fərqlənir.</p>
 
 <div style="background:rgba(59,130,246,0.05);border:1px solid rgba(96,165,250,0.30);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#60a5fa;">📌 ƏSAS MƏLUMAT</strong><br><br>
-🏔️ Şahdağ Milli Parkı<br><br>
-🌳 Hirkan Milli Parkı<br><br>
-🌿 Samur-Yalama Milli Parkı<br><br>
-🎯 Məqsəd: biomüxtəlifliyin qorunması və ekoloji maarifləndirmə<br><br>
-🌍 İstiqamət: təbiətin mühafizəsi və ekoturizm imkanlarının tanıdılması
+<strong style="color:#60a5fa;">🌋 BİLİRDİNİZMİ?</strong><br><br>
+Azərbaycan palçıq vulkanlarının geniş yayıldığı ölkələrdən biridir. Xüsusilə Abşeron yarımadası, Qobustan və ətraf ərazilər bu geoloji hadisələrlə tanınır.<br><br>
+Palçıq vulkanlarının öyrənilməsi yerin geoloji quruluşu, qazların hərəkəti və yeraltı proseslər haqqında mühüm elmi məlumatlar verir.
 </div>
 
-<h3 style="color:#22c55e;">🏔️ Şahdağ Milli Parkı — dağ ekosistemlərinin qorunması</h3>
+<h3 style="color:#22c55e;">🌿 Təbiət abidələrinin mühafizəsi</h3>
 
-<p>Şahdağ Milli Parkı Azərbaycanın dağlıq təbiətinin qorunması baxımından mühüm əhəmiyyətə malikdir. Burada müxtəlif yüksəklik qurşaqları, meşələr, dağ çəmənlikləri və vəhşi heyvanların yaşayış mühitləri mövcuddur.</p>
+<p>Otman Bozdağ kimi palçıq vulkanları Azərbaycanın geoloji irsinin bir hissəsidir. Bu ərazilərin qorunması həm elmi tədqiqatlar, həm də təbiət abidələrinin gələcək nəsillərə çatdırılması baxımından əhəmiyyətlidir.</p>
 
-<p>Belə ərazilərdə ekoloji maarifləndirmə ziyarətçilərin təbiətə daha məsuliyyətli yanaşmasına kömək edir.</p>
+<p>Aktiv püskürmə zamanı vulkanın yaxınlığına getmək təhlükəli ola bilər. Qaz çıxışı, isti palçıq və qəfil alovlanma ehtimalı nəzərə alınmalıdır.</p>
 
-<h3 style="color:#4ade80;">🌳 Hirkan Milli Parkı — nadir meşələrin təbii sərvəti</h3>
-
-<p>Hirkan Milli Parkı Azərbaycanın cənubunda yerləşən unikal meşə ekosistemləri ilə tanınır. Hirkan meşələri qədim bitki örtüyü və zəngin biomüxtəlifliyi ilə xüsusi elmi və ekoloji əhəmiyyət daşıyır.</p>
-
-<p>Meşələrin qorunması yalnız ağacların saxlanılması deyil, həm də həmin ərazilərdə yaşayan canlıların, torpaq örtüyünün və təbii su dövranının mühafizəsi deməkdir.</p>
-
-<h3 style="color:#38bdf8;">🌿 Samur-Yalama Milli Parkı — meşə və sahilyanı təbiət</h3>
-
-<p>Samur-Yalama Milli Parkı Azərbaycanın şimal-şərqində yerləşir və müxtəlif təbii landşaftları birləşdirir. Burada meşə və sahilyanı ekosistemlərin qorunması xüsusi əhəmiyyət daşıyır.</p>
-
-<p>Ekoloji maarifləndirmə tədbirləri belə ərazilərin təbii sərvətlərinin gələcək nəsillər üçün saxlanılmasının vacibliyini diqqətə çatdırır.</p>
-
-<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:18px 0;">
-<strong style="color:#4ade80;">🌍 MİLLİ PARKLAR NİYƏ VACİBDİR?</strong><br><br>
-🦌 Vəhşi heyvanların yaşayış mühitlərini qoruyur<br><br>
-🌳 Nadir və yerli bitki növlərinin mühafizəsinə kömək edir<br><br>
-💧 Təbii ekosistemlərin davamlılığını dəstəkləyir<br><br>
-🥾 Məsuliyyətli ekoturizm üçün imkan yaradır<br><br>
-📚 İnsanların təbiət haqqında biliklərini artırır
+<div style="background:rgba(34,197,94,0.05);border:1px solid rgba(34,197,94,0.28);padding:18px;border-radius:12px;margin:20px 0;">
+<strong style="color:#4ade80;">📌 YEKUN</strong><br><br>
+26 sentyabr səhər saatlarında Qaradağ rayonundakı Otman Bozdağ palçıq vulkanında güclü alovlanma ilə müşayiət olunan püskürmə qeydə alınıb. Ərazidə vulkanın aktivliyi və geoloji dəyişikliklər qiymətləndirilir.<br><br>
+META Meteorologiya Mərkəzi Azərbaycanın təbiətində baş verən diqqətçəkən hadisələri izləməyə davam edir.
 </div>
 
-<h3 style="color:#facc15;">📌 YEKUN</h3>
-
-<p>Şahdağ, Hirkan və Samur-Yalama milli parklarında keçirilən ekoloji maarifləndirici tədbirlər Azərbaycanın təbii sərvətlərinin tanıdılması və qorunması baxımından əhəmiyyətlidir.</p>
-
-<p>META Abşeron təbiətin mühafizəsi və ekoloji məlumatlılığın artırılması mövzularını işıqlandırmağa davam edir.</p>
-
-<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Azərbaycanın təbiəti və ekologiyası haqqında xəbərlər üçün:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
+<p style="color:#25D366;font-size:18px;font-weight:bold;">📲 Təbiət, ekologiya və meteorologiya xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:<br><a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;">➡️ META WhatsApp Kanalı</a></p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">👨‍💼 Təsisçi və rəhbər: Edelman Əliyev</p>
 
